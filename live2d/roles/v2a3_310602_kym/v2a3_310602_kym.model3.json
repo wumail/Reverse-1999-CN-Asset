@@ -1,0 +1,86 @@
+{
+  "Version": 3,
+  "Name": "v2a3_310602_kym",
+  "FileReferences": {
+    "Moc": "v2a3_310602_kym.moc3",
+    "Textures": [
+      "textures/310602_kym.png",
+      "textures/mask_018_zy.png",
+      "textures/noise_0004_xyq.png",
+      "textures/noise_002_wx.png",
+      "textures/noise_186_hl.png",
+      "textures/object_719_cx.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "b_chongfeng": [
+        {
+          "File": "motions/b_chongfeng.motion3.json"
+        }
+      ],
+      "b_idle": [
+        {
+          "File": "motions/b_idle.motion3.json"
+        }
+      ],
+      "b_jianchi": [
+        {
+          "File": "motions/b_jianchi.motion3.json"
+        }
+      ],
+      "b_shiluo": [
+        {
+          "File": "motions/b_shiluo.motion3.json"
+        }
+      ],
+      "b_shoushang": [
+        {
+          "File": "motions/b_shoushang.motion3.json"
+        }
+      ],
+      "b_tiaoyue": [
+        {
+          "File": "motions/b_tiaoyue.motion3.json"
+        }
+      ],
+      "b_xingfen": [
+        {
+          "File": "motions/b_xingfen.motion3.json"
+        }
+      ],
+      "b_xingli": [
+        {
+          "File": "motions/b_xingli.motion3.json"
+        }
+      ],
+      "t_bizui": [
+        {
+          "File": "motions/t_bizui.motion3.json"
+        }
+      ],
+      "t_idle": [
+        {
+          "File": "motions/t_idle.motion3.json"
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      }
+    ]
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": []
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    }
+  ]
+}
