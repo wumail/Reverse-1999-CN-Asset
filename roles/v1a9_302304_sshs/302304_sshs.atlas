@@ -4,16 +4,37 @@ size: 2048,212
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
+a_shengrishouzhang
+  rotate: 180
+  xy: 1102, 18
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+a_shengrishouzhi
+  rotate: false
+  xy: 1311, 16
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+a_xiannvbang
+  rotate: true
+  xy: 816, 20
+  size: 43, 86
+  orig: 43, 86
+  offset: 0, 0
+  index: -1
 bi
   rotate: true
-  xy: 1222, 32
+  xy: 746, 32
   size: 11, 92
   orig: 11, 92
   offset: 0, 0
   index: -1
 c_bq_biaoqing
   rotate: false
-  xy: 747, 28
+  xy: 1258, 18
   size: 22, 36
   orig: 22, 36
   offset: 0, 0
@@ -139,7 +160,7 @@ pf/A_xw_huaban3
   index: -1
 pf/A_xw_huaban4
   rotate: false
-  xy: 1362, 36
+  xy: 674, 66
   size: 15, 18
   orig: 15, 18
   offset: 0, 0
@@ -188,7 +209,7 @@ pf/A_xw_zuoshouzhi1
   index: -1
 pf/A_xw_zuoshouzhi2
   rotate: false
-  xy: 862, 24
+  xy: 49, 20
   size: 36, 27
   orig: 36, 27
   offset: 0, 0
@@ -265,7 +286,7 @@ pf/hudiejie
   index: -1
 pf/hudiejie_cm
   rotate: false
-  xy: 518, 22
+  xy: 674, 16
   size: 27, 32
   orig: 27, 32
   offset: 0, 0
@@ -300,7 +321,7 @@ pf/qianqunzi_cm
   index: -1
 pf/shou1_damuzhi
   rotate: false
-  xy: 1657, 33
+  xy: 895, 36
   size: 14, 14
   orig: 14, 14
   offset: 0, 0
@@ -335,7 +356,7 @@ pf/zoulushou
   index: -1
 pf/yanjing_cm
   rotate: false
-  xy: 604, 33
+  xy: 1651, 23
   size: 46, 26
   orig: 46, 26
   offset: 0, 0
@@ -405,7 +426,7 @@ pf/z_youtui2_1
   index: -1
 pf/z_youxiaobi1
   rotate: false
-  xy: 1320, 18
+  xy: 1352, 14
   size: 36, 36
   orig: 36, 36
   offset: 0, 0
@@ -460,8 +481,8 @@ pf/zoulushouzhi
   offset: 0, 0
   index: -1
 shou1
-  rotate: false
-  xy: 818, 23
+  rotate: true
+  xy: 6, 20
   size: 37, 37
   orig: 37, 37
   offset: 0, 0
@@ -475,7 +496,7 @@ shou2_1
   index: -1
 shou2_2
   rotate: false
-  xy: 389, 36
+  xy: 1217, 37
   size: 16, 14
   orig: 16, 14
   offset: 0, 0
@@ -503,28 +524,28 @@ shou2_5
   index: -1
 shou2_6
   rotate: false
-  xy: 1569, 15
+  xy: 503, 13
   size: 34, 37
   orig: 34, 37
   offset: 0, 0
   index: -1
 shou3
-  rotate: 180
-  xy: 6, 20
+  rotate: false
+  xy: 2004, 20
   size: 37, 37
   orig: 37, 37
   offset: 0, 0
   index: -1
 shou5
   rotate: false
-  xy: 2018, 15
+  xy: 1569, 13
   size: 24, 43
   orig: 24, 43
   offset: 0, 0
   index: -1
 shou6_1
   rotate: false
-  xy: 1977, 22
+  xy: 1963, 17
   size: 35, 31
   orig: 35, 31
   offset: 0, 0
@@ -719,15 +740,15 @@ z_zuodabi
   offset: 0, 0
   index: -1
 z_zuojianpi2
-  rotate: false
-  xy: 652, 24
+  rotate: true
+  xy: 941, 13
   size: 39, 50
   orig: 39, 50
   offset: 0, 0
   index: -1
 z_zuojiao
-  rotate: true
-  xy: 1103, 10
+  rotate: 270
+  xy: 604, 14
   size: 54, 33
   orig: 54, 33
   offset: 0, 0

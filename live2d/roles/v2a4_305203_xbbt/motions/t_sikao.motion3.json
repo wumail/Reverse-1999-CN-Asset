@@ -1,0 +1,162 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 3.033,
+    "Fps": 30.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 1.0,
+    "FadeOutTime": 1.0,
+    "CurveCount": 6,
+    "TotalSegmentCount": 26,
+    "TotalPointCount": 30,
+    "UserDataCount": 0,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        3.033,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        -1,
+        0,
+        3.033,
+        -1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthOpenY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        1,
+        0.067,
+        1,
+        0.133,
+        0.729,
+        0.2,
+        0.502,
+        1,
+        0.256,
+        0.312,
+        0.311,
+        0.295,
+        0.367,
+        0.295,
+        0,
+        0.6,
+        0.805,
+        0,
+        0.9,
+        0.125,
+        0,
+        1.1,
+        0.805,
+        0,
+        1.433,
+        0.244,
+        0,
+        1.767,
+        0.899,
+        0,
+        2.1,
+        0.125,
+        0,
+        2.333,
+        0.695,
+        0,
+        2.633,
+        0.25,
+        0,
+        3.033,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param224",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        0.767,
+        -0.9,
+        0,
+        1.267,
+        0,
+        0,
+        1.833,
+        0,
+        0,
+        2.233,
+        0.5,
+        0,
+        2.633,
+        0,
+        0,
+        3.033,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param225",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        0.333,
+        1,
+        0,
+        0.533,
+        0,
+        0,
+        2.467,
+        0,
+        0,
+        2.767,
+        1,
+        0,
+        3.033,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param226",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        3.033,
+        0
+      ]
+    }
+  ],
+  "UserData": []
+}

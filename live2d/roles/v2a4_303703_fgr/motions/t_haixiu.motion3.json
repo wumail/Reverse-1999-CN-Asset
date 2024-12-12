@@ -1,0 +1,156 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 2.733,
+    "Fps": 30.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 1.0,
+    "FadeOutTime": 1.0,
+    "CurveCount": 7,
+    "TotalSegmentCount": 18,
+    "TotalPointCount": 26,
+    "UserDataCount": 0,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        2.733,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param39",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        2.733,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param40",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        0,
+        2.733,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param41",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        2.733,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param42",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        2.733,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthOpenY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        0,
+        0.333,
+        0.5,
+        0,
+        0.667,
+        1,
+        0,
+        1,
+        0.5,
+        0,
+        1.333,
+        1,
+        0,
+        1.667,
+        0.5,
+        0,
+        2,
+        1,
+        0,
+        2.333,
+        0.6,
+        0,
+        2.733,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param128",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        1,
+        0.567,
+        0,
+        1.133,
+        0.124,
+        1.7,
+        0.7,
+        1,
+        1.844,
+        0.847,
+        1.989,
+        3.5,
+        2.133,
+        3.5,
+        1,
+        2.255,
+        3.5,
+        2.378,
+        3.269,
+        2.5,
+        2.041,
+        1,
+        2.578,
+        1.259,
+        2.655,
+        0,
+        2.733,
+        0
+      ]
+    }
+  ],
+  "UserData": []
+}
