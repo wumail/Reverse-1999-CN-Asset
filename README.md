@@ -1,7 +1,7 @@
 # **Reverse1999 Assets**
-![Header image](singlebg/storybg/story_atcg/2_2/2_2_at_nana3.png)
+![Header image](singlebg/storybg/story_atcg/2_4/2_4_at_beiying2_zone.png)
 
-Dump assets for [Reverse 1999](https://www.biligame.com/detail/?id=107530) CN Version. Star is welcomed.
+Dump assets for [Reverse 1999](https://www.biligame.com/detail/?id=107530) CN Version. Stars are welcomed.
 
 Will update lastest stuff asap if i'm not lazy.
 
