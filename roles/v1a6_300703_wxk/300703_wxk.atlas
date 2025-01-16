@@ -4,6 +4,27 @@ size: 2048,840
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
+a_shengrishouzhang
+  rotate: false
+  xy: 1995, 446
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+a_shengrishouzhi
+  rotate: false
+  xy: 367, 85
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+a_xiannvbang
+  rotate: false
+  xy: 1995, 507
+  size: 43, 87
+  orig: 43, 87
+  offset: 0, 0
+  index: -1
 djtx/dianjitexiao (1)
   rotate: false
   xy: 1356, 574
@@ -83,7 +104,7 @@ djtx/dianjitexiao (19)
   index: -1
 djtx/dianjitexiao (2)
   rotate: false
-  xy: 851, 324
+  xy: 848, 324
   size: 6, 36
   orig: 358, 358
   offset: 167, 13
@@ -160,7 +181,7 @@ djtx/dianjitexiao (29)
   index: -1
 djtx/dianjitexiao (3)
   rotate: false
-  xy: 1995, 534
+  xy: 2032, 615
   size: 7, 59
   orig: 358, 358
   offset: 166, 12
@@ -237,7 +258,7 @@ djtx/dianjitexiao (39)
   index: -1
 djtx/dianjitexiao (4)
   rotate: false
-  xy: 2028, 531
+  xy: 2030, 680
   size: 9, 71
   orig: 358, 358
   offset: 165, 11
@@ -250,29 +271,29 @@ djtx/dianjitexiao (40)
   offset: 113, 154
   index: -1
 djtx/dianjitexiao (5)
-  rotate: false
-  xy: 2017, 132
+  rotate: true
+  xy: 651, 178
   size: 10, 94
   orig: 358, 358
   offset: 164, 11
   index: -1
 djtx/dianjitexiao (6)
   rotate: false
-  xy: 832, 245
+  xy: 829, 245
   size: 13, 115
   orig: 358, 358
   offset: 161, 12
   index: -1
 djtx/dianjitexiao (7)
   rotate: false
-  xy: 890, 437
+  xy: 885, 437
   size: 13, 120
   orig: 358, 358
   offset: 161, 13
   index: -1
 djtx/dianjitexiao (8)
   rotate: false
-  xy: 2028, 608
+  xy: 866, 414
   size: 13, 143
   orig: 358, 358
   offset: 161, 18
@@ -293,14 +314,14 @@ raotou
   index: -1
 wxkpf_10_wj3
   rotate: false
-  xy: 1145, 104
+  xy: 1247, 86
   size: 34, 45
   orig: 34, 45
   offset: 0, 0
   index: -1
 wxkpf_11_wj3
   rotate: false
-  xy: 1995, 415
+  xy: 1172, 161
   size: 45, 46
   orig: 45, 46
   offset: 0, 0
@@ -320,15 +341,15 @@ wxkpf_16_bm
   offset: 0, 0
   index: -1
 wxkpf_18_bm
-  rotate: false
-  xy: 809, 140
+  rotate: true
+  xy: 1753, 43
   size: 18, 218
   orig: 18, 218
   offset: 0, 0
   index: -1
 wxkpf_19_bm
-  rotate: true
-  xy: 193, 130
+  rotate: false
+  xy: 2017, 19
   size: 21, 207
   orig: 21, 207
   offset: 0, 0
@@ -370,7 +391,7 @@ wxkpf_28
   index: -1
 wxkpf_29
   rotate: false
-  xy: 747, 109
+  xy: 1133, 109
   size: 56, 46
   orig: 56, 46
   offset: 0, 0
@@ -398,42 +419,42 @@ wxkpf_32
   index: -1
 wxkpf_33
   rotate: false
-  xy: 322, 94
+  xy: 324, 92
   size: 37, 39
   orig: 37, 39
   offset: 0, 0
   index: -1
 wxkpf_34
   rotate: true
-  xy: 1821, 35
+  xy: 45, 28
   size: 28, 218
   orig: 28, 218
   offset: 0, 0
   index: -1
 wxkpf_35
   rotate: true
-  xy: 50, 37
+  xy: 207, 134
   size: 21, 202
   orig: 21, 202
   offset: 0, 0
   index: -1
 wxkpf_36
   rotate: false
-  xy: 1185, 97
+  xy: 1195, 79
   size: 29, 51
   orig: 29, 51
   offset: 0, 0
   index: -1
 wxkpf_37
   rotate: false
-  xy: 634, 98
+  xy: 634, 83
   size: 40, 52
   orig: 40, 52
   offset: 0, 0
   index: -1
 wxkpf_38
   rotate: false
-  xy: 866, 426
+  xy: 2008, 620
   size: 19, 132
   orig: 19, 132
   offset: 0, 0
@@ -447,7 +468,7 @@ wxkpf_39
   index: -1
 wxkpf_3_nb
   rotate: false
-  xy: 607, 122
+  xy: 762, 100
   size: 43, 67
   orig: 43, 67
   offset: 0, 0
@@ -461,7 +482,7 @@ wxkpf_40
   index: -1
 wxkpf_42
   rotate: false
-  xy: 2008, 520
+  xy: 809, 129
   size: 14, 231
   orig: 14, 231
   offset: 0, 0
@@ -475,7 +496,7 @@ wxkpf_4_nb
   index: -1
 wxkpf_5_nb
   rotate: false
-  xy: 365, 86
+  xy: 1931, 76
   size: 27, 46
   orig: 27, 46
   offset: 0, 0
@@ -489,14 +510,14 @@ wxkpf_6_nb
   index: -1
 wxkpf_7_wj2
   rotate: false
-  xy: 1172, 154
+  xy: 607, 136
   size: 39, 53
   orig: 39, 53
   offset: 0, 0
   index: -1
 wxkpf_8_wj2
   rotate: false
-  xy: 1995, 466
+  xy: 1995, 391
   size: 44, 48
   orig: 44, 48
   offset: 0, 0

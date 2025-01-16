@@ -4,6 +4,13 @@ size: 2048,492
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
+a_xiannvbang
+  rotate: true
+  xy: 1602, 36
+  size: 43, 87
+  orig: 43, 87
+  offset: 0, 0
+  index: -1
 baoshi/baoshi
   rotate: false
   xy: 1970, 106
@@ -90,7 +97,7 @@ j_xiaotui2
   index: -1
 mei_pf_MMMMM
   rotate: false
-  xy: 1145, 23
+  xy: 838, 18
   size: 21, 18
   orig: 21, 18
   offset: 0, 0
@@ -223,7 +230,7 @@ mei_pf_erhuan2
   index: -1
 mei_pf_hua1
   rotate: false
-  xy: 778, 28
+  xy: 774, 28
   size: 29, 22
   orig: 29, 22
   offset: 0, 0
@@ -237,7 +244,7 @@ mei_pf_hua2
   index: -1
 mei_pf_hua3
   rotate: false
-  xy: 743, 23
+  xy: 6, 23
   size: 29, 27
   orig: 29, 27
   offset: 0, 0
@@ -307,7 +314,7 @@ mei_pf_shentihudong
   index: -1
 mei_pf_touhua1
   rotate: false
-  xy: 1818, 29
+  xy: 248, 28
   size: 35, 32
   orig: 35, 32
   offset: 0, 0
@@ -321,7 +328,7 @@ mei_pf_touhua2
   index: -1
 mei_pf_touhua3
   rotate: false
-  xy: 297, 25
+  xy: 289, 25
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
@@ -447,14 +454,14 @@ mei_pfbm_touhua1
   index: -1
 mei_pfbm_touhua2
   rotate: false
-  xy: 906, 21
+  xy: 1261, 20
   size: 31, 32
   orig: 31, 32
   offset: 0, 0
   index: -1
 mei_pfbm_touhua3
   rotate: false
-  xy: 6, 22
+  xy: 989, 23
   size: 30, 29
   orig: 30, 29
   offset: 0, 0
@@ -706,7 +713,7 @@ mei_pfxw_hua14
   index: -1
 mei_pfxw_hua2
   rotate: false
-  xy: 998, 34
+  xy: 810, 19
   size: 22, 18
   orig: 22, 18
   offset: 0, 0
@@ -839,7 +846,7 @@ mln_b_zuoxiaotui
   index: -1
 mln_f_er
   rotate: false
-  xy: 1647, 23
+  xy: 1752, 21
   size: 29, 36
   orig: 29, 36
   offset: 0, 0
@@ -916,14 +923,14 @@ mln_f_wuguan
   index: -1
 mln_f_youbi1
   rotate: false
-  xy: 956, 12
+  xy: 327, 12
   size: 25, 34
   orig: 25, 34
   offset: 0, 0
   index: -1
 mln_f_youbi2
   rotate: false
-  xy: 208, 15
+  xy: 1631, 11
   size: 25, 34
   orig: 25, 34
   offset: 0, 0
@@ -986,7 +993,7 @@ mln_f_zuoshou
   index: -1
 mln_f_zuotui1
   rotate: false
-  xy: 42, 19
+  xy: 41, 19
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
@@ -1049,7 +1056,7 @@ mln_ls_qg
   index: -1
 mln_ls_s1
   rotate: false
-  xy: 1859, 31
+  xy: 208, 33
   size: 34, 16
   orig: 34, 16
   offset: 0, 0
@@ -1063,7 +1070,7 @@ mln_ls_s2
   index: -1
 mln_ls_wb
   rotate: 180
-  xy: 943, 16
+  xy: 1082, 14
   size: 76, 49
   orig: 76, 50
   offset: 0, 1
@@ -1273,7 +1280,7 @@ mln_xzc_fa2_tm
   index: -1
 mln_xzc_fa3
   rotate: false
-  xy: 1261, 12
+  xy: 905, 10
   size: 25, 46
   orig: 25, 46
   offset: 0, 0
@@ -1286,8 +1293,8 @@ mln_xzc_fa3_tm
   offset: 0, 0
   index: -1
 mln_xzc_fa4
-  rotate: 270
-  xy: 1083, 31
+  rotate: true
+  xy: 1787, 30
   size: 34, 56
   orig: 34, 74
   offset: 0, 7
@@ -1364,7 +1371,7 @@ mln_z_bq_1
   index: -1
 mln_z_er
   rotate: false
-  xy: 1752, 33
+  xy: 401, 23
   size: 18, 23
   orig: 18, 23
   offset: 0, 0
@@ -1384,15 +1391,15 @@ mln_z_fa1_tm
   offset: 0, 0
   index: -1
 mln_z_fa2
-  rotate: true
-  xy: 245, 28
+  rotate: false
+  xy: 697, 15
   size: 33, 46
   orig: 33, 46
   offset: 0, 0
   index: -1
 mln_z_fa2_tm
-  rotate: true
-  xy: 691, 28
+  rotate: false
+  xy: 1593, 14
   size: 33, 46
   orig: 33, 46
   offset: 0, 0
@@ -1427,7 +1434,7 @@ mln_z_fa5
   index: -1
 mln_z_fa7
   rotate: false
-  xy: 1048, 18
+  xy: 1069, 19
   size: 33, 24
   orig: 33, 24
   offset: 0, 0
@@ -1476,7 +1483,7 @@ mln_z_shou3
   index: -1
 mln_z_shou4
   rotate: false
-  xy: 1597, 37
+  xy: 1945, 34
   size: 44, 38
   orig: 44, 38
   offset: 0, 0
@@ -1490,14 +1497,14 @@ mln_z_shou4_1
   index: -1
 mln_z_shou5
   rotate: false
-  xy: 1946, 35
+  xy: 941, 29
   size: 43, 38
   orig: 43, 38
   offset: 0, 0
   index: -1
 mln_z_shou6
   rotate: false
-  xy: 1777, 21
+  xy: 736, 20
   size: 32, 38
   orig: 32, 38
   offset: 0, 0
@@ -1616,7 +1623,7 @@ mln_z_zuoxiaobi
   index: -1
 ps_bi
   rotate: false
-  xy: 1681, 18
+  xy: 1849, 19
   size: 34, 34
   orig: 34, 34
   offset: 0, 0
