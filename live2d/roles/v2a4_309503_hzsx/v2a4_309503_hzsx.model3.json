@@ -17,6 +17,7 @@
       "textures/object_073_xz.png",
       "textures/object_104_hs.png"
     ],
+    "DisplayInfo": null,
     "Physics": null,
     "Motions": {
       "b_baobi": [
@@ -147,24 +148,28 @@
     },
     "Expressions": [
       {
-        "Name": "e_weixiao",
-        "File": "expressions/e_weixiao.exp3.json"
-      },
-      {
-        "Name": "e_chensi",
-        "File": "expressions/e_chensi.exp3.json"
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       },
       {
         "Name": "e_kailang",
         "File": "expressions/e_kailang.exp3.json"
       },
       {
-        "Name": "e_idle",
-        "File": "expressions/e_idle.exp3.json"
-      },
-      {
         "Name": "e_biyan",
         "File": "expressions/e_biyan.exp3.json"
+      },
+      {
+        "Name": "e_chensi",
+        "File": "expressions/e_chensi.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_weixiao",
+        "File": "expressions/e_weixiao.exp3.json"
       },
       {
         "Name": "e_renzhen",
@@ -173,10 +178,6 @@
       {
         "Name": "e_chijing",
         "File": "expressions/e_chijing.exp3.json"
-      },
-      {
-        "Name": "e_nanguo",
-        "File": "expressions/e_nanguo.exp3.json"
       }
     ]
   },
@@ -192,8 +193,8 @@
       "Target": "Parameter",
       "Name": "LipSync",
       "Ids": [
-        "ParamMouthOpenY2",
-        "ParamMouthOpenY"
+        "ParamMouthOpenY",
+        "ParamMouthOpenY2"
       ]
     }
   ]

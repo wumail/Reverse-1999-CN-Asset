@@ -9,6 +9,7 @@
       "textures/303703_fgr_bloom_00.png",
       "textures/303703_fgr_bloom_01.png"
     ],
+    "DisplayInfo": null,
     "Physics": null,
     "Motions": {
       "b_anfu": [
@@ -139,24 +140,12 @@
     },
     "Expressions": [
       {
-        "Name": "e_chensi",
-        "File": "expressions/e_chensi.exp3.json"
-      },
-      {
-        "Name": "e_nanguo",
-        "File": "expressions/e_nanguo.exp3.json"
-      },
-      {
-        "Name": "e_chijing",
-        "File": "expressions/e_chijing.exp3.json"
-      },
-      {
-        "Name": "e_shengqi",
-        "File": "expressions/e_shengqi.exp3.json"
-      },
-      {
         "Name": "e_kaixin",
         "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       },
       {
         "Name": "e_haixiu",
@@ -167,8 +156,20 @@
         "File": "expressions/e_weixiao.exp3.json"
       },
       {
-        "Name": "e_idle",
-        "File": "expressions/e_idle.exp3.json"
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_chensi",
+        "File": "expressions/e_chensi.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
       }
     ]
   },

@@ -247,18 +247,6 @@
     },
     "Expressions": [
       {
-        "Name": "e_shengqi",
-        "File": "expressions/e_shengqi.exp3.json"
-      },
-      {
-        "Name": "e_idle",
-        "File": "expressions/e_idle.exp3.json"
-      },
-      {
-        "Name": "e_jingya",
-        "File": "expressions/e_jingya.exp3.json"
-      },
-      {
         "Name": "e_kaixin1",
         "File": "expressions/e_kaixin1.exp3.json"
       },
@@ -267,16 +255,28 @@
         "File": "expressions/e_huangzhang.exp3.json"
       },
       {
-        "Name": "e_yihuo",
-        "File": "expressions/e_yihuo.exp3.json"
+        "Name": "e_jingya",
+        "File": "expressions/e_jingya.exp3.json"
+      },
+      {
+        "Name": "e_sikao",
+        "File": "expressions/e_sikao.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
       },
       {
         "Name": "e_kaixin2",
         "File": "expressions/e_kaixin2.exp3.json"
       },
       {
-        "Name": "e_sikao",
-        "File": "expressions/e_sikao.exp3.json"
+        "Name": "e_yihuo",
+        "File": "expressions/e_yihuo.exp3.json"
       },
       {
         "Name": "e_nanguo",

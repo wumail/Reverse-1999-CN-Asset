@@ -116,12 +116,12 @@
     },
     "Expressions": [
       {
-        "Name": "e_bushuang",
-        "File": "expressions/e_bushuang.exp3.json"
-      },
-      {
         "Name": "e_yiwai",
         "File": "expressions/e_yiwai.exp3.json"
+      },
+      {
+        "Name": "e_xingfen",
+        "File": "expressions/e_xingfen.exp3.json"
       },
       {
         "Name": "e_idle",
@@ -136,8 +136,8 @@
         "File": "expressions/e_huainian.exp3.json"
       },
       {
-        "Name": "e_xingfen",
-        "File": "expressions/e_xingfen.exp3.json"
+        "Name": "e_bushuang",
+        "File": "expressions/e_bushuang.exp3.json"
       }
     ]
   },

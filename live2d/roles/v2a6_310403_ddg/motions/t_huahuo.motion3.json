@@ -1,0 +1,147 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 9.65,
+    "Fps": 30.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 1.0,
+    "FadeOutTime": 1.0,
+    "CurveCount": 6,
+    "TotalSegmentCount": 21,
+    "TotalPointCount": 25,
+    "UserDataCount": 0,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        9.65,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        9.65,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        3.2,
+        0,
+        0,
+        3.817,
+        -1,
+        0,
+        6.567,
+        -1,
+        0,
+        8,
+        0,
+        0,
+        9.65,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm4",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        9.65,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthOpenY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        3.783,
+        0,
+        1,
+        4,
+        0,
+        4.216,
+        0.122,
+        4.433,
+        0.5,
+        1,
+        4.589,
+        0.771,
+        4.744,
+        1,
+        4.9,
+        1,
+        0,
+        5.75,
+        1,
+        0,
+        6.383,
+        0,
+        0,
+        9.65,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthO",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        2.867,
+        0,
+        0,
+        3.983,
+        -10,
+        0,
+        4.667,
+        -10,
+        0,
+        5.85,
+        4,
+        0,
+        6.417,
+        0,
+        0,
+        9.65,
+        0
+      ]
+    }
+  ],
+  "UserData": []
+}

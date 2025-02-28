@@ -15,12 +15,14 @@
       "textures/mask_073_hs.png",
       "textures/noise_005_dy.png",
       "textures/noise_006_zy.png",
+      "textures/noise_06_ld.png",
       "textures/noise_831_dzx.png",
       "textures/object_001_ch_sj.png",
       "textures/object_0162_xz.png",
       "textures/object_0217_xz.png",
       "textures/object_931_dzx.png"
     ],
+    "DisplayInfo": null,
     "Physics": null,
     "Motions": {
       "b_dengqiu": [
@@ -126,12 +128,12 @@
     },
     "Expressions": [
       {
-        "Name": "e_idle",
-        "File": "expressions/e_idle.exp3.json"
-      },
-      {
         "Name": "e_chijing",
         "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
       },
       {
         "Name": "e_biyan",

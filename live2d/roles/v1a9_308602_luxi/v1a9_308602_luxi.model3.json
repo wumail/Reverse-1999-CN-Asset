@@ -53,6 +53,7 @@
       "textures/object_960_dzx.png",
       "textures/trail_003_zy.png"
     ],
+    "DisplayInfo": null,
     "Physics": null,
     "Motions": {
       "b_baoxiong": [
@@ -313,12 +314,20 @@
     },
     "Expressions": [
       {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_biyan1",
+        "File": "expressions/e_biyan1.exp3.json"
+      },
+      {
         "Name": "e_tongku",
         "File": "expressions/e_tongku.exp3.json"
       },
       {
-        "Name": "e_yansu1",
-        "File": "expressions/e_yansu1.exp3.json"
+        "Name": "e_idle1",
+        "File": "expressions/e_idle1.exp3.json"
       },
       {
         "Name": "e_chijing1",
@@ -329,20 +338,12 @@
         "File": "expressions/e_idle.exp3.json"
       },
       {
-        "Name": "e_idle1",
-        "File": "expressions/e_idle1.exp3.json"
+        "Name": "e_yansu1",
+        "File": "expressions/e_yansu1.exp3.json"
       },
       {
         "Name": "e_tongku1",
         "File": "expressions/e_tongku1.exp3.json"
-      },
-      {
-        "Name": "e_biyan1",
-        "File": "expressions/e_biyan1.exp3.json"
-      },
-      {
-        "Name": "e_chijing",
-        "File": "expressions/e_chijing.exp3.json"
       }
     ]
   },

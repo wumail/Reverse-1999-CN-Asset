@@ -43,7 +43,6 @@
       "textures/object_153_ld.png",
       "textures/object_154_ld.png",
       "textures/ramplut_01_wjy.png",
-      "textures/ray_030_wx.png",
       "textures/smoke_001_xz.png",
       "textures/smoke_002_xz.png",
       "textures/smoke_003_xz.png",
@@ -223,24 +222,24 @@
         "File": "expressions/e_nanguo.exp3.json"
       },
       {
-        "Name": "e_tongku",
-        "File": "expressions/e_tongku.exp3.json"
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
       },
       {
         "Name": "e_jingya",
         "File": "expressions/e_jingya.exp3.json"
       },
       {
-        "Name": "e_yansu",
-        "File": "expressions/e_yansu.exp3.json"
-      },
-      {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
       },
       {
-        "Name": "e_shengqi",
-        "File": "expressions/e_shengqi.exp3.json"
+        "Name": "e_tongku",
+        "File": "expressions/e_tongku.exp3.json"
       },
       {
         "Name": "e_weixiao",
