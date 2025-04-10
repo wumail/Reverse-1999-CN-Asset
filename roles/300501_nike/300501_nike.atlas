@@ -1,383 +1,411 @@
 
 300501_nike.png
-size: 1080,144
+size: 192,984
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
+a_shengrimuzhi
+  rotate: true
+  xy: 85, 7
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+a_shengrishouzhang
+  rotate: false
+  xy: 85, 122
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+a_shengrishouzhi
+  rotate: true
+  xy: 98, 56
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+a_xiannvbang
+  rotate: true
+  xy: 72, 80
+  size: 43, 87
+  orig: 43, 87
+  offset: 0, 0
+  index: -1
 nkbd_bikong
   rotate: false
-  xy: 63, 10
+  xy: 6, 884
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
 nkbd_bozi
-  rotate: false
-  xy: 468, 2
+  rotate: true
+  xy: 85, 510
   size: 59, 57
   orig: 59, 57
   offset: 0, 0
   index: -1
 nkbd_bq_daiji
-  rotate: true
-  xy: 1046, 119
+  rotate: false
+  xy: 155, 411
   size: 23, 30
   orig: 23, 30
   offset: 0, 0
   index: -1
 nkbd_bq_shengqing
-  rotate: false
-  xy: 828, 17
+  rotate: true
+  xy: 6, 490
   size: 39, 61
   orig: 39, 61
   offset: 0, 0
   index: -1
 nkbd_bq_tongku
-  rotate: false
-  xy: 904, 6
+  rotate: true
+  xy: 165, 881
   size: 26, 17
   orig: 28, 17
   offset: 2, 0
   index: -1
 nkbd_bq_yuanxun
   rotate: true
-  xy: 869, 3
+  xy: 131, 13
   size: 20, 33
   orig: 20, 33
   offset: 0, 0
   index: -1
 nkbd_bq_yuanxun_yanzhu
   rotate: false
-  xy: 55, 9
+  xy: 60, 967
   size: 6, 8
   orig: 6, 8
   offset: 0, 0
   index: -1
 nkbd_dangbu
-  rotate: true
-  xy: 745, 5
+  rotate: 180
+  xy: 89, 628
   size: 67, 61
   orig: 67, 61
   offset: 0, 0
   index: -1
 nkbd_er1
   rotate: false
-  xy: 347, 47
+  xy: 130, 541
   size: 39, 95
   orig: 39, 95
   offset: 0, 0
   index: -1
 nkbd_er2
-  rotate: false
-  xy: 632, 3
+  rotate: 180
+  xy: 106, 234
   size: 61, 65
   orig: 61, 65
   offset: 0, 0
   index: -1
 nkbd_fa1
-  rotate: false
-  xy: 565, 4
+  rotate: 270
+  xy: 10, 200
   size: 38, 62
   orig: 38, 62
   offset: 0, 0
   index: -1
 nkbd_fa2
-  rotate: true
-  xy: 176, 3
+  rotate: false
+  xy: 152, 219
   size: 28, 27
   orig: 28, 27
   offset: 0, 0
   index: -1
 nkbd_fa3
-  rotate: true
-  xy: 1041, 27
+  rotate: 180
+  xy: 51, 74
   size: 43, 37
   orig: 43, 37
   offset: 0, 0
   index: -1
 nkbd_huaquan
   rotate: true
-  xy: 2, 8
+  xy: 108, 841
   size: 134, 51
   orig: 134, 51
   offset: 0, 0
   index: -1
 nkbd_huaquan1
-  rotate: true
-  xy: 837, 84
+  rotate: false
+  xy: 69, 568
   size: 58, 53
   orig: 58, 53
   offset: 0, 0
   index: -1
 nkbd_kuabao_1
-  rotate: false
-  xy: 932, 3
+  rotate: true
+  xy: 156, 611
   size: 25, 25
   orig: 25, 25
   offset: 0, 0
   index: -1
 nkbd_kuabao_2
-  rotate: true
-  xy: 959, 47
+  rotate: 180
+  xy: 126, 110
   size: 40, 35
   orig: 40, 35
   offset: 0, 0
   index: -1
 nkbd_kuabao_3
-  rotate: false
-  xy: 388, 47
+  rotate: 180
+  xy: 143, 446
   size: 33, 95
   orig: 33, 95
   offset: 0, 0
   index: -1
 nkbd_kuabao_4
-  rotate: false
-  xy: 423, 49
+  rotate: true
+  xy: 77, 192
   size: 33, 93
   orig: 33, 93
   offset: 0, 0
   index: -1
 nkbd_maozi
-  rotate: true
-  xy: 529, 3
+  rotate: false
+  xy: 6, 159
   size: 59, 34
   orig: 59, 34
   offset: 0, 0
   index: -1
 nkbd_shou1
-  rotate: true
-  xy: 425, 2
+  rotate: 180
+  xy: 123, 150
   size: 45, 41
   orig: 45, 41
   offset: 0, 0
   index: -1
 nkbd_shou2
   rotate: true
-  xy: 997, 20
+  xy: 6, 82
   size: 36, 40
   orig: 36, 40
   offset: 0, 0
   index: -1
 nkbd_shou3
-  rotate: true
-  xy: 654, 71
+  rotate: false
+  xy: 82, 318
   size: 71, 34
   orig: 71, 34
   offset: 0, 0
   index: -1
 nkbd_shou4
   rotate: true
-  xy: 996, 58
+  xy: 77, 169
   size: 39, 43
   orig: 39, 43
   offset: 0, 0
   index: -1
 nkbd_shou5
-  rotate: true
-  xy: 373, 2
+  rotate: false
+  xy: 6, 241
   size: 43, 50
   orig: 48, 50
   offset: 5, 0
   index: -1
 nkbd_shou6
-  rotate: true
-  xy: 500, 64
+  rotate: false
+  xy: 6, 655
   size: 78, 53
   orig: 78, 53
   offset: 0, 0
   index: -1
 nkbd_tou
   rotate: false
-  xy: 106, 33
+  xy: 6, 867
   size: 96, 109
   orig: 96, 109
   offset: 0, 0
   index: -1
 nkbd_xianglian
-  rotate: false
-  xy: 917, 30
+  rotate: 270
+  xy: 24, 124
   size: 40, 55
   orig: 40, 55
   offset: 0, 0
   index: -1
 nkbd_xiongqiang
-  rotate: false
-  xy: 273, 40
+  rotate: 270
+  xy: 21, 796
   size: 72, 102
   orig: 72, 102
   offset: 0, 0
   index: -1
 nkbd_yaodai1
   rotate: true
-  xy: 605, 4
+  xy: 148, 343
   size: 62, 25
   orig: 62, 25
   offset: 0, 0
   index: -1
 nkbd_yaodai2
-  rotate: true
-  xy: 959, 29
+  rotate: false
+  xy: 165, 79
   size: 16, 36
   orig: 16, 36
   offset: 0, 0
   index: -1
 nkbd_yikoudai
-  rotate: false
-  xy: 1046, 72
+  rotate: 180
+  xy: 157, 831
   size: 23, 45
   orig: 23, 45
   offset: 0, 0
   index: -1
 nkbd_yixiabai1
-  rotate: false
-  xy: 690, 73
+  rotate: true
+  xy: 6, 535
   size: 42, 69
   orig: 42, 69
   offset: 0, 0
   index: -1
 nkbd_yixiabai2
-  rotate: false
-  xy: 808, 10
+  rotate: 180
+  xy: 159, 642
   size: 18, 65
   orig: 18, 65
   offset: 0, 0
   index: -1
 nkbd_yixiabai3
-  rotate: false
-  xy: 811, 80
+  rotate: true
+  xy: 65, 37
   size: 24, 62
   orig: 24, 62
   offset: 0, 0
   index: -1
 nkbd_yixiabaili
-  rotate: true
-  xy: 695, 3
+  rotate: false
+  xy: 6, 602
   size: 68, 48
   orig: 68, 48
   offset: 0, 0
   index: -1
 nkbd_youdabi1
-  rotate: false
-  xy: 555, 68
+  rotate: true
+  xy: 75, 448
   size: 61, 74
   orig: 61, 74
   offset: 0, 0
   index: -1
 nkbd_youdabi2
-  rotate: false
-  xy: 296, 2
+  rotate: 180
+  xy: 67, 357
   size: 75, 36
   orig: 75, 36
   offset: 0, 0
   index: -1
 nkbd_youdatui
-  rotate: false
-  xy: 618, 70
+  rotate: 270
+  xy: 9, 334
   size: 34, 72
   orig: 34, 72
   offset: 0, 0
   index: -1
 nkbd_youshouwan1
-  rotate: true
-  xy: 106, 2
+  rotate: false
+  xy: 144, 40
   size: 29, 34
   orig: 29, 34
   offset: 0, 0
   index: -1
 nkbd_youshouwan2
-  rotate: false
-  xy: 272, 2
+  rotate: 270
+  xy: 72, 953
   size: 22, 32
   orig: 22, 32
   offset: 0, 0
   index: -1
 nkbd_youshouwan3
-  rotate: false
-  xy: 240, 2
+  rotate: 270
+  xy: 6, 17
   size: 30, 32
   orig: 30, 32
   offset: 0, 0
   index: -1
 nkbd_youxiaobi
-  rotate: true
-  xy: 996, 99
+  rotate: false
+  xy: 54, 231
   size: 43, 48
   orig: 43, 48
   offset: 0, 0
   index: -1
 nkbd_youxiaobi2
-  rotate: true
-  xy: 869, 25
+  rotate: false
+  xy: 92, 399
   size: 57, 46
   orig: 57, 46
   offset: 0, 0
   index: -1
 nkbd_youxiaotui
-  rotate: false
-  xy: 204, 36
+  rotate: true
+  xy: 54, 694
   size: 67, 106
   orig: 67, 106
   offset: 0, 0
   index: -1
 nkbd_zuodabi
-  rotate: false
-  xy: 458, 61
+  rotate: 270
+  xy: 6, 425
   size: 40, 81
   orig: 40, 81
   offset: 0, 0
   index: -1
 nkbd_zuodabi2
-  rotate: true
-  xy: 734, 74
+  rotate: false
+  xy: 77, 280
   size: 68, 33
   orig: 68, 33
   offset: 0, 0
   index: -1
 nkbd_zuodatui
-  rotate: false
-  xy: 769, 77
+  rotate: true
+  xy: 6, 292
   size: 40, 65
   orig: 40, 65
   offset: 0, 0
   index: -1
 nkbd_zuoshouwan1
-  rotate: true
-  xy: 142, 3
+  rotate: 270
+  xy: 47, 17
   size: 28, 32
   orig: 28, 32
   offset: 0, 0
   index: -1
 nkbd_zuoshouwan2
   rotate: true
-  xy: 205, 2
+  xy: 28, 49
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 nkbd_zuoxiaobi
   rotate: true
-  xy: 944, 89
+  xy: 125, 781
   size: 53, 50
   orig: 53, 50
   offset: 0, 0
   index: -1
 nkbd_zuoxiaobi2
-  rotate: true
-  xy: 892, 87
+  rotate: false
+  xy: 6, 373
   size: 55, 50
   orig: 55, 50
   offset: 0, 0
   index: -1
 nkbd_zuoxiaotui
-  rotate: false
-  xy: 55, 19
+  rotate: true
+  xy: 6, 742
   size: 49, 123
   orig: 49, 123
   offset: 0, 0
   index: -1
 uoh
   rotate: false
-  xy: 959, 2
+  xy: 160, 305
   size: 23, 23
   orig: 58, 53
   offset: 17, 16
