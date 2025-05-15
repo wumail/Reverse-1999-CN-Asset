@@ -1,0 +1,138 @@
+{
+  "Version": 3,
+  "Name": "v2a8_310702_welx",
+  "FileReferences": {
+    "Moc": "v2a8_310702_welx.moc3",
+    "Textures": [
+      "textures/310702_welx_00.png",
+      "textures/310702_welx_01.png",
+      "textures/310702_welx_bloom_00.png",
+      "textures/310702_welx_bloom_01.png",
+      "textures/bg_001_gt.png",
+      "textures/glow_001_xz.png",
+      "textures/glow_014_wx.png",
+      "textures/glow_015_xz.png",
+      "textures/lighting_007_zy.png",
+      "textures/lighting_008_zy.png",
+      "textures/mask_030_hs.png",
+      "textures/mask_064_hs.png",
+      "textures/mask_096_02hs.png",
+      "textures/mask_138_hs_clp.png",
+      "textures/mask_203_ch_kk.png",
+      "textures/noise_007_xz.png",
+      "textures/noise_008_tps.png",
+      "textures/noise_102_cx.png",
+      "textures/noise_163_hs.png",
+      "textures/noise_182_hs.png",
+      "textures/noise_201_hs.png",
+      "textures/noise_805_fy.png",
+      "textures/v2a8_scene_wuerlixi_c.png"
+    ],
+    "DisplayInfo": null,
+    "Physics": null,
+    "Motions": {
+      "b_baoxiong": [
+        {
+          "File": "motions/b_baoxiong.motion3.json"
+        }
+      ],
+      "b_diantou": [
+        {
+          "File": "motions/b_diantou.motion3.json"
+        }
+      ],
+      "b_guzhang": [
+        {
+          "File": "motions/b_guzhang.motion3.json"
+        }
+      ],
+      "b_idle": [
+        {
+          "File": "motions/b_idle.motion3.json"
+        }
+      ],
+      "b_sikao": [
+        {
+          "File": "motions/b_sikao.motion3.json"
+        }
+      ],
+      "b_tanshou": [
+        {
+          "File": "motions/b_tanshou.motion3.json"
+        }
+      ],
+      "b_yaotou": [
+        {
+          "File": "motions/b_yaotou.motion3.json"
+        }
+      ],
+      "b_yunsuan": [
+        {
+          "File": "motions/b_yunsuan.motion3.json"
+        }
+      ],
+      "b_zhize": [
+        {
+          "File": "motions/b_zhize.motion3.json"
+        }
+      ],
+      "t_bizui": [
+        {
+          "File": "motions/t_bizui.motion3.json"
+        }
+      ],
+      "t_idle": [
+        {
+          "File": "motions/t_idle.motion3.json"
+        }
+      ],
+      "t_yunsuan": [
+        {
+          "File": "motions/t_yunsuan.motion3.json"
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_dui",
+        "File": "expressions/e_dui.exp3.json"
+      },
+      {
+        "Name": "e_cuo",
+        "File": "expressions/e_cuo.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      }
+    ]
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

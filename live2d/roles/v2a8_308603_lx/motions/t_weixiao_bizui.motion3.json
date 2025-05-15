@@ -1,0 +1,84 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 0.467,
+    "Fps": 30.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 1.0,
+    "FadeOutTime": 1.0,
+    "CurveCount": 5,
+    "TotalSegmentCount": 6,
+    "TotalPointCount": 6,
+    "UserDataCount": 0,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "Param106zhanghe",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        0.467,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param105zui",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        -60,
+        0,
+        0.467,
+        -60
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param179",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        0.467,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param178",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        0.467,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param107_o",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        0.467,
+        0
+      ]
+    }
+  ],
+  "UserData": []
+}

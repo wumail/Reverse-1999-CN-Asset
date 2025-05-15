@@ -1,0 +1,256 @@
+{
+  "Version": 3,
+  "Name": "v2a8_311703_kphh",
+  "FileReferences": {
+    "Moc": "v2a8_311703_kphh.moc3",
+    "Textures": [
+      "textures/311703_kphh_bloom.png",
+      "textures/311703_kphh.png",
+      "textures/fire_022_cx.png",
+      "textures/glow_001_wx.png",
+      "textures/glow_001_xz.png",
+      "textures/glow_001_zy_1.png",
+      "textures/glow_00175_hs.png",
+      "textures/glow_002_wx.png",
+      "textures/glow_003_hs_manual.png",
+      "textures/glow_041_lth.png",
+      "textures/mask_007_tps.png",
+      "textures/mask_010_zy.png",
+      "textures/mask_010b_hs.png",
+      "textures/mask_011_hs.png",
+      "textures/mask_078_hs.png",
+      "textures/mask_094_hs.png",
+      "textures/mask_126_hs.png",
+      "textures/mask_134_hs.png",
+      "textures/mask_135c_hs.png",
+      "textures/mask_138_hs_clp.png",
+      "textures/mask_139_hs.png",
+      "textures/noise_0007_xyq.png",
+      "textures/noise_002_lw.png",
+      "textures/noise_005_dy.png",
+      "textures/noise_006_xz.png",
+      "textures/noise_007_ycx.png",
+      "textures/noise_008_xz.png",
+      "textures/noise_009_wx.png",
+      "textures/noise_009_xz.png",
+      "textures/noise_015_hs.png",
+      "textures/noise_019_xz.png",
+      "textures/noise_029_gt.png",
+      "textures/noise_030_dzx.png",
+      "textures/noise_047_wx.png",
+      "textures/noise_057_gt.png",
+      "textures/noise_060_gt.png",
+      "textures/noise_062_gt.png",
+      "textures/noise_067_hy.png",
+      "textures/noise_114_hl.png",
+      "textures/noise_116_hy.png",
+      "textures/noise_123_hl.png",
+      "textures/noise_135_hs.png",
+      "textures/noise_185_hs.png",
+      "textures/noise_200_hs_manual.png",
+      "textures/noise_kphh_001_hy.png",
+      "textures/object_001_ybcll.png",
+      "textures/object_0372_dzx.png",
+      "textures/object_04254_dzx.png",
+      "textures/object_04255_dzx.png",
+      "textures/ray_001_dzx.png",
+      "textures/ray_002_dzx.png",
+      "textures/smoke_520_fy.png",
+      "textures/trail_004_hy.png",
+      "textures/trail_013_hy.png",
+      "textures/trail_018_ld_c.png",
+      "textures/trail_038_cgq.png",
+      "textures/trail_042_hs_c.png"
+    ],
+    "DisplayInfo": null,
+    "Physics": null,
+    "Motions": {
+      "b_beishou": [
+        {
+          "File": "motions/b_beishou.motion3.json"
+        }
+      ],
+      "b_diantou": [
+        {
+          "File": "motions/b_diantou.motion3.json"
+        }
+      ],
+      "b_fuxiong": [
+        {
+          "File": "motions/b_fuxiong.motion3.json"
+        }
+      ],
+      "b_hezhang": [
+        {
+          "File": "motions/b_hezhang.motion3.json"
+        }
+      ],
+      "b_idle": [
+        {
+          "File": "motions/b_idle.motion3.json"
+        }
+      ],
+      "b_shenshou": [
+        {
+          "File": "motions/b_shenshou.motion3.json"
+        }
+      ],
+      "b_shizhi": [
+        {
+          "File": "motions/b_shizhi.motion3.json"
+        }
+      ],
+      "b_shizhi2": [
+        {
+          "File": "motions/b_shizhi2.motion3.json"
+        }
+      ],
+      "b_toukui": [
+        {
+          "File": "motions/b_toukui.motion3.json"
+        }
+      ],
+      "b_xingkong": [
+        {
+          "File": "motions/b_xingkong.motion3.json"
+        }
+      ],
+      "b_yaotou": [
+        {
+          "File": "motions/b_yaotou.motion3.json"
+        }
+      ],
+      "t_biyan": [
+        {
+          "File": "motions/t_biyan.motion3.json"
+        }
+      ],
+      "t_biyan_bizui": [
+        {
+          "File": "motions/t_biyan_bizui.motion3.json"
+        }
+      ],
+      "t_bizui": [
+        {
+          "File": "motions/t_bizui.motion3.json"
+        }
+      ],
+      "t_diluo": [
+        {
+          "File": "motions/t_diluo.motion3.json"
+        }
+      ],
+      "t_diluo_bizui": [
+        {
+          "File": "motions/t_diluo_bizui.motion3.json"
+        }
+      ],
+      "t_idle": [
+        {
+          "File": "motions/t_idle.motion3.json"
+        }
+      ],
+      "t_nanguo": [
+        {
+          "File": "motions/t_nanguo.motion3.json"
+        }
+      ],
+      "t_nanguo_bizui": [
+        {
+          "File": "motions/t_nanguo_bizui.motion3.json"
+        }
+      ],
+      "t_renzhen": [
+        {
+          "File": "motions/t_renzhen.motion3.json"
+        }
+      ],
+      "t_renzhen_bizui": [
+        {
+          "File": "motions/t_renzhen_bizui.motion3.json"
+        }
+      ],
+      "t_weixiao": [
+        {
+          "File": "motions/t_weixiao.motion3.json"
+        }
+      ],
+      "t_weixiao_bizui": [
+        {
+          "File": "motions/t_weixiao_bizui.motion3.json"
+        }
+      ],
+      "t_yihuo": [
+        {
+          "File": "motions/t_yihuo.motion3.json"
+        }
+      ],
+      "t_yihuo_bizui": [
+        {
+          "File": "motions/t_yihuo_bizui.motion3.json"
+        }
+      ],
+      "t_zhaoji": [
+        {
+          "File": "motions/t_zhaoji.motion3.json"
+        }
+      ],
+      "t_zhaoji_bizui": [
+        {
+          "File": "motions/t_zhaoji_bizui.motion3.json"
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
+      },
+      {
+        "Name": "e_weixiao",
+        "File": "expressions/e_weixiao.exp3.json"
+      },
+      {
+        "Name": "e_zhaoji",
+        "File": "expressions/e_zhaoji.exp3.json"
+      },
+      {
+        "Name": "e_yihuo",
+        "File": "expressions/e_yihuo.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_diluo",
+        "File": "expressions/e_diluo.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_renzhen",
+        "File": "expressions/e_renzhen.exp3.json"
+      }
+    ]
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeLOpen2"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY2"
+      ]
+    }
+  ]
+}
