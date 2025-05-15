@@ -1,5 +1,5 @@
 # **Reverse1999 Assets**
-![Header image](singlebg/storybg/story_atcg/2_7/2_7_at_zougangsi.png)
+![Header image](singlebg/storybg/story_atcg/2_8/2_8_at_shenzhan.png)
 
 Dump assets for [Reverse 1999](https://www.biligame.com/detail/?id=107530) CN Version. Stars are welcomed.
 
@@ -8,7 +8,8 @@ Will update lastest stuff asap if i'm not lazy.
 To reduce size of clone, use this: `git clone --depth 1  https://github.com/myssal/Reverse-1999-CN-Asset.git`
 
 ## Assets Directory Listing
-Use this [list](<https://arcanistsanctum.tumblr.com/post/758262189658406912/cn-assets-directory-listing>) to quickly navigate which assets you want. Big thanks to @sachisei of [Arcanist Sanctum blog](https://arcanistsanctum.tumblr.com) for creating this wonderful list.
+- [Asset directory listing](<https://arcanistsanctum.tumblr.com/post/758262189658406912/cn-assets-directory-listing>): credit to @sachisei of [Arcanist Sanctum blog](https://arcanistsanctum.tumblr.com).
+- [mapping](<https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/mappings>): l2d map for `roles`, `live2d` and `rolesstory`
 
 
 
