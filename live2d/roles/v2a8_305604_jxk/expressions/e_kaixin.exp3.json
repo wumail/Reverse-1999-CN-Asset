@@ -1,10 +1,10 @@
 {
   "Type": "Live2D Expression",
-  "FadeInTime": 0.6,
-  "FadeOutTime": 0.6,
+  "FadeInTime": 0.5,
+  "FadeOutTime": 0.5,
   "Parameters": [
     {
-      "Id": "ParamEyeLOpen",
+      "Id": "Param52",
       "Value": 0.0,
       "Blend": 1
     },
@@ -21,11 +21,6 @@
     {
       "Id": "ParamMeiYan03",
       "Value": 1.0,
-      "Blend": 1
-    },
-    {
-      "Id": "Param52",
-      "Value": 0.0,
       "Blend": 1
     }
   ]

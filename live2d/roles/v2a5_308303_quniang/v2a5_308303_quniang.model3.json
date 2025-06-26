@@ -28,7 +28,6 @@
       "textures/noise_002_wx.png",
       "textures/noise_005_wx.png",
       "textures/noise_009_wx.png",
-      "textures/noise_033_gt.png",
       "textures/noise_034_gt.png",
       "textures/noise_055_wx.png",
       "textures/noise_058_wx.png",
@@ -247,16 +246,12 @@
     },
     "Expressions": [
       {
-        "Name": "e_kaixin1",
-        "File": "expressions/e_kaixin1.exp3.json"
-      },
-      {
         "Name": "e_huangzhang",
         "File": "expressions/e_huangzhang.exp3.json"
       },
       {
-        "Name": "e_jingya",
-        "File": "expressions/e_jingya.exp3.json"
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
       },
       {
         "Name": "e_sikao",
@@ -267,10 +262,6 @@
         "File": "expressions/e_idle.exp3.json"
       },
       {
-        "Name": "e_shengqi",
-        "File": "expressions/e_shengqi.exp3.json"
-      },
-      {
         "Name": "e_kaixin2",
         "File": "expressions/e_kaixin2.exp3.json"
       },
@@ -279,8 +270,16 @@
         "File": "expressions/e_yihuo.exp3.json"
       },
       {
+        "Name": "e_kaixin1",
+        "File": "expressions/e_kaixin1.exp3.json"
+      },
+      {
         "Name": "e_nanguo",
         "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_jingya",
+        "File": "expressions/e_jingya.exp3.json"
       }
     ]
   },

@@ -350,16 +350,20 @@
     },
     "Expressions": [
       {
-        "Name": "e_weiyan",
-        "File": "expressions/e_weiyan.exp3.json"
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_congrong",
+        "File": "expressions/e_congrong.exp3.json"
       },
       {
         "Name": "e_yansu",
         "File": "expressions/e_yansu.exp3.json"
       },
       {
-        "Name": "e_congrong",
-        "File": "expressions/e_congrong.exp3.json"
+        "Name": "e_weixiao",
+        "File": "expressions/e_weixiao.exp3.json"
       },
       {
         "Name": "e_chijing",
@@ -370,12 +374,8 @@
         "File": "expressions/e_biyan.exp3.json"
       },
       {
-        "Name": "e_weixiao",
-        "File": "expressions/e_weixiao.exp3.json"
-      },
-      {
-        "Name": "e_idle",
-        "File": "expressions/e_idle.exp3.json"
+        "Name": "e_weiyan",
+        "File": "expressions/e_weiyan.exp3.json"
       }
     ]
   },

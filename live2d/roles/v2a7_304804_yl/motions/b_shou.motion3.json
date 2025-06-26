@@ -7,13 +7,39 @@
     "AreBeziersRestricted": true,
     "FadeInTime": 1.0,
     "FadeOutTime": 1.0,
-    "CurveCount": 206,
-    "TotalSegmentCount": 662,
-    "TotalPointCount": 966,
+    "CurveCount": 209,
+    "TotalSegmentCount": 665,
+    "TotalPointCount": 969,
     "UserDataCount": 0,
     "TotalUserDataSize": 0
   },
   "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "Paramliehen",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Paramkuozhan",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        5,
+        0
+      ]
+    },
     {
       "Target": "Parameter",
       "Id": "ParamEyeLOpen",
@@ -1770,6 +1796,19 @@
         0,
         0,
         4.633,
+        0,
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param13",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
         0,
         0,
         5,

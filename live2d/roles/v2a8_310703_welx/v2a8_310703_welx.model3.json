@@ -32,14 +32,11 @@
       "textures/noise_060_gt.png",
       "textures/noise_062_gt.png",
       "textures/noise_102_cx.png",
-      "textures/noise_163_hs.png",
       "textures/noise_182_hs.png",
       "textures/noise_185_hs.png",
-      "textures/noise_201_hs.png",
       "textures/noise_805_fy.png",
       "textures/object_04182_dzx.png",
       "textures/object_04183_dzx.png",
-      "textures/object_0561_dzx.png",
       "textures/object_111_yjl.png",
       "textures/object_129_yjl.png",
       "textures/object_130_yjl.png",
@@ -186,10 +183,6 @@
     },
     "Expressions": [
       {
-        "Name": "e_idle",
-        "File": "expressions/e_idle.exp3.json"
-      },
-      {
         "Name": "e_shengqi",
         "File": "expressions/e_shengqi.exp3.json"
       },
@@ -198,12 +191,8 @@
         "File": "expressions/e_chenmo.exp3.json"
       },
       {
-        "Name": "e_xingpan",
-        "File": "expressions/e_xingpan.exp3.json"
-      },
-      {
-        "Name": "e_nanguo",
-        "File": "expressions/e_nanguo.exp3.json"
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
       },
       {
         "Name": "e_dui",
@@ -214,8 +203,16 @@
         "File": "expressions/e_cuo.exp3.json"
       },
       {
-        "Name": "e_chijing",
-        "File": "expressions/e_chijing.exp3.json"
+        "Name": "e_xingpan",
+        "File": "expressions/e_xingpan.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
       }
     ]
   },

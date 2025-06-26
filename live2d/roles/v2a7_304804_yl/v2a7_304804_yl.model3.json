@@ -4,6 +4,7 @@
   "FileReferences": {
     "Moc": "v2a7_304804_yl.moc3",
     "Textures": [
+      "textures/304802_yuanlv_mask_manual.png",
       "textures/304804_yl_00.png",
       "textures/304804_yl_01.png",
       "textures/304804_yl_bloom_00.png",
@@ -370,8 +371,16 @@
     },
     "Expressions": [
       {
-        "Name": "e_chijing",
-        "File": "expressions/e_chijing.exp3.json"
+        "Name": "e_haoqi",
+        "File": "expressions/e_haoqi.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
       },
       {
         "Name": "e_haixiu",
@@ -382,18 +391,6 @@
         "File": "expressions/e_xingfen.exp3.json"
       },
       {
-        "Name": "e_haoqi",
-        "File": "expressions/e_haoqi.exp3.json"
-      },
-      {
-        "Name": "e_biyan",
-        "File": "expressions/e_biyan.exp3.json"
-      },
-      {
-        "Name": "e_shengqi",
-        "File": "expressions/e_shengqi.exp3.json"
-      },
-      {
         "Name": "e_idle",
         "File": "expressions/e_idle.exp3.json"
       },
@@ -402,12 +399,16 @@
         "File": "expressions/e_kaixin.exp3.json"
       },
       {
-        "Name": "e_nanguo",
-        "File": "expressions/e_nanguo.exp3.json"
-      },
-      {
         "Name": "e_fadai",
         "File": "expressions/e_fadai.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
       }
     ]
   },

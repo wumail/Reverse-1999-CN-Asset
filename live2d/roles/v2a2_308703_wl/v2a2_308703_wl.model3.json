@@ -23,6 +23,7 @@
       "textures/water_014_hl.png",
       "textures/water_014_xz.png"
     ],
+    "DisplayInfo": null,
     "Physics": null,
     "Motions": {
       "b_bainong": [
@@ -158,36 +159,36 @@
     },
     "Expressions": [
       {
-        "Name": "e_shengqi",
-        "File": "expressions/e_shengqi.exp3.json"
-      },
-      {
         "Name": "e_chijing",
         "File": "expressions/e_chijing.exp3.json"
-      },
-      {
-        "Name": "e_chenzui",
-        "File": "expressions/e_chenzui.exp3.json"
-      },
-      {
-        "Name": "e_idle",
-        "File": "expressions/e_idle.exp3.json"
-      },
-      {
-        "Name": "e_zhaoji",
-        "File": "expressions/e_zhaoji.exp3.json"
       },
       {
         "Name": "e_nanguo",
         "File": "expressions/e_nanguo.exp3.json"
       },
       {
-        "Name": "e_biyan",
-        "File": "expressions/e_biyan.exp3.json"
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_zhaoji",
+        "File": "expressions/e_zhaoji.exp3.json"
       },
       {
         "Name": "e_kaixin",
         "File": "expressions/e_kaixin.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_chenzui",
+        "File": "expressions/e_chenzui.exp3.json"
+      },
+      {
+        "Name": "e_biyan",
+        "File": "expressions/e_biyan.exp3.json"
       }
     ]
   },
@@ -203,8 +204,8 @@
       "Target": "Parameter",
       "Name": "LipSync",
       "Ids": [
-        "ParamMouthOpenY2",
-        "ParamMouthOpenY"
+        "ParamMouthOpenY",
+        "ParamMouthOpenY2"
       ]
     }
   ]

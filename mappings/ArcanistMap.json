@@ -986,6 +986,18 @@
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/302701_wuxiandianxiaojie",
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/302701_wuxiandianxiaojie_s"
+      },
+      {
+        "id": 302702,
+        "name": "战地生命线",
+        "nameEng": "Lifeline of the Battlefield",
+        "des": "战地生命线",
+        "characterSkin": "战地生命线",
+        "characterSkinNameEng": "Lifeline of the Battlefield",
+        "skinDescription": "今日的早晨从一则振奋人心的战时新闻开始。",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a0_302702_wxdxj",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/302701_wuxiandianxiaojie_s"
       }
     ]
   },
@@ -3383,6 +3395,18 @@
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a3_308803_smews",
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/308803_smews",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v1a9_308801_smews_s"
+      },
+      {
+        "id": 308804,
+        "name": "心之盈亏",
+        "nameEng": "The Wax and Wane of the Heart",
+        "des": "心之盈亏",
+        "characterSkin": "心之盈亏",
+        "characterSkinNameEng": "The Wax and Wane of the Heart",
+        "skinDescription": "向万变的月，展露不变的信念。",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a0_308804_smews",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/308804_smews",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v1a9_308801_smews_s"
       }
     ]
   },
@@ -3494,6 +3518,18 @@
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a0_309402_j",
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/309402_j",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a0_309401_j_s"
+      },
+      {
+        "id": 309403,
+        "name": "野嗥",
+        "nameEng": "The Lone Wolf's Howl",
+        "des": "野嗥",
+        "characterSkin": "野嗥",
+        "characterSkinNameEng": "The Lone Wolf's Howl",
+        "skinDescription": "旧日的夙愿已成泡影，孤独的理想仍然轰鸣。",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a0_309403_j",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/309403_j",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a0_309403_j_s"
       }
     ]
   },
@@ -3905,6 +3941,18 @@
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a3_310502_zxqe",
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/310502_zxqe",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a3_310501_zxqe_s"
+      },
+      {
+        "id": 310503,
+        "name": "明日的春风",
+        "nameEng": "Gently Comes the Thawing Breeze",
+        "des": "明日的春风",
+        "characterSkin": "明日的春风",
+        "characterSkinNameEng": "Gently Comes the Thawing Breeze",
+        "skinDescription": "当她的春风刮起，悲伤的余烬都将被吹散。",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a0_310503_zxqe",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/310503_zxqe",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a0_310503_zxqe_s"
       }
     ]
   },
@@ -4460,6 +4508,72 @@
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a8_312102_mlde",
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/312102_mlde",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a8_312101_mlde_s"
+      }
+    ]
+  },
+  {
+    "id": 3126,
+    "name": "玛丽安娜",
+    "nameEng": "Sentinel",
+    "roleBirthday": "12/22",
+    "signature": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/signature/3126.png",
+    "live2d": [
+      {
+        "id": 312601,
+        "name": "玛丽安娜",
+        "nameEng": "Sentinel",
+        "des": "初始皮肤",
+        "characterSkin": "",
+        "characterSkinNameEng": "",
+        "skinDescription": "凡人谓我如恶魔。",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a0_312601_mlan",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/312601_mlan",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a0_312601_mlan_s"
+      },
+      {
+        "id": 312602,
+        "name": "玛丽安娜",
+        "nameEng": "Sentinel",
+        "des": "进阶皮肤",
+        "characterSkin": "孽的锁链",
+        "characterSkinNameEng": "The Shackles of Sin",
+        "skinDescription": "但地狱锻造在他们的枪炮之间。",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a0_312602_mlan",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/312602_mlan",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a0_312601_mlan_s"
+      }
+    ]
+  },
+  {
+    "id": 3128,
+    "name": "卡戎",
+    "nameEng": "Charon",
+    "roleBirthday": "6/27",
+    "signature": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/signature/3128.png",
+    "live2d": [
+      {
+        "id": 312801,
+        "name": "卡戎",
+        "nameEng": "Charon",
+        "des": "初始皮肤",
+        "characterSkin": "",
+        "characterSkinNameEng": "",
+        "skinDescription": "硝石、花朵，与合金震鸣。",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a0_312801_kr",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/312801_kr",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a0_312801_kr_s"
+      },
+      {
+        "id": 312802,
+        "name": "卡戎",
+        "nameEng": "Charon",
+        "des": "进阶皮肤",
+        "characterSkin": "沉默与悲鸣",
+        "characterSkinNameEng": "Wailing Silence",
+        "skinDescription": "生的阴影、死的记忆，于冥河中独行。",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a0_312802_kr",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/312802_kr",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a0_312801_kr_s"
       }
     ]
   }

@@ -1,0 +1,117 @@
+{
+  "Version": 3,
+  "Name": "v3a0_312801_kr",
+  "FileReferences": {
+    "Moc": "v3a0_312801_kr.moc3",
+    "Textures": [
+      "textures/312801_kr_00.png",
+      "textures/312801_kr_01.png",
+      "textures/312801_kr_bloom_00.png",
+      "textures/312801_kr_bloom_01.png",
+      "textures/glow_003_hs_manual.png",
+      "textures/glow_010_ch.png",
+      "textures/glow_029_wx.png",
+      "textures/mask_013ch.png",
+      "textures/mask_140_hs.png",
+      "textures/mask_177c_hs.png",
+      "textures/noise_0007_cx.png",
+      "textures/noise_002_gt.png",
+      "textures/noise_052_wx.png",
+      "textures/noise_185_hs.png",
+      "textures/object_5302_dzx.png",
+      "textures/smoke_025_wx.png",
+      "textures/smoke_026_wx.png",
+      "textures/smoke_028_hl.png",
+      "textures/smoke_5301_dzx.png"
+    ],
+    "DisplayInfo": null,
+    "Physics": null,
+    "Motions": {
+      "b_diantou": [
+        {
+          "File": "motions/b_diantou.motion3.json"
+        }
+      ],
+      "b_fanshu": [
+        {
+          "File": "motions/b_fanshu.motion3.json"
+        }
+      ],
+      "b_fanshu1": [
+        {
+          "File": "motions/b_fanshu1.motion3.json"
+        }
+      ],
+      "b_fanshu2": [
+        {
+          "File": "motions/b_fanshu2.motion3.json"
+        }
+      ],
+      "b_fanshu3": [
+        {
+          "File": "motions/b_fanshu3.motion3.json"
+        }
+      ],
+      "b_fuxiong": [
+        {
+          "File": "motions/b_fuxiong.motion3.json"
+        }
+      ],
+      "b_goupai": [
+        {
+          "File": "motions/b_goupai.motion3.json"
+        }
+      ],
+      "b_idle": [
+        {
+          "File": "motions/b_idle.motion3.json"
+        }
+      ],
+      "b_xianhua": [
+        {
+          "File": "motions/b_xianhua.motion3.json"
+        }
+      ],
+      "b_xianhua1": [
+        {
+          "File": "motions/b_xianhua1.motion3.json"
+        }
+      ],
+      "b_yaotou": [
+        {
+          "File": "motions/b_yaotou.motion3.json"
+        }
+      ],
+      "t_bizui": [
+        {
+          "File": "motions/t_bizui.motion3.json"
+        }
+      ],
+      "t_idle": [
+        {
+          "File": "motions/t_idle.motion3.json"
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      }
+    ]
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    }
+  ]
+}

@@ -111,14 +111,14 @@ PF/gt_1_fa_3_1
   index: -1
 PF/gt_1_fa_3_1_zhi
   rotate: false
-  xy: 2016, 47
+  xy: 2017, 47
   size: 20, 113
   orig: 20, 113
   offset: 0, 0
   index: -1
 PF/gt_1_fa_4
-  rotate: false
-  xy: 815, 27
+  rotate: true
+  xy: 518, 30
   size: 67, 66
   orig: 67, 69
   offset: 0, 0
@@ -237,7 +237,7 @@ PF/zm_xqyifu2
   index: -1
 PF/zm_zuoweibo1
   rotate: false
-  xy: 1431, 21
+  xy: 1785, 21
   size: 40, 45
   orig: 40, 45
   offset: 0, 0
@@ -258,7 +258,7 @@ PF/zm_zuoweibo3
   index: -1
 PF/zm_zuoweibo4
   rotate: false
-  xy: 878, 23
+  xy: 590, 13
   size: 58, 50
   orig: 58, 50
   offset: 0, 0
@@ -279,28 +279,28 @@ a_yanzhuang
   index: -1
 gt_1_bq_henge
   rotate: false
-  xy: 192, 23
+  xy: 947, 17
   size: 55, 34
   orig: 55, 34
   offset: 0, 0
   index: -1
 gt_1_bq_hit
   rotate: false
-  xy: 1714, 39
+  xy: 1359, 28
   size: 56, 32
   orig: 56, 32
   offset: 0, 0
   index: -1
 gt_1_bq_idle
   rotate: false
-  xy: 394, 25
+  xy: 880, 26
   size: 60, 36
   orig: 60, 36
   offset: 0, 0
   index: -1
 gt_1_bq_qifei
   rotate: false
-  xy: 1605, 23
+  xy: 498, 17
   size: 57, 34
   orig: 57, 34
   offset: 0, 0
@@ -363,7 +363,7 @@ gt_1_fa7
   index: -1
 gt_1_fa_1
   rotate: 180
-  xy: 1359, 25
+  xy: 425, 19
   size: 67, 54
   orig: 67, 54
   offset: 0, 0
@@ -384,7 +384,7 @@ gt_1_fa_3
   index: -1
 gt_1_fa_4
   rotate: 270
-  xy: 1133, 21
+  xy: 86, 17
   size: 57, 59
   orig: 57, 59
   offset: 0, 0
@@ -397,8 +397,8 @@ gt_1_tou
   offset: 0, 0
   index: -1
 gt_1_tun
-  rotate: false
-  xy: 1773, 51
+  rotate: 180
+  xy: 831, 49
   size: 64, 42
   orig: 64, 42
   offset: 0, 0
@@ -454,14 +454,14 @@ gt_1_youchi1_5
   index: -1
 gt_1_youchi1_6
   rotate: false
-  xy: 76, 24
+  xy: 299, 14
   size: 47, 55
   orig: 47, 55
   offset: 0, 0
   index: -1
 gt_1_youjiao1_1
-  rotate: false
-  xy: 540, 26
+  rotate: 270
+  xy: 1028, 24
   size: 49, 49
   orig: 49, 49
   offset: 0, 0
@@ -538,7 +538,7 @@ gt_1_zuochi2
   index: -1
 gt_1_zuojiao1
   rotate: false
-  xy: 1488, 32
+  xy: 1714, 33
   size: 65, 47
   orig: 65, 47
   offset: 0, 0
@@ -566,7 +566,7 @@ gt_1_zuotui1_bu
   index: -1
 gt_1_zuoxiaotui1
   rotate: true
-  xy: 1926, 31
+  xy: 352, 22
   size: 28, 57
   orig: 28, 57
   offset: 0, 0
@@ -601,7 +601,14 @@ gt_2_youtui2
   index: -1
 gt_2_youtui3
   rotate: true
-  xy: 1275, 41
+  xy: 1133, 40
+  size: 48, 78
+  orig: 48, 78
+  offset: 0, 0
+  index: -1
+gt_2_youtui4
+  rotate: 270
+  xy: 1933, 55
   size: 48, 78
   orig: 48, 78
   offset: 0, 0
@@ -642,8 +649,15 @@ gt_2_zuotui2
   offset: 0, 0
   index: -1
 gt_2_zuotui3
+  rotate: true
+  xy: 1787, 52
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1
+gt_2_zuotui4
   rotate: 270
-  xy: 1933, 53
+  xy: 441, 51
   size: 50, 76
   orig: 50, 76
   offset: 0, 0
@@ -685,7 +699,7 @@ gt_3_fa2
   index: -1
 gt_3_fa3
   rotate: true
-  xy: 451, 57
+  xy: 1433, 51
   size: 41, 92
   orig: 41, 92
   offset: 0, 0
@@ -713,7 +727,7 @@ gt_3_fa6
   index: -1
 gt_3_fadi_1
   rotate: true
-  xy: 1841, 35
+  xy: 1500, 35
   size: 39, 79
   orig: 39, 79
   offset: 0, 0
@@ -853,7 +867,7 @@ gt_4_xiongqiang
   index: -1
 gt_4_yi2
   rotate: true
-  xy: 296, 31
+  xy: 1217, 27
   size: 34, 58
   orig: 34, 58
   offset: 0, 0
@@ -951,7 +965,7 @@ gt_chibang_zhangkai2
   index: -1
 gt_gcp_1
   rotate: false
-  xy: 595, 25
+  xy: 1585, 22
   size: 39, 37
   orig: 39, 37
   offset: 0, 0
@@ -965,7 +979,7 @@ gt_gcp_2
   index: -1
 gt_gcp_3
   rotate: false
-  xy: 1560, 22
+  xy: 1117, 15
   size: 39, 37
   orig: 39, 37
   offset: 0, 0
@@ -979,7 +993,7 @@ gt_gcp_4
   index: -1
 gt_siwang_tui1_1
   rotate: false
-  xy: 1433, 55
+  xy: 1275, 45
   size: 78, 41
   orig: 78, 41
   offset: 0, 0
@@ -1056,7 +1070,7 @@ gt_tui_ti1_j2
   index: -1
 gt_tui_ti1_j3
   rotate: 180
-  xy: 757, 17
+  xy: 191, 13
   size: 52, 47
   orig: 52, 47
   offset: 0, 0
@@ -1084,14 +1098,14 @@ gt_tui_ti2_2
   index: -1
 gt_tui_ti2_j1
   rotate: true
-  xy: 1067, 22
+  xy: 1435, 22
   size: 29, 62
   orig: 29, 62
   offset: 0, 0
   index: -1
 gt_tui_ti2_j2
   rotate: false
-  xy: 1011, 23
+  xy: 1828, 13
   size: 60, 62
   orig: 60, 62
   offset: 0, 0
@@ -1105,7 +1119,7 @@ gt_tui_ti2_j3
   index: -1
 gt_tui_ti2_j4
   rotate: false
-  xy: 461, 28
+  xy: 756, 27
   size: 69, 46
   orig: 69, 46
   offset: 0, 0
@@ -1161,7 +1175,7 @@ pifa2
   index: -1
 sr_bq
   rotate: false
-  xy: 1250, 22
+  xy: 684, 16
   size: 60, 35
   orig: 60, 35
   offset: 0, 0
@@ -1210,7 +1224,7 @@ yumao2
   index: -1
 zuochibangshang
   rotate: false
-  xy: 1158, 47
+  xy: 1889, 32
   size: 93, 58
   orig: 93, 58
   offset: 0, 0
