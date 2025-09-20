@@ -1,0 +1,110 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 3.25,
+    "Fps": 30.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 1.0,
+    "FadeOutTime": 1.0,
+    "CurveCount": 4,
+    "TotalSegmentCount": 18,
+    "TotalPointCount": 18,
+    "UserDataCount": 0,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthopenY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        0.267,
+        1,
+        0,
+        0.517,
+        0,
+        0,
+        0.783,
+        0.732,
+        0,
+        1.05,
+        0,
+        0,
+        1.117,
+        0,
+        0,
+        1.35,
+        1,
+        0,
+        1.617,
+        0,
+        0,
+        1.917,
+        0.543,
+        0,
+        2.267,
+        0,
+        0,
+        2.35,
+        0,
+        0,
+        2.583,
+        1,
+        0,
+        2.767,
+        0,
+        0,
+        3.033,
+        0.65,
+        0,
+        3.25,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthformY01",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        0,
+        3.25,
+        0.999
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthformY02",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        3.25,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_CHEEK",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        3.25,
+        0
+      ]
+    }
+  ],
+  "UserData": []
+}

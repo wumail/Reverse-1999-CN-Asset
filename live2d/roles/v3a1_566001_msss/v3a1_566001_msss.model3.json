@@ -1,0 +1,130 @@
+{
+  "Version": 3,
+  "Name": "v3a1_566001_msss",
+  "FileReferences": {
+    "Moc": "v3a1_566001_msss.moc3",
+    "Textures": [
+      "textures/566001_msss_00.png",
+      "textures/566001_msss_01.png"
+    ],
+    "DisplayInfo": null,
+    "Physics": null,
+    "Motions": {
+      "b_chenzui": [
+        {
+          "File": "motions/b_chenzui.motion3.json"
+        }
+      ],
+      "b_dahaqian": [
+        {
+          "File": "motions/b_dahaqian.motion3.json"
+        }
+      ],
+      "b_dahaqian2": [
+        {
+          "File": "motions/b_dahaqian2.motion3.json"
+        }
+      ],
+      "b_dakeshui": [
+        {
+          "File": "motions/b_dakeshui.motion3.json"
+        }
+      ],
+      "b_dakeshui_loop": [
+        {
+          "File": "motions/b_dakeshui_loop.motion3.json"
+        }
+      ],
+      "b_idle": [
+        {
+          "File": "motions/b_idle.motion3.json"
+        }
+      ],
+      "b_qidai": [
+        {
+          "File": "motions/b_qidai.motion3.json"
+        }
+      ],
+      "b_touxiao": [
+        {
+          "File": "motions/b_touxiao.motion3.json"
+        }
+      ],
+      "b_tuixiao": [
+        {
+          "File": "motions/b_tuixiao.motion3.json"
+        }
+      ],
+      "e_idle": [
+        {
+          "File": "motions/e_idle.motion3.json"
+        }
+      ],
+      "t_bizui": [
+        {
+          "File": "motions/t_bizui.motion3.json"
+        }
+      ],
+      "t_idle1": [
+        {
+          "File": "motions/t_idle1.motion3.json"
+        }
+      ],
+      "t_idle2": [
+        {
+          "File": "motions/t_idle2.motion3.json"
+        }
+      ],
+      "t_qidai": [
+        {
+          "File": "motions/t_qidai.motion3.json"
+        }
+      ],
+      "t_qidai_bizui": [
+        {
+          "File": "motions/t_qidai_bizui.motion3.json"
+        }
+      ],
+      "t_touxiao": [
+        {
+          "File": "motions/t_touxiao.motion3.json"
+        }
+      ],
+      "t_touxiao_bizui": [
+        {
+          "File": "motions/t_touxiao_bizui.motion3.json"
+        }
+      ],
+      "t_tuixiao": [
+        {
+          "File": "motions/t_tuixiao.motion3.json"
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      }
+    ]
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen2",
+        "ParamEyeLOpen",
+        "ParamEyeROpen2"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY2",
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}
