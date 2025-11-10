@@ -1,230 +1,80 @@
-
 1200011_cg.png
-size: 1698,1698
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,1024
+filter:Linear,Linear
+scale:0.4
 bi
-  rotate: false
-  xy: 1568, 1267
-  size: 43, 429
-  orig: 44, 430
-  offset: 0, 1
-  index: -1
+bounds:146,348,35,343
+offsets:0,1,35,344
 body
-  rotate: true
-  xy: 1000, 870
-  size: 392, 514
-  orig: 392, 514
-  offset: 0, 0
-  index: -1
+bounds:664,280,314,411
 face
-  rotate: false
-  xy: 1255, 14
-  size: 355, 424
-  orig: 355, 424
-  offset: 0, 0
-  index: -1
+bounds:983,352,284,339
 fajie1
-  rotate: false
-  xy: 1411, 446
-  size: 63, 74
-  orig: 64, 74
-  offset: 1, 0
-  index: -1
+bounds:393,632,51,59
 fajie2
-  rotate: true
-  xy: 1612, 342
-  size: 49, 61
-  orig: 49, 61
-  offset: 0, 0
-  index: -1
+bounds:6,643,39,48
 guangdiana
-  rotate: true
-  xy: 1613, 1398
-  size: 132, 64
-  orig: 145, 68
-  offset: 1, 4
-  index: -1
+bounds:1676,304,105,49
+offsets:1,5,116,54
 houfa1
-  rotate: false
-  xy: 2, 840
-  size: 996, 856
-  orig: 996, 856
-  offset: 0, 0
-  index: -1
+bounds:138,6,796,685
+rotate:180
 houfa2
-  rotate: false
-  xy: 1516, 440
-  size: 169, 716
-  orig: 175, 716
-  offset: 6, 0
-  index: -1
+bounds:6,119,135,572
+offsets:5,0,140,572
 hudiejie1
-  rotate: false
-  xy: 1516, 1158
-  size: 49, 104
-  orig: 49, 104
-  offset: 0, 0
-  index: -1
+bounds:101,425,39,83
 hudiejie2
-  rotate: true
-  xy: 1255, 444
-  size: 76, 88
-  orig: 77, 89
-  offset: 1, 0
-  index: -1
+bounds:883,293,61,71
 hudiejie3
-  rotate: false
-  xy: 1613, 1289
-  size: 72, 107
-  orig: 72, 107
-  offset: 0, 0
-  index: -1
+bounds:1697,606,57,85
 hudiejie4
-  rotate: false
-  xy: 1345, 444
-  size: 64, 76
-  orig: 65, 76
-  offset: 1, 0
-  index: -1
+bounds:1978,586,52,61
 shou_1
-  rotate: true
-  xy: 360, 518
-  size: 320, 291
-  orig: 320, 291
-  offset: 0, 0
-  index: -1
+bounds:1786,276,256,232
 shou_2
-  rotate: true
-  xy: 742, 360
-  size: 175, 208
-  orig: 175, 208
-  offset: 0, 0
-  index: -1
+bounds:1402,208,140,166
+rotate:90
 shou_3
-  rotate: false
-  xy: 1613, 1194
-  size: 78, 93
-  orig: 78, 93
-  offset: 0, 0
-  index: -1
+bounds:1697,526,62,74
 shou_4
-  rotate: true
-  xy: 1568, 1234
-  size: 31, 32
-  orig: 31, 33
-  offset: 0, 0
-  index: -1
+bounds:187,665,24,26
 shou_5
-  rotate: false
-  xy: 742, 227
-  size: 124, 131
-  orig: 124, 132
-  offset: 0, 0
-  index: -1
+bounds:187,304,99,105
 shou_6
-  rotate: false
-  xy: 844, 650
-  size: 144, 188
-  orig: 144, 188
-  offset: 0, 0
-  index: -1
+bounds:1884,17,115,150
 shou_7
-  rotate: false
-  xy: 1255, 522
-  size: 251, 346
-  orig: 251, 346
-  offset: 0, 0
-  index: -1
+bounds:187,414,200,277
 toufa1
-  rotate: true
-  xy: 559, 61
-  size: 160, 328
-  orig: 160, 328
-  offset: 0, 0
-  index: -1
+bounds:1563,429,128,262
 toufa10
-  rotate: false
-  xy: 340, 249
-  size: 216, 217
-  orig: 216, 217
-  offset: 0, 0
-  index: -1
+bounds:940,20,172,174
 toufa11
-  rotate: false
-  xy: 558, 266
-  size: 182, 250
-  orig: 182, 250
-  offset: 0, 0
-  index: -1
+bounds:1896,121,146,200
 toufa12
-  rotate: true
-  xy: 1000, 1264
-  size: 432, 566
-  orig: 492, 566
-  offset: 29, 0
-  index: -1
+bounds:1523,238,346,453
+offsets:23,0,393,453
+rotate:180
 toufa2
-  rotate: false
-  xy: 1613, 1532
-  size: 62, 164
-  orig: 62, 164
-  offset: 0, 0
-  index: -1
+bounds:116,288,49,131
 toufa3
-  rotate: true
-  xy: 2, 326
-  size: 140, 336
-  orig: 153, 336
-  offset: 0, 0
-  index: -1
+bounds:1199,65,112,268
+offsets:0,0,122,268
+rotate:90
 toufa4
-  rotate: false
-  xy: 1612, 393
-  size: 84, 45
-  orig: 84, 45
-  offset: 0, 0
-  index: -1
+bounds:1864,520,67,36
 toufa5
-  rotate: false
-  xy: 889, 61
-  size: 295, 160
-  orig: 295, 161
-  offset: 0, 0
-  index: -1
+bounds:1654,141,236,129
 toufa6
-  rotate: false
-  xy: 653, 537
-  size: 127, 103
-  orig: 127, 103
-  offset: 0, 0
-  index: -1
+bounds:950,264,102,82
 toufa7
-  rotate: false
-  xy: 653, 642
-  size: 189, 196
-  orig: 189, 196
-  offset: 0, 0
-  index: -1
+bounds:1873,535,151,156
 toufa8
-  rotate: false
-  xy: 1000, 223
-  size: 253, 645
-  orig: 253, 645
-  offset: 0, 0
-  index: -1
+bounds:880,187,202,516
+rotate:90
 toufa9
-  rotate: true
-  xy: 2, 17
-  size: 204, 555
-  orig: 204, 555
-  offset: 0, 0
-  index: -1
+bounds:1205,78,163,444
+rotate:90
 zuoshou
-  rotate: true
-  xy: 2, 468
-  size: 370, 356
-  orig: 370, 356
-  offset: 0, 0
-  index: -1
+bounds:1273,395,296,284
+rotate:90

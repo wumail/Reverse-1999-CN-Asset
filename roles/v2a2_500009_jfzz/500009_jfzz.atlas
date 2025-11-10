@@ -1,167 +1,66 @@
-
 500009_jfzz.png
-size: 356,200
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 jfzz_chi1
-  rotate: false
-  xy: 6, 41
-  size: 86, 153
-  orig: 91, 157
-  offset: 3, 0
-  index: -1
+bounds:6,6,86,153
+offsets:3,0,91,157
 jfzz_chi2
-  rotate: false
-  xy: 46, 83
-  size: 131, 110
-  orig: 131, 110
-  offset: 0, 0
-  index: -1
+bounds:46,49,131,110
 jfzz_chi3
-  rotate: 180
-  xy: 44, 14
-  size: 117, 77
-  orig: 117, 78
-  offset: 0, 1
-  index: -1
+bounds:239,42,117,77
+offsets:0,1,117,78
+rotate:90
 jfzz_daimao1
-  rotate: 270
-  xy: 293, 7
-  size: 30, 38
-  orig: 31, 38
-  offset: 0, 0
-  index: -1
+bounds:180,42,30,38
+offsets:0,0,31,38
 jfzz_daimao2
-  rotate: true
-  xy: 262, 18
-  size: 32, 56
-  orig: 32, 56
-  offset: 0, 0
-  index: -1
+bounds:241,44,32,56
 jfzz_daimao3
-  rotate: false
-  xy: 327, 28
-  size: 20, 39
-  orig: 20, 39
-  offset: 0, 0
-  index: -1
+bounds:424,37,20,39
 jfzz_jiao3
-  rotate: true
-  xy: 296, 119
-  size: 41, 33
-  orig: 43, 33
-  offset: 1, 0
-  index: -1
+bounds:334,45,41,33
+offsets:1,0,43,33
 jfzz_jiao4
-  rotate: true
-  xy: 292, 55
-  size: 36, 34
-  orig: 39, 34
-  offset: 1, 0
-  index: -1
+bounds:207,45,36,34
+offsets:1,0,39,34
 jfzz_qugna
-  rotate: false
-  xy: 161, 116
-  size: 74, 78
-  orig: 74, 78
-  offset: 0, 0
-  index: -1
+bounds:161,81,74,78
 jfzz_tou
-  rotate: 270
-  xy: 167, 31
-  size: 80, 58
-  orig: 80, 58
-  offset: 0, 0
-  index: -1
+bounds:314,79,80,58
+rotate:90
 jfzz_wei
-  rotate: 180
-  xy: 210, 16
-  size: 57, 81
-  orig: 57, 81
-  offset: 0, 0
-  index: -1
+bounds:355,78,57,81
+rotate:180
 jfzz_yan1
-  rotate: false
-  xy: 96, 88
-  size: 20, 19
-  orig: 20, 20
-  offset: 0, 0
-  index: -1
+bounds:134,140,20,19
+offsets:0,0,20,20
 jfzz_yan2
-  rotate: false
-  xy: 183, 10
-  size: 17, 16
-  orig: 17, 16
-  offset: 0, 0
-  index: -1
+bounds:454,90,17,16
 jfzz_yan_bq_jiaoao
-  rotate: false
-  xy: 134, 174
-  size: 24, 20
-  orig: 25, 22
-  offset: 1, 1
-  index: -1
+bounds:279,50,24,20
+offsets:1,1,25,22
 jfzz_yan_bq_shuijiao
-  rotate: false
-  xy: 318, 167
-  size: 20, 20
-  orig: 20, 20
-  offset: 0, 0
-  index: -1
+bounds:320,38,20,20
 jfzz_yan_bq_xiyue
-  rotate: false
-  xy: 6, 11
-  size: 16, 14
-  orig: 20, 20
-  offset: 1, 4
-  index: -1
+bounds:490,49,16,13
+offsets:1,4,20,20
 jfzz_yt_dt
-  rotate: false
-  xy: 6, 31
-  size: 32, 43
-  orig: 32, 43
-  offset: 0, 0
-  index: -1
+bounds:462,116,32,43
+rotate:180
 jfzz_yt_z1
-  rotate: false
-  xy: 321, 88
-  size: 19, 36
-  orig: 23, 36
-  offset: 1, 0
-  index: -1
+bounds:96,38,19,36
+offsets:1,0,23,36
 jfzz_zt_datui
-  rotate: 180
-  xy: 281, 146
-  size: 31, 46
-  orig: 31, 46
-  offset: 0, 0
-  index: -1
+bounds:475,70,31,46
 jfzz_zt_z1
-  rotate: true
-  xy: 138, 10
-  size: 25, 39
-  orig: 28, 39
-  offset: 2, 0
-  index: -1
+bounds:397,45,25,39
+offsets:2,0,28,39
 jfzz_zui1
-  rotate: 270
-  xy: 261, 37
-  size: 78, 50
-  orig: 78, 50
-  offset: 0, 0
-  index: -1
+bounds:405,53,78,50
 jfzz_zui2
-  rotate: true
-  xy: 332, 126
-  size: 20, 15
-  orig: 20, 15
-  offset: 0, 0
-  index: -1
+bounds:296,144,20,15
 sw_dangao
-  rotate: 270
-  xy: 240, 103
-  size: 60, 48
-  orig: 60, 50
-  offset: 0, 0
-  index: -1
+bounds:409,99,60,48
+offsets:0,0,60,50
+rotate:270

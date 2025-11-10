@@ -1,223 +1,75 @@
-
 620212_zhuhunshuanglang.png
-size: 976,248
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 1_er1
-  rotate: true
-  xy: 906, 105
-  size: 76, 60
-  orig: 76, 60
-  offset: 0, 0
-  index: -1
+bounds:311,371,76,60
+rotate:180
 1_er2
-  rotate: false
-  xy: 927, 186
-  size: 30, 53
-  orig: 30, 53
-  offset: 0, 0
-  index: -1
+bounds:472,259,30,53
 1_qugan
-  rotate: false
-  xy: 6, 27
-  size: 320, 214
-  orig: 320, 214
-  offset: 0, 0
-  index: -1
+bounds:6,116,320,214
+rotate:90
 1_shange1
-  rotate: false
-  xy: 493, 141
-  size: 155, 99
-  orig: 155, 99
-  offset: 0, 0
-  index: -1
+bounds:265,167,155,99
 1_shange2
-  rotate: 270
-  xy: 799, 94
-  size: 76, 75
-  orig: 76, 75
-  offset: 0, 0
-  index: -1
+bounds:26,360,76,75
+rotate:90
 1_weiba
-  rotate: 180
-  xy: 415, 32
-  size: 145, 179
-  orig: 145, 179
-  offset: 0, 0
-  index: -1
+bounds:321,257,145,179
+rotate:180
 1_xiae1
-  rotate: false
-  xy: 6, 83
-  size: 64, 53
-  orig: 64, 53
-  offset: 0, 0
-  index: -1
+bounds:6,6,64,53
 1_yan
-  rotate: false
-  xy: 293, 9
-  size: 29, 27
-  orig: 29, 27
-  offset: 0, 0
-  index: -1
+bounds:197,409,29,27
 1_youhoutui1
-  rotate: true
-  xy: 363, 8
-  size: 38, 53
-  orig: 38, 53
-  offset: 0, 0
-  index: -1
+bounds:337,8,38,53
 1_youhoutui2
-  rotate: true
-  xy: 916, 10
-  size: 86, 51
-  orig: 86, 51
-  offset: 0, 0
-  index: -1
+bounds:170,16,86,51
 1_youqianzhua1
-  rotate: 180
-  xy: 714, 10
-  size: 66, 78
-  orig: 66, 78
-  offset: 0, 0
-  index: -1
+bounds:175,72,66,78
 1_youqianzhua2
-  rotate: true
-  xy: 736, 93
-  size: 105, 69
-  orig: 105, 69
-  offset: 0, 0
-  index: -1
+bounds:375,49,105,69
 1_zuohoutui1
-  rotate: false
-  xy: 560, 24
-  size: 92, 123
-  orig: 92, 123
-  offset: 0, 0
-  index: -1
+bounds:187,137,92,123
+rotate:90
 1_zuohoutui2
-  rotate: 180
-  xy: 649, 7
-  size: 76, 86
-  orig: 76, 86
-  offset: 0, 0
-  index: -1
+bounds:430,182,76,86
 1_zuoqiantui1
-  rotate: false
-  xy: 860, 30
-  size: 57, 69
-  orig: 57, 69
-  offset: 0, 0
-  index: -1
+bounds:96,54,57,69
+rotate:90
 1_zuoqiantui2
-  rotate: false
-  xy: 637, 122
-  size: 95, 118
-  orig: 95, 118
-  offset: 0, 0
-  index: -1
+bounds:244,53,95,118
+rotate:90
 2_er1
-  rotate: true
-  xy: 808, 191
-  size: 50, 69
-  orig: 50, 69
-  offset: 0, 0
-  index: -1
+bounds:446,367,50,69
 2_er2
-  rotate: true
-  xy: 214, 210
-  size: 31, 43
-  orig: 31, 43
-  offset: 0, 0
-  index: -1
+bounds:472,318,31,43
 2_shange
-  rotate: false
-  xy: 6, 7
-  size: 145, 58
-  orig: 145, 58
-  offset: 0, 0
-  index: -1
+bounds:361,117,145,58
 2_xiae1
-  rotate: true
-  xy: 878, 105
-  size: 95, 59
-  orig: 95, 59
-  offset: 0, 0
-  index: -1
+bounds:355,16,95,59
+rotate:180
 2_xiae2
-  rotate: false
-  xy: 767, 29
-  size: 85, 79
-  orig: 85, 79
-  offset: 0, 0
-  index: -1
+bounds:6,61,85,79
 2_yan
-  rotate: false
-  xy: 328, 13
-  size: 28, 22
-  orig: 28, 22
-  offset: 0, 0
-  index: -1
+bounds:403,414,28,22
 2shenti
-  rotate: true
-  xy: 321, 41
-  size: 190, 104
-  orig: 190, 104
-  offset: 0, 0
-  index: -1
+bounds:219,246,190,104
+rotate:90
 koushui1
-  rotate: false
-  xy: 517, 7
-  size: 38, 46
-  orig: 38, 46
-  offset: 0, 0
-  index: -1
+bounds:6,309,38,46
 koushui2
-  rotate: true
-  xy: 164, 215
-  size: 26, 43
-  orig: 26, 43
-  offset: 0, 0
-  index: -1
+bounds:480,20,26,43
 koushui3
-  rotate: true
-  xy: 421, 9
-  size: 18, 74
-  orig: 18, 74
-  offset: 0, 0
-  index: -1
+bounds:6,362,18,74
 zuishi1
-  rotate: false
-  xy: 6, 217
-  size: 17, 23
-  orig: 17, 23
-  offset: 0, 0
-  index: -1
+bounds:409,233,17,23
 zuishi2
-  rotate: false
-  xy: 6, 65
-  size: 22, 23
-  orig: 22, 23
-  offset: 0, 0
-  index: -1
+bounds:328,343,22,23
 zuishi3
-  rotate: false
-  xy: 537, 7
-  size: 14, 18
-  orig: 14, 18
-  offset: 0, 0
-  index: -1
+bounds:356,348,14,18
 zuishi4
-  rotate: false
-  xy: 227, 193
-  size: 17, 11
-  orig: 17, 11
-  offset: 0, 0
-  index: -1
+bounds:445,350,17,11
 zuishi5
-  rotate: false
-  xy: 28, 229
-  size: 18, 11
-  orig: 18, 11
-  offset: 0, 0
-  index: -1
+bounds:336,425,18,11

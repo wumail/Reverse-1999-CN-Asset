@@ -1,195 +1,72 @@
-
 613101_zhenmin_p.png
-size: 1272,1120
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,1024
+filter:Linear,Linear
+scale:0.4
 a1
-  rotate: false
-  xy: 548, 171
-  size: 277, 332
-  orig: 277, 332
-  offset: 0, 0
-  index: -1
+bounds:1360,474,277,332
+rotate:180
 a2
-  rotate: false
-  xy: 809, 4
-  size: 234, 167
-  orig: 234, 167
-  offset: 0, 0
-  index: -1
+bounds:1359,56,234,167
 a3
-  rotate: false
-  xy: 1120, 302
-  size: 149, 245
-  orig: 149, 248
-  offset: 0, 0
-  index: -1
+bounds:1777,253,149,245
+offsets:0,0,149,248
 a4
-  rotate: 180
-  xy: 656, 367
-  size: 360, 751
-  orig: 360, 751
-  offset: 0, 0
-  index: -1
+bounds:775,55,360,751
 a5
-  rotate: false
-  xy: 348, 323
-  size: 306, 794
-  orig: 306, 794
-  offset: 0, 0
-  index: -1
+bounds:492,12,306,794
+rotate:180
 a6
-  rotate: false
-  xy: 2, 440
-  size: 358, 678
-  orig: 358, 678
-  offset: 0, 0
-  index: -1
+bounds:129,128,358,678
+rotate:180
 a7
-  rotate: false
-  xy: 976, 317
-  size: 142, 800
-  orig: 142, 800
-  offset: 0, 0
-  index: -1
+bounds:6,6,142,800
 a8
-  rotate: 270
-  xy: 2, 161
-  size: 299, 404
-  orig: 299, 404
-  offset: 0, 0
-  index: -1
+bounds:1069,402,299,404
+rotate:180
 bizui
-  rotate: false
-  xy: 2, 14
-  size: 108, 58
-  orig: 108, 58
-  offset: 0, 0
-  index: -1
+bounds:1962,585,108,58
+rotate:90
 dazui
-  rotate: false
-  xy: 297, 92
-  size: 100, 66
-  orig: 100, 66
-  offset: 0, 0
-  index: -1
+bounds:458,740,100,66
 id1
-  rotate: false
-  xy: 2, 74
-  size: 131, 85
-  orig: 131, 85
-  offset: 0, 0
-  index: -1
+bounds:1682,162,131,85
 id2
-  rotate: false
-  xy: 822, 334
-  size: 101, 49
-  orig: 101, 50
-  offset: 0, 0
-  index: -1
+bounds:1141,130,101,49
+offsets:0,0,101,50
 id3
-  rotate: false
-  xy: 391, 7
-  size: 108, 54
-  orig: 108, 54
-  offset: 0, 0
-  index: -1
+bounds:1492,169,108,54
 id4
-  rotate: false
-  xy: 627, 656
-  size: 98, 70
-  orig: 98, 70
-  offset: 0, 0
-  index: -1
+bounds:1932,368,98,70
+rotate:90
 jieyin
-  rotate: false
-  xy: 806, 145
-  size: 359, 170
-  orig: 359, 170
-  offset: 0, 0
-  index: -1
+bounds:1614,447,359,170
+rotate:90
 jieyin1
-  rotate: false
-  xy: 473, 58
-  size: 221, 94
-  orig: 221, 94
-  offset: 0, 0
-  index: -1
+bounds:989,585,221,94
+rotate:90
 jieyin2
-  rotate: 180
-  xy: 1073, 56
-  size: 171, 190
-  orig: 171, 190
-  offset: 0, 0
-  index: -1
+bounds:1600,165,171,190
 jieyin3
-  rotate: true
-  xy: 1120, 549
-  size: 260, 134
-  orig: 260, 134
-  offset: 0, 0
-  index: -1
+bounds:1374,319,260,134
 jieyin4
-  rotate: true
-  xy: 1091, 815
-  size: 302, 166
-  orig: 302, 166
-  offset: 0, 0
-  index: -1
+bounds:1790,504,302,166
+rotate:90
 jieyin5
-  rotate: false
-  xy: 407, 109
-  size: 136, 212
-  orig: 136, 212
-  offset: 0, 0
-  index: -1
+bounds:1141,185,136,212
 kx_bizui
-  rotate: false
-  xy: 622, 590
-  size: 107, 63
-  orig: 107, 63
-  offset: 0, 0
-  index: -1
+bounds:1962,699,107,63
+rotate:90
 kx_my
-  rotate: false
-  xy: 112, 7
-  size: 104, 50
-  orig: 104, 50
-  offset: 0, 0
-  index: -1
+bounds:1640,391,104,50
 kx_mz
-  rotate: false
-  xy: 614, 504
-  size: 133, 84
-  orig: 133, 84
-  offset: 0, 0
-  index: -1
+bounds:1428,229,133,84
 kx_zui
-  rotate: false
-  xy: 262, 425
-  size: 108, 61
-  orig: 108, 61
-  offset: 0, 0
-  index: -1
+bounds:1961,471,108,61
+rotate:90
 mh1
-  rotate: false
-  xy: 156, 59
-  size: 139, 112
-  orig: 139, 112
-  offset: 0, 0
-  index: -1
+bounds:1283,201,139,112
 mh2
-  rotate: false
-  xy: 696, 80
-  size: 124, 89
-  orig: 129, 89
-  offset: 5, 0
-  index: -1
+bounds:1819,158,125,89
+offsets:4,0,129,89
 mh3
-  rotate: false
-  xy: 288, 14
-  size: 102, 62
-  orig: 102, 62
-  offset: 0, 0
-  index: -1
+bounds:1932,300,102,62

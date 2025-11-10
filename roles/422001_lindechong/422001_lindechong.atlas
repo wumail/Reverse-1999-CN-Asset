@@ -1,97 +1,36 @@
-
 422001_lindechong.png
-size: 256,192
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 shi1
-  rotate: false
-  xy: 178, 137
-  size: 56, 53
-  orig: 56, 53
-  offset: 0, 0
-  index: -1
+bounds:186,138,56,53
+rotate:90
 shi2
-  rotate: true
-  xy: 178, 96
-  size: 39, 52
-  orig: 41, 52
-  offset: 2, 0
-  index: -1
+bounds:245,142,39,52
+offsets:2,0,41,52
 txb_shenti
-  rotate: false
-  xy: 2, 2
-  size: 174, 188
-  orig: 174, 188
-  offset: 0, 0
-  index: -1
+bounds:6,6,174,188
 txb_sya
-  rotate: false
-  xy: 236, 169
-  size: 16, 21
-  orig: 16, 21
-  offset: 0, 0
-  index: -1
+bounds:449,173,16,21
 txb_xya
-  rotate: true
-  xy: 236, 144
-  size: 23, 13
-  orig: 23, 13
-  offset: 0, 0
-  index: -1
+bounds:471,171,23,13
+rotate:90
 txb_yan1
-  rotate: false
-  xy: 240, 31
-  size: 12, 11
-  orig: 12, 11
-  offset: 0, 0
-  index: -1
+bounds:490,183,12,11
 txb_yan2
-  rotate: false
-  xy: 232, 98
-  size: 22, 25
-  orig: 22, 25
-  offset: 0, 0
-  index: -1
+bounds:388,169,22,25
 txb_yan3
-  rotate: true
-  xy: 223, 28
-  size: 14, 15
-  orig: 14, 15
-  offset: 0, 0
-  index: -1
+bounds:6,179,14,15
 txb_yshou
-  rotate: false
-  xy: 225, 44
-  size: 27, 27
-  orig: 27, 27
-  offset: 0, 0
-  index: -1
+bounds:416,167,27,27
 txb_zshou
-  rotate: true
-  xy: 232, 73
-  size: 23, 20
-  orig: 23, 20
-  offset: 0, 0
-  index: -1
+bounds:483,152,23,20
 xing1
-  rotate: true
-  xy: 178, 6
-  size: 42, 43
-  orig: 50, 49
-  offset: 4, 3
-  index: -1
+bounds:340,152,42,42
+offsets:4,3,50,49
 xingxing1
-  rotate: false
-  xy: 236, 125
-  size: 17, 17
-  orig: 17, 17
-  offset: 0, 0
-  index: -1
+bounds:437,150,17,17
 xingxing2
-  rotate: false
-  xy: 178, 50
-  size: 45, 44
-  orig: 48, 49
-  offset: 1, 2
-  index: -1
+bounds:290,149,45,44
+offsets:1,2,48,49
+rotate:90

@@ -1,195 +1,90 @@
-
 635601_apple_p.png
-size: 144,1624
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:1024,256
+filter:Linear,Linear
+scale:0.4
 gun
-  rotate: false
-  xy: 109, 95
-  size: 18, 36
-  orig: 22, 36
-  offset: 3, 0
-  index: -1
+bounds:6,21,18,36
+offsets:3,0,22,36
 hong1
-  rotate: false
-  xy: 98, 45
-  size: 34, 44
-  orig: 43, 53
-  offset: 5, 5
-  index: -1
+bounds:447,20,34,44
+offsets:5,5,43,53
+rotate:90
 hong2
-  rotate: true
-  xy: 57, 95
-  size: 35, 45
-  orig: 43, 53
-  offset: 4, 4
-  index: -1
+bounds:869,22,35,45
+offsets:4,4,43,53
 hong3
-  rotate: false
-  xy: 74, 343
-  size: 52, 67
-  orig: 63, 78
-  offset: 5, 5
-  index: -1
+bounds:184,22,52,67
+offsets:5,5,63,78
+rotate:90
 hong_pg
-  rotate: false
-  xy: 6, 1506
-  size: 125, 110
-  orig: 126, 110
-  offset: 0, 0
-  index: -1
+bounds:276,80,125,110
+offsets:0,0,126,110
+rotate:90
 huang1
-  rotate: false
-  xy: 6, 18
-  size: 34, 44
-  orig: 43, 53
-  offset: 5, 5
-  index: -1
+bounds:397,27,34,44
+offsets:5,5,43,53
+rotate:90
 huang2
-  rotate: false
-  xy: 6, 68
-  size: 35, 45
-  orig: 43, 53
-  offset: 4, 4
-  index: -1
+bounds:356,29,35,45
+offsets:4,4,43,53
 huang3
-  rotate: true
-  xy: 51, 285
-  size: 52, 67
-  orig: 63, 78
-  offset: 5, 5
-  index: -1
+bounds:111,22,52,67
+offsets:5,5,63,78
+rotate:90
 huang_pg
-  rotate: false
-  xy: 6, 1390
-  size: 125, 110
-  orig: 126, 110
-  offset: 0, 0
-  index: -1
+bounds:160,80,125,110
+offsets:0,0,126,110
+rotate:90
 lv1
-  rotate: true
-  xy: 46, 14
-  size: 34, 44
-  orig: 43, 53
-  offset: 5, 5
-  index: -1
+bounds:508,23,34,44
+offsets:5,5,43,53
 lv2
-  rotate: true
-  xy: 47, 54
-  size: 35, 45
-  orig: 43, 53
-  offset: 4, 4
-  index: -1
+bounds:315,29,35,45
+offsets:4,4,43,53
 lv3
-  rotate: true
-  xy: 6, 227
-  size: 52, 67
-  orig: 63, 78
-  offset: 5, 5
-  index: -1
+bounds:38,22,52,67
+offsets:5,5,63,78
+rotate:90
 lv_pg
-  rotate: false
-  xy: 6, 1274
-  size: 125, 110
-  orig: 126, 110
-  offset: 0, 0
-  index: -1
+bounds:44,80,125,110
+offsets:0,0,126,110
+rotate:90
 pf/kk
-  rotate: false
-  xy: 6, 119
-  size: 45, 45
-  orig: 45, 45
-  offset: 0, 0
-  index: -1
+bounds:956,160,45,45
 pf/pingguo
-  rotate: true
-  xy: 6, 996
-  size: 127, 119
-  orig: 127, 119
-  offset: 0, 0
-  index: -1
+bounds:504,78,127,119
+rotate:270
 pf/tc2
-  rotate: true
-  xy: 96, 7
-  size: 32, 33
-  orig: 35, 33
-  offset: 1, 0
-  index: -1
+bounds:985,6,32,33
+offsets:1,0,35,33
+rotate:90
 pf/y1
-  rotate: false
-  xy: 56, 434
-  size: 78, 147
-  orig: 78, 147
-  offset: 0, 0
-  index: -1
+bounds:709,21,78,147
+rotate:90
 pf/y2
-  rotate: false
-  xy: 79, 137
-  size: 32, 143
-  orig: 32, 143
-  offset: 0, 0
-  index: -1
+bounds:6,62,32,143
 pf/y3
-  rotate: 180
-  xy: 6, 576
-  size: 116, 101
-  orig: 116, 101
-  offset: 0, 0
-  index: -1
+bounds:917,35,116,101
+rotate:90
 pf/y4
-  rotate: false
-  xy: 6, 1123
-  size: 115, 145
-  orig: 115, 145
-  offset: 0, 0
-  index: -1
+bounds:392,60,115,145
 pf/y5
-  rotate: 180
-  xy: 6, 340
-  size: 63, 140
-  orig: 63, 140
-  offset: 0, 0
-  index: -1
+bounds:548,19,63,140
+rotate:90
 pf/y6
-  rotate: true
-  xy: 78, 616
-  size: 52, 49
-  orig: 52, 49
-  offset: 0, 0
-  index: -1
+bounds:820,46,52,49
 pf/y7
-  rotate: 180
-  xy: 6, 672
-  size: 132, 90
-  orig: 132, 90
-  offset: 0, 0
-  index: -1
+bounds:859,73,132,90
+rotate:90
 pf/yj1
-  rotate: false
-  xy: 6, 170
-  size: 52, 51
-  orig: 52, 52
-  offset: 0, 1
-  index: -1
+bounds:257,23,52,51
+offsets:0,1,52,52
 pf/yj2
-  rotate: false
-  xy: 125, 138
-  size: 13, 33
-  orig: 41, 45
-  offset: 28, 12
-  index: -1
+bounds:693,19,13,33
+offsets:28,12,41,45
 pingguo
-  rotate: 180
-  xy: 6, 879
-  size: 126, 110
-  orig: 126, 110
-  offset: 0, 0
-  index: -1
+bounds:745,79,126,110
+rotate:90
 pingguo_1
-  rotate: 180
-  xy: 6, 763
-  size: 126, 110
-  orig: 126, 110
-  offset: 0, 0
-  index: -1
+bounds:629,79,126,110
+rotate:90

@@ -1,48 +1,25 @@
-
 622801_mtr_p.png
-size: 904,972
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,512
+filter:Linear,Linear
+scale:0.6
 mutouren_1
-  rotate: 180
-  xy: 535, 65
-  size: 310, 753
-  orig: 310, 753
-  offset: 0, 0
-  index: -1
+bounds:1267,6,266,646
+rotate:270
 mutouren_2
-  rotate: 180
-  xy: 274, 52
-  size: 306, 913
-  orig: 395, 945
-  offset: 47, 0
-  index: -1
+bounds:711,204,262,782
+offsets:41,0,338,810
+rotate:90
 mutouren_21
-  rotate: 180
-  xy: 85, 7
-  size: 214, 171
-  orig: 214, 176
-  offset: 0, 5
-  index: -1
+bounds:1736,283,183,147
+offsets:0,4,183,151
+rotate:90
 mutouren_22
-  rotate: false
-  xy: 783, 745
-  size: 114, 219
-  orig: 118, 219
-  offset: 4, 0
-  index: -1
+bounds:1878,278,97,188
+offsets:4,0,101,188
+rotate:180
 mutouren_3
-  rotate: false
-  xy: 6, 148
-  size: 307, 816
-  orig: 564, 1010
-  offset: 0, 0
-  index: -1
+bounds:6,203,263,700
+offsets:0,0,484,866
+rotate:90
 mutouren_31
-  rotate: 180
-  xy: 500, 731
-  size: 272, 233
-  orig: 272, 233
-  offset: 0, 0
-  index: -1
+bounds:1498,266,233,200

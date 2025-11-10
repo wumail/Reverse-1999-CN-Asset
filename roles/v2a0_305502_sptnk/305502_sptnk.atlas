@@ -1,160 +1,62 @@
-
 305502_sptnk.png
-size: 776,256
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 a_xiannvbang
-  rotate: false
-  xy: 663, 29
-  size: 41, 72
-  orig: 41, 72
-  offset: 0, 0
-  index: -1
+bounds:462,310,41,72
 gan01
-  rotate: false
-  xy: 174, 135
-  size: 46, 23
-  orig: 46, 23
-  offset: 0, 0
-  index: -1
+bounds:136,248,46,23
 gan02
-  rotate: false
-  xy: 107, 185
-  size: 13, 41
-  orig: 13, 41
-  offset: 0, 0
-  index: -1
+bounds:41,306,13,41
 gan03
-  rotate: false
-  xy: 6, 112
-  size: 31, 32
-  orig: 31, 34
-  offset: 0, 0
-  index: -1
+bounds:212,350,31,32
+offsets:0,0,31,34
 pfsptnk_hongbu1
-  rotate: true
-  xy: 710, 9
-  size: 86, 41
-  orig: 86, 41
-  offset: 0, 0
-  index: -1
+bounds:42,341,86,41
 pfsptnk_huahuan1
-  rotate: true
-  xy: 282, 33
-  size: 88, 179
-  orig: 88, 179
-  offset: 0, 0
-  index: -1
+bounds:288,174,88,179
+rotate:270
 pfsptnk_huahuan2
-  rotate: 180
-  xy: 463, 33
-  size: 83, 123
-  orig: 83, 123
-  offset: 0, 0
-  index: -1
+bounds:115,55,83,123
+rotate:90
 pfsptnk_maoyinying
-  rotate: 270
-  xy: 554, 8
-  size: 97, 102
-  orig: 97, 102
-  offset: 0, 0
-  index: -1
+bounds:404,89,97,102
+rotate:270
 pfsptnk_maozi1
-  rotate: false
-  xy: 6, 57
-  size: 271, 190
-  orig: 271, 190
-  offset: 0, 0
-  index: -1
+bounds:21,111,271,190
+rotate:90
 pfsptnk_maozi2
-  rotate: 180
-  xy: 511, 163
-  size: 94, 84
-  orig: 94, 84
-  offset: 0, 0
-  index: -1
+bounds:244,92,94,84
 pfsptnk_maozi3
-  rotate: 180
-  xy: 200, 89
-  size: 209, 159
-  orig: 209, 159
-  offset: 0, 0
-  index: -1
+bounds:178,173,209,159
+rotate:270
 pfsptnk_yinfu1
-  rotate: false
-  xy: 6, 26
-  size: 100, 78
-  orig: 100, 79
-  offset: 0, 1
-  index: -1
+bounds:335,131,100,78
+offsets:0,1,100,79
 qiuti
-  rotate: true
-  xy: 398, 133
-  size: 115, 113
-  orig: 115, 113
-  offset: 0, 0
-  index: -1
+bounds:343,267,115,113
+rotate:90
 sptnk_01
-  rotate: true
-  xy: 690, 101
-  size: 146, 73
-  orig: 146, 73
-  offset: 0, 0
-  index: -1
+bounds:325,17,146,73
 sptnk_02
-  rotate: true
-  xy: 95, 22
-  size: 33, 180
-  orig: 54, 181
-  offset: 0, 0
-  index: -1
+bounds:6,202,33,180
+offsets:0,0,54,181
 sptnk_06
-  rotate: false
-  xy: 128, 164
-  size: 66, 83
-  orig: 67, 85
-  offset: 0, 1
-  index: -1
+bounds:106,144,66,83
+offsets:0,1,67,85
 sptnk_07
-  rotate: false
-  xy: 736, 183
-  size: 27, 64
-  orig: 29, 65
-  offset: 1, 1
-  index: -1
+bounds:460,241,27,63
+offsets:1,1,29,65
 sptnk_10
-  rotate: false
-  xy: 281, 11
-  size: 23, 23
-  orig: 23, 23
-  offset: 0, 0
-  index: -1
+bounds:472,212,23,23
 sptnk_11
-  rotate: true
-  xy: 643, 71
-  size: 162, 123
-  orig: 162, 123
-  offset: 0, 0
-  index: -1
+bounds:196,6,162,123
+rotate:90
 sptnk_12
-  rotate: false
-  xy: 570, 28
-  size: 67, 215
-  orig: 67, 215
-  offset: 0, 0
-  index: -1
+bounds:6,39,67,215
+rotate:90
 sptnk_14
-  rotate: false
-  xy: 112, 61
-  size: 20, 13
-  orig: 21, 13
-  offset: 0, 0
-  index: -1
+bounds:472,193,20,13
+offsets:0,0,21,13
 sptnk_15
-  rotate: false
-  xy: 438, 20
-  size: 13, 25
-  orig: 13, 25
-  offset: 0, 0
-  index: -1
+bounds:6,357,13,25

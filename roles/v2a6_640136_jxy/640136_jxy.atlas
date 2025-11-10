@@ -1,223 +1,94 @@
-
 640136_jxy.png
-size: 404,348
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 j_bl
-  rotate: true
-  xy: 302, 8
-  size: 38, 34
-  orig: 38, 34
-  offset: 0, 0
-  index: -1
+bounds:13,8,38,34
+rotate:180
 j_jl2
-  rotate: true
-  xy: 6, 18
-  size: 13, 98
-  orig: 13, 98
-  offset: 0, 0
-  index: -1
+bounds:6,166,13,98
 j_yd1
-  rotate: 180
-  xy: 30, 36
-  size: 77, 24
-  orig: 77, 24
-  offset: 0, 0
-  index: -1
+bounds:33,40,77,24
 j_yd2
-  rotate: 270
-  xy: 363, 260
-  size: 77, 24
-  orig: 77, 24
-  offset: 0, 0
-  index: -1
+bounds:333,44,77,24
 j_zdmz
-  rotate: true
-  xy: 225, 7
-  size: 20, 27
-  orig: 20, 27
-  offset: 0, 0
-  index: -1
+bounds:238,8,20,27
+rotate:90
 jxy_tou1
-  rotate: 270
-  xy: 50, 178
-  size: 100, 113
-  orig: 105, 115
-  offset: 5, 2
-  index: -1
+bounds:84,151,100,113
+offsets:5,2,105,115
 jxy_tou2
-  rotate: 180
-  xy: 367, 193
-  size: 25, 59
-  orig: 25, 82
-  offset: 0, 23
-  index: -1
+bounds:56,6,25,59
+offsets:0,23,25,82
+rotate:270
 jxy_tou3
-  rotate: true
-  xy: 110, 14
-  size: 28, 63
-  orig: 28, 63
-  offset: 0, 0
-  index: -1
+bounds:339,12,28,63
+rotate:90
 jxy_tou4
-  rotate: false
-  xy: 6, 208
-  size: 40, 65
-  orig: 66, 70
-  offset: 14, 0
-  index: -1
+bounds:176,63,40,65
+offsets:14,0,66,70
+rotate:90
 jxy_tou5
-  rotate: 180
-  xy: 304, 52
-  size: 40, 74
-  orig: 44, 74
-  offset: 0, 0
-  index: -1
+bounds:6,65,40,74
+offsets:0,0,44,74
+rotate:90
 zuihan_beidaiku3
-  rotate: 180
-  xy: 109, 107
-  size: 89, 85
-  orig: 89, 90
-  offset: 0, 0
-  index: -1
+bounds:272,175,89,85
+offsets:0,0,89,90
+rotate:90
 zuihan_er
-  rotate: false
-  xy: 164, 198
-  size: 21, 26
-  orig: 21, 26
-  offset: 0, 0
-  index: -1
+bounds:463,10,21,26
+rotate:90
 zuihan_jiuping
-  rotate: false
-  xy: 6, 274
-  size: 153, 67
-  orig: 153, 67
-  offset: 0, 0
-  index: -1
+bounds:25,111,153,67
+rotate:90
 zuihan_pengqiang
-  rotate: 270
-  xy: 157, 230
-  size: 91, 74
-  orig: 91, 74
-  offset: 0, 0
-  index: -1
+bounds:361,173,91,74
+rotate:270
 zuihan_xiongqang
-  rotate: 270
-  xy: 6, 121
-  size: 76, 103
-  orig: 76, 103
-  offset: 0, 0
-  index: -1
+bounds:189,161,76,103
 zuihan_youdabi
-  rotate: true
-  xy: 237, 31
-  size: 31, 66
-  orig: 31, 66
-  offset: 0, 0
-  index: -1
+bounds:120,15,31,66
+rotate:90
 zuihan_youdatui
-  rotate: false
-  xy: 254, 102
-  size: 54, 74
-  orig: 54, 74
-  offset: 0, 0
-  index: -1
+bounds:93,88,54,74
+rotate:270
 zuihan_youioao
-  rotate: false
-  xy: 291, 282
-  size: 66, 43
-  orig: 66, 43
-  offset: 0, 0
-  index: -1
+bounds:395,64,66,43
+rotate:180
 zuihan_youshou1
-  rotate: true
-  xy: 175, 16
-  size: 41, 46
-  orig: 41, 46
-  offset: 0, 0
-  index: -1
+bounds:416,10,41,46
+rotate:180
 zuihan_youshou2_1
-  rotate: true
-  xy: 341, 149
-  size: 50, 46
-  orig: 50, 46
-  offset: 0, 0
-  index: -1
+bounds:456,36,50,46
 zuihan_youshou2_2
-  rotate: true
-  xy: 350, 50
-  size: 46, 44
-  orig: 46, 44
-  offset: 0, 0
-  index: -1
+bounds:191,20,46,44
+rotate:180
 zuihan_youshou3
-  rotate: 270
-  xy: 342, 10
-  size: 41, 40
-  orig: 41, 40
-  offset: 0, 0
-  index: -1
+bounds:293,6,41,40
+rotate:270
 zuihan_youxiaobi
-  rotate: false
-  xy: 291, 141
-  size: 43, 70
-  orig: 43, 70
-  offset: 0, 0
-  index: -1
+bounds:319,73,43,70
+rotate:90
 zuihan_youxiaotui
-  rotate: true
-  xy: 6, 65
-  size: 49, 106
-  orig: 49, 106
-  offset: 0, 0
-  index: -1
+bounds:441,158,49,106
 zuihan_zuodabi
-  rotate: 180
-  xy: 272, 217
-  size: 47, 74
-  orig: 47, 74
-  offset: 0, 0
-  index: -1
+bounds:239,80,47,74
+rotate:270
 zuihan_zuodatui
-  rotate: true
-  xy: 188, 60
-  size: 48, 81
-  orig: 48, 81
-  offset: 0, 0
-  index: -1
+bounds:357,120,48,81
+rotate:90
 zuihan_zuojiao
-  rotate: false
-  xy: 325, 210
-  size: 41, 51
-  orig: 41, 51
-  offset: 0, 0
-  index: -1
+bounds:119,50,41,51
+rotate:90
 zuihan_zuoxiabi
-  rotate: false
-  xy: 232, 265
-  size: 53, 77
-  orig: 53, 81
-  offset: 0, 0
-  index: -1
+bounds:169,109,53,77
+offsets:0,0,53,81
+rotate:270
 zuihan_zuoxiaotui
-  rotate: 180
-  xy: 198, 138
-  size: 71, 104
-  orig: 71, 104
-  offset: 0, 0
-  index: -1
+bounds:246,119,71,104
+rotate:270
 zuihan_zusohou1
-  rotate: true
-  xy: 338, 101
-  size: 41, 40
-  orig: 41, 40
-  offset: 0, 0
-  index: -1
+bounds:246,34,41,40
 zuihan_zusohou2
-  rotate: true
-  xy: 118, 48
-  size: 53, 55
-  orig: 53, 55
-  offset: 0, 0
-  index: -1
+bounds:444,97,53,55

@@ -1,90 +1,38 @@
-
 308603_lxxx_skinstore_pokuang.png
-size: 208,216
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:256,256
+filter:Linear,Linear
+scale:0.4
 shou
-  rotate: false
-  xy: 132, 11
-  size: 35, 38
-  orig: 35, 39
-  offset: 0, 1
-  index: -1
+bounds:6,132,35,38
+offsets:0,1,35,39
 shou1
-  rotate: false
-  xy: 39, 183
-  size: 20, 25
-  orig: 23, 27
-  offset: 2, 1
-  index: -1
+bounds:225,6,20,25
+offsets:2,1,23,27
+rotate:90
 shou10
-  rotate: false
-  xy: 6, 102
-  size: 136, 106
-  orig: 136, 113
-  offset: 0, 7
-  index: -1
+bounds:6,64,136,106
+offsets:0,7,136,113
 shou2
-  rotate: false
-  xy: 147, 114
-  size: 51, 87
-  orig: 51, 96
-  offset: 0, 9
-  index: -1
+bounds:155,12,51,87
+offsets:0,9,51,96
+rotate:90
 shou3
-  rotate: false
-  xy: 6, 159
-  size: 28, 49
-  orig: 28, 49
-  offset: 0, 0
-  index: -1
+bounds:35,12,28,49
 shou4
-  rotate: false
-  xy: 173, 11
-  size: 25, 48
-  orig: 25, 48
-  offset: 0, 0
-  index: -1
+bounds:6,16,25,48
+rotate:180
 shou5
-  rotate: false
-  xy: 139, 125
-  size: 17, 30
-  orig: 18, 30
-  offset: 0, 0
-  index: -1
+bounds:232,140,17,30
+offsets:0,0,18,30
 shou6
-  rotate: false
-  xy: 6, 14
-  size: 22, 25
-  orig: 22, 25
-  offset: 0, 0
-  index: -1
+bounds:47,145,22,25
 shou7
-  rotate: false
-  xy: 179, 66
-  size: 19, 28
-  orig: 19, 28
-  offset: 0, 0
-  index: -1
+bounds:231,78,19,28
 shou8
-  rotate: false
-  xy: 81, 90
-  size: 19, 20
-  orig: 19, 20
-  offset: 0, 0
-  index: -1
+bounds:147,150,19,20
 shou9
-  rotate: 270
-  xy: 110, 55
-  size: 71, 69
-  orig: 71, 69
-  offset: 0, 0
-  index: -1
+bounds:65,9,71,69
 yh3
-  rotate: 270
-  xy: 6, 8
-  size: 90, 129
-  orig: 308, 402
-  offset: 0, 191
-  index: -1
+bounds:137,41,90,129
+offsets:0,191,308,402
+rotate:180

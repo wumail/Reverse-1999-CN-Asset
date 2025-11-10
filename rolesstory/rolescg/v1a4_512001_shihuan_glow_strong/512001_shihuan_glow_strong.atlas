@@ -1,13 +1,7 @@
-
 512001_shihuan_glow_strong.png
-size: 464,608
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-shihuan01
-  rotate: false
-  xy: 2, 2
-  size: 460, 603
-  orig: 475, 631
-  offset: 15, 0
-  index: -1
+size:464,608
+filter:Linear,Linear
+scale:0.7
+shihuan01_glow
+bounds:2,2,460,603
+offsets:15,0,475,631

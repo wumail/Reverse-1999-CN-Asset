@@ -1,62 +1,30 @@
-
 430001_chongsu.png
-size: 376,1084
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.4
 CSZS1
-  rotate: false
-  xy: 298, 36
-  size: 64, 316
-  orig: 64, 316
-  offset: 0, 0
-  index: -1
+bounds:6,102,37,181
 CSZS2
-  rotate: false
-  xy: 221, 52
-  size: 75, 167
-  orig: 83, 167
-  offset: 0, 0
-  index: -1
+bounds:401,106,43,95
+offsets:0,0,48,95
+rotate:90
 CSZS3
-  rotate: true
-  xy: 2, 469
-  size: 182, 372
-  orig: 225, 372
-  offset: 40, 0
-  index: -1
+bounds:293,70,104,213
+offsets:23,0,128,213
 CSZS4
-  rotate: false
-  xy: 2, 653
-  size: 356, 429
-  orig: 488, 741
-  offset: 57, 294
-  index: -1
+bounds:46,79,204,245
+offsets:32,168,279,424
+rotate:90
 CSZS5
-  rotate: false
-  xy: 124, 2
-  size: 95, 217
-  orig: 95, 221
-  offset: 0, 0
-  index: -1
+bounds:292,17,54,124
+offsets:0,0,54,126
+rotate:90
 CSZS6
-  rotate: true
-  xy: 124, 354
-  size: 113, 224
-  orig: 139, 224
-  offset: 26, 0
-  index: -1
+bounds:393,155,64,128
+offsets:15,0,79,128
+rotate:180
 CSZS7
-  rotate: true
-  xy: 124, 221
-  size: 131, 172
-  orig: 147, 233
-  offset: 16, 0
-  index: -1
+bounds:48,135,75,99
+offsets:9,0,84,133
 CSZS8touying
-  rotate: true
-  xy: 2, 11
-  size: 456, 120
-  orig: 456, 120
-  offset: 0, 0
-  index: -1
+bounds:6,6,261,68

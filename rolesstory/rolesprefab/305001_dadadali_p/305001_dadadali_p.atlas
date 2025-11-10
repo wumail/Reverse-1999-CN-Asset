@@ -1,321 +1,128 @@
-
 305001_dadadali_p.png
-size: 2048,2048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.7
 a1
-  rotate: false
-  xy: 2005, 1423
-  size: 41, 52
-  orig: 42, 54
-  offset: 0, 1
-  index: -1
+bounds:6,1264,36,45
+offsets:0,1,37,47
 a10
-  rotate: false
-  xy: 832, 256
-  size: 123, 98
-  orig: 123, 98
-  offset: 0, 0
-  index: -1
+bounds:1722,254,108,86
 a11
-  rotate: false
-  xy: 1728, 1704
-  size: 248, 342
-  orig: 250, 345
-  offset: 1, 1
-  index: -1
+bounds:1405,413,217,299
+offsets:1,1,219,302
 a12
-  rotate: false
-  xy: 2, 356
-  size: 1438, 447
-  orig: 1470, 474
-  offset: 15, 10
-  index: -1
+bounds:6,6,1258,391
+offsets:14,9,1287,415
 a2
-  rotate: false
-  xy: 1978, 1931
-  size: 67, 115
-  orig: 69, 116
-  offset: 1, 0
-  index: -1
+bounds:1405,747,59,101
+offsets:1,0,60,102
+rotate:90
 a3
-  rotate: false
-  xy: 1963, 642
-  size: 68, 106
-  orig: 68, 106
-  offset: 0, 0
-  index: -1
+bounds:1982,1208,60,93
 a4
-  rotate: false
-  xy: 955, 279
-  size: 90, 75
-  orig: 90, 75
-  offset: 0, 0
-  index: -1
+bounds:1877,213,79,66
 a5
-  rotate: false
-  xy: 2015, 1270
-  size: 30, 129
-  orig: 30, 129
-  offset: 0, 0
-  index: -1
+bounds:33,1376,27,113
+rotate:180
 a6
-  rotate: false
-  xy: 1964, 619
-  size: 81, 48
-  orig: 81, 48
-  offset: 0, 0
-  index: -1
+bounds:1971,863,71,42
 a7
-  rotate: false
-  xy: 1932, 1395
-  size: 34, 50
-  orig: 34, 50
-  offset: 0, 0
-  index: -1
+bounds:28,1215,29,43
 chijing
-  rotate: true
-  xy: 1273, 1011
-  size: 487, 447
-  orig: 487, 450
-  offset: 0, 1
-  index: -1
+bounds:1584,1063,426,390
+offsets:0,1,426,393
+rotate:90
 deyi1
-  rotate: true
-  xy: 276, 232
-  size: 122, 134
-  orig: 130, 134
-  offset: 4, 0
-  index: -1
+bounds:1923,472,108,117
+offsets:3,0,114,117
 deyi2
-  rotate: false
-  xy: 1273, 828
-  size: 165, 181
-  orig: 177, 181
-  offset: 6, 0
-  index: -1
+bounds:1182,516,145,158
+offsets:5,0,155,158
 deyi3
-  rotate: false
-  xy: 1832, 760
-  size: 177, 221
-  orig: 189, 223
-  offset: 6, 1
-  index: -1
+bounds:1405,812,154,193
+offsets:6,1,165,195
 deyi4
-  rotate: false
-  xy: 1978, 1701
-  size: 60, 54
-  orig: 62, 58
-  offset: 1, 2
-  index: -1
+bounds:6,1315,52,46
+offsets:1,2,54,50
 h1
-  rotate: false
-  xy: 1932, 1447
-  size: 42, 56
-  orig: 42, 57
-  offset: 0, 0
-  index: -1
+bounds:1980,1283,36,49
+offsets:0,0,36,50
 h10
-  rotate: true
-  xy: 1442, 355
-  size: 248, 370
-  orig: 249, 374
-  offset: 1, 1
-  index: -1
+bounds:1182,680,217,325
+offsets:1,1,218,328
 h11
-  rotate: false
-  xy: 1978, 1757
-  size: 50, 173
-  orig: 50, 173
-  offset: 0, 0
-  index: -1
+bounds:1980,1338,43,151
 h12
-  rotate: false
-  xy: 1832, 337
-  size: 129, 422
-  orig: 129, 422
-  offset: 0, 0
-  index: -1
+bounds:1596,313,113,369
+rotate:90
 h13
-  rotate: true
-  xy: 1926, 341
-  size: 248, 120
-  orig: 250, 124
-  offset: 1, 0
-  index: -1
+bounds:1811,495,217,106
+offsets:1,0,219,109
+rotate:90
 h2
-  rotate: false
-  xy: 1747, 1225
-  size: 66, 125
-  orig: 66, 125
-  offset: 0, 0
-  index: -1
+bounds:1811,408,58,109
+rotate:90
 h3
-  rotate: false
-  xy: 1760, 1058
-  size: 69, 114
-  orig: 69, 114
-  offset: 0, 0
-  index: -1
+bounds:1925,406,60,100
+rotate:90
 h4
-  rotate: false
-  xy: 1722, 1026
-  size: 88, 79
-  orig: 88, 82
-  offset: 0, 0
-  index: -1
+bounds:1965,245,77,69
+offsets:0,0,77,71
 h5
-  rotate: false
-  xy: 1990, 1284
-  size: 31, 138
-  orig: 31, 138
-  offset: 0, 0
-  index: -1
+bounds:6,1368,27,121
 h6
-  rotate: false
-  xy: 1965, 729
-  size: 80, 52
-  orig: 80, 52
-  offset: 0, 0
-  index: -1
+bounds:1972,1044,70,46
 h7
-  rotate: false
-  xy: 2006, 1647
-  size: 33, 52
-  orig: 33, 52
-  offset: 0, 0
-  index: -1
+bounds:6,1212,29,46
 h8
-  rotate: false
-  xy: 2025, 1866
-  size: 21, 21
-  orig: 21, 21
-  offset: 0, 0
-  index: -1
+bounds:2024,1429,18,18
 h9
-  rotate: false
-  xy: 748, 250
-  size: 123, 105
-  orig: 123, 105
-  offset: 0, 0
-  index: -1
+bounds:1364,170,108,92
 haixiu
-  rotate: false
-  xy: 2, 226
-  size: 134, 128
-  orig: 140, 130
-  offset: 2, 2
-  index: -1
+bounds:1923,595,117,111
+offsets:2,2,123,113
+rotate:90
 idle
-  rotate: false
-  xy: 1932, 1590
-  size: 84, 112
-  orig: 84, 112
-  offset: 0, 0
-  index: -1
+bounds:1943,959,74,98
 kaixin
-  rotate: true
-  xy: 1832, 983
-  size: 366, 159
-  orig: 366, 162
-  offset: 0, 0
-  index: -1
+bounds:1270,268,320,139
+offsets:0,0,320,141
 l1
-  rotate: 270
-  xy: 1738, 212
-  size: 162, 185
-  orig: 162, 185
-  offset: 0, 0
-  index: -1
+bounds:1846,120,142,162
 l2
-  rotate: false
-  xy: 412, 220
-  size: 110, 134
-  orig: 110, 134
-  offset: 0, 0
-  index: -1
+bounds:1182,413,97,118
+rotate:90
 l3
-  rotate: 180
-  xy: 1450, 208
-  size: 409, 214
-  orig: 409, 214
-  offset: 0, 0
-  index: -1
+bounds:1676,120,358,188
 l4
-  rotate: false
-  xy: 1956, 1367
-  size: 88, 221
-  orig: 88, 221
-  offset: 0, 0
-  index: -1
+bounds:1318,481,77,193
 l5
-  rotate: false
-  xy: 466, 216
-  size: 184, 138
-  orig: 184, 142
-  offset: 0, 0
-  index: -1
+bounds:1722,110,161,121
+offsets:0,0,161,125
+rotate:90
 l6
-  rotate: false
-  xy: 600, 296
-  size: 175, 58
-  orig: 175, 58
-  offset: 0, 0
-  index: -1
+bounds:1245,418,153,50
 l7
-  rotate: false
-  xy: 1722, 1160
-  size: 98, 190
-  orig: 98, 190
-  offset: 0, 0
-  index: -1
+bounds:1943,726,85,166
 l8
-  rotate: true
-  xy: 518, 220
-  size: 134, 174
-  orig: 134, 174
-  offset: 0, 0
-  index: -1
+bounds:1270,109,118,153
 l9
-  rotate: false
-  xy: 1273, 1500
-  size: 453, 546
-  orig: 456, 547
-  offset: 2, 1
-  index: -1
+bounds:1182,1011,396,478
+offsets:2,1,399,479
 lunzi
-  rotate: false
-  xy: 1932, 1505
-  size: 63, 83
-  orig: 63, 86
-  offset: 0, 0
-  index: -1
+bounds:1943,898,55,73
+offsets:0,0,55,76
+rotate:90
 nanguo
-  rotate: true
-  xy: 138, 228
-  size: 126, 136
-  orig: 127, 142
-  offset: 0, 3
-  index: -1
+bounds:1596,237,110,120
+offsets:0,2,111,125
+rotate:90
 qiantui
-  rotate: false
-  xy: 1728, 1351
-  size: 202, 351
-  orig: 203, 354
-  offset: 1, 3
-  index: -1
+bounds:1628,405,177,307
+offsets:1,3,178,310
 shengqi
-  rotate: true
-  xy: 1442, 605
-  size: 404, 388
-  orig: 406, 389
-  offset: 1, 1
-  index: -1
+bounds:1584,718,353,339
+offsets:1,1,355,340
 shenti
-  rotate: false
-  xy: 2, 805
-  size: 1269, 1241
-  orig: 1297, 1276
-  offset: 12, 13
-  index: -1
+bounds:65,403,1111,1086
+offsets:10,12,1135,1117

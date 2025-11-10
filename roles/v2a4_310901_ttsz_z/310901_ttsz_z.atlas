@@ -1,20 +1,9 @@
-
 310901_ttsz_z.png
-size: 1348,804
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,1024
+filter:Linear,Linear
+scale:0.6
 youshou
-  rotate: true
-  xy: 742, 36
-  size: 760, 598
-  orig: 760, 598
-  offset: 0, 0
-  index: -1
+bounds:663,31,651,512
+rotate:90
 zoushou
-  rotate: false
-  xy: 6, 7
-  size: 842, 789
-  orig: 842, 789
-  offset: 0, 0
-  index: -1
+bounds:6,6,722,676

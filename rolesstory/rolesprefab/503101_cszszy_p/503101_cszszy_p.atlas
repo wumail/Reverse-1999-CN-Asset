@@ -1,132 +1,59 @@
-
 503101_cszszy_p.png
-size: 2034,2034
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,1024
+filter:Linear,Linear
+scale:0.5
 10a
-  rotate: false
-  xy: 1079, 561
-  size: 194, 428
-  orig: 194, 428
-  offset: 0, 0
-  index: -1
+bounds:928,594,162,357
+rotate:90
 11a
-  rotate: false
-  xy: 1062, 1417
-  size: 195, 615
-  orig: 203, 615
-  offset: 8, 0
-  index: -1
+bounds:390,13,163,513
+offsets:6,0,169,513
+rotate:90
 1a
-  rotate: 180
-  xy: 1075, 817
-  size: 319, 326
-  orig: 319, 326
-  offset: 0, 0
-  index: -1
+bounds:1731,56,266,272
+rotate:270
 2a
-  rotate: 180
-  xy: 711, 200
-  size: 399, 403
-  orig: 399, 403
-  offset: 0, 0
-  index: -1
+bounds:771,124,333,336
 3a
-  rotate: 180
-  xy: 1169, 1142
-  size: 152, 704
-  orig: 152, 704
-  offset: 0, 0
-  index: -1
+bounds:6,426,127,587
 4a
-  rotate: true
-  xy: 1135, 45
-  size: 260, 181
-  orig: 260, 181
-  offset: 0, 0
-  index: -1
+bounds:995,21,217,151
 5a
-  rotate: 270
-  xy: 2, 36
-  size: 575, 759
-  orig: 575, 759
-  offset: 0, 0
-  index: -1
+bounds:1243,380,480,633
+rotate:180
 6a
-  rotate: false
-  xy: 297, 1548
-  size: 208, 484
-  orig: 247, 484
-  offset: 0, 0
-  index: -1
+bounds:6,95,173,404
+offsets:0,0,206,404
+rotate:270
 7a
-  rotate: false
-  xy: 616, 605
-  size: 251, 809
-  orig: 252, 809
-  offset: 0, 0
-  index: -1
+bounds:116,272,209,674
+offsets:0,0,210,674
+rotate:90
 8a
-  rotate: true
-  xy: 1094, 3
-  size: 291, 308
-  orig: 291, 308
-  offset: 0, 0
-  index: -1
+bounds:1795,756,243,257
 9a
-  rotate: false
-  xy: 2, 556
-  size: 684, 1477
-  orig: 684, 1505
-  offset: 0, 28
-  index: -1
+bounds:81,427,570,1231
+offsets:0,24,570,1255
+rotate:90
+bizui
+bounds:30,987,53,26
 mianju
-  rotate: true
-  xy: 869, 921
-  size: 374, 255
-  orig: 400, 380
-  offset: 0, 125
-  index: -1
+bounds:1685,124,313,215
+offsets:0,102,333,317
+rotate:90
 nianye
-  rotate: false
-  xy: 2, 1743
-  size: 28, 123
-  orig: 28, 123
-  offset: 0, 0
-  index: -1
+bounds:6,910,24,103
 nianye1
-  rotate: false
-  xy: 76, 1972
-  size: 25, 61
-  orig: 25, 61
-  offset: 0, 0
-  index: -1
+bounds:31,930,21,51
 tou
-  rotate: false
-  xy: 688, 1633
-  size: 355, 399
-  orig: 356, 401
-  offset: 0, 1
-  index: -1
+bounds:1690,459,296,332
+offsets:0,1,296,333
 wuxiong
-  rotate: 270
-  xy: 934, 63
-  size: 495, 353
-  orig: 495, 364
-  offset: 0, 11
-  index: -1
+bounds:1318,6,413,295
+offsets:0,9,413,304
+rotate:180
 wuxiong1
-  rotate: false
-  xy: 869, 1296
-  size: 242, 335
-  orig: 272, 337
-  offset: 30, 2
-  index: -1
+bounds:1110,142,202,279
+offsets:25,2,227,281
 zui
-  rotate: false
-  xy: 2, 2004
-  size: 68, 29
-  orig: 68, 29
-  offset: 0, 0
-  index: -1
+bounds:138,989,57,24

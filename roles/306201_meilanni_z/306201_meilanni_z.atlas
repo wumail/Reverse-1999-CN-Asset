@@ -1,62 +1,24 @@
-
 306201_meilanni_z.png
-size: 604,604
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
 mln_xfs_er1
-  rotate: false
-  xy: 468, 199
-  size: 62, 75
-  orig: 62, 75
-  offset: 0, 0
-  index: -1
+bounds:260,120,27,24
+rotate:90
 mln_xfs_er2
-  rotate: false
-  xy: 307, 88
-  size: 43, 43
-  orig: 43, 43
-  offset: 0, 0
-  index: -1
+bounds:384,128,18,19
+rotate:180
 mln_xfs_qugan
-  rotate: false
-  xy: 2, 276
-  size: 495, 326
-  orig: 495, 326
-  offset: 0, 0
-  index: -1
+bounds:6,6,214,141
 mln_xfs_tou
-  rotate: false
-  xy: 307, 133
-  size: 159, 141
-  orig: 159, 156
-  offset: 0, 0
-  index: -1
+bounds:295,77,70,61
+offsets:0,0,70,67
+rotate:270
 mln_xfs_wei
-  rotate: true
-  xy: 2, 2
-  size: 272, 303
-  orig: 272, 303
-  offset: 0, 0
-  index: -1
+bounds:204,17,116,130
 mln_xfs_wuguan1
-  rotate: false
-  xy: 390, 99
-  size: 30, 32
-  orig: 30, 32
-  offset: 0, 0
-  index: -1
+bounds:430,132,13,15
 mln_xfs_wuguan2
-  rotate: false
-  xy: 352, 94
-  size: 36, 37
-  orig: 36, 37
-  offset: 0, 0
-  index: -1
+bounds:408,130,16,17
 mln_xfs_yanjing
-  rotate: true
-  xy: 468, 95
-  size: 102, 43
-  orig: 102, 43
-  offset: 0, 0
-  index: -1
+bounds:359,104,43,19
+rotate:90

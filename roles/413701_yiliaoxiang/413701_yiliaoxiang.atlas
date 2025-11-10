@@ -1,111 +1,43 @@
-
 413701_yiliaoxiang.png
-size: 540,272
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 kou1
-  rotate: true
-  xy: 346, 7
-  size: 56, 41
-  orig: 56, 41
-  offset: 0, 0
-  index: -1
+bounds:209,7,56,41
 kou2
-  rotate: true
-  xy: 389, 8
-  size: 55, 41
-  orig: 55, 41
-  offset: 0, 0
-  index: -1
+bounds:409,6,55,41
 mu1
-  rotate: true
-  xy: 452, 70
-  size: 72, 34
-  orig: 72, 34
-  offset: 0, 0
-  index: -1
+bounds:6,26,72,34
 mu2
-  rotate: true
-  xy: 240, 2
-  size: 60, 21
-  orig: 60, 21
-  offset: 0, 0
-  index: -1
+bounds:158,27,60,21
 mu3
-  rotate: true
-  xy: 397, 144
-  size: 126, 121
-  orig: 126, 121
-  offset: 0, 0
-  index: -1
+bounds:6,66,126,121
 mu4
-  rotate: true
-  xy: 263, 3
-  size: 59, 81
-  orig: 60, 81
-  offset: 1, 0
-  index: -1
+bounds:441,53,59,81
+offsets:1,0,60,81
 mu5
-  rotate: true
-  xy: 183, 2
-  size: 60, 55
-  orig: 61, 55
-  offset: 1, 0
-  index: -1
+bounds:300,26,60,55
+offsets:1,0,61,55
 ping1
-  rotate: false
-  xy: 500, 4
-  size: 35, 68
-  orig: 35, 68
-  offset: 0, 0
-  index: -1
+bounds:84,13,35,68
+rotate:90
 ping2
-  rotate: true
-  xy: 315, 65
-  size: 47, 135
-  orig: 47, 137
-  offset: 0, 0
-  index: -1
+bounds:300,87,47,135
+offsets:0,0,47,137
+rotate:90
 ping3
-  rotate: false
-  xy: 315, 114
-  size: 80, 156
-  orig: 82, 156
-  offset: 2, 0
-  index: -1
+bounds:138,54,80,156
+offsets:2,0,82,156
+rotate:90
 ping4
-  rotate: false
-  xy: 488, 74
-  size: 36, 68
-  orig: 36, 68
-  offset: 0, 0
-  index: -1
+bounds:366,45,36,68
+rotate:90
 ping5
-  rotate: true
-  xy: 432, 21
-  size: 42, 66
-  orig: 42, 66
-  offset: 0, 0
-  index: -1
+bounds:138,145,42,66
+rotate:90
 xianggai
-  rotate: true
-  xy: 183, 64
-  size: 206, 130
-  orig: 206, 130
-  offset: 0, 0
-  index: -1
+bounds:6,193,206,130
 xianghou
-  rotate: true
-  xy: 101, 10
-  size: 260, 80
-  orig: 260, 80
-  offset: 0, 0
-  index: -1
+bounds:218,140,260,80
 xiangti
-  rotate: true
-  xy: 2, 10
-  size: 260, 97
-  orig: 260, 97
-  offset: 0, 0
-  index: -1
+bounds:218,226,260,97

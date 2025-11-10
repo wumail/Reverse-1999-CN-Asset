@@ -1,293 +1,92 @@
-
 305401_yangcongtou.png
-size: 596,1452
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-a_shengrishou1
-  rotate: false
-  xy: 556, 1254
-  size: 28, 30
-  orig: 28, 30
-  offset: 0, 0
-  index: -1
-a_shengrishou2
-  rotate: false
-  xy: 6, 1293
-  size: 27, 36
-  orig: 27, 36
-  offset: 0, 0
-  index: -1
-a_xiannvbang
-  rotate: false
-  xy: 525, 299
-  size: 43, 87
-  orig: 43, 87
-  offset: 0, 0
-  index: -1
+size:2048,512
+filter:Linear,Linear
+scale:0.7
 daiji
-  rotate: true
-  xy: 6, 1238
-  size: 48, 24
-  orig: 48, 24
-  offset: 0, 0
-  index: -1
+bounds:1113,228,48,24
 di01
-  rotate: false
-  xy: 164, 1432
-  size: 39, 12
-  orig: 39, 12
-  offset: 0, 0
-  index: -1
+bounds:164,435,39,12
 di02
-  rotate: false
-  xy: 158, 1025
-  size: 53, 19
-  orig: 53, 19
-  offset: 0, 0
-  index: -1
+bounds:825,171,53,19
 di03
-  rotate: false
-  xy: 41, 1436
-  size: 13, 8
-  orig: 13, 8
-  offset: 0, 0
-  index: -1
+bounds:41,439,13,8
 die
-  rotate: false
-  xy: 461, 9
-  size: 42, 15
-  orig: 45, 19
-  offset: 3, 2
-  index: -1
+bounds:1238,432,42,15
+offsets:3,2,45,19
 hit
-  rotate: true
-  xy: 6, 1147
-  size: 40, 13
-  orig: 41, 13
-  offset: 1, 0
-  index: -1
+bounds:1286,434,39,13
+offsets:1,0,41,13
 huatong01
-  rotate: true
-  xy: 263, 23
-  size: 65, 32
-  orig: 65, 32
-  offset: 0, 0
-  index: -1
+bounds:504,415,65,32
 huatong02
-  rotate: 180
-  xy: 531, 952
-  size: 53, 49
-  orig: 60, 49
-  offset: 0, 0
-  index: -1
+bounds:1987,293,53,49
+offsets:0,0,60,49
 yc_01
-  rotate: false
-  xy: 560, 813
-  size: 26, 27
-  orig: 26, 27
-  offset: 0, 0
-  index: -1
+bounds:6,291,26,27
 yc_02
-  rotate: false
-  xy: 559, 1220
-  size: 27, 28
-  orig: 27, 28
-  offset: 0, 0
-  index: -1
+bounds:6,324,27,28
 yc_03
-  rotate: true
-  xy: 523, 391
-  size: 63, 50
-  orig: 67, 50
-  offset: 4, 0
-  index: -1
+bounds:563,165,66,50
+offsets:1,0,67,50
 yc_04
-  rotate: false
-  xy: 523, 461
-  size: 43, 46
-  orig: 43, 46
-  offset: 0, 0
-  index: -1
+bounds:1062,401,43,46
 yc_041
-  rotate: false
-  xy: 555, 1290
-  size: 29, 28
-  orig: 29, 28
-  offset: 0, 0
-  index: -1
+bounds:6,358,29,28
 yc_05
-  rotate: 270
-  xy: 299, 7
-  size: 107, 121
-  orig: 107, 121
-  offset: 0, 0
-  index: -1
+bounds:1528,66,107,121
 yc_06
-  rotate: false
-  xy: 538, 1029
-  size: 41, 41
-  orig: 41, 41
-  offset: 0, 0
-  index: -1
+bounds:1751,406,41,41
 yc_07
-  rotate: false
-  xy: 100, 18
-  size: 33, 33
-  orig: 33, 33
-  offset: 0, 0
-  index: -1
+bounds:1150,414,33,33
 yc_08
-  rotate: 180
-  xy: 538, 895
-  size: 43, 44
-  orig: 43, 44
-  offset: 0, 0
-  index: -1
+bounds:1909,340,43,44
 yc_09
-  rotate: 180
-  xy: 233, 9
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -1
+bounds:2010,251,32,36
 yc_10
-  rotate: false
-  xy: 460, 998
-  size: 96, 62
-  orig: 97, 62
-  offset: 0, 0
-  index: -1
+bounds:1946,343,96,62
+offsets:0,0,97,62
 yc_11
-  rotate: true
-  xy: 563, 87
-  size: 32, 17
-  orig: 32, 17
-  offset: 0, 0
-  index: -1
+bounds:1116,205,32,17
 yc_12
-  rotate: true
-  xy: 6, 1193
-  size: 39, 17
-  orig: 39, 17
-  offset: 0, 0
-  index: -1
+bounds:1161,212,39,17
 yc_13
-  rotate: true
-  xy: 547, 846
-  size: 45, 31
-  orig: 45, 31
-  offset: 0, 0
-  index: -1
+bounds:1189,416,45,31
 yc_15
-  rotate: true
-  xy: 137, 20
-  size: 62, 96
-  orig: 62, 96
-  offset: 0, 0
-  index: -1
+bounds:1687,351,62,96
 yc_16
-  rotate: false
-  xy: 6, 1388
-  size: 30, 56
-  orig: 30, 56
-  offset: 0, 0
-  index: -1
+bounds:6,391,30,56
 yc_17
-  rotate: true
-  xy: 462, 1402
-  size: 42, 106
-  orig: 42, 106
-  offset: 0, 0
-  index: -1
+bounds:1102,341,42,106
 yc_18
-  rotate: false
-  xy: 542, 26
-  size: 38, 57
-  orig: 38, 58
-  offset: 0, 0
-  index: -1
+bounds:1700,292,38,57
+offsets:0,0,38,58
 yc_19
-  rotate: true
-  xy: 6, 8
-  size: 43, 89
-  orig: 43, 90
-  offset: 0, 0
-  index: -1
+bounds:1910,102,43,89
+offsets:0,0,43,90
 yun
-  rotate: false
-  xy: 414, 7
-  size: 41, 18
-  orig: 42, 18
-  offset: 0, 0
-  index: -1
+bounds:451,429,41,18
+offsets:0,0,42,18
 zhao_01
-  rotate: 180
-  xy: 6, 776
-  size: 548, 290
-  orig: 548, 291
-  offset: 0, 0
-  index: -1
+bounds:562,157,548,290
+offsets:0,0,548,291
 zhao_02
-  rotate: 270
-  xy: 6, 66
-  size: 288, 301
-  orig: 288, 301
-  offset: 0, 0
-  index: -1
+bounds:1687,146,288,301
 zhao_03
-  rotate: 270
-  xy: 6, 45
-  size: 130, 160
-  orig: 130, 160
-  offset: 0, 0
-  index: -1
+bounds:1803,80,130,160
 zhao_04
-  rotate: false
-  xy: 6, 1021
-  size: 561, 422
-  orig: 561, 422
-  offset: 0, 0
-  index: -1
+bounds:6,25,561,422
 zhao_05
-  rotate: false
-  xy: 6, 520
-  size: 575, 256
-  orig: 575, 256
-  offset: 0, 0
-  index: -1
+bounds:1106,191,575,256
 zhao_051
-  rotate: false
-  xy: 6, 330
-  size: 512, 185
-  orig: 512, 225
-  offset: 0, 20
-  index: -1
+bounds:884,6,512,185
+offsets:0,20,512,225
+rotate:180
 zhao_06
-  rotate: true
-  xy: 424, 31
-  size: 123, 133
-  orig: 138, 133
-  offset: 15, 0
-  index: -1
+bounds:1619,54,123,133
+offsets:15,0,138,133
 zhao_07
-  rotate: true
-  xy: 309, 114
-  size: 178, 268
-  orig: 178, 268
-  offset: 0, 0
-  index: -1
+bounds:1864,53,178,268
 zhunbei
-  rotate: false
-  xy: 529, 765
-  size: 48, 22
-  orig: 48, 22
-  offset: 0, 0
-  index: -1
+bounds:1844,256,48,22
 zhunbei01
-  rotate: true
-  xy: 6, 1334
-  size: 48, 22
-  orig: 48, 22
-  offset: 0, 0
-  index: -1
+bounds:1982,425,48,22

@@ -1,48 +1,21 @@
-
 500901_xingti2hao_p.png
-size: 461,461
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:1024,256
+filter:Linear,Linear
 pingguo_1
-  rotate: false
-  xy: 154, 343
-  size: 254, 116
-  orig: 254, 116
-  offset: 0, 0
-  index: -1
+bounds:472,100,254,116
+rotate:180
 pingguo_2
-  rotate: false
-  xy: 154, 201
-  size: 159, 140
-  orig: 159, 140
-  offset: 0, 0
-  index: -1
+bounds:831,57,159,140
+rotate:270
 pingguo_3
-  rotate: false
-  xy: 2, 26
-  size: 158, 153
-  orig: 158, 153
-  offset: 0, 0
-  index: -1
+bounds:710,58,158,153
+rotate:270
 pingguo_4
-  rotate: false
-  xy: 2, 181
-  size: 150, 278
-  orig: 150, 278
-  offset: 0, 0
-  index: -1
+bounds:209,66,150,278
+rotate:90
 pingguo_5
-  rotate: true
-  xy: 162, 2
-  size: 197, 210
-  orig: 199, 212
-  offset: 1, 1
-  index: -1
+bounds:6,6,197,210
+offsets:1,1,199,212
 pingguo_6
-  rotate: false
-  xy: 315, 276
-  size: 72, 65
-  orig: 74, 67
-  offset: 1, 1
-  index: -1
+bounds:574,56,72,65
+offsets:1,1,74,67

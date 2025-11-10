@@ -1,167 +1,72 @@
-
 611001_xiaolushouou_p.png
-size: 2048,2048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
 a1
-  rotate: 180
-  xy: 802, 736
-  size: 503, 477
-  orig: 503, 686
-  offset: 0, 209
-  index: -1
+bounds:1414,400,420,398
+offsets:0,174,420,572
 a11
-  rotate: true
-  xy: 1654, 1665
-  size: 382, 377
-  orig: 382, 438
-  offset: 0, 61
-  index: -1
+bounds:630,233,318,314
+offsets:0,51,318,365
 a11222
-  rotate: true
-  xy: 957, 448
-  size: 285, 313
-  orig: 285, 316
-  offset: 0, 3
-  index: -1
+bounds:1785,1004,238,261
+offsets:0,3,238,264
 a2
-  rotate: false
-  xy: 1984, 1959
-  size: 51, 87
-  orig: 51, 87
-  offset: 0, 0
-  index: -1
+bounds:749,1123,43,73
 a3
-  rotate: false
-  xy: 1914, 1567
-  size: 119, 96
-  orig: 121, 97
-  offset: 1, 1
-  index: -1
+bounds:1640,1185,99,80
+offsets:1,1,101,81
 a4
-  rotate: false
-  xy: 1890, 512
-  size: 156, 142
-  orig: 159, 142
-  offset: 1, 0
-  index: -1
+bounds:1840,456,131,119
+offsets:1,0,133,119
 a5
-  rotate: false
-  xy: 888, 1853
-  size: 83, 116
-  orig: 83, 116
-  offset: 0, 0
-  index: -1
+bounds:677,561,69,97
 a6
-  rotate: 270
-  xy: 863, 1147
-  size: 900, 868
-  orig: 1009, 906
-  offset: 85, 0
-  index: -1
+bounds:728,515,750,724
+offsets:71,0,841,755
+rotate:270
 a7
-  rotate: true
-  xy: 1542, 563
-  size: 504, 504
-  orig: 518, 504
-  offset: 0, 0
-  index: -1
+bounds:1050,169,420,420
+offsets:0,0,432,420
+rotate:90
 a8
-  rotate: 180
-  xy: 2, 505
-  size: 424, 370
-  orig: 424, 412
-  offset: 0, 22
-  index: -1
+bounds:1468,146,353,309
+offsets:0,18,353,344
+rotate:180
 a9
-  rotate: false
-  xy: 2, 762
-  size: 884, 1285
-  orig: 884, 1379
-  offset: 0, 94
-  index: -1
+bounds:6,193,737,1072
+offsets:0,78,737,1150
 kx1
-  rotate: false
-  xy: 756, 1976
-  size: 169, 70
-  orig: 169, 86
-  offset: 0, 2
-  index: -1
+bounds:644,1207,141,58
+offsets:0,2,141,72
 kx2
-  rotate: false
-  xy: 1580, 1965
-  size: 58, 81
-  orig: 62, 82
-  offset: 1, 1
-  index: -1
+bounds:1338,1197,48,68
+offsets:1,1,52,69
 kx3
-  rotate: false
-  xy: 772, 470
-  size: 183, 119
-  orig: 183, 119
-  offset: 0, 0
-  index: -1
+bounds:1840,351,153,99
 shuohua
-  rotate: true
-  xy: 1153, 644
-  size: 506, 371
-  orig: 517, 371
-  offset: 11, 0
-  index: -1
+bounds:203,6,422,310
+offsets:9,0,431,310
+rotate:180
 sx1
-  rotate: false
-  xy: 927, 1971
-  size: 101, 75
-  orig: 102, 76
-  offset: 1, 1
-  index: -1
+bounds:791,1202,84,63
+offsets:1,1,85,64
 sx2
-  rotate: false
-  xy: 1733, 1509
-  size: 179, 154
-  orig: 181, 170
-  offset: 1, 1
-  index: -1
+bounds:1835,581,149,128
+offsets:1,1,151,142
 sx3
-  rotate: false
-  xy: 2, 923
-  size: 78, 137
-  orig: 80, 140
-  offset: 2, 3
-  index: -1
+bounds:6,311,65,115
+offsets:2,2,67,117
 wuzui1
-  rotate: false
-  xy: 1488, 965
-  size: 558, 488
-  orig: 579, 509
-  offset: 21, 0
-  index: -1
+bounds:1404,799,466,407
+offsets:17,0,483,425
+rotate:90
 wuzui2
-  rotate: true
-  xy: 499, 548
-  size: 302, 456
-  orig: 302, 456
-  offset: 0, 0
-  index: -1
+bounds:665,49,252,380
+rotate:270
 wuzui3
-  rotate: true
-  xy: 1272, 342
-  size: 241, 339
-  orig: 241, 339
-  offset: 0, 0
-  index: -1
+bounds:1816,715,201,283
 wuzui4
-  rotate: false
-  xy: 1914, 1463
-  size: 111, 102
-  orig: 111, 102
-  offset: 0, 0
-  index: -1
+bounds:954,428,93,85
 wuzui5
-  rotate: false
-  xy: 820, 1238
-  size: 61, 106
-  orig: 61, 106
-  offset: 0, 0
-  index: -1
+bounds:1724,1090,51,89

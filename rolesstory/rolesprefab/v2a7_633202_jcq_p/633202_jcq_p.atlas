@@ -1,251 +1,89 @@
-
 633202_jcq_p.png
-size: 556,1052
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,512
+filter:Linear,Linear
+scale:0.4
 Szui
-  rotate: false
-  xy: 83, 42
-  size: 70, 42
-  orig: 70, 42
-  offset: 0, 0
-  index: -1
+bounds:938,393,70,42
 Xzui
-  rotate: false
-  xy: 340, 44
-  size: 49, 36
-  orig: 49, 36
-  offset: 0, 0
-  index: -1
+bounds:234,332,49,36
 body
-  rotate: 180
-  xy: 393, 411
-  size: 104, 199
-  orig: 104, 199
-  offset: 0, 0
-  index: -1
+bounds:1423,236,104,199
 jiqiren
-  rotate: false
-  xy: 6, 409
-  size: 429, 636
-  orig: 442, 668
-  offset: 0, 32
-  index: -1
+bounds:374,6,429,636
+offsets:0,32,442,668
+rotate:270
 jiqiren2
-  rotate: false
-  xy: 6, 243
-  size: 300, 160
-  orig: 300, 160
-  offset: 0, 0
-  index: -1
+bounds:1016,135,300,160
+rotate:90
 jiqiren3
-  rotate: false
-  xy: 430, 825
-  size: 27, 102
-  orig: 27, 102
-  offset: 0, 0
-  index: -1
+bounds:351,279,27,102
 jiqiren4
-  rotate: false
-  xy: 6, 148
-  size: 206, 88
-  orig: 206, 88
-  offset: 0, 0
-  index: -1
+bounds:1329,229,206,88
+rotate:90
 jiqiren5
-  rotate: true
-  xy: 312, 139
-  size: 266, 141
-  orig: 266, 141
-  offset: 0, 0
-  index: -1
+bounds:1182,169,266,141
+rotate:90
 lchibang
-  rotate: true
-  xy: 6, 84
-  size: 58, 124
-  orig: 58, 124
-  offset: 0, 0
-  index: -1
+bounds:1913,311,58,124
+rotate:180
 lchibang2
-  rotate: 270
-  xy: 426, 94
-  size: 68, 118
-  orig: 68, 118
-  offset: 0, 0
-  index: -1
+bounds:1841,317,68,118
 ljiao
-  rotate: 180
-  xy: 509, 168
-  size: 38, 63
-  orig: 38, 63
-  offset: 0, 0
-  index: -1
+bounds:93,292,38,63
 lling
-  rotate: false
-  xy: 195, 13
-  size: 28, 27
-  orig: 28, 27
-  offset: 0, 0
-  index: -1
+bounds:1865,408,28,27
 lunzi
-  rotate: true
-  xy: 474, 313
-  size: 377, 48
-  orig: 377, 48
-  offset: 0, 0
-  index: -1
+bounds:6,387,377,48
 rchibang
-  rotate: false
-  xy: 459, 162
-  size: 68, 145
-  orig: 68, 145
-  offset: 0, 0
-  index: -1
+bounds:1769,290,68,145
 rchibang2
-  rotate: false
-  xy: 433, 757
-  size: 105, 131
-  orig: 105, 131
-  offset: 0, 0
-  index: -1
+bounds:1624,304,105,131
+rotate:180
 rchibangX
-  rotate: 180
-  xy: 429, 878
-  size: 99, 166
-  orig: 99, 166
-  offset: 0, 0
-  index: -1
+bounds:1521,269,99,166
+rotate:180
 rjiao
-  rotate: true
-  xy: 253, 46
-  size: 30, 69
-  orig: 30, 69
-  offset: 0, 0
-  index: -1
+bounds:131,291,30,69
 rling
-  rotate: false
-  xy: 69, 14
-  size: 47, 39
-  orig: 48, 39
-  offset: 0, 0
-  index: -1
+bounds:275,292,47,39
+offsets:0,0,48,39
 tou
-  rotate: true
-  xy: 462, 696
-  size: 76, 60
-  orig: 76, 60
-  offset: 0, 0
-  index: -1
+bounds:88,362,76,60
+rotate:180
 weiba
-  rotate: 180
-  xy: 202, 104
-  size: 103, 132
-  orig: 106, 132
-  offset: 0, 0
-  index: -1
+bounds:1688,303,103,132
+offsets:0,0,106,132
+rotate:180
 yan
-  rotate: false
-  xy: 155, 23
-  size: 34, 34
-  orig: 34, 34
-  offset: 0, 0
-  index: -1
+bounds:64,329,34,34
 yan2
-  rotate: false
-  xy: 195, 46
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
+bounds:293,329,52,52
 yan2KKKKK
-  rotate: false
-  xy: 472, 40
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
+bounds:6,329,52,52
 yan3
-  rotate: true
-  xy: 253, 7
-  size: 33, 34
-  orig: 33, 34
-  offset: 0, 0
-  index: -1
+bounds:1825,298,33,34
 yan4
-  rotate: false
-  xy: 136, 89
-  size: 53, 53
-  orig: 53, 53
-  offset: 0, 0
-  index: -1
+bounds:170,369,53,53
 yan4KKK
-  rotate: false
-  xy: 281, 80
-  size: 53, 53
-  orig: 53, 53
-  offset: 0, 0
-  index: -1
+bounds:1977,382,53,53
 yan_g
-  rotate: false
-  xy: 410, 1029
-  size: 15, 15
-  orig: 16, 18
-  offset: 1, 2
-  index: -1
+bounds:1423,420,15,15
+offsets:1,2,16,18
 yan_g2
-  rotate: false
-  xy: 431, 1029
-  size: 14, 15
-  orig: 14, 16
-  offset: 0, 1
-  index: -1
+bounds:1730,420,14,15
+offsets:0,1,14,16
 yan_g3
-  rotate: false
-  xy: 458, 852
-  size: 24, 24
-  orig: 24, 24
-  offset: 0, 0
-  index: -1
+bounds:899,411,24,24
 yan_g4
-  rotate: false
-  xy: 122, 13
-  size: 23, 23
-  orig: 23, 23
-  offset: 0, 0
-  index: -1
+bounds:1621,412,23,23
 yan_hong
-  rotate: false
-  xy: 6, 1035
-  size: 7, 9
-  orig: 7, 9
-  offset: 0, 0
-  index: -1
+bounds:812,426,7,9
 zb
-  rotate: false
-  xy: 340, 85
-  size: 58, 48
-  orig: 58, 48
-  offset: 0, 0
-  index: -1
+bounds:229,374,58,48
 zb2
-  rotate: false
-  xy: 6, 23
-  size: 51, 13
-  orig: 51, 13
-  offset: 0, 0
-  index: -1
+bounds:842,422,51,13
 zb3
-  rotate: false
-  xy: 405, 43
-  size: 58, 46
-  orig: 58, 46
-  offset: 0, 0
-  index: -1
+bounds:1973,318,58,46
+rotate:90
 zb4
-  rotate: false
-  xy: 6, 41
-  size: 58, 48
-  orig: 58, 48
-  offset: 0, 0
-  index: -1
+bounds:170,315,58,48

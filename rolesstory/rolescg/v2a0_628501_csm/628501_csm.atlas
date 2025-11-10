@@ -1,251 +1,94 @@
-
 628501_csm.png
-size: 1116,940
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,1024
+filter:Linear,Linear
+scale:0.7
 1
-  rotate: false
-  xy: 6, 17
-  size: 20, 48
-  orig: 20, 48
-  offset: 0, 0
-  index: -1
+bounds:1916,503,20,48
 10
-  rotate: true
-  xy: 756, 7
-  size: 44, 57
-  orig: 44, 57
-  offset: 0, 0
-  index: -1
+bounds:1473,528,44,57
 11
-  rotate: false
-  xy: 84, 178
-  size: 40, 21
-  orig: 40, 26
-  offset: 0, 5
-  index: -1
+bounds:1525,643,40,21
+offsets:0,5,40,26
 12
-  rotate: true
-  xy: 231, 163
-  size: 36, 75
-  orig: 39, 75
-  offset: 0, 0
-  index: -1
+bounds:1338,402,36,75
+offsets:0,0,39,75
 13
-  rotate: 270
-  xy: 296, 26
-  size: 36, 109
-  orig: 36, 109
-  offset: 0, 0
-  index: -1
+bounds:1469,342,36,109
 14
-  rotate: false
-  xy: 1000, 37
-  size: 100, 87
-  orig: 100, 87
-  offset: 0, 0
-  index: -1
+bounds:10,401,100,87
+rotate:90
 14-1
-  rotate: true
-  xy: 6, 20
-  size: 80, 90
-  orig: 80, 90
-  offset: 0, 0
-  index: -1
+bounds:1388,361,80,90
 15
-  rotate: true
-  xy: 550, 33
-  size: 51, 187
-  orig: 51, 187
-  offset: 0, 0
-  index: -1
+bounds:1725,272,51,187
 16
-  rotate: false
-  xy: 1096, 245
-  size: 13, 61
-  orig: 15, 61
-  offset: 0, 0
-  index: -1
+bounds:63,603,13,61
+offsets:0,0,15,61
 19
-  rotate: 180
-  xy: 994, 107
-  size: 76, 161
-  orig: 82, 161
-  offset: 6, 0
-  index: -1
+bounds:1835,503,76,161
+offsets:6,0,82,161
+rotate:180
 2
-  rotate: false
-  xy: 1075, 114
-  size: 33, 125
-  orig: 33, 125
-  offset: 0, 0
-  index: -1
+bounds:2005,539,33,125
 20
-  rotate: true
-  xy: 6, 90
-  size: 109, 217
-  orig: 109, 217
-  offset: 0, 0
-  index: -1
+bounds:1576,447,109,217
+rotate:180
 21
-  rotate: 180
-  xy: 586, 87
-  size: 235, 113
-  orig: 235, 113
-  offset: 0, 0
-  index: -1
+bounds:1682,429,235,113
+rotate:270
 22
-  rotate: false
-  xy: 509, 91
-  size: 207, 175
-  orig: 207, 175
-  offset: 0, 0
-  index: -1
+bounds:1338,457,207,175
+rotate:90
 23
-  rotate: 270
-  xy: 374, 64
-  size: 116, 130
-  orig: 128, 130
-  offset: 12, 0
-  index: -1
+bounds:1338,434,116,130
+offsets:12,0,128,130
 24
-  rotate: false
-  xy: 256, 43
-  size: 96, 57
-  orig: 96, 57
-  offset: 0, 0
-  index: -1
+bounds:1666,499,96,57
+rotate:90
 25
-  rotate: false
-  xy: 229, 97
-  size: 190, 88
-  orig: 190, 88
-  offset: 0, 0
-  index: -1
+bounds:1770,474,190,88
+rotate:270
 26
-  rotate: false
-  xy: 722, 89
-  size: 181, 180
-  orig: 181, 180
-  offset: 0, 0
-  index: -1
+bounds:1413,484,181,180
 27
-  rotate: 270
-  xy: 677, 48
-  size: 88, 120
-  orig: 88, 120
-  offset: 0, 0
-  index: -1
+bounds:1917,544,88,120
 28
-  rotate: 180
-  xy: 57, 45
-  size: 119, 74
-  orig: 119, 74
-  offset: 0, 0
-  index: -1
+bounds:1612,384,119,74
 29
-  rotate: false
-  xy: 893, 94
-  size: 124, 153
-  orig: 124, 153
-  offset: 0, 0
-  index: -1
+bounds:1861,418,124,153
+rotate:90
 3
-  rotate: false
-  xy: 159, 8
-  size: 8, 35
-  orig: 8, 35
-  offset: 0, 0
-  index: -1
+bounds:81,629,8,35
 30
-  rotate: false
-  xy: 6, 170
-  size: 21, 28
-  orig: 21, 28
-  offset: 0, 0
-  index: -1
+bounds:1501,636,21,28
 31
-  rotate: false
-  xy: 6, 204
-  size: 589, 728
-  orig: 599, 728
-  offset: 1, 0
-  index: -1
+bounds:109,75,589,728
+offsets:1,0,599,728
+rotate:90
 32
-  rotate: true
-  xy: 460, 39
-  size: 59, 84
-  orig: 59, 84
-  offset: 0, 0
-  index: -1
+bounds:1796,400,59,84
+rotate:180
 33
-  rotate: true
-  xy: 799, 35
-  size: 76, 67
-  orig: 76, 67
-  offset: 0, 0
-  index: -1
+bounds:1491,412,76,67
 34
-  rotate: true
-  xy: 877, 36
-  size: 71, 108
-  orig: 71, 108
-  offset: 0, 0
-  index: -1
+bounds:22,490,71,108
 35
-  rotate: false
-  xy: 130, 159
-  size: 104, 39
-  orig: 104, 39
-  offset: 0, 0
-  index: -1
+bounds:1938,424,104,39
 36
-  rotate: false
-  xy: 601, 274
-  size: 489, 658
-  orig: 489, 658
-  offset: 0, 0
-  index: -1
+bounds:843,6,489,658
 4
-  rotate: true
-  xy: 497, 184
-  size: 14, 64
-  orig: 14, 64
-  offset: 0, 0
-  index: -1
+bounds:43,600,14,64
+rotate:180
 5
-  rotate: 270
-  xy: 970, 20
-  size: 17, 108
-  orig: 17, 127
-  offset: 0, 19
-  index: -1
+bounds:6,556,17,108
+offsets:0,19,17,127
 6
-  rotate: false
-  xy: 31, 9
-  size: 8, 33
-  orig: 8, 33
-  offset: 0, 0
-  index: -1
+bounds:95,631,8,33
 7
-  rotate: 270
-  xy: 181, 37
-  size: 48, 81
-  orig: 48, 87
-  offset: 0, 6
-  index: -1
+bounds:1561,366,48,81
+offsets:0,6,48,87
 8
-  rotate: true
-  xy: 416, 184
-  size: 15, 66
-  orig: 15, 66
-  offset: 0, 0
-  index: -1
+bounds:23,598,15,66
+rotate:180
 9
-  rotate: false
-  xy: 341, 87
-  size: 31, 52
-  orig: 31, 52
-  offset: 0, 0
-  index: -1
+bounds:1646,468,31,52

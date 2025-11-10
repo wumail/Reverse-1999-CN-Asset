@@ -1,377 +1,147 @@
-
 300604_xcqe.png
-size: 168,1264
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.6
 a_hudiejie
-  rotate: false
-  xy: 27, 98
-  size: 54, 30
-  orig: 60, 30
-  offset: 0, 0
-  index: -1
+bounds:140,23,46,26
+offsets:0,0,51,26
 a_hudiejie1
-  rotate: false
-  xy: 139, 976
-  size: 20, 51
-  orig: 20, 51
-  offset: 0, 0
-  index: -1
+bounds:489,187,17,44
 a_hudiejie2
-  rotate: 180
-  xy: 125, 351
-  size: 27, 72
-  orig: 29, 72
-  offset: 0, 0
-  index: -1
+bounds:443,31,23,62
+offsets:0,0,25,62
+rotate:270
 faka
-  rotate: false
-  xy: 138, 552
-  size: 19, 27
-  orig: 19, 27
-  offset: 0, 0
-  index: -1
+bounds:49,205,16,23
 maozidai
-  rotate: true
-  xy: 112, 39
-  size: 18, 44
-  orig: 18, 44
-  offset: 0, 0
-  index: -1
+bounds:35,10,16,38
 sr_bq
-  rotate: 180
-  xy: 16, 158
-  size: 57, 36
-  orig: 57, 36
-  offset: 0, 0
-  index: -1
+bounds:306,50,49,31
 sr_shou1
-  rotate: true
-  xy: 81, 233
-  size: 38, 43
-  orig: 41, 43
-  offset: 0, 0
-  index: -1
+bounds:128,50,32,37
+offsets:0,0,35,37
+rotate:90
 sr_shou2
-  rotate: false
-  xy: 86, 654
-  size: 52, 52
-  orig: 53, 52
-  offset: 0, 0
-  index: -1
+bounds:109,128,44,44
+offsets:0,0,45,44
 wangyanjingzhong
-  rotate: false
-  xy: 107, 11
-  size: 19, 21
-  orig: 19, 21
-  offset: 0, 0
-  index: -1
+bounds:79,131,16,18
 xiannvbang
-  rotate: false
-  xy: 6, 765
-  size: 43, 87
-  orig: 43, 87
-  offset: 0, 0
-  index: -1
+bounds:6,202,37,74
 yige_bozi_tihuan
-  rotate: false
-  xy: 6, 657
-  size: 74, 64
-  orig: 77, 64
-  offset: 0, 0
-  index: -1
+bounds:355,157,64,55
+offsets:0,0,66,55
+rotate:270
 yige_bq_daiji_1
-  rotate: true
-  xy: 151, 265
-  size: 57, 8
-  orig: 57, 8
-  offset: 0, 0
-  index: -1
+bounds:6,281,49,7
 yige_bq_daiji_2
-  rotate: false
-  xy: 6, 35
-  size: 57, 21
-  orig: 57, 21
-  offset: 0, 0
-  index: -1
+bounds:388,19,49,18
 yige_bq_daiji_3
-  rotate: false
-  xy: 6, 1242
-  size: 4, 2
-  orig: 4, 2
-  offset: 0, 0
-  index: -1
+bounds:202,286,4,2
 yige_bq_kaixin
-  rotate: false
-  xy: 6, 420
-  size: 57, 36
-  orig: 57, 36
-  offset: 0, 0
-  index: -1
+bounds:273,102,49,31
 yige_bq_qidao
-  rotate: false
-  xy: 69, 403
-  size: 57, 36
-  orig: 57, 36
-  offset: 0, 0
-  index: -1
+bounds:79,91,48,31
+offsets:0,0,49,31
 yige_bq_tongku
-  rotate: true
-  xy: 6, 507
-  size: 57, 38
-  orig: 57, 38
-  offset: 0, 0
-  index: -1
+bounds:360,102,49,32
+rotate:90
 yige_houfa
-  rotate: false
-  xy: 6, 935
-  size: 134, 85
-  orig: 134, 85
-  offset: 0, 0
-  index: -1
+bounds:287,173,115,73
+rotate:90
 yige_lian
-  rotate: false
-  xy: 61, 788
-  size: 76, 69
-  orig: 76, 69
-  offset: 0, 0
-  index: -1
+bounds:416,166,65,59
 yige_liuhai1
-  rotate: true
-  xy: 6, 463
-  size: 38, 95
-  orig: 38, 95
-  offset: 0, 0
-  index: -1
+bounds:335,76,32,81
+rotate:90
 yige_liuhai2
-  rotate: 270
-  xy: 42, 325
-  size: 31, 92
-  orig: 31, 92
-  offset: 0, 0
-  index: -1
+bounds:43,59,26,79
+rotate:90
 yige_liuhai3
-  rotate: false
-  xy: 6, 570
-  size: 62, 46
-  orig: 62, 46
-  offset: 0, 0
-  index: -1
+bounds:401,124,53,39
 yige_maozi3
-  rotate: 270
-  xy: 89, 126
-  size: 46, 70
-  orig: 52, 70
-  offset: 4, 0
-  index: -1
+bounds:65,7,39,60
+offsets:4,0,44,60
+rotate:270
 yige_maozi_tihuan
-  rotate: false
-  xy: 6, 1129
-  size: 142, 129
-  orig: 146, 129
-  offset: 4, 0
-  index: -1
+bounds:73,178,122,110
+offsets:3,0,125,110
+rotate:180
 yige_qugan_tihuan
-  rotate: true
-  xy: 6, 1020
-  size: 109, 144
-  orig: 109, 146
-  offset: 0, 2
-  index: -1
+bounds:193,165,93,123
+offsets:0,2,93,125
+rotate:180
 yige_shou1_1
-  rotate: false
-  xy: 79, 186
-  size: 47, 41
-  orig: 47, 41
-  offset: 0, 0
-  index: -1
+bounds:404,46,40,35
 yige_shou1_2_tihuan
-  rotate: false
-  xy: 31, 199
-  size: 47, 41
-  orig: 47, 41
-  offset: 0, 0
-  index: -1
+bounds:181,48,40,35
 yige_shou2
-  rotate: true
-  xy: 106, 445
-  size: 43, 48
-  orig: 43, 48
-  offset: 0, 0
-  index: -1
+bounds:159,88,37,41
+rotate:90
 yige_shou3
-  rotate: true
-  xy: 68, 358
-  size: 40, 50
-  orig: 40, 50
-  offset: 0, 0
-  index: -1
+bounds:6,87,34,43
+rotate:90
 yige_shou4
-  rotate: 180
-  xy: 63, 543
-  size: 69, 39
-  orig: 69, 39
-  offset: 0, 0
-  index: -1
+bounds:472,123,59,33
+rotate:90
 yige_shou5_tihuan
-  rotate: false
-  xy: 6, 368
-  size: 56, 46
-  orig: 56, 46
-  offset: 0, 0
-  index: -1
+bounds:427,87,48,40
+rotate:180
 yige_shou6
-  rotate: false
-  xy: 103, 585
-  size: 50, 59
-  orig: 64, 69
-  offset: 0, 0
-  index: -1
+bounds:159,130,43,51
+offsets:0,0,55,59
+rotate:90
 yige_shou7
-  rotate: false
-  xy: 83, 862
-  size: 64, 67
-  orig: 64, 67
-  offset: 0, 0
-  index: -1
+bounds:433,231,55,57
 yige_shou8
-  rotate: 180
-  xy: 92, 495
-  size: 53, 52
-  orig: 53, 52
-  offset: 0, 0
-  index: -1
+bounds:222,117,45,44
+rotate:180
 yige_shoubi1
-  rotate: false
-  xy: 84, 72
-  size: 53, 26
-  orig: 53, 26
-  offset: 0, 0
-  index: -1
+bounds:276,25,46,22
 yige_shoubi2
-  rotate: false
-  xy: 70, 13
-  size: 31, 29
-  orig: 31, 29
-  offset: 0, 0
-  index: -1
+bounds:190,17,26,25
 yige_wangyunj_1
-  rotate: false
-  xy: 6, 858
-  size: 71, 71
-  orig: 71, 71
-  offset: 0, 0
-  index: -1
+bounds:366,227,61,61
 yige_wangyunj_2_1
-  rotate: false
-  xy: 20, 245
-  size: 55, 35
-  orig: 55, 35
-  offset: 0, 0
-  index: -1
+bounds:459,57,47,30
+rotate:180
 yige_wangyunj_2_3
-  rotate: false
-  xy: 20, 245
-  size: 55, 35
-  orig: 55, 35
-  offset: 0, 0
-  index: -1
+bounds:459,57,47,30
+rotate:180
 yige_wangyunj_2_1_tihuan
-  rotate: 270
-  xy: 130, 209
-  size: 50, 28
-  orig: 50, 28
-  offset: 0, 0
-  index: -1
+bounds:6,38,43,24
+rotate:90
 yige_wangyunj_2_2
-  rotate: false
-  xy: 114, 935
-  size: 36, 8
-  orig: 36, 8
-  offset: 0, 0
-  index: -1
+bounds:60,281,31,7
 yige_wangyunj_2_2_tihuan
-  rotate: false
-  xy: 6, 1250
-  size: 18, 7
-  orig: 18, 7
-  offset: 0, 0
-  index: -1
+bounds:180,282,16,6
 yige_wangyunj_2_3_tihuan
-  rotate: 270
-  xy: 125, 712
-  size: 78, 29
-  orig: 78, 29
-  offset: 0, 0
-  index: -1
+bounds:6,126,67,25
 yige_xiezi1
-  rotate: true
-  xy: 100, 278
-  size: 44, 47
-  orig: 44, 47
-  offset: 0, 0
-  index: -1
+bounds:262,58,38,40
+rotate:90
 yige_xiezi2
-  rotate: false
-  xy: 6, 284
-  size: 59, 41
-  orig: 59, 41
-  offset: 0, 0
-  index: -1
+bounds:206,79,50,35
 yige_youdabi_tihuan
-  rotate: true
-  xy: 114, 99
-  size: 35, 45
-  orig: 35, 45
-  offset: 0, 0
-  index: -1
+bounds:361,32,30,38
 yige_youtui1
-  rotate: 270
-  xy: 6, 622
-  size: 29, 95
-  orig: 29, 95
-  offset: 0, 0
-  index: -1
+bounds:273,140,25,82
+rotate:90
 yige_youtui2
-  rotate: true
-  xy: 6, 129
-  size: 25, 53
-  orig: 25, 53
-  offset: 0, 0
-  index: -1
+bounds:225,32,21,45
+rotate:90
 yige_zuobi1
-  rotate: 270
-  xy: 61, 43
-  size: 32, 48
-  orig: 32, 48
-  offset: 0, 0
-  index: -1
+bounds:328,14,27,41
+rotate:90
 yige_zuodabi
-  rotate: 270
-  xy: 19, 7
-  size: 27, 36
-  orig: 27, 36
-  offset: 0, 0
-  index: -1
+bounds:475,6,23,31
+rotate:90
 yige_zuotui1
-  rotate: true
-  xy: 6, 713
-  size: 47, 114
-  orig: 47, 114
-  offset: 0, 0
-  index: -1
+bounds:6,156,40,98
+rotate:270
 yige_zuotui2
-  rotate: true
-  xy: 79, 157
-  size: 24, 59
-  orig: 25, 60
-  offset: 0, 0
-  index: -1
+bounds:57,35,21,51
+rotate:90
 yige_zuoxiu_tihuan
-  rotate: 270
-  xy: 6, 64
-  size: 32, 49
-  orig: 35, 57
-  offset: 0, 0
-  index: -1
+bounds:49,234,27,42
+offsets:0,0,30,49

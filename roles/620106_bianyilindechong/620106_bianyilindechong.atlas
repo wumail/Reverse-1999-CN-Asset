@@ -1,83 +1,35 @@
-
 620106_bianyilindechong.png
-size: 572,192
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.5
 txb2_cao
-  rotate: false
-  xy: 2, 3
-  size: 195, 187
-  orig: 241, 245
-  offset: 17, 26
-  index: -1
+bounds:6,6,144,137
+offsets:10,17,172,175
 txb2_cao1
-  rotate: false
-  xy: 475, 26
-  size: 53, 46
-  orig: 53, 46
-  offset: 0, 0
-  index: -1
+bounds:426,110,38,33
 txb2_cao2
-  rotate: false
-  xy: 509, 114
-  size: 59, 76
-  orig: 63, 76
-  offset: 0, 0
-  index: -1
+bounds:342,88,42,55
+offsets:0,0,45,55
+rotate:180
 txb2_cao3
-  rotate: true
-  xy: 509, 74
-  size: 38, 54
-  orig: 38, 64
-  offset: 0, 0
-  index: -1
+bounds:119,116,27,39
+offsets:0,0,27,46
+rotate:90
 txb2_shenti
-  rotate: true
-  xy: 199, 7
-  size: 183, 189
-  orig: 183, 189
-  offset: 0, 0
-  index: -1
+bounds:133,8,131,135
+rotate:180
 txb2_yan1
-  rotate: false
-  xy: 530, 41
-  size: 12, 11
-  orig: 12, 11
-  offset: 0, 0
-  index: -1
+bounds:78,135,9,8
 txb2_yan2
-  rotate: true
-  xy: 475, 2
-  size: 22, 25
-  orig: 22, 25
-  offset: 0, 0
-  index: -1
+bounds:257,125,16,18
 txb_sya
-  rotate: true
-  xy: 502, 2
-  size: 22, 21
-  orig: 22, 21
-  offset: 0, 0
-  index: -1
+bounds:32,128,16,15
 txb_xya
-  rotate: false
-  xy: 530, 54
-  size: 25, 18
-  orig: 25, 20
-  offset: 0, 0
-  index: -1
+bounds:54,130,18,13
+offsets:0,0,18,14
 txb_yshou
-  rotate: false
-  xy: 390, 74
-  size: 117, 116
-  orig: 117, 116
-  offset: 0, 0
-  index: -1
+bounds:255,60,84,83
 txb_zshou
-  rotate: true
-  xy: 390, 2
-  size: 70, 83
-  orig: 81, 85
-  offset: 11, 2
-  index: -1
+bounds:378,83,51,60
+offsets:7,1,58,61
+rotate:180

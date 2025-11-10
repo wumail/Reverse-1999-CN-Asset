@@ -1,209 +1,85 @@
-
 640216_ltyy.png
-size: 388,536
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 tzz_bizi
-  rotate: false
-  xy: 6, 412
-  size: 15, 13
-  orig: 15, 13
-  offset: 0, 0
-  index: -1
+bounds:369,378,15,13
 tzz_bozi
-  rotate: false
-  xy: 341, 410
-  size: 38, 39
-  orig: 38, 39
-  offset: 0, 0
-  index: -1
+bounds:404,6,38,39
+rotate:90
 tzz_er
-  rotate: false
-  xy: 6, 195
-  size: 18, 24
-  orig: 18, 24
-  offset: 0, 0
-  index: -1
+bounds:478,367,18,24
 tzz_fa
-  rotate: false
-  xy: 298, 425
-  size: 31, 27
-  orig: 31, 27
-  offset: 0, 0
-  index: -1
+bounds:475,150,31,27
 tzz_lingjie2
-  rotate: false
-  xy: 6, 225
-  size: 33, 43
-  orig: 33, 43
-  offset: 0, 0
-  index: -1
+bounds:449,9,33,43
+rotate:90
 tzz_mao1
-  rotate: 270
-  xy: 212, 221
-  size: 83, 74
-  orig: 83, 74
-  offset: 0, 0
-  index: -1
+bounds:171,92,83,74
+rotate:180
 tzz_mao2
-  rotate: 270
-  xy: 278, 334
-  size: 86, 58
-  orig: 105, 58
-  offset: 3, 0
-  index: -1
+bounds:355,50,86,58
+offsets:3,0,105,58
+rotate:180
 tzz_tou
-  rotate: false
-  xy: 105, 300
-  size: 98, 96
-  orig: 98, 96
-  offset: 0, 0
-  index: -1
+bounds:283,188,98,96
+rotate:90
 tzz_waitao2
-  rotate: false
-  xy: 287, 8
-  size: 69, 95
-  orig: 69, 95
-  offset: 0, 0
-  index: -1
+bounds:73,10,69,95
+rotate:90
 tzz_waitao3
-  rotate: false
-  xy: 6, 206
-  size: 141, 199
-  orig: 141, 199
-  offset: 0, 0
-  index: -1
+bounds:164,250,141,199
+rotate:270
 tzz_waitaoh1
-  rotate: false
-  xy: 6, 384
-  size: 159, 144
-  orig: 159, 159
-  offset: 0, 0
-  index: -1
+bounds:6,247,159,144
+offsets:0,0,159,159
 tzz_waitaoh2
-  rotate: false
-  xy: 170, 509
-  size: 45, 18
-  orig: 45, 18
-  offset: 0, 0
-  index: -1
+bounds:220,16,45,18
 tzz_xiae
-  rotate: false
-  xy: 148, 280
-  size: 37, 17
-  orig: 37, 17
-  offset: 0, 0
-  index: -1
+bounds:469,221,37,17
 tzz_xiongqiang
-  rotate: true
-  xy: 6, 81
-  size: 118, 163
-  orig: 118, 163
-  offset: 0, 0
-  index: -1
+bounds:367,228,118,163
 tzz_yaodai
-  rotate: 270
-  xy: 153, 174
-  size: 95, 65
-  orig: 98, 65
-  offset: 3, 0
-  index: -1
+bounds:379,161,95,65
+offsets:3,0,98,65
 tzz_yaqian
-  rotate: true
-  xy: 345, 106
-  size: 100, 36
-  orig: 100, 36
-  offset: 0, 0
-  index: -1
+bounds:270,25,100,36
 tzz_youdabi
-  rotate: false
-  xy: 173, 25
-  size: 76, 82
-  orig: 76, 82
-  offset: 0, 0
-  index: -1
+bounds:6,125,76,82
+rotate:270
 tzz_youdatui
-  rotate: false
-  xy: 296, 231
-  size: 45, 78
-  orig: 46, 78
-  offset: 1, 0
-  index: -1
+bounds:170,346,45,78
+offsets:1,0,46,78
+rotate:90
 tzz_youjiao
-  rotate: false
-  xy: 231, 483
-  size: 41, 44
-  orig: 41, 44
-  offset: 0, 0
-  index: -1
+bounds:6,10,41,44
+rotate:90
 tzz_youshou
-  rotate: false
-  xy: 199, 310
-  size: 73, 85
-  orig: 73, 85
-  offset: 0, 0
-  index: -1
+bounds:82,114,73,85
+rotate:270
 tzz_youxiaobi
-  rotate: true
-  xy: 165, 397
-  size: 92, 79
-  orig: 92, 79
-  offset: 0, 0
-  index: -1
+bounds:202,155,92,79
 tzz_youxiaotui
-  rotate: false
-  xy: 238, 26
-  size: 69, 86
-  orig: 69, 86
-  offset: 0, 0
-  index: -1
+bounds:81,56,69,86
+rotate:90
 tzz_zuodabi
-  rotate: 180
-  xy: 241, 384
-  size: 53, 97
-  orig: 53, 97
-  offset: 0, 0
-  index: -1
+bounds:382,103,53,97
+rotate:90
 tzz_zuodatui
-  rotate: 270
-  xy: 277, 93
-  size: 63, 71
-  orig: 63, 71
-  offset: 0, 0
-  index: -1
+bounds:233,47,63,71
+rotate:270
 tzz_zuojiao
-  rotate: true
-  xy: 289, 455
-  size: 67, 54
-  orig: 67, 54
-  offset: 0, 0
-  index: -1
+bounds:163,35,67,54
+rotate:180
 tzz_zuoshou
-  rotate: 180
-  xy: 267, 163
-  size: 64, 62
-  orig: 64, 62
-  offset: 0, 0
-  index: -1
+bounds:11,57,64,62
 tzz_zuowaitaoxiuzi
-  rotate: 270
-  xy: 6, 10
-  size: 71, 174
-  orig: 71, 174
-  offset: 0, 0
-  index: -1
+bounds:22,192,71,174
+rotate:270
 tzz_zuoxaiotui
-  rotate: true
-  xy: 175, 112
-  size: 58, 95
-  orig: 60, 99
-  offset: 0, 4
-  index: -1
+bounds:281,105,58,95
+offsets:0,4,60,99
+rotate:90
 tzz_zuoxiaobi
-  rotate: true
-  xy: 328, 302
-  size: 57, 53
-  orig: 64, 53
-  offset: 7, 0
-  index: -1
+bounds:449,47,57,53
+offsets:7,0,64,53

@@ -1,216 +1,87 @@
-
 610101_zhizhu.png
-size: 1128,524
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,1024
+filter:Linear,Linear
+scale:0.6
 duye1
-  rotate: true
-  xy: 101, 8
-  size: 15, 65
-  orig: 15, 65
-  offset: 0, 0
-  index: -1
+bounds:94,938,13,56
+rotate:90
 duye2
-  rotate: true
-  xy: 642, 2
-  size: 5, 37
-  orig: 5, 37
-  offset: 0, 0
-  index: -1
+bounds:204,947,4,32
+rotate:270
 duye3
-  rotate: false
-  xy: 891, 6
-  size: 7, 50
-  orig: 7, 50
-  offset: 0, 0
-  index: -1
+bounds:156,945,6,43
+rotate:270
 duye4
-  rotate: true
-  xy: 971, 92
-  size: 7, 34
-  orig: 13, 37
-  offset: 1, 3
-  index: -1
+bounds:242,944,7,30
+offsets:0,2,11,32
+rotate:270
 qianzhua1_1
-  rotate: false
-  xy: 827, 21
-  size: 62, 35
-  orig: 62, 35
-  offset: 0, 0
-  index: -1
+bounds:146,604,53,30
 qianzhua1_2
-  rotate: true
-  xy: 962, 3
-  size: 55, 40
-  orig: 55, 40
-  offset: 0, 0
-  index: -1
+bounds:448,662,47,34
 qianzhua1_3
-  rotate: false
-  xy: 827, 58
-  size: 71, 41
-  orig: 71, 43
-  offset: 0, 2
-  index: -1
+bounds:149,36,61,35
+offsets:0,2,61,37
 qianzhua1_4
-  rotate: true
-  xy: 900, 60
-  size: 39, 69
-  orig: 39, 81
-  offset: 0, 12
-  index: -1
+bounds:448,891,34,60
+offsets:0,10,34,70
 shenti
-  rotate: false
-  xy: 443, 4
-  size: 120, 81
-  orig: 120, 81
-  offset: 0, 0
-  index: -1
+bounds:6,306,103,69
 shitou1
-  rotate: true
-  xy: 747, 101
-  size: 421, 258
-  orig: 428, 258
-  offset: 0, 0
-  index: -1
+bounds:6,77,361,221
+offsets:0,0,367,221
 shitou2
-  rotate: false
-  xy: 2, 25
-  size: 342, 218
-  orig: 361, 239
-  offset: 2, 13
-  index: -1
+bounds:6,640,293,187
+offsets:2,12,309,205
+rotate:90
 wang
-  rotate: false
-  xy: 2, 245
-  size: 743, 277
-  orig: 746, 279
-  offset: 0, 2
-  index: -1
+bounds:205,304,636,237
+offsets:0,2,639,239
+rotate:90
 wangyinying
-  rotate: false
-  xy: 346, 87
-  size: 295, 156
-  orig: 298, 159
-  offset: 2, 2
-  index: -1
+bounds:6,381,253,134
+offsets:1,1,255,136
+rotate:90
 yinying
-  rotate: false
-  xy: 2, 8
-  size: 97, 15
-  orig: 97, 16
-  offset: 0, 1
-  index: -1
+bounds:6,938,83,13
+offsets:0,1,83,14
 youzhua1_1
-  rotate: true
-  xy: 1007, 155
-  size: 96, 88
-  orig: 96, 97
-  offset: 0, 9
-  index: -1
+bounds:407,138,82,76
+offsets:0,7,82,83
 youzhua1_2
-  rotate: false
-  xy: 565, 3
-  size: 75, 82
-  orig: 79, 83
-  offset: 4, 1
-  index: -1
+bounds:6,6,65,70
+offsets:3,1,68,71
+rotate:90
 youzhua2_1
-  rotate: true
-  xy: 643, 85
-  size: 81, 92
-  orig: 81, 92
-  offset: 0, 0
-  index: -1
+bounds:437,94,69,79
 youzhua2_2
-  rotate: false
-  xy: 1007, 86
-  size: 79, 67
-  orig: 79, 67
-  offset: 0, 0
-  index: -1
+bounds:82,14,68,57
 youzhua3_1
-  rotate: false
-  xy: 1004, 26
-  size: 49, 58
-  orig: 49, 63
-  offset: 0, 0
-  index: -1
+bounds:448,701,42,50
+offsets:0,0,42,54
 youzhua3_2
-  rotate: false
-  xy: 1083, 432
-  size: 43, 90
-  orig: 43, 90
-  offset: 0, 0
-  index: -1
+bounds:469,743,37,77
 youzhua4_1
-  rotate: false
-  xy: 1094, 318
-  size: 29, 46
-  orig: 29, 46
-  offset: 0, 0
-  index: -1
+bounds:448,585,25,39
 youzhua4_2
-  rotate: false
-  xy: 1094, 366
-  size: 32, 64
-  orig: 32, 64
-  offset: 0, 0
-  index: -1
+bounds:479,854,27,55
 zuozhua1_1
-  rotate: false
-  xy: 758, 28
-  size: 67, 71
-  orig: 67, 71
-  offset: 0, 0
-  index: -1
+bounds:445,29,58,61
+rotate:90
 zuozhua1_2
-  rotate: false
-  xy: 1007, 253
-  size: 85, 118
-  orig: 85, 118
-  offset: 0, 0
-  index: -1
+bounds:373,153,73,101
 zuozhua2_1
-  rotate: true
-  xy: 346, 2
-  size: 83, 95
-  orig: 83, 95
-  offset: 0, 0
-  index: -1
+bounds:435,218,71,81
 zuozhua2_2
-  rotate: false
-  xy: 1007, 373
-  size: 74, 149
-  orig: 74, 149
-  offset: 0, 0
-  index: -1
+bounds:136,316,63,128
 zuozhua3_1
-  rotate: false
-  xy: 642, 9
-  size: 73, 74
-  orig: 73, 74
-  offset: 0, 0
-  index: -1
+bounds:373,32,62,64
+rotate:180
 zuozhua3_2
-  rotate: true
-  xy: 643, 168
-  size: 75, 102
-  orig: 75, 102
-  offset: 0, 0
-  index: -1
+bounds:373,70,64,87
+rotate:90
 zuozhua4_1
-  rotate: false
-  xy: 900, 10
-  size: 60, 48
-  orig: 60, 48
-  offset: 0, 0
-  index: -1
+bounds:448,615,51,41
 zuozhua4_2
-  rotate: false
-  xy: 717, 3
-  size: 39, 80
-  orig: 40, 80
-  offset: 0, 0
-  index: -1
+bounds:448,821,33,68
+offsets:0,0,34,68

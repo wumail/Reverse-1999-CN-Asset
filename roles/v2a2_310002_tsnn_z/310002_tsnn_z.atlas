@@ -1,160 +1,57 @@
-
 310002_tsnn_z.png
-size: 2008,336
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,512
+filter:Linear,Linear
+scale:0.7
 bj_jyzl0
-  rotate: 180
-  xy: 1473, 184
-  size: 80, 67
-  orig: 80, 67
-  offset: 0, 0
-  index: -1
+bounds:266,262,80,67
+rotate:90
 bj_jyzl1
-  rotate: false
-  xy: 500, 13
-  size: 178, 73
-  orig: 178, 73
-  offset: 0, 0
-  index: -1
+bounds:1427,13,178,73
 bj_jyzl10
-  rotate: false
-  xy: 1750, 142
-  size: 139, 93
-  orig: 139, 93
-  offset: 0, 0
-  index: -1
+bounds:1704,157,139,93
 bj_jyzl11
-  rotate: 270
-  xy: 1849, 69
-  size: 258, 139
-  orig: 258, 139
-  offset: 0, 0
-  index: -1
+bounds:1804,84,258,139
+rotate:270
 bj_jyzl12
-  rotate: false
-  xy: 1340, 186
-  size: 288, 141
-  orig: 288, 141
-  offset: 0, 0
-  index: -1
+bounds:1295,201,288,141
 bj_jyzl13
-  rotate: false
-  xy: 1605, 44
-  size: 274, 109
-  orig: 274, 109
-  offset: 0, 0
-  index: -1
+bounds:1560,60,274,109
 bj_jyzl14
-  rotate: false
-  xy: 6, 7
-  size: 326, 321
-  orig: 326, 321
-  offset: 0, 0
-  index: -1
+bounds:251,21,326,321
+rotate:180
 bj_jyzl2
-  rotate: 180
-  xy: 6, 151
-  size: 79, 65
-  orig: 79, 65
-  offset: 0, 0
-  index: -1
+bounds:1888,277,79,65
 bj_jyzl3
-  rotate: false
-  xy: 1153, 260
-  size: 183, 67
-  orig: 183, 67
-  offset: 0, 0
-  index: -1
+bounds:1089,67,183,67
 bj_jyzl4
-  rotate: false
-  xy: 535, 302
-  size: 43, 26
-  orig: 43, 26
-  offset: 0, 0
-  index: -1
+bounds:497,316,43,26
 bj_jyzl5
-  rotate: false
-  xy: 871, 315
-  size: 57, 13
-  orig: 57, 13
-  offset: 0, 0
-  index: -1
+bounds:6,329,57,13
 bj_jyzl6
-  rotate: false
-  xy: 816, 267
-  size: 49, 60
-  orig: 49, 60
-  offset: 0, 0
-  index: -1
+bounds:771,282,49,60
 bj_jyzl7
-  rotate: 180
-  xy: 1956, 263
-  size: 43, 64
-  orig: 43, 64
-  offset: 0, 0
-  index: -1
+bounds:1973,278,43,64
+rotate:180
 bj_jyzl8
-  rotate: false
-  xy: 1630, 241
-  size: 91, 87
-  orig: 91, 87
-  offset: 0, 0
-  index: -1
+bounds:1585,255,91,87
 bj_jyzl9
-  rotate: 180
-  xy: 1267, 15
-  size: 134, 104
-  orig: 134, 104
-  offset: 0, 0
-  index: -1
+bounds:1277,6,134,104
+rotate:180
 dz_jianying10
-  rotate: false
-  xy: 1023, 43
-  size: 86, 176
-  orig: 86, 176
-  offset: 0, 0
-  index: -1
+bounds:1116,256,86,176
+rotate:90
 dz_jianying11
-  rotate: true
-  xy: 1115, 43
-  size: 116, 146
-  orig: 116, 146
-  offset: 0, 0
-  index: -1
+bounds:975,51,116,146
 dz_jianying12
-  rotate: 180
-  xy: 293, 56
-  size: 281, 272
-  orig: 281, 272
-  offset: 0, 0
-  index: -1
+bounds:6,70,281,272
+rotate:180
 dz_jianying13
-  rotate: false
-  xy: 1459, 65
-  size: 384, 263
-  orig: 384, 263
-  offset: 0, 0
-  index: -1
+bounds:1414,79,384,263
 dz_jianying14
-  rotate: false
-  xy: 1023, 70
-  size: 431, 258
-  orig: 431, 258
-  offset: 0, 0
-  index: -1
+bounds:978,84,431,258
 dz_jianying15
-  rotate: 270
-  xy: 580, 57
-  size: 271, 235
-  orig: 271, 235
-  offset: 0, 0
-  index: -1
+bounds:535,71,271,235
+rotate:270
 dz_jianying16
-  rotate: true
-  xy: 820, 64
-  size: 264, 197
-  orig: 264, 197
-  offset: 0, 0
-  index: -1
+bounds:775,78,264,197
+rotate:90

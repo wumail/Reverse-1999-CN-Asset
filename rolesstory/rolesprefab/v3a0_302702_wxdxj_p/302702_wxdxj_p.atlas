@@ -1,160 +1,64 @@
-
 302702_wxdxj_p.png
-size: 1408,456
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,512
+filter:Linear,Linear
+scale:0.4
 houye2
-  rotate: false
-  xy: 1124, 192
-  size: 158, 116
-  orig: 158, 116
-  offset: 0, 0
-  index: -1
+bounds:1618,268,158,116
+rotate:90
 houye3
-  rotate: 270
-  xy: 630, 7
-  size: 94, 140
-  orig: 94, 140
-  offset: 0, 0
-  index: -1
+bounds:1817,286,94,140
 hua
-  rotate: false
-  xy: 993, 284
-  size: 132, 163
-  orig: 132, 163
-  offset: 0, 0
-  index: -1
+bounds:1172,263,132,163
 huaban1
-  rotate: true
-  xy: 1287, 8
-  size: 64, 60
-  orig: 64, 61
-  offset: 0, 0
-  index: -1
+bounds:1044,256,64,60
+offsets:0,0,64,61
 huaban2
-  rotate: true
-  xy: 1353, 7
-  size: 65, 41
-  orig: 67, 41
-  offset: 1, 0
-  index: -1
+bounds:1601,385,65,41
+offsets:1,0,67,41
 huaban3
-  rotate: 180
-  xy: 1344, 205
-  size: 44, 67
-  orig: 44, 69
-  offset: 0, 1
-  index: -1
+bounds:1493,333,44,67
+offsets:0,1,44,69
 jiekou
-  rotate: false
-  xy: 776, 42
-  size: 25, 24
-  orig: 26, 24
-  offset: 0, 0
-  index: -1
+bounds:1998,402,25,24
+offsets:0,0,26,24
 sanjiao
-  rotate: false
-  xy: 1058, 25
-  size: 60, 54
-  orig: 61, 54
-  offset: 0, 0
-  index: -1
+bounds:1982,263,60,54
+offsets:0,0,61,54
 tianxian
-  rotate: false
-  xy: 632, 72
-  size: 289, 376
-  orig: 289, 376
-  offset: 0, 0
-  index: -1
+bounds:681,50,289,376
 yezi1
-  rotate: 270
-  xy: 850, 150
-  size: 268, 139
-  orig: 282, 150
-  offset: 0, 11
-  index: -1
+bounds:899,158,268,139
+offsets:0,11,282,150
+rotate:270
 yezi2
-  rotate: true
-  xy: 1207, 38
-  size: 157, 73
-  orig: 157, 78
-  offset: 0, 5
-  index: -1
+bounds:1739,269,157,73
+offsets:0,5,157,78
+rotate:90
 yezi3
-  rotate: 180
-  xy: 1013, 86
-  size: 107, 212
-  orig: 107, 212
-  offset: 0, 0
-  index: -1
+bounds:1286,214,107,212
 yezi4
-  rotate: false
-  xy: 1117, 295
-  size: 140, 153
-  orig: 143, 153
-  offset: 3, 0
-  index: -1
+bounds:1472,273,140,153
+offsets:3,0,143,153
 yezi5
-  rotate: 180
-  xy: 1114, 39
-  size: 88, 169
-  orig: 88, 169
-  offset: 0, 0
-  index: -1
+bounds:1395,257,88,169
 yezi6
-  rotate: false
-  xy: 811, 21
-  size: 209, 158
-  orig: 209, 158
-  offset: 0, 0
-  index: -1
+bounds:1042,217,209,158
+rotate:270
 yezi7
-  rotate: 270
-  xy: 1254, 270
-  size: 128, 109
-  orig: 128, 109
-  offset: 0, 0
-  index: -1
+bounds:1891,298,128,109
+rotate:270
 zhizhen
-  rotate: false
-  xy: 953, 11
-  size: 99, 38
-  orig: 101, 39
-  offset: 1, 0
-  index: -1
+bounds:681,388,99,38
+offsets:1,0,101,39
 zhuti
-  rotate: false
-  xy: 6, 27
-  size: 644, 420
-  orig: 644, 430
-  offset: 0, 10
-  index: -1
+bounds:31,6,644,420
+offsets:0,10,644,430
+rotate:180
 zhuti02
-  rotate: false
-  xy: 1286, 65
-  size: 46, 201
-  orig: 46, 201
-  offset: 0, 0
-  index: -1
+bounds:6,225,46,201
 zhuti03
-  rotate: true
-  xy: 1340, 278
-  size: 142, 43
-  orig: 142, 43
-  offset: 0, 0
-  index: -1
+bounds:1830,249,142,43
 zhuti04
-  rotate: true
-  xy: 1363, 411
-  size: 36, 35
-  orig: 36, 35
-  offset: 0, 0
-  index: -1
+bounds:1786,391,36,35
 zhuti05
-  rotate: false
-  xy: 1315, 78
-  size: 45, 157
-  orig: 45, 157
-  offset: 0, 0
-  index: -1
+bounds:1489,172,45,157

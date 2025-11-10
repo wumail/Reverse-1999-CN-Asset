@@ -1,153 +1,56 @@
-
 690109_nyhx.png
-size: 1080,340
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,1024
+filter:Linear,Linear
+scale:0.7
 1
-  rotate: false
-  xy: 914, 178
-  size: 43, 156
-  orig: 43, 156
-  offset: 0, 0
-  index: -1
+bounds:450,294,43,156
 10
-  rotate: false
-  xy: 963, 206
-  size: 105, 128
-  orig: 105, 128
-  offset: 0, 0
-  index: -1
+bounds:6,461,105,128
 11
-  rotate: false
-  xy: 217, 6
-  size: 50, 27
-  orig: 50, 27
-  offset: 0, 0
-  index: -1
+bounds:55,539,50,27
+rotate:90
 12
-  rotate: true
-  xy: 273, 6
-  size: 27, 22
-  orig: 27, 22
-  offset: 0, 0
-  index: -1
+bounds:53,521,27,22
 13
-  rotate: true
-  xy: 820, 16
-  size: 62, 95
-  orig: 62, 95
-  offset: 0, 0
-  index: -1
+bounds:86,493,62,95
 14
-  rotate: false
-  xy: 1040, 69
-  size: 33, 36
-  orig: 39, 41
-  offset: 3, 3
-  index: -1
+bounds:403,413,34,37
+offsets:3,3,39,41
 15
-  rotate: false
-  xy: 1045, 118
-  size: 28, 32
-  orig: 28, 32
-  offset: 0, 0
-  index: -1
+bounds:450,211,28,32
 16
-  rotate: false
-  xy: 676, 84
-  size: 232, 250
-  orig: 232, 250
-  offset: 0, 0
-  index: -1
+bounds:6,219,232,250
+rotate:90
 17
-  rotate: false
-  xy: 217, 39
-  size: 265, 295
-  orig: 265, 295
-  offset: 0, 0
-  index: -1
+bounds:201,456,265,295
+rotate:90
 18
-  rotate: true
-  xy: 1005, 111
-  size: 39, 34
-  orig: 40, 34
-  offset: 0, 0
-  index: -1
+bounds:6,457,39,34
+offsets:0,0,40,34
 19
-  rotate: true
-  xy: 1001, 7
-  size: 74, 33
-  orig: 81, 41
-  offset: 3, 5
-  index: -1
+bounds:6,180,74,33
+offsets:3,5,81,41
 2
-  rotate: false
-  xy: 488, 16
-  size: 190, 46
-  orig: 190, 46
-  offset: 0, 0
-  index: -1
+bounds:6,675,190,46
 20
-  rotate: true
-  xy: 776, 15
-  size: 63, 38
-  orig: 63, 42
-  offset: 0, 4
-  index: -1
+bounds:86,175,63,38
+offsets:0,4,63,42
 21
-  rotate: true
-  xy: 731, 15
-  size: 63, 39
-  orig: 63, 39
-  offset: 0, 0
-  index: -1
+bounds:430,249,63,39
 3
-  rotate: true
-  xy: 488, 68
-  size: 266, 182
-  orig: 266, 182
-  offset: 0, 0
-  index: -1
+bounds:262,184,266,182
+rotate:90
 4
-  rotate: true
-  xy: 301, 13
-  size: 20, 28
-  orig: 26, 30
-  offset: 1, 1
-  index: -1
+bounds:51,461,20,28
+offsets:1,1,26,30
 5
-  rotate: true
-  xy: 6, 10
-  size: 324, 205
-  orig: 324, 205
-  offset: 0, 0
-  index: -1
+bounds:6,6,324,205
+rotate:180
 6
-  rotate: false
-  xy: 1005, 156
-  size: 41, 44
-  orig: 41, 44
-  offset: 0, 0
-  index: -1
+bounds:154,472,41,44
 7
-  rotate: false
-  xy: 921, 6
-  size: 74, 75
-  orig: 74, 75
-  offset: 0, 0
-  index: -1
+bounds:97,594,74,75
 8
-  rotate: false
-  xy: 684, 12
-  size: 41, 66
-  orig: 41, 66
-  offset: 0, 0
-  index: -1
+bounds:151,522,41,66
 9
-  rotate: false
-  xy: 914, 87
-  size: 85, 85
-  orig: 85, 85
-  offset: 0, 0
-  index: -1
+bounds:6,595,85,85

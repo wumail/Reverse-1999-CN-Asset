@@ -1,237 +1,85 @@
-
 421801_zhuhunshuanglang.png
-size: 540,524
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,1024
+filter:Linear,Linear
+scale:0.7
 1_er1
-  rotate: true
-  xy: 409, 32
-  size: 74, 62
-  orig: 74, 62
-  offset: 0, 0
-  index: -1
+bounds:320,448,74,62
 1_er2
-  rotate: true
-  xy: 344, 4
-  size: 30, 53
-  orig: 30, 53
-  offset: 0, 0
-  index: -1
+bounds:465,397,30,53
 1_neizang
-  rotate: false
-  xy: 149, 211
-  size: 167, 95
-  orig: 167, 95
-  offset: 0, 0
-  index: -1
+bounds:284,233,167,95
 1_qugan
-  rotate: false
-  xy: 2, 308
-  size: 320, 214
-  orig: 320, 214
-  offset: 0, 0
-  index: -1
+bounds:6,190,320,214
+rotate:90
 1_shange1
-  rotate: false
-  xy: 324, 315
-  size: 151, 99
-  orig: 151, 99
-  offset: 0, 0
-  index: -1
+bounds:185,179,151,99
+rotate:180
 1_shange2
-  rotate: false
-  xy: 342, 119
-  size: 76, 76
-  orig: 76, 76
-  offset: 0, 0
-  index: -1
+bounds:26,434,76,76
+rotate:90
 1_weiba
-  rotate: false
-  xy: 2, 127
-  size: 145, 179
-  orig: 145, 179
-  offset: 0, 0
-  index: -1
+bounds:331,331,145,179
+rotate:180
 1_xiae1
-  rotate: true
-  xy: 473, 147
-  size: 66, 53
-  orig: 66, 53
-  offset: 0, 0
-  index: -1
+bounds:6,8,66,53
 1_yan
-  rotate: true
-  xy: 399, 5
-  size: 25, 27
-  orig: 25, 27
-  offset: 0, 0
-  index: -1
+bounds:422,483,25,27
 1_youhoutui1
-  rotate: true
-  xy: 137, 7
-  size: 38, 53
-  orig: 38, 53
-  offset: 0, 0
-  index: -1
+bounds:468,151,38,53
 1_youhoutui2
-  rotate: true
-  xy: 420, 108
-  size: 87, 51
-  orig: 87, 51
-  offset: 0, 0
-  index: -1
+bounds:455,209,87,51
+rotate:90
 1_youqianzhua1
-  rotate: false
-  xy: 344, 36
-  size: 63, 81
-  orig: 63, 81
-  offset: 0, 0
-  index: -1
+bounds:47,40,63,81
+rotate:270
 1_youqianzhua2
-  rotate: true
-  xy: 271, 105
-  size: 104, 69
-  orig: 104, 69
-  offset: 0, 0
-  index: -1
+bounds:436,6,104,69
+rotate:90
 1_zuohoutui1
-  rotate: false
-  xy: 2, 2
-  size: 105, 123
-  orig: 105, 123
-  offset: 0, 0
-  index: -1
+bounds:336,133,105,123
+rotate:90
 1_zuohoutui2
-  rotate: true
-  xy: 256, 26
-  size: 77, 86
-  orig: 77, 86
-  offset: 0, 0
-  index: -1
+bounds:137,43,77,86
+rotate:90
 1_zuoqiantui1
-  rotate: false
-  xy: 379, 197
-  size: 71, 116
-  orig: 71, 116
-  offset: 0, 0
-  index: -1
+bounds:224,97,71,116
+rotate:90
 1_zuoqiantui2
-  rotate: true
-  xy: 149, 106
-  size: 103, 120
-  orig: 103, 120
-  offset: 0, 0
-  index: -1
+bounds:97,108,103,120
+rotate:90
 2_er1
-  rotate: false
-  xy: 473, 76
-  size: 50, 69
-  orig: 50, 69
-  offset: 0, 0
-  index: -1
+bounds:317,14,50,69
+rotate:90
 2_er2
-  rotate: true
-  xy: 192, 8
-  size: 37, 54
-  orig: 37, 54
-  offset: 0, 0
-  index: -1
+bounds:455,456,37,54
 2_neizang
-  rotate: true
-  xy: 477, 302
-  size: 112, 57
-  orig: 112, 57
-  offset: 0, 0
-  index: -1
+bounds:346,70,112,57
 2_qugna
-  rotate: false
-  xy: 324, 416
-  size: 190, 106
-  orig: 190, 106
-  offset: 0, 0
-  index: -1
+bounds:225,320,190,106
+rotate:90
 2_shange
-  rotate: false
-  xy: 109, 47
-  size: 145, 57
-  orig: 145, 57
-  offset: 0, 0
-  index: -1
+bounds:6,67,145,57
+rotate:90
 2_xiae1
-  rotate: true
-  xy: 318, 211
-  size: 95, 59
-  orig: 95, 59
-  offset: 0, 0
-  index: -1
+bounds:447,290,95,59
+rotate:270
 2_xiae2
-  rotate: true
-  xy: 452, 215
-  size: 85, 79
-  orig: 85, 79
-  offset: 0, 0
-  index: -1
+bounds:226,19,85,79
 2_yan
-  rotate: true
-  xy: 516, 417
-  size: 29, 22
-  orig: 29, 22
-  offset: 0, 0
-  index: -1
+bounds:198,488,29,22
 koushui1
-  rotate: true
-  xy: 473, 36
-  size: 38, 46
-  orig: 38, 46
-  offset: 0, 0
-  index: -1
+bounds:6,382,38,46
 koushui2
-  rotate: false
-  xy: 109, 2
-  size: 26, 43
-  orig: 26, 43
-  offset: 0, 0
-  index: -1
+bounds:204,321,26,43
 koushui3
-  rotate: false
-  xy: 516, 448
-  size: 18, 74
-  orig: 18, 74
-  offset: 0, 0
-  index: -1
+bounds:6,436,18,74
 zuishi1
-  rotate: false
-  xy: 521, 51
-  size: 17, 23
-  orig: 17, 23
-  offset: 0, 0
-  index: -1
+bounds:365,426,17,23
 zuishi2
-  rotate: true
-  xy: 248, 2
-  size: 22, 23
-  orig: 22, 23
-  offset: 0, 0
-  index: -1
+bounds:337,437,22,23
 zuishi3
-  rotate: false
-  xy: 109, 107
-  size: 14, 18
-  orig: 14, 18
-  offset: 0, 0
-  index: -1
+bounds:337,413,14,18
 zuishi4
-  rotate: false
-  xy: 521, 38
-  size: 17, 11
-  orig: 17, 11
-  offset: 0, 0
-  index: -1
+bounds:426,322,17,11
 zuishi5
-  rotate: false
-  xy: 452, 302
-  size: 18, 11
-  orig: 18, 11
-  offset: 0, 0
-  index: -1
+bounds:28,395,18,11

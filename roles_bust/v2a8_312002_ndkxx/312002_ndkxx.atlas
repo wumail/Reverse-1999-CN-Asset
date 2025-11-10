@@ -1,678 +1,229 @@
-
 312002_ndkxx.png
-size: 996,980
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,512
+filter:Linear,Linear
+scale:0.4
 a_bujian1
-  rotate: false
-  xy: 181, 905
-  size: 58, 70
-  orig: 58, 70
-  offset: 0, 0
-  index: -1
+bounds:397,7,58,70
+rotate:180
 a_bujian2
-  rotate: false
-  xy: 524, 723
-  size: 41, 61
-  orig: 41, 61
-  offset: 0, 0
-  index: -1
-j_beijing
-  rotate: false
-  xy: 6, 281
-  size: 169, 263
-  orig: 169, 263
-  offset: 0, 0
-  index: -1
+bounds:571,9,41,61
 ndk_fa1_0
-  rotate: false
-  xy: 380, 528
-  size: 20, 26
-  orig: 20, 26
-  offset: 0, 0
-  index: -1
+bounds:375,8,20,26
 ndk_fa1_1
-  rotate: false
-  xy: 6, 745
-  size: 17, 14
-  orig: 17, 14
-  offset: 0, 0
-  index: -1
+bounds:153,487,17,14
 ndk_fa1_2
-  rotate: true
-  xy: 808, 814
-  size: 88, 116
-  orig: 88, 116
-  offset: 0, 0
-  index: -1
+bounds:1599,385,88,116
 ndk_fa1_3
-  rotate: 270
-  xy: 725, 649
-  size: 199, 206
-  orig: 199, 206
-  offset: 0, 0
-  index: -1
+bounds:1329,46,199,206
 ndk_fa1_4
-  rotate: false
-  xy: 772, 592
-  size: 114, 32
-  orig: 114, 32
-  offset: 0, 0
-  index: -1
+bounds:87,33,114,32
 ndk_fa1_5
-  rotate: false
-  xy: 371, 918
-  size: 48, 57
-  orig: 48, 57
-  offset: 0, 0
-  index: -1
+bounds:436,444,48,57
 ndk_fa2_2
-  rotate: true
-  xy: 802, 439
-  size: 237, 110
-  orig: 237, 110
-  offset: 0, 0
-  index: -1
+bounds:1693,264,237,110
+rotate:90
 ndk_fa2_6
-  rotate: true
-  xy: 653, 298
-  size: 261, 77
-  orig: 261, 77
-  offset: 0, 0
-  index: -1
+bounds:956,171,261,77
 ndk_fa3_1
-  rotate: false
-  xy: 613, 877
-  size: 236, 68
-  orig: 236, 68
-  offset: 0, 0
-  index: -1
+bounds:1102,433,236,68
 ndk_fa4_0
-  rotate: 270
-  xy: 496, 96
-  size: 550, 250
-  orig: 550, 250
-  offset: 0, 0
-  index: -1
+bounds:910,199,550,250
 ndk_fa4_1
-  rotate: false
-  xy: 34, 848
-  size: 18, 14
-  orig: 18, 14
-  offset: 0, 0
-  index: -1
+bounds:313,487,18,14
 ndk_fa4_2
-  rotate: false
-  xy: 416, 909
-  size: 34, 56
-  orig: 34, 56
-  offset: 0, 0
-  index: -1
+bounds:731,433,34,56
 ndk_fa4_3
-  rotate: true
-  xy: 543, 320
-  size: 346, 318
-  orig: 346, 318
-  offset: 0, 0
-  index: -1
+bounds:1547,44,346,318
+rotate:180
 ndk_fa4_4
-  rotate: true
-  xy: 856, 760
-  size: 92, 86
-  orig: 92, 86
-  offset: 0, 0
-  index: -1
+bounds:1115,14,92,86
 ndk_fa4_5
-  rotate: true
-  xy: 690, 133
-  size: 272, 262
-  orig: 272, 262
-  offset: 0, 0
-  index: -1
+bounds:1025,16,272,262
+rotate:180
 ndk_guchi_R1_a0
-  rotate: false
-  xy: 545, 475
-  size: 74, 88
-  orig: 74, 88
-  offset: 0, 0
-  index: -1
+bounds:950,321,74,88
 ndk_guchi_R1_a1
-  rotate: false
-  xy: 513, 768
-  size: 13, 46
-  orig: 14, 46
-  offset: 1, 0
-  index: -1
+bounds:917,289,13,46
+offsets:1,0,14,46
 ndk_guchi_R1_a2
-  rotate: false
-  xy: 743, 551
-  size: 83, 105
-  orig: 83, 105
-  offset: 0, 0
-  index: -1
+bounds:1802,40,83,105
 ndk_guchi_R1_a3
-  rotate: false
-  xy: 6, 70
-  size: 83, 156
-  orig: 83, 156
-  offset: 0, 0
-  index: -1
+bounds:1168,308,83,156
+rotate:90
 ndk_guchi_R1_a4
-  rotate: false
-  xy: 118, 960
-  size: 16, 15
-  orig: 16, 15
-  offset: 0, 0
-  index: -1
+bounds:22,326,16,15
 ndk_guchi_R1_a5
-  rotate: false
-  xy: 224, 445
-  size: 17, 32
-  orig: 17, 32
-  offset: 0, 0
-  index: -1
+bounds:6,386,17,32
 ndk_guchi_R1_a6
-  rotate: false
-  xy: 501, 581
-  size: 16, 46
-  orig: 16, 46
-  offset: 0, 0
-  index: -1
+bounds:792,127,16,46
 ndk_guchi_R1_a7
-  rotate: false
-  xy: 367, 473
-  size: 24, 47
-  orig: 25, 49
-  offset: 0, 0
-  index: -1
+bounds:855,372,24,47
+offsets:0,0,25,49
 ndk_guchi_R1_a8
-  rotate: false
-  xy: 366, 428
-  size: 26, 41
-  orig: 29, 41
-  offset: 3, 0
-  index: -1
+bounds:696,115,26,41
+offsets:3,0,29,41
 ndk_guchi_R2_a0
-  rotate: 270
-  xy: 144, 8
-  size: 366, 416
-  orig: 366, 416
-  offset: 0, 0
-  index: -1
+bounds:1177,135,366,416
+rotate:270
 ndk_guchi_R2_a1
-  rotate: 270
-  xy: 351, 604
-  size: 350, 326
-  orig: 350, 326
-  offset: 0, 0
-  index: -1
+bounds:1403,65,350,326
+rotate:270
 ndk_guchi_R2_a6_1
-  rotate: false
-  xy: 369, 381
-  size: 198, 231
-  orig: 200, 231
-  offset: 2, 0
-  index: -1
+bounds:398,53,198,231
+offsets:2,0,200,231
+rotate:90
 ndk_houfa_a3
-  rotate: true
-  xy: 6, 561
-  size: 176, 143
-  orig: 176, 143
-  offset: 0, 0
-  index: -1
+bounds:960,325,176,143
+rotate:90
 ndk_lian
-  rotate: false
-  xy: 732, 125
-  size: 127, 127
-  orig: 127, 129
-  offset: 0, 1
-  index: -1
+bounds:265,22,127,129
+rotate:270
 ndk_qunbai_0
-  rotate: false
-  xy: 254, 792
-  size: 197, 182
-  orig: 197, 182
-  offset: 0, 0
-  index: -1
+bounds:6,319,197,182
 ndk_shenti
-  rotate: true
-  xy: 6, 71
-  size: 204, 328
-  orig: 204, 333
-  offset: 0, 5
-  index: -1
+bounds:626,159,204,329
+offsets:0,4,204,333
+rotate:180
 ndk_toudingfa_0
-  rotate: false
-  xy: 425, 721
-  size: 23, 49
-  orig: 23, 49
-  offset: 0, 0
-  index: -1
+bounds:814,121,23,49
 ndk_toudingfa_1
-  rotate: false
-  xy: 737, 870
-  size: 36, 25
-  orig: 36, 25
-  offset: 0, 0
-  index: -1
+bounds:632,145,36,25
 ndk_toudingfa_10
-  rotate: false
-  xy: 616, 608
-  size: 32, 37
-  orig: 32, 37
-  offset: 0, 0
-  index: -1
+bounds:595,230,32,37
 ndk_toudingfa_11
-  rotate: false
-  xy: 589, 808
-  size: 151, 92
-  orig: 151, 94
-  offset: 0, 0
-  index: -1
+bounds:927,87,151,92
+offsets:0,0,151,94
 ndk_toudingfa_12
-  rotate: false
-  xy: 605, 13
-  size: 129, 77
-  orig: 129, 77
-  offset: 0, 0
-  index: -1
+bounds:792,38,129,77
 ndk_toudingfa_13
-  rotate: false
-  xy: 6, 568
-  size: 42, 55
-  orig: 42, 55
-  offset: 0, 0
-  index: -1
+bounds:235,436,42,55
 ndk_toudingfa_14
-  rotate: false
-  xy: 180, 469
-  size: 36, 31
-  orig: 36, 31
-  offset: 0, 0
-  index: -1
+bounds:593,268,36,31
 ndk_toudingfa_15
-  rotate: false
-  xy: 180, 363
-  size: 22, 43
-  orig: 22, 43
-  offset: 0, 0
-  index: -1
+bounds:827,363,22,43
 ndk_toudingfa_16
-  rotate: false
-  xy: 27, 861
-  size: 24, 26
-  orig: 24, 26
-  offset: 0, 0
-  index: -1
+bounds:477,140,24,26
 ndk_toudingfa_17
-  rotate: false
-  xy: 521, 607
-  size: 25, 18
-  orig: 25, 18
-  offset: 0, 0
-  index: -1
+bounds:640,394,25,18
 ndk_toudingfa_18
-  rotate: false
-  xy: 379, 482
-  size: 26, 22
-  orig: 26, 22
-  offset: 0, 0
-  index: -1
+bounds:847,466,26,22
 ndk_toudingfa_19
-  rotate: false
-  xy: 222, 419
-  size: 23, 18
-  orig: 23, 18
-  offset: 0, 0
-  index: -1
+bounds:730,12,23,18
 ndk_toudingfa_2
-  rotate: false
-  xy: 386, 665
-  size: 64, 59
-  orig: 64, 59
-  offset: 0, 0
-  index: -1
+bounds:220,8,64,59
 ndk_toudingfa_20
-  rotate: false
-  xy: 87, 708
-  size: 30, 25
-  orig: 30, 25
-  offset: 0, 0
-  index: -1
+bounds:285,6,30,25
+rotate:180
 ndk_toudingfa_21
-  rotate: false
-  xy: 6, 952
-  size: 40, 22
-  orig: 40, 22
-  offset: 0, 0
-  index: -1
+bounds:442,432,40,22
+rotate:90
 ndk_toudingfa_3
-  rotate: false
-  xy: 247, 875
-  size: 14, 26
-  orig: 14, 26
-  offset: 0, 0
-  index: -1
+bounds:658,470,14,26
 ndk_toudingfa_4
-  rotate: false
-  xy: 31, 904
-  size: 16, 14
-  orig: 16, 14
-  offset: 0, 0
-  index: -1
+bounds:301,368,16,14
 ndk_toudingfa_5
-  rotate: false
-  xy: 40, 550
-  size: 28, 32
-  orig: 28, 32
-  offset: 0, 0
-  index: -1
+bounds:826,473,28,32
+rotate:90
 ndk_toudingfa_6
-  rotate: false
-  xy: 345, 707
-  size: 74, 79
-  orig: 74, 79
-  offset: 0, 0
-  index: -1
+bounds:159,422,74,79
 ndk_toudingfa_7
-  rotate: false
-  xy: 512, 786
-  size: 36, 54
-  orig: 36, 54
-  offset: 0, 0
-  index: -1
+bounds:701,447,36,54
 ndk_toudingfa_8
-  rotate: false
-  xy: 206, 228
-  size: 87, 82
-  orig: 87, 82
-  offset: 0, 0
-  index: -1
+bounds:526,17,87,82
 ndk_toudingfa_9
-  rotate: false
-  xy: 206, 868
-  size: 41, 29
-  orig: 41, 29
-  offset: 0, 0
-  index: -1
+bounds:112,472,41,29
 ndk_yff_0
-  rotate: false
-  xy: 366, 414
-  size: 51, 110
-  orig: 52, 110
-  offset: 0, 0
-  index: -1
+bounds:1296,330,52,110
 ndk_yff_1_1_1
-  rotate: false
-  xy: 6, 296
-  size: 354, 679
-  orig: 354, 679
-  offset: 0, 0
-  index: -1
+bounds:6,147,354,679
+rotate:90
 ndk_yff_2
-  rotate: 180
-  xy: 784, 609
-  size: 204, 288
-  orig: 213, 296
-  offset: 9, 8
-  index: -1
+bounds:1185,19,204,288
+offsets:9,8,213,296
+rotate:270
 ndk_youjiao
-  rotate: false
-  xy: 457, 732
-  size: 110, 243
-  orig: 110, 243
-  offset: 0, 0
-  index: -1
+bounds:6,71,110,243
+rotate:270
 ndk_youshou_a6
-  rotate: false
-  xy: 677, 619
-  size: 156, 138
-  orig: 156, 138
-  offset: 0, 0
-  index: -1
+bounds:1078,303,156,138
 ndk_youshou_a7
-  rotate: false
-  xy: 483, 288
-  size: 163, 99
-  orig: 163, 99
-  offset: 0, 0
-  index: -1
+bounds:964,25,163,99
 ndk_youyan_a0
-  rotate: false
-  xy: 6, 934
-  size: 6, 12
-  orig: 6, 12
-  offset: 0, 0
-  index: -1
+bounds:364,372,6,12
 ndk_youyan_a1
-  rotate: false
-  xy: 428, 885
-  size: 20, 27
-  orig: 20, 27
-  offset: 0, 0
-  index: -1
+bounds:46,321,20,27
 ndk_youyan_a2
-  rotate: false
-  xy: 524, 846
-  size: 12, 21
-  orig: 12, 21
-  offset: 0, 0
-  index: -1
+bounds:495,6,12,21
 ndk_youyan_a3
-  rotate: false
-  xy: 338, 770
-  size: 14, 16
-  orig: 14, 16
-  offset: 0, 0
-  index: -1
+bounds:6,220,14,16
 ndk_youyan_a4
-  rotate: false
-  xy: 6, 630
-  size: 18, 22
-  orig: 18, 22
-  offset: 0, 0
-  index: -1
+bounds:208,47,18,22
+rotate:90
 ndk_zhc_a1
-  rotate: false
-  xy: 352, 651
-  size: 178, 67
-  orig: 178, 67
-  offset: 0, 0
-  index: -1
+bounds:599,9,178,67
 ndk_zhc_a10
-  rotate: false
-  xy: 657, 776
-  size: 66, 27
-  orig: 66, 27
-  offset: 0, 0
-  index: -1
+bounds:456,18,66,27
 ndk_zhc_a11
-  rotate: false
-  xy: 15, 11
-  size: 95, 35
-  orig: 95, 35
-  offset: 0, 0
-  index: -1
+bounds:1534,185,95,35
+rotate:90
 ndk_zhc_a12
-  rotate: false
-  xy: 408, 341
-  size: 59, 49
-  orig: 59, 49
-  offset: 0, 0
-  index: -1
+bounds:836,452,59,49
 ndk_zhc_a2
-  rotate: false
-  xy: 6, 29
-  size: 124, 52
-  orig: 124, 52
-  offset: 0, 0
-  index: -1
+bounds:94,277,124,52
 ndk_zhc_a25_1
-  rotate: false
-  xy: 406, 8
-  size: 233, 160
-  orig: 233, 160
-  offset: 0, 0
-  index: -1
+bounds:203,331,233,160
+rotate:180
 ndk_zhc_a3
-  rotate: false
-  xy: 529, 278
-  size: 76, 30
-  orig: 76, 30
-  offset: 0, 0
-  index: -1
+bounds:139,9,76,30
 ndk_zhc_a4
-  rotate: 180
-  xy: 730, 900
-  size: 161, 74
-  orig: 161, 74
-  offset: 0, 0
-  index: -1
+bounds:1509,10,161,74
 ndk_zhc_a5
-  rotate: false
-  xy: 90, 934
-  size: 90, 37
-  orig: 90, 42
-  offset: 0, 5
-  index: -1
+bounds:55,17,90,37
+offsets:0,5,90,42
 ndk_zhc_a6
-  rotate: false
-  xy: 335, 146
-  size: 107, 27
-  orig: 107, 27
-  offset: 0, 0
-  index: -1
+bounds:364,129,107,27
 ndk_zhc_a7
-  rotate: false
-  xy: 87, 551
-  size: 68, 24
-  orig: 68, 24
-  offset: 0, 0
-  index: -1
+bounds:290,355,68,24
 ndk_zhc_a8
-  rotate: false
-  xy: 544, 415
-  size: 81, 35
-  orig: 81, 39
-  offset: 0, 4
-  index: -1
+bounds:609,104,81,35
+offsets:0,4,81,39
 ndk_zhc_a9
-  rotate: false
-  xy: 572, 942
-  size: 76, 33
-  orig: 76, 33
-  offset: 0, 0
-  index: -1
+bounds:671,425,76,33
+rotate:90
 ndk_zlc_a1
-  rotate: false
-  xy: 180, 402
-  size: 69, 53
-  orig: 69, 53
-  offset: 0, 0
-  index: -1
+bounds:6,12,69,53
 ndk_zlc_a13
-  rotate: false
-  xy: 506, 351
-  size: 112, 82
-  orig: 112, 82
-  offset: 0, 0
-  index: -1
+bounds:820,413,112,82
 ndk_zlc_a14
-  rotate: false
-  xy: 23, 891
-  size: 75, 47
-  orig: 75, 47
-  offset: 0, 0
-  index: -1
+bounds:111,295,75,47
 ndk_zlc_a2
-  rotate: false
-  xy: 359, 525
-  size: 22, 41
-  orig: 23, 41
-  offset: 1, 0
-  index: -1
+bounds:756,11,22,41
+offsets:1,0,23,41
 ndk_zlc_a3
-  rotate: false
-  xy: 574, 518
-  size: 29, 38
-  orig: 30, 38
-  offset: 1, 0
-  index: -1
+bounds:836,126,29,38
+offsets:1,0,30,38
 ndk_zlc_a4
-  rotate: false
-  xy: 458, 391
-  size: 31, 37
-  orig: 31, 37
-  offset: 0, 0
-  index: -1
+bounds:891,278,31,37
 ndk_zlc_a5
-  rotate: false
-  xy: 6, 738
-  size: 106, 68
-  orig: 106, 68
-  offset: 0, 0
-  index: -1
+bounds:1229,39,106,68
+rotate:90
 ndk_zlc_a6_1
-  rotate: false
-  xy: 595, 649
-  size: 166, 143
-  orig: 166, 143
-  offset: 0, 0
-  index: -1
+bounds:620,26,166,143
 ndk_zuojiao
-  rotate: 180
-  xy: 299, 178
-  size: 173, 302
-  orig: 173, 302
-  offset: 0, 0
-  index: -1
+bounds:783,144,173,302
+rotate:180
 ndk_zuoyan_a0
-  rotate: false
-  xy: 141, 960
-  size: 8, 14
-  orig: 8, 14
-  offset: 0, 0
-  index: -1
+bounds:6,487,8,14
 ndk_zuoyan_a1
-  rotate: false
-  xy: 21, 764
-  size: 36, 30
-  orig: 36, 30
-  offset: 0, 0
-  index: -1
+bounds:202,389,36,30
+rotate:90
 ndk_zuoyan_a1_1
-  rotate: false
-  xy: 416, 776
-  size: 35, 30
-  orig: 35, 30
-  offset: 0, 0
-  index: -1
+bounds:6,347,35,30
 ndk_zuoyan_a2
-  rotate: false
-  xy: 63, 756
-  size: 23, 16
-  orig: 23, 16
-  offset: 0, 0
-  index: -1
+bounds:56,49,23,16
 ndk_zuoyan_a3
-  rotate: false
-  xy: 242, 954
-  size: 19, 19
-  orig: 19, 19
-  offset: 0, 0
-  index: -1
+bounds:488,482,19,19
 ndk_zuoyan_a4
-  rotate: false
-  xy: 456, 700
-  size: 26, 26
-  orig: 26, 26
-  offset: 0, 0
-  index: -1
+bounds:6,188,26,26
 zuiba
-  rotate: false
-  xy: 355, 681
-  size: 24, 20
-  orig: 24, 20
-  offset: 0, 0
-  index: -1
+bounds:283,481,24,20

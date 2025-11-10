@@ -1,209 +1,84 @@
-
 640125_krrq.png
-size: 672,280
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.6
 dayidi
-  rotate: false
-  xy: 299, 153
-  size: 108, 121
-  orig: 108, 121
-  offset: 0, 0
-  index: -1
+bounds:36,135,92,104
 j_houfa
-  rotate: false
-  xy: 584, 72
-  size: 25, 34
-  orig: 25, 34
-  offset: 0, 0
-  index: -1
+bounds:482,156,22,29
 liuhai
-  rotate: false
-  xy: 473, 100
-  size: 33, 57
-  orig: 33, 57
-  offset: 0, 0
-  index: -1
+bounds:474,190,28,49
 toufahou
-  rotate: false
-  xy: 512, 99
-  size: 48, 61
-  orig: 48, 61
-  offset: 0, 0
-  index: -1
+bounds:139,34,41,52
 xiedai
-  rotate: true
-  xy: 492, 166
-  size: 27, 39
-  orig: 27, 39
-  offset: 0, 0
-  index: -1
+bounds:368,8,23,34
 yiling2
-  rotate: false
-  xy: 424, 98
-  size: 43, 59
-  orig: 43, 63
-  offset: 0, 0
-  index: -1
+bounds:83,6,37,50
+offsets:0,0,37,54
+rotate:90
 youyi
-  rotate: false
-  xy: 261, 137
-  size: 32, 137
-  orig: 32, 137
-  offset: 0, 0
-  index: -1
+bounds:6,122,27,117
 zuihan_bozi
-  rotate: true
-  xy: 537, 166
-  size: 27, 34
-  orig: 27, 34
-  offset: 0, 0
-  index: -1
+bounds:225,153,23,29
 zuihan_er
-  rotate: true
-  xy: 584, 43
-  size: 23, 25
-  orig: 23, 29
-  offset: 0, 2
-  index: -1
+bounds:238,65,20,21
+offsets:0,2,20,25
 zuihan_jiuping
-  rotate: false
-  xy: 6, 81
-  size: 165, 193
-  orig: 165, 196
-  offset: 0, 0
-  index: -1
+bounds:172,97,142,167
+offsets:0,0,142,168
+rotate:90
 zuihan_mao
-  rotate: true
-  xy: 413, 163
-  size: 111, 73
-  orig: 111, 73
-  offset: 0, 0
-  index: -1
+bounds:250,130,95,62
 zuihan_pengqiang
-  rotate: true
-  xy: 470, 8
-  size: 84, 56
-  orig: 84, 56
-  offset: 0, 0
-  index: -1
+bounds:28,82,72,48
 zuihan_tou
-  rotate: true
-  xy: 363, 7
-  size: 85, 101
-  orig: 90, 103
-  offset: 0, 0
-  index: -1
+bounds:410,153,73,86
+offsets:0,0,77,88
 zuihan_xiongqang
-  rotate: true
-  xy: 6, 6
-  size: 69, 139
-  orig: 69, 139
-  offset: 0, 0
-  index: -1
+bounds:345,120,59,119
 zuihan_youdabi
-  rotate: false
-  xy: 616, 50
-  size: 37, 69
-  orig: 37, 69
-  offset: 0, 0
-  index: -1
+bounds:337,42,32,59
+rotate:90
 zuihan_youdatui
-  rotate: false
-  xy: 538, 200
-  size: 54, 74
-  orig: 54, 74
-  offset: 0, 0
-  index: -1
+bounds:78,41,46,63
+rotate:90
 zuihan_youioao
-  rotate: false
-  xy: 598, 231
-  size: 66, 43
-  orig: 66, 43
-  offset: 0, 0
-  index: -1
+bounds:465,44,56,37
+rotate:90
 zuihan_youshou1
-  rotate: false
-  xy: 566, 112
-  size: 44, 48
-  orig: 44, 48
-  offset: 0, 0
-  index: -1
+bounds:396,18,38,41
+rotate:90
 zuihan_youxiaobi
-  rotate: false
-  xy: 532, 23
-  size: 46, 70
-  orig: 46, 70
-  offset: 0, 0
-  index: -1
+bounds:267,37,40,60
+rotate:90
 zuihan_youxiaotui
-  rotate: true
-  xy: 318, 98
-  size: 49, 100
-  orig: 49, 100
-  offset: 0, 0
-  index: -1
+bounds:420,106,42,86
+rotate:90
 zuihan_zuodabi
-  rotate: false
-  xy: 492, 199
-  size: 40, 75
-  orig: 40, 75
-  offset: 0, 0
-  index: -1
+bounds:6,42,34,64
+rotate:90
 zuihan_zuodatui
-  rotate: false
-  xy: 307, 14
-  size: 50, 75
-  orig: 50, 81
-  offset: 0, 0
-  index: -1
+bounds:397,60,43,65
+offsets:0,0,43,69
+rotate:270
 zuihan_zuojiao
-  rotate: true
-  xy: 261, 95
-  size: 36, 51
-  orig: 36, 51
-  offset: 0, 0
-  index: -1
+bounds:222,13,31,44
+rotate:90
 zuihan_zuoxiabi
-  rotate: false
-  xy: 251, 7
-  size: 50, 82
-  orig: 50, 82
-  offset: 0, 0
-  index: -1
+bounds:324,75,43,70
+rotate:270
 zuihan_zuoxiaotui
-  rotate: true
-  xy: 151, 6
-  size: 69, 94
-  orig: 69, 94
-  offset: 0, 0
-  index: -1
+bounds:239,80,59,80
+rotate:270
 zuihan_zusohou1
-  rotate: false
-  xy: 616, 125
-  size: 41, 41
-  orig: 44, 43
-  offset: 1, 1
-  index: -1
+bounds:181,7,35,35
+offsets:1,1,38,37
 zuihan_zusohou2
-  rotate: true
-  xy: 598, 172
-  size: 53, 55
-  orig: 53, 55
-  offset: 0, 0
-  index: -1
+bounds:185,48,46,47
+rotate:90
 zuodamuzhi
-  rotate: false
-  xy: 584, 10
-  size: 21, 27
-  orig: 23, 30
-  offset: 1, 1
-  index: -1
+bounds:183,216,18,23
+offsets:1,1,20,26
 zuoyi
-  rotate: false
-  xy: 177, 95
-  size: 78, 179
-  orig: 78, 179
-  offset: 0, 0
-  index: -1
+bounds:114,86,67,153
+rotate:180

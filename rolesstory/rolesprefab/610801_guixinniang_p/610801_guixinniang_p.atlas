@@ -1,216 +1,86 @@
-
 610801_guixinniang_p.png
-size: 2048,2048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,1024
+filter:Linear,Linear
+scale:0.6
 a1
-  rotate: false
-  xy: 1184, 530
-  size: 171, 601
-  orig: 171, 601
-  offset: 0, 0
-  index: -1
+bounds:1142,6,146,515
+rotate:90
 a10
-  rotate: false
-  xy: 684, 1934
-  size: 68, 113
-  orig: 68, 113
-  offset: 0, 0
-  index: -1
+bounds:413,18,58,97
 a11
-  rotate: false
-  xy: 1214, 1499
-  size: 137, 158
-  orig: 137, 158
-  offset: 0, 0
-  index: -1
+bounds:1072,690,118,135
 a12
-  rotate: false
-  xy: 134, 2009
-  size: 57, 37
-  orig: 57, 37
-  offset: 0, 0
-  index: -1
+bounds:133,979,49,32
 a13
-  rotate: false
-  xy: 724, 1667
-  size: 283, 379
-  orig: 283, 379
-  offset: 0, 0
-  index: -1
+bounds:644,152,242,325
+rotate:270
 a14
-  rotate: 180
-  xy: 436, 1054
-  size: 419, 993
-  orig: 484, 993
-  offset: 65, 0
-  index: -1
+bounds:142,275,359,851
+offsets:56,0,415,851
+rotate:270
 a15
-  rotate: 180
-  xy: 1061, 1570
-  size: 237, 477
-  orig: 237, 477
-  offset: 0, 0
-  index: -1
+bounds:1051,67,203,409
+rotate:270
 a16
-  rotate: false
-  xy: 2, 969
-  size: 529, 1077
-  orig: 529, 1077
-  offset: 0, 0
-  index: -1
+bounds:142,558,453,923
+rotate:90
 a17
-  rotate: 180
-  xy: 811, 223
-  size: 274, 615
-  orig: 274, 615
-  offset: 0, 0
-  index: -1
+bounds:1421,212,235,527
+rotate:180
 a2
-  rotate: true
-  xy: 98, 531
-  size: 522, 567
-  orig: 522, 567
-  offset: 0, 0
-  index: -1
+bounds:945,258,447,486
+rotate:270
 a3
-  rotate: false
-  xy: 993, 1711
-  size: 53, 269
-  orig: 53, 269
-  offset: 0, 0
-  index: -1
+bounds:91,584,46,230
 a4
-  rotate: true
-  xy: 2, 1776
-  size: 270, 131
-  orig: 270, 131
-  offset: 0, 0
-  index: -1
+bounds:149,579,232,112
 a5
-  rotate: false
-  xy: 375, 263
-  size: 695, 1454
-  orig: 695, 1509
-  offset: 0, 0
-  index: -1
+bounds:762,415,596,1249
+offsets:0,0,596,1294
+rotate:270
 a7
-  rotate: false
-  xy: 1202, 3
-  size: 192, 293
-  orig: 192, 293
-  offset: 0, 0
-  index: -1
+bounds:886,24,164,251
 a8
-  rotate: false
-  xy: 609, 538
-  size: 119, 485
-  orig: 119, 485
-  offset: 0, 0
-  index: -1
+bounds:6,595,102,416
 a9
-  rotate: false
-  xy: 989, 177
-  size: 314, 427
-  orig: 314, 440
-  offset: 0, 13
-  index: -1
+bounds:1570,742,269,366
+offsets:0,11,269,377
+rotate:90
 gj1
-  rotate: false
-  xy: 2, 789
-  size: 87, 242
-  orig: 87, 242
-  offset: 0, 0
-  index: -1
+bounds:478,12,74,208
 gj2
-  rotate: false
-  xy: 685, 956
-  size: 120, 96
-  orig: 121, 97
-  offset: 0, 0
-  index: -1
+bounds:311,63,103,82
+offsets:0,0,104,83
 gj3
-  rotate: 180
-  xy: 1011, 3
-  size: 335, 349
-  orig: 335, 349
-  offset: 0, 0
-  index: -1
+bounds:6,42,287,299
+rotate:90
 gj4
-  rotate: false
-  xy: 732, 1482
-  size: 200, 189
-  orig: 200, 214
-  offset: 0, 0
-  index: -1
+bounds:6,11,171,162
+offsets:0,0,171,184
 gj5
-  rotate: false
-  xy: 726, 1152
-  size: 114, 262
-  orig: 114, 262
-  offset: 0, 0
-  index: -1
+bounds:6,366,98,224
 gj6
-  rotate: false
-  xy: 1008, 1131
-  size: 236, 514
-  orig: 236, 514
-  offset: 0, 0
-  index: -1
+bounds:1602,145,202,440
+rotate:270
 kuqi1
-  rotate: false
-  xy: 474, 1310
-  size: 53, 120
-  orig: 53, 124
-  offset: 0, 0
-  index: -1
+bounds:6,337,46,103
+offsets:0,0,46,106
 kuqi2
-  rotate: false
-  xy: 478, 1431
-  size: 43, 83
-  orig: 122, 99
-  offset: 0, 5
-  index: -1
+bounds:6,783,37,71
+offsets:0,4,104,85
 kuqi3
-  rotate: false
-  xy: 2, 1706
-  size: 72, 69
-  orig: 72, 69
-  offset: 0, 0
-  index: -1
+bounds:442,561,62,59
 kuqi4
-  rotate: false
-  xy: 2, 576
-  size: 139, 190
-  orig: 139, 190
-  offset: 0, 0
-  index: -1
+bounds:1349,638,119,163
 kuqi5
-  rotate: false
-  xy: 127, 1872
-  size: 68, 120
-  orig: 68, 120
-  offset: 0, 0
-  index: -1
+bounds:68,890,58,103
 kuqi6
-  rotate: false
-  xy: 2, 1971
-  size: 58, 75
-  orig: 60, 76
-  offset: 0, 0
-  index: -1
+bounds:386,571,50,64
+offsets:0,0,52,65
 taishou
-  rotate: 180
-  xy: 2, 167
-  size: 314, 378
-  orig: 314, 378
-  offset: 0, 0
-  index: -1
+bounds:534,6,269,324
+rotate:90
 taishou2
-  rotate: 180
-  xy: 950, 664
-  size: 269, 519
-  orig: 485, 519
-  offset: 216, 0
-  index: -1
+bounds:188,150,231,445
+offsets:185,0,416,445
+rotate:90

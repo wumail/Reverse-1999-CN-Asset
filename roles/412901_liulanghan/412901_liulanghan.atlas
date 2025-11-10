@@ -1,202 +1,86 @@
-
 412901_liulanghan.png
-size: 572,280
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.6
 dayidi
-  rotate: false
-  xy: 134, 156
-  size: 108, 121
-  orig: 108, 121
-  offset: 0, 0
-  index: -1
+bounds:6,128,92,104
 liuhai
-  rotate: true
-  xy: 170, 12
-  size: 24, 62
-  orig: 27, 62
-  offset: 3, 0
-  index: -1
+bounds:291,11,21,53
+offsets:2,0,23,53
+rotate:90
 toufahou
-  rotate: false
-  xy: 524, 16
-  size: 46, 58
-  orig: 49, 58
-  offset: 0, 0
-  index: -1
+bounds:413,38,40,50
+offsets:0,0,42,50
 xiedai
-  rotate: false
-  xy: 539, 142
-  size: 29, 42
-  orig: 29, 42
-  offset: 0, 0
-  index: -1
+bounds:187,6,25,36
+rotate:270
 yiling2
-  rotate: true
-  xy: 2, 2
-  size: 34, 95
-  orig: 34, 95
-  offset: 0, 0
-  index: -1
+bounds:407,8,29,81
+rotate:270
 youyi
-  rotate: true
-  xy: 134, 117
-  size: 37, 142
-  orig: 52, 146
-  offset: 0, 0
-  index: -1
+bounds:198,30,31,122
+offsets:0,0,44,125
+rotate:90
 zuihan_bozi
-  rotate: false
-  xy: 540, 193
-  size: 27, 34
-  orig: 27, 34
-  offset: 0, 0
-  index: -1
+bounds:483,105,23,29
 zuihan_er
-  rotate: false
-  xy: 543, 252
-  size: 23, 25
-  orig: 23, 29
-  offset: 0, 2
-  index: -1
+bounds:305,60,20,21
+offsets:0,2,20,25
 zuihan_jiuping
-  rotate: true
-  xy: 2, 117
-  size: 160, 130
-  orig: 160, 130
-  offset: 0, 0
-  index: -1
+bounds:74,95,137,111
+rotate:90
 zuihan_mao
-  rotate: true
-  xy: 334, 173
-  size: 104, 88
-  orig: 104, 88
-  offset: 0, 0
-  index: -1
+bounds:383,143,89,75
+rotate:270
 zuihan_pengqiang
-  rotate: false
-  xy: 327, 55
-  size: 87, 60
-  orig: 87, 60
-  offset: 0, 0
-  index: -1
+bounds:292,87,74,52
 zuihan_tou
-  rotate: false
-  xy: 244, 172
-  size: 88, 105
-  orig: 88, 110
-  offset: 0, 0
-  index: -1
+bounds:304,142,76,90
+offsets:0,0,76,94
 zuihan_xiongqang
-  rotate: true
-  xy: 190, 46
-  size: 69, 135
-  orig: 69, 135
-  offset: 0, 0
-  index: -1
+bounds:239,116,59,116
 zuihan_youdabi
-  rotate: true
-  xy: 99, 4
-  size: 32, 69
-  orig: 32, 69
-  offset: 0, 0
-  index: -1
+bounds:349,23,27,59
+rotate:90
 zuihan_youdatui
-  rotate: true
-  xy: 416, 59
-  size: 57, 77
-  orig: 57, 77
-  offset: 0, 0
-  index: -1
+bounds:233,50,49,66
+rotate:270
 zuihan_youioao
-  rotate: false
-  xy: 470, 133
-  size: 67, 46
-  orig: 69, 46
-  offset: 1, 0
-  index: -1
+bounds:128,36,58,39
+offsets:1,0,59,39
 zuihan_youshou1
-  rotate: false
-  xy: 497, 229
-  size: 44, 48
-  orig: 44, 48
-  offset: 0, 0
-  index: -1
+bounds:13,16,38,41
+rotate:270
 zuihan_youxiaobi
-  rotate: true
-  xy: 369, 7
-  size: 46, 73
-  orig: 46, 73
-  offset: 0, 0
-  index: -1
+bounds:330,51,39,62
+rotate:90
 zuihan_youxiaotui
-  rotate: true
-  xy: 278, 117
-  size: 53, 104
-  orig: 53, 104
-  offset: 0, 0
-  index: -1
+bounds:382,93,45,89
+rotate:270
 zuihan_zuodabi
-  rotate: true
-  xy: 234, 2
-  size: 42, 76
-  orig: 42, 76
-  offset: 0, 0
-  index: -1
+bounds:56,53,36,65
+rotate:90
 zuihan_zuodatui
-  rotate: true
-  xy: 384, 118
-  size: 53, 84
-  orig: 53, 84
-  offset: 0, 0
-  index: -1
+bounds:461,138,45,72
+rotate:180
 zuihan_zuojiao
-  rotate: true
-  xy: 312, 5
-  size: 39, 55
-  orig: 39, 55
-  offset: 0, 0
-  index: -1
+bounds:101,14,33,47
+rotate:90
 zuihan_zuoxiabi
-  rotate: true
-  xy: 444, 4
-  size: 53, 78
-  orig: 53, 78
-  offset: 0, 0
-  index: -1
+bounds:6,57,45,67
+rotate:180
 zuihan_zuoxiaotui
-  rotate: false
-  xy: 424, 181
-  size: 71, 96
-  orig: 71, 97
-  offset: 0, 1
-  index: -1
+bounds:117,80,61,83
 zuihan_zusohou1
-  rotate: false
-  xy: 497, 186
-  size: 41, 41
-  orig: 44, 43
-  offset: 1, 1
-  index: -1
+bounds:60,12,35,35
+offsets:1,1,38,37
 zuihan_zusohou2
-  rotate: false
-  xy: 495, 76
-  size: 53, 55
-  orig: 53, 55
-  offset: 0, 0
-  index: -1
+bounds:459,43,46,47
+rotate:90
 zuodamuzhi
-  rotate: true
-  xy: 543, 229
-  size: 21, 27
-  orig: 23, 30
-  offset: 1, 1
-  index: -1
+bounds:443,214,18,23
+offsets:1,1,20,26
+rotate:90
 zuoyi
-  rotate: true
-  xy: 2, 38
-  size: 77, 186
-  orig: 77, 186
-  offset: 0, 0
-  index: -1
+bounds:174,72,66,160
+rotate:180

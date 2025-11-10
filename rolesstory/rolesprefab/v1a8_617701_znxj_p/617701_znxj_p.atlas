@@ -1,55 +1,23 @@
-
 617701_znxj_p.png
-size: 1440,752
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,512
+filter:Linear,Linear
+scale:0.3
 a1
-  rotate: false
-  xy: 1084, 15
-  size: 348, 54
-  orig: 348, 54
-  offset: 0, 0
-  index: -1
+bounds:6,448,261,40
 a2
-  rotate: false
-  xy: 1084, 74
-  size: 290, 43
-  orig: 291, 43
-  offset: 1, 0
-  index: -1
+bounds:273,456,218,32
 a3
-  rotate: false
-  xy: 1084, 170
-  size: 203, 32
-  orig: 203, 32
-  offset: 0, 0
-  index: -1
+bounds:684,464,152,24
 a4
-  rotate: false
-  xy: 1084, 123
-  size: 241, 41
-  orig: 241, 41
-  offset: 0, 0
-  index: -1
+bounds:497,457,181,31
 a5
-  rotate: false
-  xy: 1084, 224
-  size: 293, 519
-  orig: 313, 557
-  offset: 1, 6
-  index: -1
+bounds:6,222,220,390
+offsets:1,4,235,418
+rotate:90
 a6
-  rotate: false
-  xy: 6, 7
-  size: 642, 737
-  orig: 669, 818
-  offset: 27, 6
-  index: -1
+bounds:599,6,482,552
+offsets:20,5,502,613
+rotate:90
 a7
-  rotate: true
-  xy: 651, 14
-  size: 730, 426
-  orig: 791, 669
-  offset: 0, 0
-  index: -1
+bounds:1142,168,547,320
+offsets:0,0,593,502

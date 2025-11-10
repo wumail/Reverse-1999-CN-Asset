@@ -1,27 +1,12 @@
-
 670109_jjhjl2.png
-size: 280,436
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.6
 benti
-  rotate: true
-  xy: 2, 2
-  size: 185, 231
-  orig: 195, 231
-  offset: 4, 0
-  index: -1
+bounds:231,17,159,198
+offsets:3,0,167,198
 benti_hou
-  rotate: false
-  xy: 235, 106
-  size: 43, 81
-  orig: 43, 81
-  offset: 0, 0
-  index: -1
+bounds:291,145,37,70
 guangquan
-  rotate: false
-  xy: 2, 189
-  size: 256, 244
-  orig: 260, 246
-  offset: 2, 1
-  index: -1
+bounds:6,6,219,209
+offsets:2,1,223,211

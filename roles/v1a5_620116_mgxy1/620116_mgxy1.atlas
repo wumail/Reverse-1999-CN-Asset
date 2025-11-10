@@ -1,139 +1,53 @@
-
 620116_mgxy1.png
-size: 272,1016
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.6
 foreleg01_l
-  rotate: true
-  xy: 221, 135
-  size: 81, 40
-  orig: 81, 40
-  offset: 0, 0
-  index: -1
+bounds:162,84,70,34
 foreleg01_r
-  rotate: false
-  xy: 134, 451
-  size: 116, 46
-  orig: 116, 46
-  offset: 0, 0
-  index: -1
+bounds:386,149,99,39
+rotate:180
 foreleg02_l
-  rotate: true
-  xy: 134, 46
-  size: 56, 78
-  orig: 56, 82
-  offset: 0, 3
-  index: -1
+bounds:262,77,48,67
+offsets:0,3,48,70
+rotate:90
 foreleg02_r
-  rotate: false
-  xy: 180, 882
-  size: 82, 127
-  orig: 82, 127
-  offset: 0, 0
-  index: -1
+bounds:381,194,70,109
 foreleg03_l
-  rotate: false
-  xy: 134, 191
-  size: 81, 75
-  orig: 81, 75
-  offset: 0, 0
-  index: -1
+bounds:331,173,69,64
 foreleg03_r
-  rotate: false
-  xy: 134, 357
-  size: 115, 88
-  orig: 115, 88
-  offset: 0, 0
-  index: -1
+bounds:398,286,98,76
+rotate:90
 hindleg01_l
-  rotate: true
-  xy: 220, 90
-  size: 39, 46
-  orig: 39, 46
-  offset: 0, 0
-  index: -1
+bounds:282,344,34,40
 hindleg01_r
-  rotate: true
-  xy: 218, 20
-  size: 64, 48
-  orig: 64, 48
-  offset: 0, 0
-  index: -1
+bounds:442,239,55,41
+rotate:180
 hindleg02_l
-  rotate: true
-  xy: 236, 222
-  size: 82, 25
-  orig: 82, 25
-  offset: 0, 0
-  index: -1
+bounds:154,363,70,21
 hindleg02_r
-  rotate: true
-  xy: 153, 503
-  size: 66, 100
-  orig: 66, 100
-  offset: 0, 0
-  index: -1
+bounds:221,114,56,86
 hindleg03_r
-  rotate: false
-  xy: 134, 108
-  size: 80, 77
-  orig: 80, 77
-  offset: 0, 0
-  index: -1
+bounds:330,87,68,66
 hindleg03_r1
-  rotate: false
-  xy: 6, 6
-  size: 77, 78
-  orig: 77, 78
-  offset: 0, 0
-  index: -1
+bounds:396,77,66,67
+rotate:270
 mgxiyi_qugan1
-  rotate: true
-  xy: 6, 563
-  size: 313, 141
-  orig: 313, 141
-  offset: 0, 0
-  index: -1
+bounds:112,116,268,121
+rotate:90
 mgxiyi_qugan2
-  rotate: true
-  xy: 153, 575
-  size: 301, 105
-  orig: 301, 105
-  offset: 0, 0
-  index: -1
+bounds:234,126,258,90
+rotate:270
 mgxiyi_qugan3
-  rotate: false
-  xy: 6, 126
-  size: 122, 431
-  orig: 122, 445
-  offset: 0, 0
-  index: -1
+bounds:6,6,104,378
+offsets:0,0,104,382
 mgxiyi_tou1
-  rotate: false
-  xy: 6, 882
-  size: 168, 127
-  orig: 168, 127
-  offset: 0, 0
-  index: -1
+bounds:285,240,144,109
+rotate:270
 mgxiyi_tou2
-  rotate: false
-  xy: 134, 272
-  size: 96, 79
-  orig: 96, 79
-  offset: 0, 0
-  index: -1
+bounds:107,57,82,68
 mgxiyi_zui1
-  rotate: true
-  xy: 89, 86
-  size: 34, 39
-  orig: 34, 39
-  offset: 0, 0
-  index: -1
+bounds:71,355,29,34
+rotate:90
 mgxiyi_zui2
-  rotate: true
-  xy: 236, 310
-  size: 41, 28
-  orig: 41, 28
-  offset: 0, 0
-  index: -1
+bounds:329,360,35,24

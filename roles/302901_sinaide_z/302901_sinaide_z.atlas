@@ -1,55 +1,21 @@
-
 302901_sinaide_z.png
-size: 516,536
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.6
 snd_dz_1
-  rotate: true
-  xy: 2, 88
-  size: 218, 428
-  orig: 218, 428
-  offset: 0, 0
-  index: -1
+bounds:204,82,187,367
+rotate:180
 snd_dz_2
-  rotate: true
-  xy: 2, 308
-  size: 223, 443
-  orig: 223, 443
-  offset: 0, 0
-  index: -1
+bounds:7,69,191,380
+rotate:180
 snd_dz_3
-  rotate: true
-  xy: 432, 20
-  size: 286, 82
-  orig: 286, 82
-  offset: 0, 0
-  index: -1
+bounds:397,204,245,70
+rotate:90
 snd_dz_4
-  rotate: false
-  xy: 2, 4
-  size: 286, 82
-  orig: 286, 82
-  offset: 0, 0
-  index: -1
+bounds:138,6,245,70
 snd_fazhang
-  rotate: false
-  xy: 497, 399
-  size: 12, 132
-  orig: 12, 132
-  offset: 0, 0
-  index: -1
+bounds:6,336,10,113
 snd_qiang
-  rotate: true
-  xy: 290, 2
-  size: 84, 92
-  orig: 84, 92
-  offset: 0, 0
-  index: -1
+bounds:347,370,72,79
 snd_qiangyan
-  rotate: false
-  xy: 447, 402
-  size: 48, 129
-  orig: 48, 129
-  offset: 0, 0
-  index: -1
+bounds:465,186,41,110

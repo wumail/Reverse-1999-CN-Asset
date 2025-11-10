@@ -1,118 +1,37 @@
-
 420103_kabangkelu.png
-size: 552,176
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 400601_2_qugan
-  rotate: false
-  xy: 145, 30
-  size: 121, 142
-  orig: 121, 142
-  offset: 0, 0
-  index: -1
+bounds:311,48,121,142
 400601_2_wei1
-  rotate: false
-  xy: 440, 91
-  size: 109, 81
-  orig: 109, 81
-  offset: 0, 0
-  index: -1
+bounds:6,6,109,81
 400601_2_wei2
-  rotate: false
-  xy: 145, 2
-  size: 64, 26
-  orig: 64, 26
-  offset: 0, 0
-  index: -1
+bounds:438,121,64,26
 400601_2_ya1
-  rotate: false
-  xy: 288, 2
-  size: 71, 38
-  orig: 71, 38
-  offset: 0, 0
-  index: -1
+bounds:430,152,71,38
 400601_2_ya2
-  rotate: false
-  xy: 361, 6
-  size: 77, 34
-  orig: 77, 34
-  offset: 0, 0
-  index: -1
+bounds:152,38,77,34
 400601_2_yan
-  rotate: false
-  xy: 268, 30
-  size: 16, 10
-  orig: 16, 10
-  offset: 0, 0
-  index: -1
+bounds:35,180,16,10
 400601_2_zuili
-  rotate: true
-  xy: 440, 6
-  size: 83, 101
-  orig: 83, 101
-  offset: 0, 0
-  index: -1
+bounds:405,7,83,101
+rotate:270
 400601_er1
-  rotate: true
-  xy: 399, 131
-  size: 41, 29
-  orig: 41, 29
-  offset: 0, 0
-  index: -1
+bounds:271,41,41,29
 400601_er2
-  rotate: true
-  xy: 399, 97
-  size: 32, 34
-  orig: 32, 34
-  offset: 0, 0
-  index: -1
+bounds:321,117,32,34
 400601_tou
-  rotate: true
-  xy: 268, 42
-  size: 130, 129
-  orig: 130, 129
-  offset: 0, 0
-  index: -1
+bounds:176,61,130,129
 400601_yan1
-  rotate: false
-  xy: 238, 4
-  size: 23, 24
-  orig: 23, 24
-  offset: 0, 0
-  index: -1
+bounds:6,166,23,24
 400601_yan2
-  rotate: false
-  xy: 263, 5
-  size: 23, 23
-  orig: 23, 23
-  offset: 0, 0
-  index: -1
+bounds:444,98,23,23
 400601_yanpi1
-  rotate: false
-  xy: 399, 80
-  size: 31, 15
-  orig: 31, 15
-  offset: 0, 0
-  index: -1
+bounds:284,175,31,15
 400601_yanpi2
-  rotate: false
-  xy: 399, 80
-  size: 31, 15
-  orig: 31, 15
-  offset: 0, 0
-  index: -1
+bounds:284,175,31,15
 cao3
-  rotate: false
-  xy: 211, 3
-  size: 25, 25
-  orig: 25, 25
-  offset: 0, 0
-  index: -1
+bounds:235,31,25,25
 zhixiang
-  rotate: true
-  xy: 2, 4
-  size: 168, 141
-  orig: 168, 141
-  offset: 0, 0
-  index: -1
+bounds:6,49,168,141

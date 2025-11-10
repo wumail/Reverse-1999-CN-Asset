@@ -1,377 +1,151 @@
-
 631301_mjzt_p.png
-size: 2048,1848
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.4
 LshouNew
-  rotate: true
-  xy: 130, 184
-  size: 159, 322
-  orig: 167, 329
-  offset: 0, 0
-  index: -1
+bounds:1542,191,159,322
+offsets:0,0,167,329
+rotate:90
 RshouNEw
-  rotate: 270
-  xy: 1030, 309
-  size: 229, 376
-  orig: 229, 376
-  offset: 0, 0
-  index: -1
+bounds:1586,903,229,376
+rotate:180
 bagua
-  rotate: true
-  xy: 679, 723
-  size: 142, 228
-  orig: 142, 228
-  offset: 0, 0
-  index: -1
+bounds:6,617,142,228
 bagua2
-  rotate: false
-  xy: 1999, 1618
-  size: 43, 101
-  orig: 43, 101
-  offset: 0, 0
-  index: -1
+bounds:1424,1734,43,101
 bagua3
-  rotate: 180
-  xy: 1386, 642
-  size: 115, 365
-  orig: 115, 365
-  offset: 0, 0
-  index: -1
+bounds:101,163,115,365
+rotate:90
 baobi
-  rotate: false
-  xy: 6, 321
-  size: 613, 252
-  orig: 613, 252
-  offset: 0, 0
-  index: -1
+bounds:6,295,613,252
 baobi2
-  rotate: false
-  xy: 1337, 170
-  size: 316, 263
-  orig: 316, 263
-  offset: 0, 0
-  index: -1
+bounds:461,124,316,263
 baobi3
-  rotate: true
-  xy: 433, 181
-  size: 116, 465
-  orig: 116, 465
-  offset: 0, 0
-  index: -1
+bounds:710,192,116,465
+rotate:90
 baobi4
-  rotate: false
-  xy: 1779, 1268
-  size: 204, 573
-  orig: 204, 573
-  offset: 0, 0
-  index: -1
+bounds:780,257,204,573
+rotate:90
 baobi5
-  rotate: false
-  xy: 661, 273
-  size: 379, 169
-  orig: 380, 169
-  offset: 0, 0
-  index: -1
+bounds:1869,1456,379,169
+offsets:0,0,380,169
+rotate:90
 baobi6
-  rotate: false
-  xy: 1098, 613
-  size: 299, 697
-  orig: 318, 697
-  offset: 0, 0
-  index: -1
+bounds:1061,738,303,697
+offsets:0,0,318,697
 baobiNEW
-  rotate: false
-  xy: 1065, 156
-  size: 279, 216
-  orig: 309, 222
-  offset: 30, 6
-  index: -1
+bounds:1361,808,279,216
+offsets:30,6,309,222
 baoquanyzi
-  rotate: 180
-  xy: 13, 92
-  size: 319, 273
-  orig: 319, 273
-  offset: 0, 0
-  index: -1
+bounds:6,67,319,273
+rotate:180
 bizi
-  rotate: false
-  xy: 1082, 1249
-  size: 76, 154
-  orig: 76, 154
-  offset: 0, 0
-  index: -1
+bounds:1366,939,76,154
 body
-  rotate: false
-  xy: 6, 563
-  size: 872, 1278
-  orig: 879, 1278
-  offset: 7, 0
-  index: -1
+bounds:6,557,879,1278
 erduo
-  rotate: false
-  xy: 1942, 1714
-  size: 72, 127
-  orig: 72, 127
-  offset: 0, 0
-  index: -1
+bounds:6,533,72,127
 kkuzi
-  rotate: false
-  xy: 734, 1408
-  size: 451, 433
-  orig: 454, 450
-  offset: 1, 17
-  index: -1
+bounds:750,1402,451,433
+offsets:1,17,454,450
 koudaix
-  rotate: false
-  xy: 6, 612
-  size: 208, 209
-  orig: 208, 209
-  offset: 0, 0
-  index: -1
+bounds:847,1192,208,209
 koudaix2
-  rotate: false
-  xy: 558, 717
-  size: 144, 41
-  orig: 144, 41
-  offset: 0, 0
-  index: -1
+bounds:83,560,144,41
 koudaix3
-  rotate: 180
-  xy: 336, 8
-  size: 139, 109
-  orig: 139, 109
-  offset: 0, 0
-  index: -1
+bounds:820,6,139,109
 koudaix4
-  rotate: 270
-  xy: 1834, 107
-  size: 144, 208
-  orig: 144, 208
-  offset: 0, 0
-  index: -1
+bounds:736,659,144,208
 kukoudai
-  rotate: 180
-  xy: 1815, 703
-  size: 227, 506
-  orig: 228, 508
-  offset: 1, 0
-  index: -1
+bounds:880,661,227,506
+offsets:1,0,228,508
+rotate:180
 lshou
-  rotate: false
-  xy: 854, 637
-  size: 238, 770
-  orig: 238, 770
-  offset: 0, 0
-  index: -1
+bounds:1804,608,238,770
 lshou2
-  rotate: 270
-  xy: 1392, 421
-  size: 258, 650
-  orig: 258, 810
-  offset: 0, 160
-  index: -1
+bounds:528,412,258,650
+offsets:0,160,258,810
+rotate:270
 lyan
-  rotate: false
-  xy: 1658, 375
-  size: 109, 57
-  orig: 109, 58
-  offset: 0, 1
-  index: -1
+bounds:151,708,109,57
+offsets:0,1,109,58
 lyan_zanshang
-  rotate: false
-  xy: 1658, 375
-  size: 109, 57
-  orig: 109, 58
-  offset: 0, 1
-  index: -1
+bounds:151,708,109,57
+offsets:0,1,109,58
 lyan2
-  rotate: false
-  xy: 1552, 24
-  size: 102, 80
-  orig: 103, 82
-  offset: 0, 1
-  index: -1
+bounds:1368,8,102,80
+offsets:0,1,103,82
 lyan2_buman
-  rotate: false
-  xy: 714, 10
-  size: 102, 80
-  orig: 103, 82
-  offset: 0, 1
-  index: -1
+bounds:964,20,102,80
+offsets:0,1,103,82
 lyan2_zanshang
-  rotate: false
-  xy: 822, 68
-  size: 122, 103
-  orig: 122, 104
-  offset: 0, 1
-  index: -1
+bounds:1098,82,122,103
+offsets:0,1,122,104
 lyan_buman
-  rotate: false
-  xy: 1265, 549
-  size: 115, 63
-  orig: 117, 63
-  offset: 0, 0
-  index: -1
+bounds:1837,1394,115,63
+offsets:0,0,117,63
 mohuzi2
-  rotate: false
-  xy: 6, 1818
-  size: 47, 23
-  orig: 47, 23
-  offset: 0, 0
-  index: -1
+bounds:6,1812,47,23
 mohuzi3
-  rotate: true
-  xy: 569, 8
-  size: 119, 138
-  orig: 119, 138
-  offset: 0, 0
-  index: -1
+bounds:1553,16,119,138
+rotate:90
 mohuzi4
-  rotate: false
-  xy: 174, 583
-  size: 140, 110
-  orig: 140, 110
-  offset: 0, 0
-  index: -1
+bounds:1025,670,140,110
 mohuzi5
-  rotate: false
-  xy: 1352, 354
-  size: 174, 72
-  orig: 174, 72
-  offset: 0, 0
-  index: -1
+bounds:27,18,174,72
 mohuzi6
-  rotate: 180
-  xy: 1503, 982
-  size: 402, 859
-  orig: 403, 886
-  offset: 1, 27
-  index: -1
+bounds:1204,970,403,865
+offsets:0,21,403,886
 mohuzi7
-  rotate: false
-  xy: 1083, 607
-  size: 113, 126
-  orig: 113, 126
-  offset: 0, 0
-  index: -1
+bounds:1506,1299,113,126
 mohuzi8
-  rotate: true
-  xy: 1713, 226
-  size: 222, 329
-  orig: 222, 329
-  offset: 0, 0
-  index: -1
+bounds:1212,167,222,329
+rotate:90
 mohuzi9
-  rotate: true
-  xy: 1552, 111
-  size: 247, 188
-  orig: 266, 212
-  offset: 0, 5
-  index: -1
+bounds:1854,63,247,188
+offsets:0,5,266,212
+rotate:270
 mouth
-  rotate: false
-  xy: 431, 103
-  size: 168, 106
-  orig: 168, 106
-  offset: 0, 0
-  index: -1
+bounds:708,111,168,106
 mouthZZ
-  rotate: false
-  xy: 638, 97
-  size: 178, 113
-  orig: 179, 113
-  offset: 0, 0
-  index: -1
+bounds:914,106,178,113
+offsets:0,0,179,113
 mouthZZ_buman
-  rotate: 180
-  xy: 1244, 74
-  size: 162, 106
-  orig: 162, 106
-  offset: 0, 0
-  index: -1
+bounds:1411,94,162,106
 mouthZZ_zanshang
-  rotate: true
-  xy: 1937, 1233
-  size: 161, 105
-  orig: 161, 105
-  offset: 0, 0
-  index: -1
+bounds:573,652,161,105
 mouth_buman
-  rotate: false
-  xy: 1880, 11
-  size: 162, 94
-  orig: 162, 94
-  offset: 0, 0
-  index: -1
+bounds:1782,18,162,94
+rotate:90
 mouth_zanshang
-  rotate: true
-  xy: 1682, 1680
-  size: 161, 91
-  orig: 161, 92
-  offset: 0, 0
-  index: -1
+bounds:1761,581,161,91
+offsets:0,0,161,92
 rshou
-  rotate: false
-  xy: 1372, 651
-  size: 383, 686
-  orig: 402, 843
-  offset: 19, 156
-  index: -1
+bounds:1183,499,383,686
+offsets:19,156,402,843
+rotate:90
 rshou2
-  rotate: 270
-  xy: 526, 438
-  size: 261, 732
-  orig: 261, 732
-  offset: 0, 0
-  index: -1
+bounds:1310,311,261,732
+rotate:90
 ryan
-  rotate: false
-  xy: 51, 34
-  size: 145, 83
-  orig: 147, 84
-  offset: 1, 0
-  index: -1
+bounds:580,41,145,83
+offsets:1,0,147,84
 ryan2
-  rotate: false
-  xy: 1102, 60
-  size: 136, 91
-  orig: 136, 92
-  offset: 0, 0
-  index: -1
+bounds:331,59,136,91
+offsets:0,0,136,92
 ryan2_buman
-  rotate: false
-  xy: 950, 58
-  size: 136, 91
-  orig: 136, 92
-  offset: 0, 0
-  index: -1
+bounds:893,1053,136,91
+offsets:0,0,136,92
+rotate:90
 ryan2_zanshang
-  rotate: false
-  xy: 1410, 38
-  size: 136, 91
-  orig: 136, 92
-  offset: 0, 0
-  index: -1
+bounds:1226,71,136,91
+offsets:0,0,136,92
 ryan_buman
-  rotate: false
-  xy: 905, 177
-  size: 156, 97
-  orig: 158, 98
-  offset: 1, 1
-  index: -1
+bounds:154,598,156,97
+offsets:1,1,158,98
 ryan_zanshang
-  rotate: false
-  xy: 1690, 81
-  size: 145, 94
-  orig: 147, 96
-  offset: 1, 1
-  index: -1
+bounds:1631,98,145,94
+offsets:1,1,147,96
 tou
-  rotate: false
-  xy: 1156, 1290
-  size: 426, 551
-  orig: 426, 551
-  offset: 0, 0
-  index: -1
+bounds:1459,1284,426,551
+rotate:180

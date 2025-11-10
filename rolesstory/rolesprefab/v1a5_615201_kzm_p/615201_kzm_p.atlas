@@ -1,62 +1,26 @@
-
 615201_kzm_p.png
-size: 835,835
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:1024,512
+filter:Linear,Linear
+scale:0.6
 1
-  rotate: false
-  xy: 110, 21
-  size: 104, 119
-  orig: 104, 119
-  offset: 0, 0
-  index: -1
+bounds:693,373,89,102
+rotate:90
 2
-  rotate: false
-  xy: 460, 146
-  size: 77, 105
-  orig: 77, 105
-  offset: 0, 0
-  index: -1
+bounds:952,243,66,90
 3
-  rotate: false
-  xy: 2, 3
-  size: 534, 370
-  orig: 534, 370
-  offset: 0, 0
-  index: -1
+bounds:416,6,458,317
 4
-  rotate: false
-  xy: 2, 41
-  size: 107, 304
-  orig: 107, 308
-  offset: 0, 4
-  index: -1
+bounds:810,201,92,261
+offsets:0,3,92,264
+rotate:180
 5
-  rotate: false
-  xy: 213, 4
-  size: 69, 172
-  orig: 69, 174
-  offset: 0, 2
-  index: -1
+bounds:896,315,59,147
+offsets:0,2,59,149
+rotate:180
 6
-  rotate: false
-  xy: 413, 385
-  size: 99, 131
-  orig: 99, 131
-  offset: 0, 0
-  index: -1
+bounds:413,188,85,112
 7
-  rotate: false
-  xy: 2, 499
-  size: 472, 335
-  orig: 472, 335
-  offset: 0, 0
-  index: -1
+bounds:6,175,404,287
 8
-  rotate: false
-  xy: 2, 260
-  size: 543, 261
-  orig: 543, 261
-  offset: 0, 0
-  index: -1
+bounds:359,238,465,224
+rotate:180

@@ -1,167 +1,64 @@
-
 670129_kjsx1.png
-size: 272,2028
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,1024
+filter:Linear,Linear
+scale:0.7
 kuijia_bozi
-  rotate: false
-  xy: 6, 97
-  size: 141, 85
-  orig: 146, 85
-  offset: 5, 0
-  index: -1
+bounds:6,132,141,85
+offsets:5,0,146,85
+rotate:180
 kuijia_jian
-  rotate: false
-  xy: 6, 1538
-  size: 169, 482
-  orig: 169, 482
-  offset: 0, 0
-  index: -1
+bounds:6,436,169,482
 kuijia_tou
-  rotate: false
-  xy: 6, 1288
-  size: 210, 245
-  orig: 211, 263
-  offset: 1, 0
-  index: -1
+bounds:181,673,210,245
+offsets:1,0,211,263
 kuijia_xiong
-  rotate: true
-  xy: 6, 994
-  size: 154, 177
-  orig: 154, 177
-  offset: 0, 0
-  index: -1
+bounds:352,551,154,177
 kuijia_yao
-  rotate: 180
-  xy: 6, 849
-  size: 201, 141
-  orig: 201, 141
-  offset: 0, 0
-  index: -1
+bounds:305,404,201,141
+rotate:180
 kuijia_youjiao_1
-  rotate: false
-  xy: 6, 524
-  size: 136, 104
-  orig: 136, 104
-  offset: 0, 0
-  index: -1
+bounds:181,340,136,104
+rotate:90
 kuijia_youjiao_2
-  rotate: true
-  xy: 6, 1155
-  size: 127, 186
-  orig: 127, 186
-  offset: 0, 0
-  index: -1
+bounds:181,482,127,186
 kuijia_youjiao_3
-  rotate: true
-  xy: 6, 187
-  size: 94, 114
-  orig: 94, 114
-  offset: 0, 0
-  index: -1
+bounds:227,195,94,114
+rotate:90
 kuijia_youshou1
-  rotate: false
-  xy: 181, 1844
-  size: 75, 88
-  orig: 75, 88
-  offset: 0, 0
-  index: -1
+bounds:332,9,75,88
+rotate:90
 kuijia_youshou2
-  rotate: false
-  xy: 168, 665
-  size: 90, 95
-  orig: 90, 95
-  offset: 0, 0
-  index: -1
+bounds:119,14,90,95
+rotate:90
 kuijia_youshoubi_1
-  rotate: false
-  xy: 109, 7
-  size: 104, 100
-  orig: 104, 100
-  offset: 0, 0
-  index: -1
+bounds:275,88,104,100
 kuijia_youshoubi_2
-  rotate: true
-  xy: 126, 211
-  size: 99, 95
-  orig: 99, 95
-  offset: 0, 0
-  index: -1
+bounds:347,194,99,95
 kuijia_youshoubi_3
-  rotate: false
-  xy: 181, 1937
-  size: 60, 83
-  orig: 60, 83
-  offset: 0, 0
-  index: -1
+bounds:428,314,60,83
 kuijia_youshoubi_4
-  rotate: false
-  xy: 142, 399
-  size: 79, 118
-  orig: 79, 118
-  offset: 0, 0
-  index: -1
+bounds:151,110,79,118
+rotate:90
 kuijia_zuoshoubi2
-  rotate: false
-  xy: 142, 399
-  size: 79, 118
-  orig: 79, 118
-  offset: 0, 0
-  index: -1
+bounds:151,110,79,118
+rotate:90
 kuijia_youshoujianjia
-  rotate: false
-  xy: 6, 287
-  size: 142, 123
-  orig: 142, 123
-  offset: 0, 0
-  index: -1
+bounds:83,211,142,123
 kuijia_zuojianjia
-  rotate: false
-  xy: 148, 98
-  size: 108, 107
-  orig: 108, 107
-  offset: 0, 0
-  index: -1
+bounds:6,24,108,107
+rotate:180
 kuijia_zuojiao_1
-  rotate: false
-  xy: 6, 738
-  size: 159, 104
-  orig: 159, 104
-  offset: 0, 0
-  index: -1
+bounds:396,759,159,104
+rotate:90
 kuijia_zuojiao_2
-  rotate: true
-  xy: 6, 635
-  size: 97, 157
-  orig: 97, 157
-  offset: 0, 0
-  index: -1
+bounds:6,333,97,157
+rotate:90
 kuijia_zuojiao_3
-  rotate: true
-  xy: 6, 416
-  size: 102, 131
-  orig: 102, 131
-  offset: 0, 0
-  index: -1
+bounds:291,295,102,131
+rotate:90
 kuijia_zuoshou1
-  rotate: 180
-  xy: 176, 961
-  size: 89, 92
-  orig: 89, 92
-  offset: 0, 0
-  index: -1
+bounds:220,6,89,92
 kuijia_zuoshou2
-  rotate: false
-  xy: 146, 317
-  size: 48, 41
-  orig: 48, 41
-  offset: 0, 0
-  index: -1
+bounds:6,286,48,41
 kuijia_zuoshoubi1
-  rotate: true
-  xy: 147, 530
-  size: 102, 99
-  orig: 102, 99
-  offset: 0, 0
-  index: -1
+bounds:385,89,102,99

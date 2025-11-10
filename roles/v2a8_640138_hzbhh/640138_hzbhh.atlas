@@ -1,258 +1,109 @@
-
 640138_hzbhh.png
-size: 1024,164
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 laipigou_body0
-  rotate: true
-  xy: 337, 14
-  size: 31, 32
-  orig: 31, 32
-  offset: 0, 0
-  index: -1
+bounds:6,6,31,32
+rotate:90
 laipigou_body1
-  rotate: true
-  xy: 816, 107
-  size: 49, 155
-  orig: 49, 155
-  offset: 0, 0
-  index: -1
+bounds:140,60,49,155
+rotate:270
 laipigou_body2
-  rotate: 270
-  xy: 174, 46
-  size: 50, 146
-  orig: 50, 146
-  offset: 0, 0
-  index: -1
+bounds:360,57,50,146
+rotate:270
 laipigou_body3
-  rotate: true
-  xy: 139, 19
-  size: 37, 100
-  orig: 50, 100
-  offset: 13, 0
-  index: -1
+bounds:51,10,37,100
+offsets:13,0,50,100
+rotate:90
 laipigou_body4
-  rotate: 270
-  xy: 439, 84
-  size: 72, 134
-  orig: 72, 134
-  offset: 0, 0
-  index: -1
+bounds:198,163,72,134
+rotate:270
 laipigou_body5
-  rotate: true
-  xy: 546, 16
-  size: 43, 60
-  orig: 43, 60
-  offset: 0, 0
-  index: -1
+bounds:89,37,43,60
 laipigou_body6
-  rotate: true
-  xy: 754, 70
-  size: 87, 57
-  orig: 87, 57
-  offset: 0, 0
-  index: -1
+bounds:6,136,87,57
+rotate:180
 laipigou_body7
-  rotate: 270
-  xy: 195, 78
-  size: 78, 126
-  orig: 78, 126
-  offset: 0, 0
-  index: -1
+bounds:195,214,78,126
+rotate:270
 laipigou_fawei
-  rotate: 270
-  xy: 491, 7
-  size: 29, 57
-  orig: 29, 57
-  offset: 0, 0
-  index: -1
+bounds:279,10,29,57
+rotate:90
 laipigou_youshou1
-  rotate: true
-  xy: 373, 26
-  size: 41, 88
-  orig: 51, 88
-  offset: 10, 0
-  index: -1
+bounds:266,40,41,88
+offsets:10,0,51,88
+rotate:90
 laipigou_youshou2
-  rotate: true
-  xy: 461, 34
-  size: 55, 89
-  orig: 73, 98
-  offset: 18, 9
-  index: -1
+bounds:172,102,55,89
+offsets:18,9,73,98
+rotate:270
 laipigou_youshou3
-  rotate: false
-  xy: 116, 112
-  size: 43, 45
-  orig: 43, 45
-  offset: 0, 0
-  index: -1
+bounds:116,247,43,45
 laipigou_youtu2
-  rotate: false
-  xy: 691, 60
-  size: 60, 97
-  orig: 60, 97
-  offset: 0, 0
-  index: -1
+bounds:334,138,60,97
+rotate:270
 laipigou_youtu3
-  rotate: 180
-  xy: 558, 57
-  size: 84, 48
-  orig: 84, 48
-  offset: 0, 0
-  index: -1
+bounds:458,112,84,48
+rotate:90
 laipigou_youtui1
-  rotate: false
-  xy: 972, 100
-  size: 46, 57
-  orig: 46, 57
-  offset: 0, 0
-  index: -1
+bounds:6,43,46,57
+rotate:90
 laipigou_zuoshou1
-  rotate: true
-  xy: 733, 14
-  size: 51, 86
-  orig: 51, 86
-  offset: 0, 0
-  index: -1
+bounds:6,79,51,86
+rotate:90
 laipigou_zuoshou2
-  rotate: true
-  xy: 910, 60
-  size: 79, 54
-  orig: 79, 54
-  offset: 0, 0
-  index: -1
+bounds:113,147,79,54
+rotate:180
 laipigou_zuoshou3
-  rotate: false
-  xy: 884, 20
-  size: 15, 28
-  orig: 15, 28
-  offset: 0, 0
-  index: -1
+bounds:68,45,15,28
 laipigou_zuotui1
-  rotate: true
-  xy: 641, 15
-  size: 57, 74
-  orig: 57, 74
-  offset: 0, 0
-  index: -1
+bounds:95,100,57,74
+rotate:90
 laipigou_zuotui2
-  rotate: true
-  xy: 580, 80
-  size: 76, 106
-  orig: 76, 106
-  offset: 0, 0
-  index: -1
+bounds:430,180,76,106
 laipigou_zuotui3
-  rotate: true
-  xy: 6, 111
-  size: 46, 57
-  orig: 46, 57
-  offset: 0, 0
-  index: -1
+bounds:6,246,46,57
+rotate:90
 naqiang_shou1
-  rotate: false
-  xy: 675, 64
-  size: 22, 21
-  orig: 32, 25
-  offset: 0, 4
-  index: -1
+bounds:143,8,22,21
+offsets:0,4,32,25
 naqiang_shou2
-  rotate: false
-  xy: 443, 130
-  size: 25, 27
-  orig: 25, 36
-  offset: 0, 9
-  index: -1
+bounds:342,107,25,27
+offsets:0,9,25,36
 naqiang_shou3
-  rotate: false
-  xy: 611, 19
-  size: 18, 32
-  orig: 18, 32
-  offset: 0, 0
-  index: -1
+bounds:300,85,18,32
+rotate:90
 naqiang_shou4
-  rotate: false
-  xy: 473, 144
-  size: 13, 13
-  orig: 13, 13
-  offset: 0, 0
-  index: -1
+bounds:315,166,13,13
 naqiang_shou5
-  rotate: 180
-  xy: 819, 54
-  size: 78, 53
-  orig: 78, 53
-  offset: 0, 0
-  index: -1
+bounds:260,109,78,53
 naqiang_shou6
-  rotate: true
-  xy: 271, 19
-  size: 61, 87
-  orig: 61, 87
-  offset: 0, 0
-  index: -1
+bounds:365,83,61,87
+rotate:90
 naqiang_shou7
-  rotate: true
-  xy: 977, 8
-  size: 36, 41
-  orig: 36, 44
-  offset: 0, 0
-  index: -1
+bounds:465,7,36,41
+offsets:0,0,36,44
+rotate:90
 naqiang_shouqiang
-  rotate: false
-  xy: 6, 59
-  size: 184, 97
-  orig: 184, 97
-  offset: 0, 0
-  index: -1
+bounds:6,195,184,97
 tou_er
-  rotate: false
-  xy: 903, 49
-  size: 21, 32
-  orig: 21, 32
-  offset: 0, 0
-  index: -1
+bounds:167,76,21,32
+rotate:90
 tou_lian
-  rotate: 270
-  xy: 325, 65
-  size: 92, 112
-  orig: 92, 112
-  offset: 0, 0
-  index: -1
+bounds:325,200,92,112
+rotate:270
 tou_yanjing
-  rotate: 180
-  xy: 6, 24
-  size: 82, 43
-  orig: 82, 43
-  offset: 0, 0
-  index: -1
+bounds:136,21,82,43
+rotate:180
 zuoshou1
-  rotate: false
-  xy: 327, 141
-  size: 20, 15
-  orig: 20, 15
-  offset: 0, 0
-  index: -1
+bounds:327,277,20,15
 zuoshou2
-  rotate: 180
-  xy: 826, 16
-  size: 53, 36
-  orig: 55, 36
-  offset: 0, 0
-  index: -1
+bounds:342,18,53,36
+offsets:0,0,55,36
+rotate:180
 zuoshou3
-  rotate: true
-  xy: 93, 8
-  size: 46, 38
-  orig: 46, 38
-  offset: 0, 0
-  index: -1
+bounds:224,13,46,38
+rotate:90
 zuoshoudao
-  rotate: false
-  xy: 913, 24
-  size: 105, 57
-  orig: 105, 57
-  offset: 0, 0
-  index: -1
+bounds:400,19,105,57
+rotate:180

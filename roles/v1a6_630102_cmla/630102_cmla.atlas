@@ -1,160 +1,57 @@
-
 630102_cmla.png
-size: 172,1064
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,1024
+filter:Linear,Linear
+scale:0.7
 er
-  rotate: false
-  xy: 148, 78
-  size: 20, 32
-  orig: 20, 32
-  offset: 0, 0
-  index: -1
+bounds:478,422,20,32
 mao
-  rotate: false
-  xy: 52, 691
-  size: 98, 106
-  orig: 98, 106
-  offset: 0, 0
-  index: -1
+bounds:172,284,98,106
 mao2
-  rotate: false
-  xy: 52, 885
-  size: 29, 47
-  orig: 29, 47
-  offset: 0, 0
-  index: -1
+bounds:418,455,29,47
 mao3
-  rotate: false
-  xy: 142, 113
-  size: 18, 40
-  orig: 18, 40
-  offset: 0, 0
-  index: -1
+bounds:368,422,18,40
+rotate:90
 qiang
-  rotate: false
-  xy: 2, 523
-  size: 48, 539
-  orig: 48, 539
-  offset: 0, 0
-  index: -1
+bounds:6,6,48,539
 qun
-  rotate: 180
-  xy: 2, 225
-  size: 124, 129
-  orig: 124, 129
-  offset: 0, 0
-  index: -1
+bounds:175,416,124,129
 qun2
-  rotate: false
-  xy: 2, 353
-  size: 101, 169
-  orig: 101, 169
-  offset: 0, 0
-  index: -1
+bounds:72,376,101,169
+rotate:180
 qun3
-  rotate: false
-  xy: 52, 524
-  size: 87, 165
-  orig: 87, 165
-  offset: 0, 0
-  index: -1
+bounds:266,354,87,165
+rotate:270
 shen
-  rotate: true
-  xy: 4, 118
-  size: 110, 115
-  orig: 110, 115
-  offset: 0, 0
-  index: -1
+bounds:297,435,110,115
+rotate:90
 tou
-  rotate: false
-  xy: 52, 799
-  size: 89, 104
-  orig: 89, 104
-  offset: 0, 0
-  index: -1
+bounds:60,282,89,104
+rotate:90
 xie1
-  rotate: true
-  xy: 52, 999
-  size: 60, 96
-  orig: 60, 96
-  offset: 0, 0
-  index: -1
+bounds:427,259,60,96
 xie2
-  rotate: true
-  xy: 61, 56
-  size: 82, 85
-  orig: 82, 85
-  offset: 0, 0
-  index: -1
+bounds:418,460,82,85
 yaodai
-  rotate: true
-  xy: 108, 435
-  size: 100, 35
-  orig: 100, 35
-  offset: 0, 0
-  index: -1
+bounds:107,246,100,35
 yaodai2
-  rotate: false
-  xy: 131, 3
-  size: 20, 74
-  orig: 20, 74
-  offset: 0, 0
-  index: -1
+bounds:158,229,20,74
+rotate:90
 yaodai3
-  rotate: false
-  xy: 52, 933
-  size: 16, 83
-  orig: 16, 83
-  offset: 0, 0
-  index: -1
+bounds:60,462,16,83
 yaodai4
-  rotate: 270
-  xy: 114, 256
-  size: 98, 50
-  orig: 98, 50
-  offset: 0, 0
-  index: -1
+bounds:60,185,98,50
+rotate:90
 ybi1
-  rotate: 270
-  xy: 115, 195
-  size: 59, 54
-  orig: 59, 54
-  offset: 0, 0
-  index: -1
+bounds:389,209,59,54
 ydabi
-  rotate: 180
-  xy: 2, 11
-  size: 69, 93
-  orig: 69, 93
-  offset: 0, 0
-  index: -1
+bounds:414,361,69,93
 yshou
-  rotate: false
-  xy: 110, 537
-  size: 48, 48
-  orig: 55, 48
-  offset: 4, 0
-  index: -1
+bounds:297,237,48,48
+offsets:4,0,55,48
 zb1
-  rotate: 180
-  xy: 86, 355
-  size: 67, 78
-  orig: 67, 78
-  offset: 0, 0
-  index: -1
+bounds:362,252,67,78
 zdabi
-  rotate: true
-  xy: 77, 894
-  size: 102, 71
-  orig: 102, 71
-  offset: 0, 0
-  index: -1
+bounds:276,290,102,71
 zs1
-  rotate: true
-  xy: 73, 3
-  size: 50, 56
-  orig: 51, 56
-  offset: 1, 0
-  index: -1
+bounds:241,233,50,56
+offsets:1,0,51,56

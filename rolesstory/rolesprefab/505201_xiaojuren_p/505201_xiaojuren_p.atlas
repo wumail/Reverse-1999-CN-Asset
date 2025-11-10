@@ -1,146 +1,60 @@
-
 505201_xiaojuren_p.png
-size: 2048,2048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.7
 A10
-  rotate: false
-  xy: 1760, 1767
-  size: 220, 279
-  orig: 220, 280
-  offset: 0, 0
-  index: -1
+bounds:1695,1276,220,279
+offsets:0,0,220,280
 A11
-  rotate: true
-  xy: 1128, 790
-  size: 600, 881
-  orig: 676, 1019
-  offset: 0, 0
-  index: -1
+bounds:1161,302,600,881
+offsets:0,0,676,1019
+rotate:90
 A13
-  rotate: false
-  xy: 2, 1035
-  size: 626, 1012
-  orig: 626, 1012
-  offset: 0, 0
-  index: -1
+bounds:41,929,626,1012
+rotate:90
 A14
-  rotate: true
-  xy: 498, 601
-  size: 181, 272
-  orig: 181, 287
-  offset: 0, 0
-  index: -1
+bounds:1426,26,181,272
+offsets:0,0,181,287
 A15
-  rotate: false
-  xy: 1937, 863
-  size: 109, 92
-  orig: 111, 92
-  offset: 1, 0
-  index: -1
+bounds:1921,1348,109,92
+offsets:1,0,111,92
 A16`
-  rotate: false
-  xy: 629, 1001
-  size: 497, 1046
-  orig: 497, 1046
-  offset: 0, 0
-  index: -1
+bounds:6,426,497,1046
+rotate:90
 A18
-  rotate: false
-  xy: 1128, 1391
-  size: 630, 656
-  orig: 630, 656
-  offset: 0, 0
-  index: -1
+bounds:1059,899,630,656
 A19
-  rotate: false
-  xy: 1559, 612
-  size: 191, 177
-  orig: 214, 242
-  offset: 22, 42
-  index: -1
+bounds:1612,122,191,177
+offsets:22,42,214,242
 A8
-  rotate: 180
-  xy: 1850, 1239
-  size: 196, 295
-  orig: 196, 295
-  offset: 0, 0
-  index: -1
+bounds:936,9,196,295
+rotate:270
 A9
-  rotate: true
-  xy: 498, 715
-  size: 278, 701
-  orig: 323, 701
-  offset: 45, 0
-  index: -1
+bounds:506,145,278,701
+offsets:45,0,323,701
+rotate:90
 Z1
-  rotate: false
-  xy: 1250, 1349
-  size: 159, 41
-  orig: 159, 41
-  offset: 0, 0
-  index: -1
+bounds:1695,1168,159,41
 a1
-  rotate: false
-  xy: 1973, 1514
-  size: 72, 180
-  orig: 72, 204
-  offset: 0, 0
-  index: -1
+bounds:1695,982,72,180
+offsets:0,0,72,204
 a2
-  rotate: false
-  xy: 1982, 1897
-  size: 29, 150
-  orig: 29, 150
-  offset: 0, 0
-  index: -1
+bounds:6,1405,29,150
 a3
-  rotate: true
-  xy: 1072, 620
-  size: 187, 270
-  orig: 187, 270
-  offset: 0, 0
-  index: -1
+bounds:1213,53,187,270
 a4
-  rotate: 270
-  xy: 1752, 624
-  size: 233, 294
-  orig: 233, 316
-  offset: 0, 8
-  index: -1
+bounds:1809,7,233,294
+offsets:0,8,233,316
 a5
-  rotate: false
-  xy: 1760, 1471
-  size: 217, 294
-  orig: 217, 294
-  offset: 0, 0
-  index: -1
+bounds:1825,989,217,294
 a6
-  rotate: false
-  xy: 1128, 1280
-  size: 120, 109
-  orig: 125, 111
-  offset: 5, 1
-  index: -1
+bounds:1921,1446,120,109
+offsets:5,1,125,111
 a7
-  rotate: false
-  xy: 2, 620
-  size: 494, 414
-  orig: 494, 414
-  offset: 0, 0
-  index: -1
+bounds:6,6,494,414
 z2
-  rotate: false
-  xy: 1982, 1840
-  size: 63, 57
-  orig: 63, 60
-  offset: 0, 3
-  index: -1
+bounds:1947,1285,63,57
+offsets:0,3,63,60
 z3
-  rotate: false
-  xy: 1420, 727
-  size: 138, 62
-  orig: 158, 62
-  offset: 4, 0
-  index: -1
+bounds:1695,1208,138,62
+offsets:4,0,158,62

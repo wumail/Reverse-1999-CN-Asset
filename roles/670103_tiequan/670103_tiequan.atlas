@@ -1,41 +1,15 @@
-
 670103_tiequan.png
-size: 164,124
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 xianquan_1
-  rotate: false
-  xy: 2, 81
-  size: 160, 41
-  orig: 160, 41
-  offset: 0, 0
-  index: -1
+bounds:321,6,160,41
+rotate:180
 xianquan_2
-  rotate: false
-  xy: 2, 23
-  size: 133, 25
-  orig: 133, 25
-  offset: 0, 0
-  index: -1
+bounds:285,31,133,25
 xianquan_3
-  rotate: false
-  xy: 2, 2
-  size: 133, 19
-  orig: 133, 19
-  offset: 0, 0
-  index: -1
+bounds:146,37,133,19
 xianquan_4
-  rotate: true
-  xy: 138, 50
-  size: 29, 21
-  orig: 29, 21
-  offset: 0, 0
-  index: -1
+bounds:421,35,29,21
 xianquan_5
-  rotate: false
-  xy: 2, 50
-  size: 134, 29
-  orig: 134, 29
-  offset: 0, 0
-  index: -1
+bounds:6,27,134,29

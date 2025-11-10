@@ -1,202 +1,82 @@
-
 620218_byyjlg.png
-size: 516,1096
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,1024
+filter:Linear,Linear
+scale:0.6
 A001
-  rotate: false
-  xy: 407, 66
-  size: 83, 67
-  orig: 110, 74
-  offset: 10, 0
-  index: -1
+bounds:87,35,70,58
+offsets:9,0,94,64
 A002
-  rotate: false
-  xy: 405, 669
-  size: 95, 19
-  orig: 116, 29
-  offset: 21, 10
-  index: -1
+bounds:6,758,81,17
+offsets:18,8,99,25
 A003
-  rotate: false
-  xy: 407, 9
-  size: 58, 51
-  orig: 76, 76
-  offset: 18, 11
-  index: -1
+bounds:455,627,49,44
+offsets:16,9,65,65
 A003a
-  rotate: false
-  xy: 121, 168
-  size: 85, 85
-  orig: 85, 85
-  offset: 0, 0
-  index: -1
+bounds:112,99,73,73
 A004
-  rotate: false
-  xy: 446, 139
-  size: 62, 68
-  orig: 76, 78
-  offset: 14, 0
-  index: -1
+bounds:448,6,53,58
+offsets:12,0,65,67
+rotate:90
 A005
-  rotate: false
-  xy: 416, 305
-  size: 81, 131
-  orig: 94, 131
-  offset: 13, 0
-  index: -1
+bounds:6,242,69,112
+offsets:11,0,80,112
 A007
-  rotate: 180
-  xy: 242, 441
-  size: 258, 223
-  orig: 258, 223
-  offset: 0, 0
-  index: -1
+bounds:83,178,221,191
 A008
-  rotate: false
-  xy: 43, 214
-  size: 72, 115
-  orig: 72, 115
-  offset: 0, 0
-  index: -1
+bounds:443,677,62,98
 A012
-  rotate: true
-  xy: 6, 20
-  size: 39, 123
-  orig: 46, 123
-  offset: 0, 0
-  index: -1
+bounds:301,524,33,105
+offsets:0,0,39,105
 A014
-  rotate: true
-  xy: 72, 65
-  size: 45, 121
-  orig: 54, 121
-  offset: 9, 0
-  index: -1
+bounds:163,52,39,104
+offsets:7,0,46,104
+rotate:90
 A016
-  rotate: false
-  xy: 230, 164
-  size: 113, 91
-  orig: 113, 91
-  offset: 0, 0
-  index: -1
+bounds:191,97,97,78
+rotate:180
 A017
-  rotate: true
-  xy: 348, 139
-  size: 73, 92
-  orig: 73, 92
-  offset: 0, 0
-  index: -1
+bounds:6,690,62,79
+rotate:90
 A019
-  rotate: false
-  xy: 135, 7
-  size: 55, 52
-  orig: 55, 52
-  offset: 0, 0
-  index: -1
+bounds:334,13,47,44
 A021
-  rotate: false
-  xy: 6, 746
-  size: 314, 344
-  orig: 314, 344
-  offset: 0, 0
-  index: -1
+bounds:6,360,269,295
+rotate:90
 A022
-  rotate: false
-  xy: 121, 259
-  size: 110, 77
-  orig: 119, 83
-  offset: 0, 0
-  index: -1
+bounds:396,288,94,66
+offsets:0,0,102,71
 A023
-  rotate: false
-  xy: 236, 30
-  size: 72, 69
-  orig: 72, 69
-  offset: 0, 0
-  index: -1
+bounds:6,29,62,59
 A024
-  rotate: 270
-  xy: 336, 219
-  size: 94, 125
-  orig: 94, 125
-  offset: 0, 0
-  index: -1
+bounds:96,522,80,107
 A026
-  rotate: false
-  xy: 110, 787
-  size: 53, 64
-  orig: 53, 64
-  offset: 0, 0
-  index: -1
+bounds:21,190,46,55
+rotate:90
 A027
-  rotate: false
-  xy: 326, 710
-  size: 135, 380
-  orig: 164, 401
-  offset: 0, 0
-  index: -1
+bounds:93,635,140,344
+rotate:90
 A027a
-  rotate: 270
-  xy: 187, 100
-  size: 80, 128
-  orig: 80, 128
-  offset: 0, 0
-  index: -1
+bounds:291,60,68,110
+rotate:270
 A027b
-  rotate: true
-  xy: 6, 97
-  size: 80, 113
-  orig: 80, 113
-  offset: 0, 0
-  index: -1
+bounds:407,58,68,97
+rotate:90
 A028
-  rotate: false
-  xy: 6, 838
-  size: 111, 144
-  orig: 111, 144
-  offset: 0, 0
-  index: -1
+bounds:6,558,95,123
 A029
-  rotate: true
-  xy: 300, 342
-  size: 110, 118
-  orig: 110, 118
-  offset: 0, 0
-  index: -1
+bounds:6,94,94,101
+rotate:270
 A030
-  rotate: 270
-  xy: 6, 332
-  size: 163, 291
-  orig: 163, 291
-  offset: 0, 0
-  index: -1
+bounds:257,132,140,249
+rotate:90
 A031
-  rotate: true
-  xy: 321, 59
-  size: 74, 80
-  orig: 74, 82
-  offset: 0, 0
-  index: -1
+bounds:6,484,64,68
+offsets:0,0,64,70
 A032
-  rotate: true
-  xy: 314, 7
-  size: 46, 59
-  orig: 46, 59
-  offset: 0, 0
-  index: -1
+bounds:273,14,39,50
+rotate:90
 A033
-  rotate: false
-  xy: 237, 261
-  size: 93, 92
-  orig: 93, 92
-  offset: 0, 0
-  index: -1
+bounds:310,275,80,79
 A034
-  rotate: 270
-  xy: 6, 573
-  size: 247, 314
-  orig: 247, 314
-  offset: 0, 0
-  index: -1
+bounds:286,360,212,269
+rotate:180

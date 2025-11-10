@@ -1,216 +1,83 @@
-
 611301_wendi_p.png
-size: 1893,1893
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,1024
+filter:Linear,Linear
+scale:0.5
 a1
-  rotate: true
-  xy: 2, 562
-  size: 792, 526
-  orig: 792, 526
-  offset: 0, 0
-  index: -1
+bounds:485,375,566,376
+rotate:180
 a10
-  rotate: false
-  xy: 1042, 3
-  size: 89, 84
-  orig: 89, 84
-  offset: 0, 0
-  index: -1
+bounds:1489,691,64,60
 a11
-  rotate: false
-  xy: 1369, 92
-  size: 141, 137
-  orig: 141, 137
-  offset: 0, 0
-  index: -1
+bounds:965,653,101,98
 a12
-  rotate: false
-  xy: 2, 68
-  size: 476, 492
-  orig: 501, 510
-  offset: 0, 0
-  index: -1
+bounds:1302,176,340,352
+offsets:0,0,358,365
+rotate:270
 a13
-  rotate: true
-  xy: 928, 479
-  size: 274, 547
-  orig: 274, 575
-  offset: 0, 28
-  index: -1
+bounds:1100,64,196,391
+offsets:0,20,196,411
 a14
-  rotate: true
-  xy: 928, 231
-  size: 246, 591
-  orig: 246, 591
-  offset: 0, 0
-  index: -1
+bounds:352,216,176,422
+rotate:90
 a15
-  rotate: false
-  xy: 925, 1121
-  size: 495, 375
-  orig: 522, 400
-  offset: 27, 0
-  index: -1
+bounds:6,166,354,268
+offsets:19,0,373,286
 a16
-  rotate: false
-  xy: 1434, 1428
-  size: 398, 463
-  orig: 398, 507
-  offset: 0, 44
-  index: -1
+bounds:791,181,284,331
+offsets:0,31,284,362
+rotate:90
 a17
-  rotate: false
-  xy: 2, 1356
-  size: 790, 535
-  orig: 790, 965
-  offset: 0, 71
-  index: -1
+bounds:6,369,564,382
+offsets:0,51,564,690
 a2
-  rotate: true
-  xy: 1477, 502
-  size: 286, 249
-  orig: 286, 249
-  offset: 0, 0
-  index: -1
+bounds:1227,10,205,178
+rotate:90
 a3
-  rotate: true
-  xy: 530, 718
-  size: 636, 393
-  orig: 636, 393
-  offset: 0, 0
-  index: -1
+bounds:1056,470,454,281
 a4
-  rotate: false
-  xy: 1521, 193
-  size: 206, 307
-  orig: 206, 307
-  offset: 0, 0
-  index: -1
+bounds:6,53,147,220
+rotate:90
 a5
-  rotate: false
-  xy: 1728, 577
-  size: 135, 139
-  orig: 135, 139
-  offset: 0, 0
-  index: -1
+bounds:1016,392,97,99
 a6
-  rotate: false
-  xy: 819, 283
-  size: 93, 92
-  orig: 94, 93
-  offset: 0, 0
-  index: -1
+bounds:1155,7,66,66
+offsets:0,0,67,67
 a7
-  rotate: false
-  xy: 1760, 1012
-  size: 118, 156
-  orig: 118, 156
-  offset: 0, 0
-  index: -1
+bounds:1952,639,84,112
 a8
-  rotate: true
-  xy: 1663, 1170
-  size: 256, 215
-  orig: 256, 215
-  offset: 0, 0
-  index: -1
+bounds:1888,422,183,154
+rotate:90
 a9
-  rotate: false
-  xy: 1042, 89
-  size: 168, 140
-  orig: 169, 140
-  offset: 0, 0
-  index: -1
+bounds:6,451,120,100
+offsets:0,0,121,100
 bizui
-  rotate: true
-  xy: 480, 40
-  size: 335, 337
-  orig: 335, 337
-  offset: 0, 0
-  index: -1
+bounds:345,9,240,241
+rotate:90
 bkx1
-  rotate: false
-  xy: 1432, 790
-  size: 326, 336
-  orig: 326, 336
-  offset: 0, 0
-  index: -1
+bounds:722,6,233,240
+rotate:90
 bkx2
-  rotate: false
-  xy: 819, 48
-  size: 221, 181
-  orig: 221, 181
-  offset: 0, 0
-  index: -1
+bounds:1390,50,158,129
 bkx3
-  rotate: false
-  xy: 1512, 80
-  size: 164, 111
-  orig: 164, 111
-  offset: 0, 0
-  index: -1
+bounds:592,27,117,80
 bkx4
-  rotate: false
-  xy: 794, 1392
-  size: 95, 104
-  orig: 95, 104
-  offset: 0, 0
-  index: -1
+bounds:968,7,68,75
+rotate:90
 bkx5
-  rotate: true
-  xy: 1760, 718
-  size: 142, 131
-  orig: 142, 131
-  offset: 0, 0
-  index: -1
+bounds:968,81,102,94
 bkx6
-  rotate: false
-  xy: 1422, 1128
-  size: 239, 298
-  orig: 239, 298
-  offset: 0, 0
-  index: -1
+bounds:1871,14,171,213
 bkx7
-  rotate: false
-  xy: 1212, 82
-  size: 155, 147
-  orig: 155, 147
-  offset: 0, 0
-  index: -1
+bounds:589,113,111,105
 bkx8
-  rotate: false
-  xy: 1678, 95
-  size: 86, 96
-  orig: 86, 96
-  offset: 0, 0
-  index: -1
+bounds:1092,305,62,69
 bkx9
-  rotate: false
-  xy: 1760, 862
-  size: 123, 148
-  orig: 123, 148
-  offset: 0, 0
-  index: -1
+bounds:251,59,88,106
 kx2
-  rotate: true
-  xy: 925, 755
-  size: 364, 505
-  orig: 364, 505
-  offset: 0, 0
-  index: -1
+bounds:1659,205,260,361
+rotate:270
 kx3
-  rotate: false
-  xy: 794, 1498
-  size: 638, 393
-  orig: 638, 393
-  offset: 0, 0
-  index: -1
+bounds:1490,470,456,281
 kx_bizui
-  rotate: false
-  xy: 530, 377
-  size: 396, 339
-  orig: 396, 339
-  offset: 0, 0
-  index: -1
+bounds:1555,38,283,242
+rotate:180

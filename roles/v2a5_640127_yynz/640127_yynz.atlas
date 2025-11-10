@@ -1,251 +1,100 @@
-
 640127_yynz.png
-size: 1452,156
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 yayinz_bozi
-  rotate: 270
-  xy: 1398, 74
-  size: 46, 45
-  orig: 46, 45
-  offset: 0, 0
-  index: -1
+bounds:92,245,46,45
 yayinz_dao
-  rotate: false
-  xy: 1002, 19
-  size: 145, 26
-  orig: 147, 27
-  offset: 1, 1
-  index: -1
+bounds:6,364,145,26
+offsets:1,1,147,27
 yayinz_er
-  rotate: false
-  xy: 1154, 16
-  size: 29, 32
-  orig: 29, 32
-  offset: 0, 0
-  index: -1
+bounds:175,6,29,32
+rotate:90
 yayinz_fa1
-  rotate: 270
-  xy: 1408, 9
-  size: 41, 34
-  orig: 41, 34
-  offset: 0, 0
-  index: -1
+bounds:315,20,41,34
+rotate:270
 yayinz_fa2
-  rotate: 270
-  xy: 747, 26
-  size: 107, 67
-  orig: 107, 67
-  offset: 0, 0
-  index: -1
+bounds:345,112,107,67
+rotate:180
 yayinz_fa3
-  rotate: true
-  xy: 309, 10
-  size: 32, 59
-  orig: 32, 59
-  offset: 0, 0
-  index: -1
+bounds:359,27,32,59
+rotate:90
 yayinz_gui_tun
-  rotate: 270
-  xy: 490, 61
-  size: 89, 65
-  orig: 89, 65
-  offset: 0, 0
-  index: -1
+bounds:222,216,89,65
 yayinz_gui_youdatui
-  rotate: false
-  xy: 608, 54
-  size: 84, 95
-  orig: 84, 96
-  offset: 0, 1
-  index: -1
+bounds:121,177,84,95
+offsets:0,1,84,96
+rotate:90
 yayinz_gui_youjiao
-  rotate: false
-  xy: 1275, 79
-  size: 48, 71
-  orig: 48, 71
-  offset: 0, 0
-  index: -1
+bounds:458,89,48,71
 yayinz_gui_youxiaotui
-  rotate: true
-  xy: 1069, 56
-  size: 88, 60
-  orig: 88, 60
-  offset: 0, 0
-  index: -1
+bounds:170,90,88,60
 yayinz_gui_zuodatui
-  rotate: 180
-  xy: 1003, 64
-  size: 63, 86
-  orig: 63, 86
-  offset: 0, 0
-  index: -1
+bounds:86,107,63,86
+rotate:90
 yayinz_gui_zuojiao
-  rotate: true
-  xy: 670, 13
-  size: 48, 71
-  orig: 48, 71
-  offset: 0, 0
-  index: -1
+bounds:181,39,48,71
+rotate:90
 yayinz_gui_zuoxiaotui
-  rotate: 270
-  xy: 885, 27
-  size: 88, 75
-  orig: 88, 75
-  offset: 0, 0
-  index: -1
+bounds:6,148,88,75
+rotate:180
 yayinz_ling1
-  rotate: false
-  xy: 817, 8
-  size: 63, 66
-  orig: 63, 66
-  offset: 0, 0
-  index: -1
+bounds:6,19,63,66
 yayinz_ling2
-  rotate: 180
-  xy: 1192, 71
-  size: 87, 76
-  orig: 97, 76
-  offset: 0, 0
-  index: -1
+bounds:6,69,87,76
+offsets:0,0,97,76
 yayinz_tou
-  rotate: 180
-  xy: 127, 42
-  size: 85, 108
-  orig: 85, 108
-  offset: 0, 0
-  index: -1
+bounds:275,282,85,108
 yayinz_tun
-  rotate: true
-  xy: 560, 24
-  size: 102, 59
-  orig: 102, 59
-  offset: 0, 0
-  index: -1
+bounds:335,216,102,59
 yayinz_xiongqiang
-  rotate: false
-  xy: 6, 16
-  size: 125, 134
-  orig: 125, 134
-  offset: 0, 0
-  index: -1
+bounds:135,265,125,134
+rotate:90
 yayinz_youdabi
-  rotate: true
-  xy: 1198, 23
-  size: 52, 88
-  orig: 52, 88
-  offset: 0, 0
-  index: -1
+bounds:332,62,52,88
+rotate:90
 yayinz_youdatui
-  rotate: false
-  xy: 278, 36
-  size: 67, 113
-  orig: 67, 113
-  offset: 0, 0
-  index: -1
+bounds:6,294,67,113
+rotate:90
 yayinz_youjiao
-  rotate: true
-  xy: 1316, 19
-  size: 77, 44
-  orig: 77, 44
-  offset: 0, 0
-  index: -1
+bounds:100,63,77,44
 yayinz_youshou1_1
-  rotate: false
-  xy: 372, 13
-  size: 27, 35
-  orig: 27, 35
-  offset: 0, 0
-  index: -1
+bounds:6,135,27,35
+rotate:90
 yayinz_youshou1_2
-  rotate: false
-  xy: 258, 10
-  size: 43, 21
-  orig: 43, 22
-  offset: 0, 1
-  index: -1
+bounds:382,189,43,21
+offsets:0,1,43,22
 yayinz_youshou1_3
-  rotate: 180
-  xy: 482, 10
-  size: 51, 49
-  orig: 51, 49
-  offset: 0, 0
-  index: -1
+bounds:73,22,51,49
 yayinz_youshou2
-  rotate: true
-  xy: 1135, 54
-  size: 62, 61
-  orig: 62, 61
-  offset: 0, 0
-  index: -1
+bounds:264,82,62,61
 yayinz_youxiaobi
-  rotate: false
-  xy: 816, 61
-  size: 73, 86
-  orig: 74, 86
-  offset: 0, 0
-  index: -1
+bounds:272,149,73,86
+offsets:0,0,74,86
+rotate:90
 yayinz_youxiaotui
-  rotate: 180
-  xy: 349, 46
-  size: 67, 103
-  orig: 67, 104
-  offset: 0, 1
-  index: -1
+bounds:439,263,67,103
+offsets:0,1,67,104
+rotate:180
 yayinz_zuodabi
-  rotate: 180
-  xy: 950, 20
-  size: 59, 104
-  orig: 59, 104
-  offset: 0, 0
-  index: -1
+bounds:164,140,59,104
+rotate:90
 yayinz_zuodatui
-  rotate: false
-  xy: 408, 22
-  size: 80, 93
-  orig: 80, 93
-  offset: 0, 0
-  index: -1
+bounds:6,216,80,93
+rotate:90
 yayinz_zuojiao
-  rotate: 180
-  xy: 1362, 22
-  size: 48, 57
-  orig: 48, 57
-  offset: 0, 0
-  index: -1
+bounds:257,28,48,57
+rotate:90
 yayinz_zuoshou1
-  rotate: false
-  xy: 1347, 97
-  size: 58, 53
-  orig: 58, 53
-  offset: 0, 0
-  index: -1
+bounds:421,38,58,53
+rotate:90
 yayinz_zuoxaiotui
-  rotate: false
-  xy: 203, 17
-  size: 78, 112
-  orig: 78, 112
-  offset: 0, 0
-  index: -1
+bounds:360,278,78,112
+rotate:180
 yayinz_zuoxiaobi
-  rotate: false
-  xy: 684, 75
-  size: 75, 74
-  orig: 75, 74
-  offset: 0, 0
-  index: -1
+bounds:432,164,75,74
+rotate:90
 yayinz_zuoxiuk1
-  rotate: false
-  xy: 149, 9
-  size: 48, 35
-  orig: 48, 35
-  offset: 0, 0
-  index: -1
+bounds:435,11,48,35
 yayinz_zuoxiuk2
-  rotate: false
-  xy: 613, 15
-  size: 46, 35
-  orig: 46, 35
-  offset: 0, 0
-  index: -1
+bounds:129,24,46,35

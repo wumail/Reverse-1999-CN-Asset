@@ -1,419 +1,151 @@
-
 670148_grzccsb.png
-size: 172,1680
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,1024
+filter:Linear,Linear
+scale:0.7
 a_01
-  rotate: false
-  xy: 147, 102
-  size: 17, 28
-  orig: 17, 28
-  offset: 0, 0
-  index: -1
+bounds:489,349,17,28
 a_02
-  rotate: false
-  xy: 145, 9
-  size: 11, 11
-  orig: 11, 11
-  offset: 0, 0
-  index: -1
+bounds:358,372,11,11
 a_03
-  rotate: false
-  xy: 157, 292
-  size: 7, 15
-  orig: 7, 15
-  offset: 0, 0
-  index: -1
+bounds:324,401,7,15
 a_04
-  rotate: false
-  xy: 147, 429
-  size: 16, 22
-  orig: 16, 22
-  offset: 0, 0
-  index: -1
+bounds:6,473,16,22
 a_05
-  rotate: false
-  xy: 6, 1649
-  size: 6, 22
-  orig: 6, 22
-  offset: 0, 0
-  index: -1
+bounds:308,492,6,22
 a_06
-  rotate: false
-  xy: 103, 1388
-  size: 48, 84
-  orig: 48, 84
-  offset: 0, 0
-  index: -1
+bounds:405,81,48,84
+rotate:90
 chan_1_1
-  rotate: false
-  xy: 137, 1479
-  size: 25, 19
-  orig: 25, 19
-  offset: 0, 0
-  index: -1
+bounds:86,476,25,19
 chan_1_2
-  rotate: false
-  xy: 6, 12
-  size: 46, 43
-  orig: 46, 43
-  offset: 0, 0
-  index: -1
+bounds:371,7,46,43
 chan_1_3
-  rotate: true
-  xy: 110, 132
-  size: 53, 48
-  orig: 53, 48
-  offset: 0, 0
-  index: -1
+bounds:117,42,53,48
+rotate:180
 chan_1_4
-  rotate: 270
-  xy: 13, 310
-  size: 68, 73
-  orig: 68, 73
-  offset: 0, 0
-  index: -1
+bounds:229,105,68,73
+rotate:270
 chan_1_5
-  rotate: 270
-  xy: 134, 387
-  size: 39, 30
-  orig: 39, 30
-  offset: 0, 0
-  index: -1
+bounds:113,6,39,30
 chan_1_6
-  rotate: false
-  xy: 6, 71
-  size: 51, 51
-  orig: 51, 51
-  offset: 0, 0
-  index: -1
+bounds:293,31,51,51
+rotate:270
 chan_1_7
-  rotate: 180
-  xy: 105, 1301
-  size: 49, 81
-  orig: 49, 81
-  offset: 0, 0
-  index: -1
+bounds:260,174,49,81
+rotate:270
 chan_2_3
-  rotate: false
-  xy: 6, 189
-  size: 57, 55
-  orig: 57, 55
-  offset: 0, 0
-  index: -1
+bounds:149,88,57,55
 chan_2_4
-  rotate: false
-  xy: 144, 26
-  size: 20, 37
-  orig: 20, 37
-  offset: 0, 0
-  index: -1
+bounds:415,427,20,37
 chan_3_1
-  rotate: 270
-  xy: 6, 675
-  size: 62, 91
-  orig: 62, 91
-  offset: 0, 0
-  index: -1
+bounds:187,270,62,91
+rotate:90
 chan_3_2
-  rotate: 270
-  xy: 6, 450
-  size: 63, 89
-  orig: 63, 89
-  offset: 0, 0
-  index: -1
+bounds:173,204,63,89
+rotate:270
 chan_3_3
-  rotate: true
-  xy: 6, 250
-  size: 56, 56
-  orig: 56, 57
-  offset: 0, 0
-  index: -1
+bounds:6,103,56,56
+offsets:0,0,56,57
+rotate:90
 chan_4_1
-  rotate: false
-  xy: 74, 353
-  size: 65, 64
-  orig: 65, 64
-  offset: 0, 0
-  index: -1
+bounds:189,136,65,64
+rotate:270
 chan_4_2
-  rotate: true
-  xy: 50, 504
-  size: 55, 91
-  orig: 55, 91
-  offset: 0, 0
-  index: -1
+bounds:363,209,55,91
+rotate:90
 chan_4_3
-  rotate: 180
-  xy: 108, 64
-  size: 46, 47
-  orig: 46, 47
-  offset: 0, 0
-  index: -1
+bounds:413,33,46,47
 chan_4_4
-  rotate: 270
-  xy: 21, 132
-  size: 55, 56
-  orig: 55, 56
-  offset: 0, 0
-  index: -1
+bounds:353,53,55,56
+rotate:270
 chan_5
-  rotate: false
-  xy: 6, 981
-  size: 71, 66
-  orig: 78, 71
-  offset: 3, 2
-  index: -1
+bounds:436,270,70,66
+offsets:3,2,78,71
 chan_chan1
-  rotate: 180
-  xy: 29, 741
-  size: 111, 54
-  orig: 111, 54
-  offset: 0, 0
-  index: -1
+bounds:256,227,111,54
+rotate:180
 chan_chan2
-  rotate: true
-  xy: 136, 1068
-  size: 192, 13
-  orig: 192, 13
-  offset: 0, 0
-  index: -1
+bounds:6,501,192,13
 zj_bozi2
-  rotate: 270
-  xy: 91, 664
-  size: 66, 67
-  orig: 69, 67
-  offset: 2, 0
-  index: -1
+bounds:86,106,66,67
+offsets:2,0,69,67
 zj_jianzhang1
-  rotate: true
-  xy: 140, 1557
-  size: 41, 23
-  orig: 41, 23
-  offset: 0, 0
-  index: -1
+bounds:275,288,41,23
 zj_jianzhang2
-  rotate: 270
-  xy: 136, 737
-  size: 33, 28
-  orig: 33, 28
-  offset: 0, 0
-  index: -1
+bounds:113,320,33,28
+rotate:90
 zj_jianzhang3
-  rotate: 180
-  xy: 138, 784
-  size: 27, 64
-  orig: 27, 64
-  offset: 0, 0
-  index: -1
+bounds:6,6,27,64
+rotate:270
 zj_kuabu
-  rotate: true
-  xy: 87, 972
-  size: 100, 55
-  orig: 100, 55
-  offset: 0, 0
-  index: -1
+bounds:6,280,100,55
 zj_maozi1
-  rotate: false
-  xy: 6, 1460
-  size: 125, 86
-  orig: 125, 86
-  offset: 0, 0
-  index: -1
+bounds:323,389,125,86
+rotate:90
 zj_pidai
-  rotate: 270
-  xy: 133, 190
-  size: 95, 25
-  orig: 95, 25
-  offset: 0, 0
-  index: -1
+bounds:206,74,95,25
 zj_shoubi1_2
-  rotate: 180
-  xy: 94, 423
-  size: 61, 77
-  orig: 61, 77
-  offset: 0, 0
-  index: -1
+bounds:6,158,61,77
+rotate:90
 zj_shoubi2_1
-  rotate: true
-  xy: 76, 799
-  size: 81, 64
-  orig: 81, 64
-  offset: 0, 0
-  index: -1
+bounds:336,274,81,64
 zj_shoubi2_2
-  rotate: false
-  xy: 6, 1133
-  size: 108, 63
-  orig: 127, 63
-  offset: 19, 0
-  index: -1
+bounds:6,340,108,63
+offsets:19,0,127,63
 zj_shoubi2_3
-  rotate: false
-  xy: 6, 554
-  size: 81, 48
-  orig: 81, 48
-  offset: 0, 0
-  index: -1
+bounds:6,225,81,48
 zj_shoubi2_4
-  rotate: true
-  xy: 102, 1265
-  size: 28, 58
-  orig: 28, 58
-  offset: 0, 0
-  index: -1
+bounds:49,23,28,58
+rotate:90
 zj_shoubi2_9
-  rotate: 270
-  xy: 84, 886
-  size: 81, 62
-  orig: 81, 62
-  offset: 0, 0
-  index: -1
+bounds:92,179,81,62
 zj_shoubi3_1
-  rotate: true
-  xy: 6, 379
-  size: 67, 78
-  orig: 67, 78
-  offset: 0, 0
-  index: -1
+bounds:339,141,67,78
+rotate:90
 zj_shoubi3_2
-  rotate: false
-  xy: 67, 235
-  size: 63, 53
-  orig: 63, 53
-  offset: 0, 0
-  index: -1
+bounds:304,88,63,53
 zj_shoubi3_3
-  rotate: 270
-  xy: 55, 94
-  size: 41, 57
-  orig: 41, 57
-  offset: 0, 0
-  index: -1
+bounds:6,40,41,57
 zj_shoubi3_4
-  rotate: 180
-  xy: 92, 566
-  size: 60, 88
-  orig: 60, 88
-  offset: 0, 0
-  index: -1
+bounds:444,176,60,88
+rotate:180
 zj_tou
-  rotate: false
-  xy: 6, 1368
-  size: 106, 86
-  orig: 106, 86
-  offset: 0, 0
-  index: -1
+bounds:6,409,106,86
 zj_xiongdai1
-  rotate: false
-  xy: 65, 7
-  size: 22, 35
-  orig: 22, 35
-  offset: 0, 0
-  index: -1
+bounds:244,354,22,35
 zj_xiongdai2
-  rotate: 180
-  xy: 127, 1514
-  size: 36, 38
-  orig: 36, 38
-  offset: 0, 0
-  index: -1
+bounds:467,134,36,38
+rotate:90
 zj_xiongqiang
-  rotate: false
-  xy: 6, 1552
-  size: 128, 120
-  orig: 128, 120
-  offset: 0, 0
-  index: -1
+bounds:190,394,128,120
 zj_yibai1
-  rotate: 180
-  xy: 23, 609
-  size: 80, 62
-  orig: 80, 62
-  offset: 0, 0
-  index: -1
+bounds:101,252,80,62
 zj_yibai2
-  rotate: false
-  xy: 121, 1610
-  size: 40, 62
-  orig: 40, 62
-  offset: 0, 0
-  index: -1
+bounds:466,15,40,62
 zj_youbi_1
-  rotate: 270
-  xy: 44, 46
-  size: 43, 50
-  orig: 43, 50
-  offset: 0, 0
-  index: -1
+bounds:176,25,43,50
+rotate:90
 zj_youbi_2
-  rotate: false
-  xy: 145, 351
-  size: 20, 22
-  orig: 20, 22
-  offset: 0, 0
-  index: -1
+bounds:120,359,20,22
 zj_youbi_3
-  rotate: false
-  xy: 94, 20
-  size: 46, 41
-  orig: 46, 41
-  offset: 0, 0
-  index: -1
+bounds:232,27,46,41
 zj_youbi_4
-  rotate: false
-  xy: 145, 500
-  size: 15, 27
-  orig: 15, 27
-  offset: 0, 0
-  index: -1
+bounds:489,386,15,27
 zj_youbi_5
-  rotate: true
-  xy: 92, 291
-  size: 56, 61
-  orig: 56, 61
-  offset: 0, 0
-  index: -1
+bounds:400,120,56,61
+rotate:270
 zj_youbi_6
-  rotate: true
-  xy: 6, 905
-  size: 71, 92
-  orig: 71, 92
-  offset: 0, 0
-  index: -1
+bounds:147,322,71,92
+rotate:270
 zj_youdatui
-  rotate: true
-  xy: 6, 1054
-  size: 75, 102
-  orig: 75, 102
-  offset: 0, 0
-  index: -1
+bounds:380,338,75,102
+rotate:90
 zj_youxuezi
-  rotate: true
-  xy: 6, 1280
-  size: 83, 96
-  orig: 83, 99
-  offset: 0, 3
-  index: -1
+bounds:415,418,83,96
+offsets:0,3,83,99
 zj_zuodatui
-  rotate: false
-  xy: 6, 824
-  size: 81, 76
-  orig: 81, 76
-  offset: 0, 0
-  index: -1
+bounds:271,317,81,76
 zj_zuoxigai
-  rotate: false
-  xy: 68, 185
-  size: 52, 44
-  orig: 52, 44
-  offset: 0, 0
-  index: -1
+bounds:59,57,52,44
 zj_zuoxuezi
-  rotate: true
-  xy: 6, 1193
-  size: 81, 114
-  orig: 81, 114
-  offset: 0, 0
-  index: -1
+bounds:107,381,81,114

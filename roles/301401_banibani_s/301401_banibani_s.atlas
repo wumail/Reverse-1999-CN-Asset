@@ -1,223 +1,70 @@
-
 301401_banibani_s.png
-size: 300,524
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 body
-  rotate: false
-  xy: 235, 455
-  size: 62, 67
-  orig: 63, 67
-  offset: 1, 0
-  index: -1
+bounds:433,266,62,67
+offsets:1,0,63,67
 hudiejie
-  rotate: false
-  xy: 205, 79
-  size: 53, 45
-  orig: 53, 45
-  offset: 0, 0
-  index: -1
+bounds:326,96,53,45
 naoke
-  rotate: false
-  xy: 122, 18
-  size: 81, 66
-  orig: 81, 66
-  offset: 0, 0
-  index: -1
+bounds:198,88,81,66
 tou2
-  rotate: false
-  xy: 122, 5
-  size: 18, 11
-  orig: 18, 11
-  offset: 0, 0
-  index: -1
-x_ls_baidian
-  rotate: false
-  xy: 177, 368
-  size: 56, 154
-  orig: 63, 154
-  offset: 0, 0
-  index: -1
+bounds:480,200,18,11
 x_ls_deng
-  rotate: false
-  xy: 188, 216
-  size: 41, 78
-  orig: 41, 78
-  offset: 0, 0
-  index: -1
+bounds:433,182,41,78
 x_ls_he_di
-  rotate: true
-  xy: 110, 178
-  size: 186, 76
-  orig: 186, 76
-  offset: 0, 0
-  index: -1
+bounds:6,78,186,76
 x_ls_he_gai1
-  rotate: true
-  xy: 2, 3
-  size: 173, 118
-  orig: 173, 118
-  offset: 0, 0
-  index: -1
+bounds:197,160,173,118
+rotate:90
 x_ls_he_gai2
-  rotate: false
-  xy: 2, 366
-  size: 173, 156
-  orig: 173, 156
-  offset: 0, 0
-  index: -1
+bounds:18,177,173,156
 x_ls_he_shang
-  rotate: true
-  xy: 2, 178
-  size: 186, 106
-  orig: 186, 106
-  offset: 0, 0
-  index: -1
+bounds:321,147,186,106
+rotate:90
 x_ls_jinxian1
-  rotate: true
-  xy: 122, 86
-  size: 90, 81
-  orig: 90, 81
-  offset: 0, 0
-  index: -1
+bounds:283,6,90,81
+rotate:180
 x_ls_jinxian2
-  rotate: false
-  xy: 219, 176
-  size: 68, 35
-  orig: 68, 35
-  offset: 0, 0
-  index: -1
+bounds:346,38,68,35
 x_ls_jinxian3
-  rotate: true
-  xy: 205, 2
-  size: 25, 26
-  orig: 25, 26
-  offset: 0, 0
-  index: -1
+bounds:43,46,25,26
 x_ls_jinxian4
-  rotate: false
-  xy: 277, 407
-  size: 6, 46
-  orig: 6, 46
-  offset: 0, 0
-  index: -1
-x_ls_jinxian5
-  rotate: false
-  xy: 290, 94
-  size: 8, 25
-  orig: 8, 25
-  offset: 0, 0
-  index: -1
+bounds:6,287,6,46
 x_ls_jinxian6
-  rotate: false
-  xy: 188, 296
-  size: 74, 70
-  orig: 74, 70
-  offset: 0, 0
-  index: -1
+bounds:436,23,74,70
+rotate:270
 x_ls_jinxian7
-  rotate: false
-  xy: 188, 179
-  size: 29, 35
-  orig: 29, 35
-  offset: 0, 0
-  index: -1
+bounds:275,39,29,35
 x_ls_jinxian8
-  rotate: true
-  xy: 235, 368
-  size: 85, 40
-  orig: 85, 40
-  offset: 0, 0
-  index: -1
+bounds:192,43,85,40
 x_ls_jinxian9
-  rotate: false
-  xy: 205, 126
-  size: 56, 48
-  orig: 56, 48
-  offset: 0, 0
-  index: -1
+bounds:6,24,56,48
 yjiao
-  rotate: true
-  xy: 231, 258
-  size: 36, 67
-  orig: 36, 67
-  offset: 0, 0
-  index: -1
+bounds:433,140,36,67
+rotate:270
 youerduo
-  rotate: false
-  xy: 260, 77
-  size: 28, 42
-  orig: 28, 42
-  offset: 0, 0
-  index: -1
+bounds:309,66,28,42
+rotate:270
 yshou
-  rotate: false
-  xy: 205, 29
-  size: 48, 48
-  orig: 48, 48
-  offset: 0, 0
-  index: -1
+bounds:404,94,48,48
 yuan
-  rotate: false
-  xy: 266, 10
-  size: 16, 16
-  orig: 16, 16
-  offset: 0, 0
-  index: -1
+bounds:490,178,16,16
 yyan
-  rotate: false
-  xy: 285, 435
-  size: 10, 18
-  orig: 10, 18
-  offset: 0, 0
-  index: -1
+bounds:385,123,10,18
 yyilin
-  rotate: false
-  xy: 264, 338
-  size: 26, 28
-  orig: 26, 28
-  offset: 0, 0
-  index: -1
+bounds:480,238,26,28
 zjiao
-  rotate: true
-  xy: 231, 213
-  size: 43, 66
-  orig: 43, 66
-  offset: 0, 0
-  index: -1
+bounds:281,80,43,66
 zshou
-  rotate: true
-  xy: 263, 121
-  size: 53, 33
-  orig: 53, 33
-  offset: 0, 0
-  index: -1
+bounds:378,78,53,33
+rotate:180
 zui
-  rotate: true
-  xy: 290, 80
-  size: 12, 8
-  orig: 12, 8
-  offset: 0, 0
-  index: -1
+bounds:492,325,12,8
 zuoerduo
-  rotate: false
-  xy: 255, 28
-  size: 39, 47
-  orig: 39, 47
-  offset: 0, 0
-  index: -1
+bounds:467,95,39,47
 zyan
-  rotate: false
-  xy: 264, 318
-  size: 11, 18
-  orig: 11, 18
-  offset: 0, 0
-  index: -1
+bounds:480,217,11,18
 zyilin
-  rotate: false
-  xy: 233, 2
-  size: 31, 24
-  orig: 31, 24
-  offset: 0, 0
-  index: -1
+bounds:475,54,31,24

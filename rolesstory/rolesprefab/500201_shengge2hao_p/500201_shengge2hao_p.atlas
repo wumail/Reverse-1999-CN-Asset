@@ -1,244 +1,92 @@
-
 500201_shengge2hao_p.png
-size: 1986,1986
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
 sgeh_body
-  rotate: false
-  xy: 236, 242
-  size: 333, 549
-  orig: 334, 550
-  offset: 1, 0
-  index: -1
+bounds:1340,852,333,549
+offsets:1,0,334,550
 sgeh_buback
-  rotate: false
-  xy: 1901, 642
-  size: 71, 117
-  orig: 71, 117
-  offset: 0, 0
-  index: -1
+bounds:1340,1284,71,117
 sgeh_head
-  rotate: false
-  xy: 964, 599
-  size: 181, 270
-  orig: 181, 270
-  offset: 0, 0
-  index: -1
+bounds:1854,820,181,270
 sgeh_jbleft
-  rotate: false
-  xy: 1708, 1108
-  size: 276, 876
-  orig: 276, 876
-  offset: 0, 0
-  index: -1
+bounds:842,126,276,876
+rotate:90
 sgeh_jbright
-  rotate: true
-  xy: 1130, 878
-  size: 234, 294
-  orig: 237, 295
-  offset: 0, 1
-  index: -1
+bounds:6,6,234,294
+offsets:0,1,237,295
+rotate:270
 sgeh_jd1
-  rotate: false
-  xy: 791, 281
-  size: 171, 588
-  orig: 171, 588
-  offset: 0, 0
-  index: -1
+bounds:6,97,171,588
+rotate:270
 sgeh_jd2
-  rotate: false
-  xy: 571, 239
-  size: 218, 630
-  orig: 218, 630
-  offset: 0, 0
-  index: -1
+bounds:6,191,218,630
+rotate:90
 sgeh_jian
-  rotate: false
-  xy: 2, 793
-  size: 541, 1191
-  orig: 541, 1191
-  offset: 0, 0
-  index: -1
+bounds:510,210,541,1191
+rotate:180
 sgeh_kz
-  rotate: false
-  xy: 964, 282
-  size: 99, 44
-  orig: 99, 44
-  offset: 0, 0
-  index: -1
+bounds:811,1259,99,44
 sgeh_larma
-  rotate: true
-  xy: 1147, 725
-  size: 151, 277
-  orig: 151, 277
-  offset: 0, 0
-  index: -1
+bounds:871,619,151,277
 sgeh_larmb
-  rotate: false
-  xy: 1730, 761
-  size: 230, 153
-  orig: 230, 153
-  offset: 0, 0
-  index: -1
+bounds:429,1248,230,153
 sgeh_lfoot
-  rotate: true
-  xy: 1147, 612
-  size: 111, 255
-  orig: 111, 256
-  offset: 0, 1
-  index: -1
+bounds:1373,131,111,255
+offsets:0,1,111,256
+rotate:90
 sgeh_lhand
-  rotate: false
-  xy: 1811, 438
-  size: 148, 144
-  orig: 148, 144
-  offset: 0, 0
-  index: -1
+bounds:1222,79,148,144
 sgeh_lleg
-  rotate: false
-  xy: 1130, 1114
-  size: 297, 870
-  orig: 297, 870
-  offset: 0, 0
-  index: -1
+bounds:917,264,297,870
+rotate:90
 sgeh_pf
-  rotate: false
-  xy: 545, 871
-  size: 583, 1113
-  orig: 583, 1113
-  offset: 0, 0
-  index: -1
+bounds:6,288,583,1113
 sgeh_qd_jian1
-  rotate: false
-  xy: 1429, 1107
-  size: 277, 877
-  orig: 277, 877
-  offset: 0, 0
-  index: -1
+bounds:1165,193,277,877
+rotate:270
 sgeh_qd_larma
-  rotate: true
-  xy: 543, 59
-  size: 178, 220
-  orig: 178, 220
-  offset: 0, 0
-  index: -1
+bounds:1571,546,178,220
 sgeh_qd_larmb
-  rotate: false
-  xy: 1730, 916
-  size: 217, 190
-  orig: 217, 190
-  offset: 0, 0
-  index: -1
+bounds:1852,151,217,190
+rotate:90
 sgeh_qd_lhanda
-  rotate: true
-  xy: 1650, 314
-  size: 123, 152
-  orig: 123, 152
-  offset: 0, 0
-  index: -1
+bounds:1901,686,123,152
 sgeh_qd_rarma
-  rotate: false
-  xy: 1650, 439
-  size: 159, 143
-  orig: 159, 143
-  offset: 0, 0
-  index: -1
+bounds:1340,520,159,143
 sgeh_qd_rarmb
-  rotate: true
-  xy: 1119, 359
-  size: 238, 148
-  orig: 238, 148
-  offset: 0, 0
-  index: -1
+bounds:813,1253,238,148
 sgeh_rarm_sz
-  rotate: true
-  xy: 1696, 824
-  size: 43, 32
-  orig: 44, 32
-  offset: 0, 0
-  index: -1
+bounds:6,1369,43,32
+offsets:0,0,44,32
 sgeh_rarma
-  rotate: true
-  xy: 1696, 584
-  size: 175, 203
-  orig: 175, 203
-  offset: 0, 0
-  index: -1
+bounds:613,55,175,203
+rotate:270
 sgeh_rarmb
-  rotate: false
-  xy: 1426, 584
-  size: 230, 149
-  orig: 230, 149
-  offset: 0, 0
-  index: -1
+bounds:1617,94,230,149
 sgeh_rarmback
-  rotate: false
-  xy: 1804, 366
-  size: 72, 70
-  orig: 72, 70
-  offset: 0, 0
-  index: -1
+bounds:979,1178,72,70
 sgeh_rfoot
-  rotate: false
-  xy: 1419, 419
-  size: 229, 163
-  orig: 229, 163
-  offset: 0, 0
-  index: -1
+bounds:404,290,229,163
+rotate:180
 sgeh_rleg
-  rotate: false
-  xy: 2, 45
-  size: 232, 746
-  orig: 232, 746
-  offset: 0, 0
-  index: -1
+bounds:1671,655,232,746
 sgeh_wj_larma
-  rotate: true
-  xy: 1426, 735
-  size: 132, 268
-  orig: 132, 268
-  offset: 0, 0
-  index: -1
+bounds:1340,664,132,268
 sgeh_wj_larmb
-  rotate: true
-  xy: 1269, 378
-  size: 232, 148
-  orig: 232, 148
-  offset: 0, 0
-  index: -1
+bounds:185,1169,232,148
+rotate:90
 sgeh_wj_lhand
-  rotate: false
-  xy: 1419, 317
-  size: 169, 100
-  orig: 169, 103
-  offset: 0, 0
-  index: -1
+bounds:882,515,169,100
+offsets:0,0,169,103
 sgeh_wj_ljian
-  rotate: true
-  xy: 791, 2
-  size: 277, 875
-  orig: 277, 877
-  offset: 0, 1
-  index: -1
+bounds:1057,526,277,875
+offsets:0,1,277,877
 sgeh_wj_rarma
-  rotate: true
-  xy: 1426, 869
-  size: 236, 302
-  orig: 236, 302
-  offset: 0, 0
-  index: -1
+bounds:1484,655,236,302
 sgeh_wj_rarmb
-  rotate: true
-  xy: 964, 328
-  size: 269, 153
-  orig: 270, 153
-  offset: 0, 0
-  index: -1
+bounds:1727,508,269,153
+offsets:0,0,270,153
 sgeh_wj_rjian
-  rotate: true
-  xy: 236, 22
-  size: 218, 305
-  orig: 219, 305
-  offset: 0, 0
-  index: -1
+bounds:1815,1096,218,305
+offsets:0,0,219,305

@@ -1,27 +1,13 @@
-
 617901_lbzs.png
-size: 1896,128
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,256
+filter:Linear,Linear
 g1
-  rotate: false
-  xy: 1728, 23
-  size: 97, 101
-  orig: 100, 102
-  offset: 3, 0
-  index: -1
+bounds:1736,27,97,101
+offsets:3,0,100,102
 g2
-  rotate: true
-  xy: 1827, 42
-  size: 82, 65
-  orig: 86, 72
-  offset: 3, 3
-  index: -1
+bounds:1839,46,82,65
+offsets:3,3,86,72
+rotate:90
 lingbai
-  rotate: true
-  xy: 2, 2
-  size: 122, 1724
-  orig: 122, 1724
-  offset: 0, 0
-  index: -1
+bounds:6,6,122,1724
+rotate:90

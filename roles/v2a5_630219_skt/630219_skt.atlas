@@ -1,342 +1,141 @@
-
 630219_skt.png
-size: 144,1204
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 skt_bi1_shengzhi_1
-  rotate: false
-  xy: 6, 576
-  size: 86, 51
-  orig: 86, 51
-  offset: 0, 0
-  index: -1
+bounds:439,218,86,51
+rotate:270
 skt_bi1_shengzhi_2
-  rotate: 270
-  xy: 84, 670
-  size: 69, 40
-  orig: 69, 40
-  offset: 0, 0
-  index: -1
+bounds:293,103,69,40
 skt_bi1_shengzhi_3
-  rotate: true
-  xy: 6, 70
-  size: 41, 51
-  orig: 41, 51
-  offset: 0, 0
-  index: -1
+bounds:377,26,41,51
+rotate:90
 skt_bi2_taishou_1
-  rotate: true
-  xy: 6, 413
-  size: 45, 74
-  orig: 46, 75
-  offset: 0, 0
-  index: -1
+bounds:174,121,45,74
+offsets:0,0,46,75
 skt_bi2_taishou_2
-  rotate: 270
-  xy: 6, 242
-  size: 57, 55
-  orig: 57, 55
-  offset: 0, 0
-  index: -1
+bounds:438,90,57,55
 skt_bi2_taishou_3
-  rotate: 270
-  xy: 6, 133
-  size: 41, 58
-  orig: 41, 58
-  offset: 0, 0
-  index: -1
+bounds:108,60,41,58
+rotate:90
 skt_bi3_daiji1
-  rotate: true
-  xy: 69, 369
-  size: 55, 54
-  orig: 55, 54
-  offset: 0, 0
-  index: -1
+bounds:388,109,55,54
 skt_bi3_daiji2
-  rotate: true
-  xy: 82, 131
-  size: 42, 48
-  orig: 42, 48
-  offset: 0, 0
-  index: -1
+bounds:327,49,42,48
+rotate:90
 skt_bi3_daiji3
-  rotate: false
-  xy: 106, 765
-  size: 24, 25
-  orig: 24, 25
-  offset: 0, 0
-  index: -1
+bounds:315,146,24,25
+rotate:90
 skt_bi3_daiji4
-  rotate: 180
-  xy: 87, 910
-  size: 39, 76
-  orig: 39, 76
-  offset: 0, 0
-  index: -1
+bounds:259,72,39,76
+rotate:270
 skt_bi4_dabi
-  rotate: 180
-  xy: 6, 184
-  size: 62, 50
-  orig: 62, 51
-  offset: 0, 0
-  index: -1
+bounds:364,64,62,50
+offsets:0,0,62,51
 skt_bi4_shou
-  rotate: true
-  xy: 81, 8
-  size: 40, 43
-  orig: 50, 46
-  offset: 10, 3
-  index: -1
+bounds:6,17,40,43
+offsets:10,3,50,46
+rotate:90
 skt_bi4_waitao_yb
-  rotate: true
-  xy: 41, 51
-  size: 26, 84
-  orig: 27, 84
-  offset: 0, 0
-  index: -1
+bounds:300,14,26,84
+offsets:0,0,27,84
+rotate:90
 skt_bi4_xiaobi1
-  rotate: 270
-  xy: 6, 359
-  size: 51, 70
-  orig: 52, 70
-  offset: 0, 0
-  index: -1
+bounds:225,121,51,70
+offsets:0,0,52,70
+rotate:90
 skt_bozi
-  rotate: false
-  xy: 97, 325
-  size: 34, 36
-  orig: 34, 36
-  offset: 0, 0
-  index: -1
+bounds:240,14,34,36
+rotate:90
 skt_changfa
-  rotate: false
-  xy: 6, 1001
-  size: 109, 196
-  orig: 109, 196
-  offset: 0, 0
-  index: -1
+bounds:6,108,109,196
 skt_fa1
-  rotate: 270
-  xy: 11, 308
-  size: 55, 76
-  orig: 55, 76
-  offset: 0, 0
-  index: -1
+bounds:96,84,55,76
+rotate:90
 skt_fa2
-  rotate: true
-  xy: 68, 164
-  size: 45, 62
-  orig: 45, 62
-  offset: 0, 0
-  index: -1
+bounds:437,53,45,62
+rotate:270
 skt_fa3
-  rotate: false
-  xy: 71, 211
-  size: 48, 72
-  orig: 48, 72
-  offset: 0, 0
-  index: -1
+bounds:6,61,48,72
+rotate:90
 skt_ling1
-  rotate: false
-  xy: 123, 626
-  size: 9, 28
-  orig: 9, 28
-  offset: 0, 0
-  index: -1
+bounds:497,252,9,28
 skt_ling2
-  rotate: 180
-  xy: 109, 963
-  size: 25, 59
-  orig: 26, 60
-  offset: 1, 0
-  index: -1
+bounds:176,6,25,59
+offsets:1,0,26,60
+rotate:270
 skt_neichen
-  rotate: 270
-  xy: 6, 676
-  size: 67, 75
-  orig: 67, 75
-  offset: 0, 0
-  index: -1
+bounds:320,229,67,75
 skt_shou1_1
-  rotate: 270
-  xy: 6, 8
-  size: 42, 46
-  orig: 42, 46
-  offset: 0, 0
-  index: -1
+bounds:281,26,42,46
 skt_shou1_2
-  rotate: true
-  xy: 55, 17
-  size: 25, 20
-  orig: 25, 20
-  offset: 0, 0
-  index: -1
+bounds:66,86,25,20
 skt_shu_1
-  rotate: false
-  xy: 120, 272
-  size: 14, 36
-  orig: 14, 36
-  offset: 0, 0
-  index: -1
+bounds:319,214,14,36
+rotate:90
 skt_shu_2
-  rotate: false
-  xy: 117, 744
-  size: 13, 14
-  orig: 13, 15
-  offset: 0, 0
-  index: -1
+bounds:169,198,13,14
+offsets:0,0,13,15
 skt_shu_3
-  rotate: false
-  xy: 118, 663
-  size: 13, 22
-  orig: 14, 22
-  offset: 1, 0
-  index: -1
+bounds:253,282,13,22
+offsets:1,0,14,22
 skt_shu_4
-  rotate: 180
-  xy: 6, 923
-  size: 88, 77
-  orig: 88, 79
-  offset: 0, 1
-  index: -1
+bounds:118,216,88,77
+offsets:0,1,88,79
+rotate:90
 skt_shu_5
-  rotate: 180
-  xy: 110, 472
-  size: 24, 29
-  orig: 24, 29
-  offset: 0, 0
-  index: -1
+bounds:406,169,24,29
 skt_tun
-  rotate: false
-  xy: 40, 529
-  size: 71, 55
-  orig: 71, 55
-  offset: 0, 0
-  index: -1
+bounds:115,144,71,55
+rotate:90
 skt_waitao_1
-  rotate: true
-  xy: 40, 277
-  size: 45, 82
-  orig: 45, 82
-  offset: 0, 0
-  index: -1
+bounds:175,83,45,82
+rotate:270
 skt_waitao_1_ling
-  rotate: false
-  xy: 110, 412
-  size: 23, 53
-  orig: 24, 53
-  offset: 0, 0
-  index: -1
+bounds:36,7,23,53
+offsets:0,0,24,53
+rotate:270
 skt_waitao_yl1
-  rotate: false
-  xy: 120, 203
-  size: 14, 50
-  orig: 16, 50
-  offset: 1, 0
-  index: -1
+bounds:386,9,14,50
+offsets:1,0,16,50
+rotate:90
 skt_wg_lian
-  rotate: false
-  xy: 6, 795
-  size: 83, 70
-  orig: 83, 70
-  offset: 0, 0
-  index: -1
+bounds:251,221,83,70
+rotate:270
 skt_wg_m1
-  rotate: false
-  xy: 117, 896
-  size: 17, 9
-  orig: 17, 9
-  offset: 0, 0
-  index: -1
+bounds:228,176,17,9
 skt_wg_m2
-  rotate: true
-  xy: 127, 357
-  size: 26, 7
-  orig: 26, 7
-  offset: 0, 0
-  index: -1
+bounds:139,47,26,7
 skt_wg_y1
-  rotate: false
-  xy: 114, 506
-  size: 15, 18
-  orig: 15, 18
-  offset: 0, 0
-  index: -1
+bounds:381,286,15,18
 skt_wg_y2
-  rotate: true
-  xy: 115, 1031
-  size: 24, 19
-  orig: 25, 20
-  offset: 1, 0
-  index: -1
+bounds:481,280,24,19
+offsets:1,0,25,20
+rotate:90
 skt_wg_zui
-  rotate: true
-  xy: 127, 17
-  size: 24, 7
-  orig: 24, 7
-  offset: 0, 0
-  index: -1
+bounds:482,207,24,7
 skt_yankuang
-  rotate: 270
-  xy: 96, 794
-  size: 77, 33
-  orig: 77, 33
-  offset: 0, 0
-  index: -1
+bounds:198,49,77,33
 skt_youfasi
-  rotate: false
-  xy: 98, 531
-  size: 33, 95
-  orig: 33, 95
-  offset: 0, 0
-  index: -1
+bounds:125,18,33,95
+rotate:270
 skt_youjiao
-  rotate: true
-  xy: 94, 78
-  size: 51, 40
-  orig: 51, 40
-  offset: 0, 0
-  index: -1
+bounds:432,10,51,40
+rotate:180
 skt_youtui1
-  rotate: true
-  xy: 19, 631
-  size: 44, 97
-  orig: 44, 97
-  offset: 0, 0
-  index: -1
+bounds:245,176,44,97
+rotate:90
 skt_youtui2
-  rotate: true
-  xy: 6, 739
-  size: 50, 102
-  orig: 50, 102
-  offset: 0, 0
-  index: -1
+bounds:383,202,50,102
+rotate:180
 skt_zhi1
-  rotate: true
-  xy: 6, 476
-  size: 75, 58
-  orig: 75, 58
-  offset: 0, 0
-  index: -1
+bounds:435,150,75,58
+rotate:90
 skt_zuodatui
-  rotate: 180
-  xy: 68, 446
-  size: 41, 80
-  orig: 41, 80
-  offset: 0, 0
-  index: -1
+bounds:344,136,41,80
 skt_zuojiao
-  rotate: 270
-  xy: 36, 102
-  size: 34, 60
-  orig: 34, 60
-  offset: 0, 0
-  index: -1
+bounds:66,34,34,60
+rotate:270
 skt_zuoxaiotui
-  rotate: 270
-  xy: 6, 867
-  size: 55, 113
-  orig: 55, 113
-  offset: 0, 0
-  index: -1
+bounds:192,191,55,113
+rotate:180

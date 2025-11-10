@@ -1,125 +1,60 @@
-
 508601_jjhnzy_p.png
-size: 1950,1950
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.6
 Lhand
-  rotate: false
-  xy: 2, 1595
-  size: 109, 354
-  orig: 109, 354
-  offset: 0, 0
-  index: -1
+bounds:1844,1370,93,303
+offsets:0,0,94,303
 Rhand
-  rotate: 180
-  xy: 400, 28
-  size: 278, 1761
-  orig: 279, 1777
-  offset: 0, 16
-  index: -1
+bounds:6,161,239,1512
+offsets:0,11,239,1523
 body
-  rotate: false
-  xy: 2, 3
-  size: 496, 1945
-  orig: 518, 1945
-  offset: 22, 0
-  index: -1
+bounds:188,6,434,1667
+offsets:10,0,444,1667
+rotate:180
 bozi
-  rotate: false
-  xy: 2, 1381
-  size: 139, 213
-  orig: 139, 214
-  offset: 0, 1
-  index: -1
+bounds:1838,1253,119,182
+offsets:0,1,119,183
+rotate:90
 danyou
-  rotate: 270
-  xy: 1229, 196
-  size: 619, 428
-  orig: 629, 428
-  offset: 0, 0
-  index: -1
+bounds:1356,631,530,367
+offsets:0,0,539,367
 danyou2
-  rotate: true
-  xy: 621, 148
-  size: 377, 217
-  orig: 377, 217
-  offset: 0, 0
-  index: -1
+bounds:1400,331,323,186
 danyou3
-  rotate: 180
-  xy: 968, 1151
-  size: 473, 798
-  orig: 473, 799
-  offset: 0, 0
-  index: -1
+bounds:1204,989,406,684
+offsets:0,0,406,685
+rotate:180
 danyou4
-  rotate: false
-  xy: 636, 918
-  size: 243, 318
-  orig: 263, 318
-  offset: 20, 0
-  index: -1
+bounds:704,326,208,272
+offsets:17,0,225,272
 danyou5
-  rotate: false
-  xy: 626, 22
-  size: 627, 894
-  orig: 627, 894
-  offset: 0, 0
-  index: -1
+bounds:837,907,537,766
+offsets:0,0,538,766
+rotate:180
 qidao
-  rotate: true
-  xy: 1324, 9
-  size: 382, 390
-  orig: 382, 410
-  offset: 0, 0
-  index: -1
+bounds:1605,337,328,335
+offsets:0,0,328,352
 qidao2
-  rotate: 180
-  xy: 609, 906
-  size: 580, 1043
-  orig: 627, 1044
-  offset: 43, 1
-  index: -1
+bounds:580,779,497,894
+offsets:37,1,538,895
 tou2
-  rotate: true
-  xy: 950, 424
-  size: 545, 426
-  orig: 545, 447
-  offset: 0, 0
-  index: -1
+bounds:1480,1206,467,369
+offsets:0,0,467,383
+rotate:90
 tou3
-  rotate: false
-  xy: 1635, 1116
-  size: 282, 311
-  orig: 545, 447
-  offset: 115, 17
-  index: -1
+bounds:1199,414,243,266
+offsets:98,15,467,383
 xingfen
-  rotate: false
-  xy: 1312, 1423
-  size: 382, 525
-  orig: 382, 526
-  offset: 0, 1
-  index: -1
+bounds:1590,903,328,450
+offsets:0,1,328,451
+rotate:270
 xingfen2
-  rotate: 180
-  xy: 1572, 556
-  size: 267, 628
-  orig: 267, 628
-  offset: 0, 0
-  index: -1
+bounds:511,545,229,538
+rotate:90
 zxiaobi
-  rotate: 180
-  xy: 1303, 923
-  size: 382, 621
-  orig: 382, 625
-  offset: 0, 4
-  index: -1
+bounds:1068,550,328,534
+offsets:0,2,328,536
+rotate:90
 zxiaobi2
-  rotate: false
-  xy: 1555, 1546
-  size: 382, 386
-  orig: 382, 386
-  offset: 0, 0
-  index: -1
+bounds:908,394,328,331

@@ -1,202 +1,79 @@
-
 302802_apple_p.png
-size: 734,734
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,512
+filter:Linear,Linear
+scale:0.7
 gun
-  rotate: true
-  xy: 2, 13
-  size: 32, 63
-  orig: 39, 63
-  offset: 5, 0
-  index: -1
+bounds:1210,21,32,63
+offsets:5,0,39,63
 heiling_you
-  rotate: false
-  xy: 371, 18
-  size: 177, 95
-  orig: 177, 95
-  offset: 0, 0
-  index: -1
+bounds:1595,97,177,95
+rotate:180
 heiling_zuoshang
-  rotate: false
-  xy: 238, 12
-  size: 131, 99
-  orig: 153, 99
-  offset: 0, 0
-  index: -1
+bounds:1303,25,131,99
+offsets:0,0,153,99
 heiling_zuoxia
-  rotate: false
-  xy: 630, 181
-  size: 85, 48
-  orig: 85, 48
-  offset: 0, 0
-  index: -1
+bounds:625,42,85,48
 hong1
-  rotate: true
-  xy: 550, 160
-  size: 59, 77
-  orig: 75, 92
-  offset: 9, 7
-  index: -1
+bounds:136,6,59,77
+offsets:9,7,75,92
 hong2
-  rotate: true
-  xy: 387, 449
-  size: 62, 78
-  orig: 75, 92
-  offset: 6, 6
-  index: -1
+bounds:1062,8,62,78
+offsets:6,6,75,92
 hong3
-  rotate: true
-  xy: 387, 349
-  size: 92, 121
-  orig: 111, 137
-  offset: 9, 5
-  index: -1
+bounds:862,51,92,121
+offsets:9,5,111,137
 hong_pg
-  rotate: true
-  xy: 304, 513
-  size: 219, 193
-  orig: 220, 193
-  offset: 0, 0
-  index: -1
+bounds:456,89,219,193
+offsets:0,0,220,193
 hou
-  rotate: false
-  xy: 629, 103
-  size: 84, 76
-  orig: 84, 76
-  offset: 0, 0
-  index: -1
+bounds:1250,8,84,76
 huang1
-  rotate: true
-  xy: 550, 99
-  size: 59, 77
-  orig: 75, 92
-  offset: 9, 7
-  index: -1
+bounds:71,6,59,77
+offsets:9,7,75,92
 huang2
-  rotate: true
-  xy: 550, 285
-  size: 62, 78
-  orig: 75, 92
-  offset: 6, 6
-  index: -1
+bounds:1142,8,62,78
+offsets:6,6,75,92
 huang3
-  rotate: true
-  xy: 510, 349
-  size: 92, 121
-  orig: 111, 137
-  offset: 9, 5
-  index: -1
+bounds:1926,62,92,121
+offsets:9,5,111,137
 huang_pg
-  rotate: true
-  xy: 329, 115
-  size: 219, 193
-  orig: 220, 193
-  offset: 0, 0
-  index: -1
+bounds:231,89,219,193
+offsets:0,0,220,193
 lingjie
-  rotate: true
-  xy: 2, 47
-  size: 285, 130
-  orig: 285, 130
-  offset: 0, 0
-  index: -1
+bounds:1520,152,285,130
+rotate:180
 lingzixiati
-  rotate: false
-  xy: 2, 334
-  size: 105, 398
-  orig: 105, 398
-  offset: 0, 0
-  index: -1
+bounds:681,177,105,398
+rotate:90
 lv1
-  rotate: false
-  xy: 550, 20
-  size: 59, 77
-  orig: 75, 92
-  offset: 9, 7
-  index: -1
+bounds:6,6,59,77
+offsets:9,7,75,92
 lv2
-  rotate: true
-  xy: 550, 221
-  size: 62, 78
-  orig: 75, 92
-  offset: 6, 6
-  index: -1
+bounds:1711,13,62,78
+offsets:6,6,75,92
 lv3
-  rotate: false
-  xy: 633, 320
-  size: 92, 121
-  orig: 111, 137
-  offset: 9, 5
-  index: -1
+bounds:1828,62,92,121
+offsets:9,5,111,137
 lv_pg
-  rotate: false
-  xy: 499, 539
-  size: 219, 193
-  orig: 220, 193
-  offset: 0, 0
-  index: -1
+bounds:6,89,219,193
+offsets:0,0,220,193
 pingguo
-  rotate: true
-  xy: 109, 512
-  size: 220, 193
-  orig: 220, 193
-  offset: 0, 0
-  index: -1
+bounds:1298,89,220,193
+rotate:180
 pingguo_1
-  rotate: true
-  xy: 134, 113
-  size: 220, 193
-  orig: 220, 193
-  offset: 0, 0
-  index: -1
+bounds:1085,89,220,193
 yanjing
-  rotate: false
-  xy: 499, 443
-  size: 209, 94
-  orig: 209, 94
-  offset: 0, 0
-  index: -1
+bounds:1811,188,209,94
 yj_baiguang
-  rotate: false
-  xy: 630, 231
-  size: 87, 87
-  orig: 87, 87
-  offset: 0, 0
-  index: -1
+bounds:1618,6,87,87
 yj_tiao1
-  rotate: false
-  xy: 611, 24
-  size: 62, 73
-  orig: 62, 73
-  offset: 0, 0
-  index: -1
+bounds:1779,18,62,73
 yj_tiao2
-  rotate: false
-  xy: 675, 32
-  size: 48, 69
-  orig: 48, 69
-  offset: 0, 0
-  index: -1
+bounds:201,14,48,69
 youlingzi
-  rotate: true
-  xy: 109, 335
-  size: 175, 148
-  orig: 175, 148
-  offset: 0, 0
-  index: -1
+bounds:681,48,175,148
 zuolingzi
-  rotate: true
-  xy: 259, 336
-  size: 174, 126
-  orig: 174, 126
-  offset: 0, 0
-  index: -1
+bounds:1469,27,174,126
+rotate:270
 zuolingzixia
-  rotate: false
-  xy: 134, 2
-  size: 102, 109
-  orig: 102, 109
-  offset: 0, 0
-  index: -1
+bounds:960,62,102,109

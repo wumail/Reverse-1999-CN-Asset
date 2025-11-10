@@ -1,97 +1,35 @@
-
 610205_aolituou.png
-size: 660,272
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 body
-  rotate: true
-  xy: 200, 15
-  size: 119, 174
-  orig: 119, 174
-  offset: 0, 0
-  index: -1
+bounds:81,144,119,174
+rotate:90
 body_1
-  rotate: true
-  xy: 539, 57
-  size: 61, 105
-  orig: 61, 105
-  offset: 0, 0
-  index: -1
+bounds:6,39,61,105
 light
-  rotate: false
-  xy: 539, 125
-  size: 62, 45
-  orig: 62, 45
-  offset: 0, 0
-  index: -1
+bounds:444,217,62,45
 spine01_l
-  rotate: true
-  xy: 618, 196
-  size: 74, 37
-  orig: 74, 37
-  offset: 0, 0
-  index: -1
+bounds:325,226,74,37
 spine01_r
-  rotate: true
-  xy: 618, 120
-  size: 74, 36
-  orig: 74, 36
-  offset: 0, 0
-  index: -1
+bounds:432,172,74,36
 spine02_r
-  rotate: false
-  xy: 376, 14
-  size: 80, 22
-  orig: 80, 22
-  offset: 0, 0
-  index: -1
+bounds:51,70,80,22
 spine03_r
-  rotate: true
-  xy: 169, 74
-  size: 32, 23
-  orig: 32, 23
-  offset: 0, 0
-  index: -1
+bounds:343,93,32,23
 tail
-  rotate: true
-  xy: 539, 9
-  size: 46, 86
-  orig: 46, 86
-  offset: 0, 0
-  index: -1
+bounds:381,95,46,86
 tail_l
-  rotate: true
-  xy: 200, 136
-  size: 134, 182
-  orig: 134, 182
-  offset: 0, 0
-  index: -1
+bounds:71,6,134,182
+rotate:90
 tail_r
-  rotate: true
-  xy: 384, 172
-  size: 98, 232
-  orig: 98, 232
-  offset: 0, 0
-  index: -1
+bounds:274,66,98,232
+rotate:90
 wing01_l
-  rotate: true
-  xy: 384, 38
-  size: 132, 153
-  orig: 132, 153
-  offset: 0, 0
-  index: -1
+bounds:312,110,132,153
+rotate:180
 wing01_r
-  rotate: true
-  xy: 2, 108
-  size: 162, 196
-  orig: 162, 196
-  offset: 0, 0
-  index: -1
+bounds:6,67,162,196
 wing02_l
-  rotate: false
-  xy: 2, 2
-  size: 165, 104
-  orig: 165, 104
-  offset: 0, 0
-  index: -1
+bounds:234,98,165,104
+rotate:270

@@ -1,34 +1,15 @@
-
 310903_ttsz_z.png
-size: 1780,1216
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.7
 youshou
-  rotate: 180
-  xy: 833, 8
-  size: 760, 598
-  orig: 760, 598
-  offset: 0, 0
-  index: -1
+bounds:1235,476,760,598
+rotate:90
 youshoua
-  rotate: 270
-  xy: 1167, 550
-  size: 660, 602
-  orig: 1175, 802
-  offset: 515, 3
-  index: -1
+bounds:841,6,660,602
+offsets:515,3,1175,802
 zoushou
-  rotate: false
-  xy: 454, 420
-  size: 842, 789
-  orig: 842, 789
-  offset: 0, 0
-  index: -1
+bounds:469,447,842,789
 zoushoua
-  rotate: false
-  xy: 6, 405
-  size: 759, 803
-  orig: 1034, 1224
-  offset: 0, 0
-  index: -1
+bounds:6,433,759,803
+offsets:0,0,1034,1224

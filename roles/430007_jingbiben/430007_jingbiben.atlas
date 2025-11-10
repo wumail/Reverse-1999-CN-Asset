@@ -1,76 +1,28 @@
-
 430007_jingbiben.png
-size: 668,500
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.6
 jbb_1
-  rotate: true
-  xy: 371, 65
-  size: 48, 45
-  orig: 48, 45
-  offset: 0, 0
-  index: -1
+bounds:291,196,41,38
 jbb_2
-  rotate: false
-  xy: 371, 25
-  size: 46, 38
-  orig: 46, 38
-  offset: 0, 0
-  index: -1
+bounds:274,26,39,32
 jbb_3
-  rotate: false
-  xy: 418, 80
-  size: 45, 33
-  orig: 45, 33
-  offset: 0, 0
-  index: -1
+bounds:369,29,38,28
 jbb_4
-  rotate: false
-  xy: 136, 30
-  size: 89, 83
-  orig: 89, 83
-  offset: 0, 0
-  index: -1
+bounds:6,371,76,71
 jbb_5
-  rotate: true
-  xy: 419, 27
-  size: 51, 30
-  orig: 51, 30
-  offset: 0, 0
-  index: -1
+bounds:319,31,44,26
 jbb_6
-  rotate: true
-  xy: 2, 2
-  size: 111, 132
-  orig: 111, 132
-  offset: 0, 0
-  index: -1
+bounds:237,57,95,113
 jbb_7
-  rotate: false
-  xy: 227, 51
-  size: 76, 62
-  orig: 77, 109
-  offset: 0, 0
-  index: -1
+bounds:6,300,65,54
+offsets:0,0,66,94
+rotate:90
 jbb_8
-  rotate: true
-  xy: 2, 115
-  size: 381, 508
-  orig: 400, 584
-  offset: 19, 0
-  index: -1
+bounds:6,6,327,436
+offsets:16,0,343,500
 jbb_9
-  rotate: false
-  xy: 305, 51
-  size: 64, 62
-  orig: 64, 62
-  offset: 0, 0
-  index: -1
+bounds:176,8,55,53
 jbb_9touying
-  rotate: true
-  xy: 512, 54
-  size: 442, 151
-  orig: 442, 151
-  offset: 0, 0
-  index: -1
+bounds:338,63,379,129
+rotate:90

@@ -1,335 +1,121 @@
-
 640221_land.png
-size: 348,832
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,1024
+filter:Linear,Linear
+scale:0.7
 dfq_bozi
-  rotate: false
-  xy: 260, 73
-  size: 43, 39
-  orig: 43, 39
-  offset: 0, 0
-  index: -1
+bounds:374,40,43,39
 dfq_bubi1
-  rotate: true
-  xy: 197, 77
-  size: 46, 57
-  orig: 46, 57
-  offset: 0, 0
-  index: -1
+bounds:28,42,46,57
+rotate:270
 dfq_bubi2
-  rotate: 180
-  xy: 189, 256
-  size: 62, 57
-  orig: 62, 57
-  offset: 0, 0
-  index: -1
+bounds:96,142,62,57
 dfq_bubi3
-  rotate: false
-  xy: 196, 129
-  size: 56, 55
-  orig: 56, 55
-  offset: 0, 0
-  index: -1
+bounds:129,84,56,55
 dfq_bushou1
-  rotate: false
-  xy: 270, 158
-  size: 57, 53
-  orig: 57, 53
-  offset: 0, 0
-  index: -1
+bounds:389,84,57,53
 dfq_bushou2_1
-  rotate: false
-  xy: 308, 47
-  size: 29, 47
-  orig: 31, 47
-  offset: 2, 0
-  index: -1
+bounds:183,27,29,47
+offsets:2,0,31,47
 dfq_bushou2_2
-  rotate: 270
-  xy: 146, 109
-  size: 40, 63
-  orig: 40, 63
-  offset: 0, 0
-  index: -1
+bounds:442,47,40,63
+rotate:90
 dfq_bushou3_1
-  rotate: true
-  xy: 121, 35
-  size: 26, 39
-  orig: 26, 39
-  offset: 0, 0
-  index: -1
+bounds:6,114,26,39
 dfq_bushou3_2
-  rotate: false
-  xy: 254, 29
-  size: 35, 36
-  orig: 35, 36
-  offset: 0, 0
-  index: -1
+bounds:317,33,35,36
 dfq_bushou3_3
-  rotate: true
-  xy: 80, 110
-  size: 41, 60
-  orig: 41, 60
-  offset: 0, 0
-  index: -1
+bounds:85,68,41,60
+rotate:180
 dfq_dj1
-  rotate: false
-  xy: 6, 718
-  size: 325, 106
-  orig: 325, 106
-  offset: 0, 0
-  index: -1
+bounds:65,205,325,106
+rotate:90
 dfq_dj3
-  rotate: false
-  xy: 19, 83
-  size: 77, 38
-  orig: 85, 40
-  offset: 0, 2
-  index: -1
+bounds:236,36,77,38
+offsets:0,2,85,40
 dfq_dj3_2
-  rotate: false
-  xy: 169, 45
-  size: 85, 40
-  orig: 85, 40
-  offset: 0, 0
-  index: -1
+bounds:37,25,85,40
 dfq_dj4
-  rotate: 270
-  xy: 256, 236
-  size: 60, 69
-  orig: 60, 69
-  offset: 0, 0
-  index: -1
+bounds:163,121,60,69
+rotate:270
 dfq_dj5
-  rotate: 270
-  xy: 128, 368
-  size: 45, 105
-  orig: 46, 105
-  offset: 0, 0
-  index: -1
+bounds:448,425,45,105
+offsets:0,0,46,105
 dfq_dj6
-  rotate: true
-  xy: 78, 251
-  size: 25, 105
-  orig: 25, 105
-  offset: 0, 0
-  index: -1
+bounds:34,425,25,105
 dfq_jianpi1
-  rotate: false
-  xy: 6, 103
-  size: 69, 50
-  orig: 69, 50
-  offset: 0, 0
-  index: -1
+bounds:437,84,69,50
 dfq_jianpi2
-  rotate: false
-  xy: 6, 14
-  size: 35, 40
-  orig: 35, 40
-  offset: 0, 0
-  index: -1
+bounds:466,6,35,40
+rotate:270
 dfq_liuhai1
-  rotate: true
-  xy: 112, 509
-  size: 46, 91
-  orig: 46, 91
-  offset: 0, 0
-  index: -1
+bounds:191,63,46,91
+rotate:90
 dfq_liuhai2
-  rotate: true
-  xy: 175, 183
-  size: 37, 90
-  orig: 37, 90
-  offset: 0, 0
-  index: -1
+bounds:233,100,37,90
+rotate:90
 dfq_liuhai3
-  rotate: true
-  xy: 68, 301
-  size: 43, 83
-  orig: 43, 83
-  offset: 0, 0
-  index: -1
+bounds:423,142,43,83
+rotate:90
 dfq_liuhaitou
-  rotate: true
-  xy: 6, 475
-  size: 87, 101
-  orig: 87, 101
-  offset: 0, 0
-  index: -1
+bounds:322,277,87,101
 dfq_mao
-  rotate: false
-  xy: 6, 397
-  size: 120, 76
-  orig: 120, 76
-  offset: 0, 0
-  index: -1
+bounds:308,171,120,76
 dfq_pifeng1
-  rotate: 270
-  xy: 6, 156
-  size: 22, 169
-  orig: 22, 169
-  offset: 0, 0
-  index: -1
+bounds:6,361,22,169
 dfq_pifeng2
-  rotate: true
-  xy: 6, 549
-  size: 163, 231
-  orig: 163, 231
-  offset: 0, 0
-  index: -1
+bounds:177,299,163,231
 dfq_tun
-  rotate: 270
-  xy: 237, 584
-  size: 116, 99
-  orig: 116, 99
-  offset: 0, 0
-  index: -1
+bounds:343,414,116,99
+rotate:270
 dfq_xiongqiang
-  rotate: 270
-  xy: 230, 485
-  size: 95, 103
-  orig: 95, 103
-  offset: 0, 0
-  index: -1
+bounds:411,313,95,103
 dfq_yan
-  rotate: false
-  xy: 202, 28
-  size: 49, 18
-  orig: 49, 18
-  offset: 0, 0
-  index: -1
+bounds:422,25,49,18
 dfq_yaobao
-  rotate: true
-  xy: 68, 46
-  size: 34, 47
-  orig: 34, 47
-  offset: 0, 0
-  index: -1
+bounds:370,366,34,47
 dfq_yaodaijie1
-  rotate: true
-  xy: 70, 16
-  size: 23, 48
-  orig: 23, 48
-  offset: 0, 0
-  index: -1
+bounds:125,18,23,48
+rotate:270
 dfq_yaodaijie2
-  rotate: true
-  xy: 123, 8
-  size: 18, 45
-  orig: 18, 45
-  offset: 0, 0
-  index: -1
+bounds:6,16,18,45
 dfq_yaodaijie3
-  rotate: false
-  xy: 6, 567
-  size: 25, 26
-  orig: 25, 26
-  offset: 0, 0
-  index: -1
+bounds:336,390,25,26
 dfq_yaozhi1
-  rotate: true
-  xy: 6, 26
-  size: 53, 58
-  orig: 53, 58
-  offset: 0, 0
-  index: -1
+bounds:303,244,53,58
+rotate:90
 dfq_yaozhi2
-  rotate: 270
-  xy: 287, 684
-  size: 28, 53
-  orig: 28, 53
-  offset: 0, 0
-  index: -1
+bounds:444,198,28,53
+rotate:90
 dfq_youdabi
-  rotate: true
-  xy: 262, 118
-  size: 39, 70
-  orig: 39, 70
-  offset: 0, 0
-  index: -1
+bounds:309,75,39,70
+rotate:90
 dfq_youdatui
-  rotate: true
-  xy: 157, 317
-  size: 49, 85
-  orig: 49, 85
-  offset: 0, 0
-  index: -1
+bounds:6,214,49,85
 dfq_youshou
-  rotate: 270
-  xy: 114, 68
-  size: 40, 49
-  orig: 40, 49
-  offset: 0, 0
-  index: -1
+bounds:128,41,40,49
+rotate:90
 dfq_youxiaobi
-  rotate: 270
-  xy: 6, 336
-  size: 57, 81
-  orig: 57, 81
-  offset: 0, 0
-  index: -1
+bounds:177,180,57,81
+rotate:90
 dfq_youxue
-  rotate: true
-  xy: 230, 403
-  size: 84, 110
-  orig: 84, 110
-  offset: 0, 0
-  index: -1
+bounds:396,226,84,110
+rotate:90
 dfq_zuodabi
-  rotate: 270
-  xy: 248, 296
-  size: 54, 85
-  orig: 54, 85
-  offset: 0, 0
-  index: -1
+bounds:6,154,54,85
+rotate:270
 dfq_zuodatui
-  rotate: 270
-  xy: 240, 349
-  size: 50, 88
-  orig: 50, 88
-  offset: 0, 0
-  index: -1
+bounds:9,305,50,88
 dfq_zuoshou1_1
-  rotate: false
-  xy: 6, 204
-  size: 53, 46
-  orig: 53, 46
-  offset: 0, 0
-  index: -1
+bounds:330,120,53,46
 dfq_zuoshou1_2
-  rotate: false
-  xy: 174, 14
-  size: 22, 27
-  orig: 22, 27
-  offset: 0, 0
-  index: -1
+bounds:367,244,22,27
 dfq_zuoshoujuan
-  rotate: false
-  xy: 121, 172
-  size: 90, 77
-  orig: 90, 77
-  offset: 0, 0
-  index: -1
+bounds:6,67,90,77
 dfq_zuoxiaobi1_1
-  rotate: true
-  xy: 6, 255
-  size: 64, 69
-  orig: 64, 69
-  offset: 0, 0
-  index: -1
+bounds:260,142,64,69
 dfq_zuoxiaobi1_2
-  rotate: true
-  xy: 296, 10
-  size: 35, 32
-  orig: 35, 32
-  offset: 0, 0
-  index: -1
+bounds:414,285,35,32
+rotate:90
 dfq_zuoxue
-  rotate: true
-  xy: 101, 442
-  size: 74, 125
-  orig: 74, 125
-  offset: 0, 0
-  index: -1
+bounds:177,229,74,125
+rotate:90

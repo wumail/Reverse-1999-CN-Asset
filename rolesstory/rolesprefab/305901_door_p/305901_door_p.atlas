@@ -1,41 +1,14 @@
-
 305901_door_p.png
-size: 1817,890
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,1024
+filter:Linear,Linear
+scale:0.7
 liewen1
-  rotate: false
-  xy: 2, 51
-  size: 111, 219
-  orig: 111, 219
-  offset: 0, 0
-  index: -1
+bounds:1848,353,97,192
 liewen2
-  rotate: true
-  xy: 1137, 3
-  size: 268, 517
-  orig: 268, 517
-  offset: 0, 0
-  index: -1
+bounds:1607,93,235,452
 liewen3
-  rotate: false
-  xy: 2, 272
-  size: 622, 616
-  orig: 622, 616
-  offset: 0, 0
-  index: -1
+bounds:6,6,544,539
 men
-  rotate: false
-  xy: 1188, 272
-  size: 626, 616
-  orig: 626, 616
-  offset: 0, 0
-  index: -1
+bounds:1052,6,548,539
 yinmai
-  rotate: false
-  xy: 625, 272
-  size: 626, 616
-  orig: 626, 616
-  offset: 0, 0
-  index: -1
+bounds:556,6,548,539

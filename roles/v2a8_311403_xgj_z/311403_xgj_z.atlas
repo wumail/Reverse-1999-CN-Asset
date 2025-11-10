@@ -1,34 +1,17 @@
-
 311403_xgj_z.png
-size: 632,348
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,1024
+filter:Linear,Linear
+scale:0.7
 dz_shou1
-  rotate: false
-  xy: 6, 7
-  size: 515, 335
-  orig: 515, 335
-  offset: 0, 0
-  index: -1
+bounds:6,6,515,335
+rotate:90
 dz_shou2
-  rotate: 180
-  xy: 525, 20
-  size: 99, 175
-  orig: 99, 175
-  offset: 0, 0
-  index: -1
+bounds:148,91,99,175
+rotate:90
 dz_shou3
-  rotate: false
-  xy: 106, 264
-  size: 75, 79
-  orig: 75, 90
-  offset: 0, 0
-  index: -1
+bounds:6,442,75,79
+offsets:0,0,75,90
 pf_hubi
-  rotate: 180
-  xy: 198, 95
-  size: 389, 248
-  orig: 389, 261
-  offset: 0, 13
-  index: -1
+bounds:212,132,389,248
+offsets:0,13,389,261
+rotate:270

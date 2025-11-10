@@ -1,363 +1,118 @@
-
 420303_anliekantuo.png
-size: 1936,524
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,512
+filter:Linear,Linear
+scale:0.6
 400801_1_ ya1
-  rotate: false
-  xy: 2, 2
-  size: 137, 84
-  orig: 137, 84
-  offset: 0, 0
-  index: -1
+bounds:736,127,117,72
 400801_1_ ya2
-  rotate: true
-  xy: 315, 5
-  size: 114, 107
-  orig: 114, 107
-  offset: 0, 0
-  index: -1
+bounds:1364,114,98,92
 400801_1_piao1
-  rotate: false
-  xy: 1840, 412
-  size: 94, 110
-  orig: 94, 110
-  offset: 0, 0
-  index: -1
+bounds:1468,49,80,94
 400801_1_piao2
-  rotate: true
-  xy: 1664, 371
-  size: 78, 74
-  orig: 78, 74
-  offset: 0, 0
-  index: -1
+bounds:1771,69,67,64
 400801_1_piao3
-  rotate: false
-  xy: 1226, 209
-  size: 43, 67
-  orig: 43, 67
-  offset: 0, 0
-  index: -1
+bounds:1232,137,37,58
 400801_1_wei
-  rotate: false
-  xy: 644, 185
-  size: 209, 337
-  orig: 209, 337
-  offset: 0, 0
-  index: -1
+bounds:1127,89,179,289
 400801_1_yan1
-  rotate: false
-  xy: 260, 99
-  size: 17, 20
-  orig: 17, 20
-  offset: 0, 0
-  index: -1
+bounds:295,361,14,17
 400801_1_yan2
-  rotate: false
-  xy: 207, 94
-  size: 34, 25
-  orig: 34, 25
-  offset: 0, 0
-  index: -1
+bounds:810,356,29,22
 400801_1_yan3
-  rotate: true
-  xy: 243, 97
-  size: 22, 15
-  orig: 22, 15
-  offset: 0, 0
-  index: -1
+bounds:425,365,19,13
 400801_1_yan4
-  rotate: false
-  xy: 282, 88
-  size: 13, 10
-  orig: 13, 10
-  offset: 0, 0
-  index: -1
+bounds:527,370,11,8
 400801_1_zui1
-  rotate: true
-  xy: 1296, 3
-  size: 40, 141
-  orig: 40, 141
-  offset: 0, 0
-  index: -1
+bounds:974,69,34,121
 400801_1_zui2
-  rotate: true
-  xy: 1591, 154
-  size: 155, 150
-  orig: 155, 150
-  offset: 0, 0
-  index: -1
+bounds:1313,245,133,128
+rotate:90
 400801_2_ jy_1
-  rotate: true
-  xy: 1520, 311
-  size: 211, 142
-  orig: 211, 142
-  offset: 0, 0
-  index: -1
+bounds:1660,99,181,122
 400801_2_ jy_10
-  rotate: false
-  xy: 1553, 11
-  size: 48, 57
-  orig: 48, 57
-  offset: 0, 0
-  index: -1
+bounds:884,114,41,49
 400801_2_ jy_11
-  rotate: false
-  xy: 141, 5
-  size: 172, 81
-  orig: 172, 81
-  offset: 0, 0
-  index: -1
+bounds:1264,170,147,69
 400801_2_ jy_12
-  rotate: false
-  xy: 776, 17
-  size: 144, 166
-  orig: 144, 166
-  offset: 0, 0
-  index: -1
+bounds:851,36,123,142
 400801_2_ jy_2
-  rotate: false
-  xy: 1683, 8
-  size: 155, 144
-  orig: 155, 144
-  offset: 0, 0
-  index: -1
+bounds:1896,245,133,123
+rotate:90
 400801_2_ jy_3
-  rotate: true
-  xy: 1664, 451
-  size: 71, 76
-  orig: 71, 76
-  offset: 0, 0
-  index: -1
+bounds:1618,62,61,65
 400801_2_ jy_4
-  rotate: true
-  xy: 424, 5
-  size: 114, 80
-  orig: 114, 80
-  offset: 0, 0
-  index: -1
+bounds:748,74,98,68
 400801_2_ jy_5
-  rotate: true
-  xy: 1296, 88
-  size: 120, 70
-  orig: 120, 70
-  offset: 0, 0
-  index: -1
+bounds:1836,77,103,60
 400801_2_ jy_6
-  rotate: false
-  xy: 1664, 313
-  size: 106, 52
-  orig: 106, 52
-  offset: 0, 0
-  index: -1
+bounds:332,83,91,44
 400801_2_ jy_7
-  rotate: false
-  xy: 1743, 168
-  size: 107, 133
-  orig: 107, 133
-  offset: 0, 0
-  index: -1
+bounds:364,23,92,114
 400801_2_ jy_8
-  rotate: true
-  xy: 1743, 367
-  size: 155, 92
-  orig: 155, 92
-  offset: 0, 0
-  index: -1
+bounds:1280,85,133,79
 400801_2_ jy_9
-  rotate: true
-  xy: 1840, 303
-  size: 107, 91
-  orig: 107, 91
-  offset: 0, 0
-  index: -1
+bounds:234,60,92,78
 400801_2_lianjie
-  rotate: false
-  xy: 1499, 4
-  size: 52, 64
-  orig: 52, 64
-  offset: 0, 0
-  index: -1
+bounds:458,323,44,55
 400801_2_shange
-  rotate: true
-  xy: 922, 5
-  size: 201, 145
-  orig: 201, 145
-  offset: 0, 0
-  index: -1
+bounds:1554,206,172,124
+rotate:90
 400801_2_xiae
-  rotate: true
-  xy: 1387, 292
-  size: 230, 131
-  orig: 230, 131
-  offset: 0, 0
-  index: -1
+bounds:1442,181,197,112
+rotate:90
 400801_2_xiaomao
-  rotate: true
-  xy: 1591, 71
-  size: 81, 90
-  orig: 81, 90
-  offset: 0, 0
-  index: -1
+bounds:1924,114,70,77
 400801_2_xiaomao1
-  rotate: true
-  xy: 567, 28
-  size: 14, 17
-  orig: 14, 17
-  offset: 0, 0
-  index: -1
+bounds:622,364,12,14
 400801_2_xiaomao2
-  rotate: false
-  xy: 298, 104
-  size: 15, 15
-  orig: 15, 15
-  offset: 0, 0
-  index: -1
+bounds:508,365,13,13
 400801_2_xiaomao3
-  rotate: false
-  xy: 260, 88
-  size: 20, 9
-  orig: 20, 9
-  offset: 0, 0
-  index: -1
+bounds:846,370,17,8
 400801_2_xiaomaoguo
-  rotate: true
-  xy: 1160, 208
-  size: 68, 64
-  orig: 68, 64
-  offset: 0, 0
-  index: -1
+bounds:213,84,58,55
 400801_che1
-  rotate: false
-  xy: 506, 44
-  size: 78, 76
-  orig: 78, 76
-  offset: 0, 0
-  index: -1
+bounds:6,313,67,65
 400801_che2
-  rotate: true
-  xy: 2, 88
-  size: 434, 125
-  orig: 434, 125
-  offset: 0, 0
-  index: -1
+bounds:528,6,372,107
+rotate:270
 400801_er1
-  rotate: false
-  xy: 1852, 169
-  size: 79, 132
-  orig: 79, 132
-  offset: 0, 0
-  index: -1
+bounds:455,96,68,113
 400801_er2
-  rotate: true
-  xy: 506, 6
-  size: 36, 59
-  orig: 36, 59
-  offset: 0, 0
-  index: -1
+bounds:1551,328,31,50
 400801_nao
-  rotate: true
-  xy: 1160, 278
-  size: 244, 225
-  orig: 244, 225
-  offset: 0, 0
-  index: -1
+bounds:810,169,209,193
+rotate:90
 400801_qugan
-  rotate: false
-  xy: 129, 121
-  size: 321, 401
-  orig: 321, 401
-  offset: 0, 0
-  index: -1
+bounds:6,34,275,344
 400801_tui1
-  rotate: false
-  xy: 1368, 45
-  size: 129, 231
-  orig: 129, 231
-  offset: 0, 0
-  index: -1
+bounds:1823,180,110,198
 400801_tui2
-  rotate: false
-  xy: 586, 4
-  size: 188, 167
-  orig: 188, 167
-  offset: 0, 0
-  index: -1
+bounds:1674,217,161,143
+rotate:270
 400801_tui3
-  rotate: false
-  xy: 1499, 70
-  size: 90, 220
-  orig: 90, 220
-  offset: 0, 0
-  index: -1
+bounds:1496,128,77,188
+rotate:90
 400801_wei
-  rotate: false
-  xy: 452, 173
-  size: 190, 349
-  orig: 190, 349
-  offset: 0, 0
-  index: -1
+bounds:1000,79,163,299
+rotate:180
 400801_yan1
-  rotate: false
-  xy: 279, 100
-  size: 17, 19
-  orig: 17, 19
-  offset: 0, 0
-  index: -1
+bounds:78,362,14,16
 400801_yan2
-  rotate: false
-  xy: 1772, 320
-  size: 42, 45
-  orig: 42, 45
-  offset: 0, 0
-  index: -1
+bounds:2005,340,36,38
 400801_yan3
-  rotate: false
-  xy: 178, 90
-  size: 27, 29
-  orig: 27, 29
-  offset: 0, 0
-  index: -1
+bounds:266,353,23,25
 400801_yan4
-  rotate: false
-  xy: 1296, 50
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -1
+bounds:1447,347,27,31
 400801_yanpi
-  rotate: false
-  xy: 129, 88
-  size: 47, 31
-  orig: 47, 31
-  offset: 0, 0
-  index: -1
+bounds:1787,231,40,26
 buzhi
-  rotate: false
-  xy: 1271, 210
-  size: 95, 66
-  orig: 95, 66
-  offset: 0, 0
-  index: -1
+bounds:641,123,81,56
 houzhi
-  rotate: true
-  xy: 452, 122
-  size: 49, 132
-  orig: 49, 132
-  offset: 0, 0
-  index: -1
+bounds:2000,133,42,113
 shenzhi
-  rotate: true
-  xy: 855, 208
-  size: 314, 303
-  orig: 314, 303
-  offset: 0, 0
-  index: -1
+bounds:256,118,269,260
+rotate:180
 touzhi
-  rotate: false
-  xy: 1069, 15
-  size: 225, 191
-  orig: 225, 195
-  offset: 0, 0
-  index: -1
+bounds:640,185,193,164
+offsets:0,0,193,167
+rotate:90

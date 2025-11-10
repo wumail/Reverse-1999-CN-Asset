@@ -1,125 +1,46 @@
-
 670134_wtdjmz.png
-size: 364,460
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 wtdj_mz_1
-  rotate: false
-  xy: 83, 297
-  size: 46, 146
-  orig: 46, 146
-  offset: 0, 0
-  index: -1
+bounds:377,53,46,146
 wtdj_mz_2
-  rotate: false
-  xy: 6, 269
-  size: 74, 185
-  orig: 74, 185
-  offset: 0, 0
-  index: -1
+bounds:421,167,74,185
 wtdj_mz_3
-  rotate: false
-  xy: 159, 423
-  size: 30, 30
-  orig: 30, 30
-  offset: 0, 0
-  index: -1
+bounds:389,322,30,30
 wtdj_mz_4
-  rotate: false
-  xy: 276, 18
-  size: 65, 29
-  orig: 65, 30
-  offset: 0, 0
-  index: -1
+bounds:434,135,65,29
+offsets:0,0,65,30
+rotate:180
 wtdj_mz_5
-  rotate: true
-  xy: 6, 9
-  size: 25, 99
-  orig: 25, 99
-  offset: 0, 0
-  index: -1
+bounds:165,48,25,99
+rotate:90
 wtdj_mz_6
-  rotate: true
-  xy: 157, 179
-  size: 146, 137
-  orig: 146, 137
-  offset: 0, 0
-  index: -1
+bounds:138,206,146,137
+rotate:90
 wtdj_mz_7
-  rotate: false
-  xy: 284, 90
-  size: 52, 316
-  orig: 52, 316
-  offset: 0, 0
-  index: -1
+bounds:6,36,52,316
 wtdj_mz_8
-  rotate: false
-  xy: 162, 8
-  size: 112, 47
-  orig: 112, 49
-  offset: 0, 0
-  index: -1
+bounds:119,73,112,47
+offsets:0,0,112,49
 wtmz_by1
-  rotate: false
-  xy: 323, 210
-  size: 29, 97
-  orig: 29, 97
-  offset: 0, 0
-  index: -1
+bounds:48,122,29,97
 wtmz_by2
-  rotate: false
-  xy: 6, 159
-  size: 246, 295
-  orig: 246, 295
-  offset: 0, 0
-  index: -1
+bounds:99,6,246,295
+rotate:90
 wtmz_by3
-  rotate: 270
-  xy: 6, 40
-  size: 53, 172
-  orig: 53, 172
-  offset: 0, 0
-  index: -1
+bounds:197,146,53,172
+rotate:90
 wtmz_by4
-  rotate: 270
-  xy: 191, 53
-  size: 109, 147
-  orig: 109, 147
-  offset: 0, 0
-  index: -1
+bounds:63,17,109,147
 wtmz_by5
-  rotate: 180
-  xy: 58, 74
-  size: 147, 136
-  orig: 147, 136
-  offset: 0, 0
-  index: -1
+bounds:279,205,147,136
+rotate:270
 wtmz_by6
-  rotate: false
-  xy: 259, 327
-  size: 20, 127
-  orig: 20, 127
-  offset: 0, 0
-  index: -1
+bounds:59,225,20,127
 wtmz_by7
-  rotate: false
-  xy: 136, 377
-  size: 17, 76
-  orig: 17, 76
-  offset: 0, 0
-  index: -1
+bounds:124,276,17,76
 wtmz_by8
-  rotate: false
-  xy: 6, 200
-  size: 11, 104
-  orig: 11, 104
-  offset: 0, 0
-  index: -1
+bounds:85,248,11,104
 wtmz_by9
-  rotate: false
-  xy: 335, 313
-  size: 16, 85
-  orig: 16, 85
-  offset: 0, 0
-  index: -1
+bounds:102,267,16,85

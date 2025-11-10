@@ -1,307 +1,110 @@
-
 630405_dachunque.png
-size: 968,272
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,1024
+filter:Linear,Linear
 yige_bozi
-  rotate: true
-  xy: 786, 149
-  size: 38, 34
-  orig: 38, 34
-  offset: 0, 0
-  index: -1
+bounds:345,23,38,34
 yige_bq_daiji_1
-  rotate: true
-  xy: 785, 65
-  size: 81, 11
-  orig: 81, 11
-  offset: 0, 0
-  index: -1
+bounds:6,523,81,11
 yige_bq_daiji_2
-  rotate: true
-  xy: 753, 65
-  size: 81, 30
-  orig: 81, 30
-  offset: 0, 0
-  index: -1
+bounds:258,27,81,30
 yige_bq_daiji_3
-  rotate: true
-  xy: 152, 56
-  size: 6, 3
-  orig: 6, 3
-  offset: 0, 0
-  index: -1
+bounds:150,531,6,3
 yige_bq_kaixin
-  rotate: true
-  xy: 699, 61
-  size: 82, 52
-  orig: 82, 52
-  offset: 0, 0
-  index: -1
+bounds:307,200,82,52
 yige_bq_qidao
-  rotate: true
-  xy: 798, 67
-  size: 80, 52
-  orig: 81, 52
-  offset: 0, 0
-  index: -1
+bounds:6,195,80,52
+offsets:0,0,81,52
 yige_bq_tongku
-  rotate: true
-  xy: 687, 188
-  size: 82, 54
-  orig: 82, 54
-  offset: 0, 0
-  index: -1
+bounds:452,246,82,54
+rotate:90
 yige_fajia
-  rotate: true
-  xy: 927, 236
-  size: 34, 37
-  orig: 34, 37
-  offset: 0, 0
-  index: -1
+bounds:218,349,34,37
 yige_houfa
-  rotate: true
-  xy: 152, 78
-  size: 192, 122
-  orig: 192, 122
-  offset: 0, 0
-  index: -1
+bounds:233,412,192,122
 yige_huaibiao
-  rotate: true
-  xy: 56, 5
-  size: 47, 82
-  orig: 47, 82
-  offset: 0, 0
-  index: -1
+bounds:424,7,47,82
+rotate:270
 yige_hudiejie
-  rotate: false
-  xy: 370, 96
-  size: 47, 24
-  orig: 47, 24
-  offset: 0, 0
-  index: -1
+bounds:6,6,47,24
 yige_lian
-  rotate: true
-  xy: 450, 11
-  size: 109, 98
-  orig: 109, 98
-  offset: 0, 0
-  index: -1
+bounds:6,307,109,98
 yige_liuhai1
-  rotate: false
-  xy: 596, 135
-  size: 54, 135
-  orig: 54, 135
-  offset: 0, 0
-  index: -1
+bounds:97,170,54,135
+rotate:90
 yige_liuhai2
-  rotate: true
-  xy: 550, 2
-  size: 44, 132
-  orig: 44, 132
-  offset: 0, 0
-  index: -1
+bounds:277,156,44,132
+rotate:270
 yige_liuhai3
-  rotate: true
-  xy: 383, 6
-  size: 88, 65
-  orig: 88, 65
-  offset: 0, 0
-  index: -1
+bounds:145,205,88,65
+rotate:270
 yige_maozi
-  rotate: true
-  xy: 276, 96
-  size: 174, 92
-  orig: 174, 92
-  offset: 0, 0
-  index: -1
+bounds:248,341,174,92
 yige_qugan
-  rotate: false
-  xy: 2, 54
-  size: 148, 216
-  orig: 148, 216
-  offset: 0, 0
-  index: -1
+bounds:19,386,148,216
+rotate:90
 yige_shou1_1
-  rotate: false
-  xy: 728, 2
-  size: 64, 57
-  orig: 64, 57
-  offset: 0, 0
-  index: -1
+bounds:354,96,64,57
 yige_shou1_2
-  rotate: false
-  xy: 2, 2
-  size: 52, 50
-  orig: 52, 50
-  offset: 0, 0
-  index: -1
+bounds:6,82,52,50
 yige_shou2
-  rotate: true
-  xy: 909, 67
-  size: 53, 52
-  orig: 53, 52
-  offset: 0, 0
-  index: -1
+bounds:393,40,53,52
+rotate:270
 yige_shou3
-  rotate: true
-  xy: 900, 122
-  size: 53, 58
-  orig: 53, 58
-  offset: 0, 0
-  index: -1
+bounds:219,58,53,58
+rotate:90
 yige_shou4
-  rotate: true
-  xy: 796, 190
-  size: 80, 53
-  orig: 80, 53
-  offset: 0, 0
-  index: -1
+bounds:415,187,80,53
 yige_shou5
-  rotate: false
-  xy: 852, 67
-  size: 55, 53
-  orig: 55, 53
-  offset: 0, 0
-  index: -1
+bounds:451,70,55,53
 yige_shou6
-  rotate: true
-  xy: 794, 2
-  size: 61, 53
-  orig: 61, 53
-  offset: 0, 0
-  index: -1
+bounds:143,68,61,53
+rotate:180
 yige_shou7
-  rotate: false
-  xy: 550, 48
-  size: 83, 83
-  orig: 83, 83
-  offset: 0, 0
-  index: -1
+bounds:218,252,83,83
 yige_shou8
-  rotate: true
-  xy: 849, 5
-  size: 60, 76
-  orig: 60, 76
-  offset: 0, 0
-  index: -1
+bounds:429,458,60,76
 yige_shoubi1
-  rotate: false
-  xy: 822, 151
-  size: 76, 37
-  orig: 76, 37
-  offset: 0, 0
-  index: -1
+bounds:283,63,76,37
 yige_shoubi2
-  rotate: true
-  xy: 684, 4
-  size: 44, 42
-  orig: 44, 42
-  offset: 0, 0
-  index: -1
+bounds:6,32,44,42
+rotate:90
 yige_wangyunj_1
-  rotate: false
-  xy: 298, 3
-  size: 83, 91
-  orig: 83, 91
-  offset: 0, 0
-  index: -1
+bounds:121,299,83,91
+rotate:90
 yige_wangyunj_2_1
-  rotate: true
-  xy: 209, 5
-  size: 71, 40
-  orig: 71, 40
-  offset: 0, 0
-  index: -1
+bounds:64,80,71,40
 yige_wangyunj_2_2
-  rotate: false
-  xy: 152, 64
-  size: 51, 12
-  orig: 51, 12
-  offset: 0, 0
-  index: -1
+bounds:93,522,51,12
 yige_wangyunj_2_3
-  rotate: false
-  xy: 652, 145
-  size: 79, 40
-  orig: 79, 40
-  offset: 0, 0
-  index: -1
+bounds:92,126,79,40
 yige_xiekua
-  rotate: false
-  xy: 370, 122
-  size: 107, 148
-  orig: 107, 148
-  offset: 0, 0
-  index: -1
+bounds:399,312,107,148
+rotate:180
 yige_xiezi1
-  rotate: false
-  xy: 900, 177
-  size: 60, 57
-  orig: 60, 57
-  offset: 0, 0
-  index: -1
+bounds:198,114,60,57
 yige_xiezi2
-  rotate: true
-  xy: 743, 189
-  size: 81, 51
-  orig: 81, 51
-  offset: 0, 0
-  index: -1
+bounds:6,138,81,51
 yige_youdabi
-  rotate: false
-  xy: 635, 50
-  size: 62, 83
-  orig: 62, 83
-  offset: 0, 0
-  index: -1
+bounds:422,122,62,83
+rotate:90
 yige_youtui1
-  rotate: false
-  xy: 548, 133
-  size: 46, 137
-  orig: 49, 137
-  offset: 3, 0
-  index: -1
+bounds:6,253,46,137
+offsets:3,0,49,137
+rotate:270
 yige_youtui2
-  rotate: false
-  xy: 851, 194
-  size: 34, 76
-  orig: 34, 76
-  offset: 0, 0
-  index: -1
+bounds:224,212,34,76
+rotate:90
 yige_zuobi1
-  rotate: false
-  xy: 251, 7
-  size: 45, 69
-  orig: 45, 69
-  offset: 0, 0
-  index: -1
+bounds:121,23,45,69
+rotate:90
 yige_zuodabi
-  rotate: true
-  xy: 733, 148
-  size: 38, 51
-  orig: 38, 51
-  offset: 0, 0
-  index: -1
+bounds:194,12,38,51
 yige_zuotui1
-  rotate: false
-  xy: 479, 133
-  size: 67, 137
-  orig: 67, 137
-  offset: 0, 0
-  index: -1
+bounds:307,253,67,137
+rotate:90
 yige_zuotui2
-  rotate: false
-  xy: 652, 187
-  size: 33, 83
-  orig: 33, 83
-  offset: 0, 0
-  index: -1
+bounds:264,117,33,83
+rotate:90
 yige_zuoxiu
-  rotate: true
-  xy: 140, 5
-  size: 47, 67
-  orig: 47, 67
-  offset: 0, 0
-  index: -1
+bounds:48,31,47,67
+rotate:270

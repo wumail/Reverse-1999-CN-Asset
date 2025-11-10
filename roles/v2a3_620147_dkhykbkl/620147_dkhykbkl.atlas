@@ -1,104 +1,37 @@
-
 620147_dkhykbkl.png
-size: 400,312
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.5
 400601_2_qugan
-  rotate: 180
-  xy: 195, 32
-  size: 134, 136
-  orig: 144, 136
-  offset: 0, 0
-  index: -1
+bounds:237,62,96,97
+offsets:0,0,103,97
 400601_2_wei1
-  rotate: 270
-  xy: 304, 167
-  size: 103, 88
-  orig: 103, 88
-  offset: 0, 0
-  index: -1
+bounds:395,26,74,63
 400601_2_wei2
-  rotate: false
-  xy: 335, 124
-  size: 49, 30
-  orig: 49, 31
-  offset: 0, 1
-  index: -1
+bounds:6,87,35,22
 400601_2_zuili
-  rotate: 270
-  xy: 93, 7
-  size: 86, 104
-  orig: 86, 104
-  offset: 0, 0
-  index: -1
+bounds:339,84,62,75
 400601_tou
-  rotate: false
-  xy: 182, 173
-  size: 134, 134
-  orig: 134, 134
-  offset: 0, 0
-  index: -1
+bounds:136,63,96,96
 dk_mogu1
-  rotate: false
-  xy: 6, 94
-  size: 211, 214
-  orig: 279, 260
-  offset: 32, 16
-  index: -1
+bounds:6,6,152,153
+offsets:22,11,200,186
 dk_mogu2
-  rotate: false
-  xy: 6, 8
-  size: 72, 90
-  orig: 72, 90
-  offset: 0, 0
-  index: -1
+bounds:406,94,52,65
 dk_mogu3
-  rotate: false
-  xy: 6, 210
-  size: 32, 52
-  orig: 32, 52
-  offset: 0, 0
-  index: -1
+bounds:105,122,23,37
 dk_mogu4
-  rotate: false
-  xy: 335, 8
-  size: 50, 51
-  orig: 50, 53
-  offset: 0, 2
-  index: -1
+bounds:454,76,36,36
+offsets:0,2,36,38
+rotate:270
 dk_mogu5
-  rotate: false
-  xy: 6, 73
-  size: 17, 55
-  orig: 17, 55
-  offset: 0, 0
-  index: -1
+bounds:377,41,12,40
 dk_mogu6
-  rotate: false
-  xy: 142, 251
-  size: 28, 55
-  orig: 28, 55
-  offset: 0, 0
-  index: -1
+bounds:328,44,20,40
 dk_yan1
-  rotate: false
-  xy: 305, 9
-  size: 27, 27
-  orig: 27, 27
-  offset: 0, 0
-  index: -1
+bounds:430,71,20,20
 dk_yan2
-  rotate: false
-  xy: 201, 8
-  size: 31, 27
-  orig: 31, 27
-  offset: 0, 0
-  index: -1
+bounds:245,106,22,19
 zui
-  rotate: false
-  xy: 335, 85
-  size: 57, 33
-  orig: 57, 33
-  offset: 0, 0
-  index: -1
+bounds:464,118,41,24
+rotate:90

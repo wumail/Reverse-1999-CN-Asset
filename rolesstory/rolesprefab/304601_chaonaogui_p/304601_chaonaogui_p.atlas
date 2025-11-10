@@ -1,41 +1,17 @@
-
 304601_chaonaogui_p.png
-size: 1802,1802
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.7
 benti
-  rotate: false
-  xy: 480, 523
-  size: 522, 1279
-  orig: 631, 1390
-  offset: 0, 22
-  index: -1
+bounds:839,242,522,1279
+offsets:0,22,631,1390
 neicebu-neice
-  rotate: false
-  xy: 903, 285
-  size: 345, 1515
-  orig: 345, 1515
-  offset: 0, 0
-  index: -1
+bounds:6,6,345,1515
 neicebu-waice
-  rotate: true
-  xy: 501, 211
-  size: 338, 648
-  orig: 488, 1582
-  offset: 0, 0
-  index: -1
+bounds:1343,873,338,648
+offsets:0,0,488,1582
 waicebu-neice
-  rotate: false
-  xy: 2, 286
-  size: 550, 1515
-  orig: 550, 1515
-  offset: 0, 0
-  index: -1
+bounds:357,6,550,1515
 waicerbu-waice
-  rotate: true
-  xy: 2, 3
-  size: 342, 725
-  orig: 342, 725
-  offset: 0, 0
-  index: -1
+bounds:1633,796,342,725
+rotate:180

@@ -1,0 +1,97 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 3.25,
+    "Fps": 30.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 1.0,
+    "FadeOutTime": 1.0,
+    "CurveCount": 6,
+    "TotalSegmentCount": 7,
+    "TotalPointCount": 7,
+    "UserDataCount": 0,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowLY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        3.25,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowRY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        3.25,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowLX",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        3.25,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowRX",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        0,
+        3.25,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowLAngle",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        3.25,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param101",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        3.25,
+        0
+      ]
+    }
+  ],
+  "UserData": []
+}

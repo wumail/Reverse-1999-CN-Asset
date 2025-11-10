@@ -1,174 +1,78 @@
-
 670202_abjqrth1.png
-size: 524,272
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.6
 bozi1
-  rotate: false
-  xy: 146, 8
-  size: 118, 20
-  orig: 120, 22
-  offset: 1, 1
-  index: -1
+bounds:6,212,101,17
+offsets:1,1,103,19
 bozi2
-  rotate: false
-  xy: 370, 82
-  size: 100, 22
-  orig: 103, 24
-  offset: 2, 1
-  index: -1
+bounds:209,211,85,18
+offsets:2,1,88,20
 bozi3
-  rotate: false
-  xy: 370, 60
-  size: 106, 20
-  orig: 109, 22
-  offset: 2, 1
-  index: -1
+bounds:113,212,90,17
+offsets:2,1,93,19
 deng1
-  rotate: false
-  xy: 478, 36
-  size: 25, 15
-  orig: 25, 15
-  offset: 0, 0
-  index: -1
+bounds:195,85,21,13
 deng2
-  rotate: false
-  xy: 478, 19
-  size: 22, 15
-  orig: 22, 15
-  offset: 0, 0
-  index: -1
+bounds:126,8,19,13
 jqr2_lunzi1
-  rotate: true
-  xy: 370, 106
-  size: 41, 97
-  orig: 41, 97
-  offset: 0, 0
-  index: -1
+bounds:62,8,35,83
+rotate:90
 lvdai2
-  rotate: true
-  xy: 146, 30
-  size: 105, 102
-  orig: 105, 102
-  offset: 0, 0
-  index: -1
+bounds:175,10,90,88
 qianshen
-  rotate: true
-  xy: 316, 11
-  size: 41, 58
-  orig: 43, 60
-  offset: 1, 1
-  index: -1
+bounds:134,49,35,49
+offsets:1,1,37,51
 shenti
-  rotate: true
-  xy: 2, 2
-  size: 133, 142
-  orig: 133, 142
-  offset: 0, 0
-  index: -1
+bounds:6,92,114,122
+rotate:90
 shenti_di
-  rotate: false
-  xy: 2, 137
-  size: 221, 133
-  orig: 223, 142
-  offset: 1, 1
-  index: -1
+bounds:300,115,189,114
+offsets:1,1,191,122
 shenti_nei
-  rotate: false
-  xy: 316, 54
-  size: 52, 93
-  orig: 54, 95
-  offset: 1, 1
-  index: -1
+bounds:232,126,44,79
+offsets:1,1,46,81
 shenti_xia
-  rotate: false
-  xy: 335, 149
-  size: 142, 44
-  orig: 144, 57
-  offset: 1, 1
-  index: -1
+bounds:6,48,122,38
+offsets:1,1,124,49
 tou
-  rotate: false
-  xy: 335, 195
-  size: 150, 75
-  orig: 150, 75
-  offset: 0, 0
-  index: -1
+bounds:204,50,128,64
+rotate:180
 youjian1
-  rotate: false
-  xy: 431, 5
-  size: 45, 53
-  orig: 47, 55
-  offset: 1, 1
-  index: -1
+bounds:443,20,38,45
+offsets:1,1,40,47
+rotate:90
 youshou1
-  rotate: false
-  xy: 478, 53
-  size: 28, 49
-  orig: 30, 51
-  offset: 1, 1
-  index: -1
+bounds:6,18,24,42
+offsets:1,1,26,44
+rotate:90
 youshou2
-  rotate: false
-  xy: 479, 152
-  size: 39, 39
-  orig: 41, 41
-  offset: 1, 1
-  index: -1
+bounds:271,11,33,33
+offsets:1,1,35,35
 youshoubi
-  rotate: false
-  xy: 250, 36
-  size: 64, 114
-  orig: 67, 126
-  offset: 1, 1
-  index: -1
+bounds:339,54,55,98
+offsets:1,1,58,108
+rotate:90
 youyan
-  rotate: false
-  xy: 469, 108
-  size: 14, 39
-  orig: 14, 39
-  offset: 0, 0
-  index: -1
+bounds:210,32,12,33
+rotate:90
 zuojian1
-  rotate: true
-  xy: 376, 12
-  size: 46, 53
-  orig: 48, 55
-  offset: 1, 1
-  index: -1
+bounds:443,64,39,45
+offsets:1,1,41,47
 zuojian2
-  rotate: false
-  xy: 485, 104
-  size: 36, 46
-  orig: 38, 48
-  offset: 1, 1
-  index: -1
+bounds:320,18,30,39
+offsets:1,1,32,41
+rotate:90
 zuoshou1
-  rotate: false
-  xy: 487, 224
-  size: 33, 46
-  orig: 35, 48
-  offset: 1, 1
-  index: -1
+bounds:365,20,28,39
+offsets:1,1,30,41
+rotate:90
 zuoshou2
-  rotate: false
-  xy: 266, 2
-  size: 44, 32
-  orig: 46, 34
-  offset: 1, 1
-  index: -1
+bounds:151,6,37,27
+offsets:1,1,39,29
+rotate:90
 zuoshoubi
-  rotate: false
-  xy: 225, 152
-  size: 108, 118
-  orig: 110, 120
-  offset: 1, 1
-  index: -1
+bounds:134,104,92,101
+offsets:1,1,94,103
 zuoyan
-  rotate: true
-  xy: 487, 193
-  size: 29, 31
-  orig: 29, 31
-  offset: 0, 0
-  index: -1
+bounds:410,22,25,26

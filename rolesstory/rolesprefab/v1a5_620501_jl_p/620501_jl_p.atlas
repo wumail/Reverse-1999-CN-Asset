@@ -1,650 +1,245 @@
-
 620501_jl_p.png
-size: 4092,1468
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
 banzi
-  rotate: false
-  xy: 2085, 844
-  size: 382, 615
-  orig: 382, 615
-  offset: 0, 0
-  index: -1
+bounds:1391,1095,273,440
 bbizi
-  rotate: false
-  xy: 2474, 788
-  size: 104, 140
-  orig: 107, 143
-  offset: 2, 1
-  index: -1
+bounds:1448,989,75,100
+offsets:1,1,77,102
 biaoying
-  rotate: 180
-  xy: 3894, 789
-  size: 165, 367
-  orig: 165, 367
-  offset: 0, 0
-  index: -1
+bounds:6,215,118,262
 bozi
-  rotate: false
-  xy: 1171, 455
-  size: 263, 302
-  orig: 263, 302
-  offset: 0, 0
-  index: -1
+bounds:6,735,188,216
 chuquan_zuodabi
-  rotate: true
-  xy: 2150, 7
-  size: 405, 438
-  orig: 486, 438
-  offset: 81, 0
-  index: -1
+bounds:1753,133,289,313
+offsets:58,0,347,313
 chuquan_zuoxiaobi
-  rotate: true
-  xy: 3833, 1161
-  size: 298, 251
-  orig: 298, 251
-  offset: 0, 0
-  index: -1
+bounds:1551,6,213,179
+rotate:180
 daiji_youdabi
-  rotate: false
-  xy: 3446, 402
-  size: 411, 606
-  orig: 411, 606
-  offset: 0, 0
-  index: -1
+bounds:1572,378,294,433
+rotate:90
 jilu_youdabi 2
-  rotate: false
-  xy: 3446, 402
-  size: 411, 606
-  orig: 411, 606
-  offset: 0, 0
-  index: -1
+bounds:1572,378,294,433
+rotate:90
 daiji_youmeimao
-  rotate: false
-  xy: 1984, 1041
-  size: 84, 39
-  orig: 84, 39
-  offset: 0, 0
-  index: -1
+bounds:463,1507,60,28
 pingjing_youmeimao
-  rotate: false
-  xy: 1984, 1041
-  size: 84, 39
-  orig: 84, 39
-  offset: 0, 0
-  index: -1
+bounds:463,1507,60,28
 shuanglang_youmeimao
-  rotate: false
-  xy: 1984, 1041
-  size: 84, 39
-  orig: 84, 39
-  offset: 0, 0
-  index: -1
+bounds:463,1507,60,28
 daiji_youshangyanpi
-  rotate: false
-  xy: 3076, 1409
-  size: 92, 51
-  orig: 92, 52
-  offset: 0, 1
-  index: -1
+bounds:829,1036,66,36
+offsets:0,1,66,37
 daiji_youxiaobi
-  rotate: true
-  xy: 697, 104
-  size: 222, 651
-  orig: 253, 669
-  offset: 31, 18
-  index: -1
+bounds:947,101,159,465
+offsets:22,13,181,478
+rotate:270
 daiji_youxiayanpi
-  rotate: false
-  xy: 808, 715
-  size: 92, 43
-  orig: 92, 43
-  offset: 0, 0
-  index: -1
+bounds:1699,915,66,31
 daiji_youyanbai
-  rotate: false
-  xy: 3410, 1228
-  size: 65, 29
-  orig: 67, 31
-  offset: 1, 1
-  index: -1
+bounds:1095,1515,46,20
+offsets:1,1,48,22
 jiaohan_youyanbai
-  rotate: false
-  xy: 3410, 1228
-  size: 65, 29
-  orig: 67, 31
-  offset: 1, 1
-  index: -1
+bounds:1095,1515,46,20
+offsets:1,1,48,22
 pingjing_yanbai
-  rotate: false
-  xy: 3410, 1228
-  size: 65, 29
-  orig: 67, 31
-  offset: 1, 1
-  index: -1
+bounds:1095,1515,46,20
+offsets:1,1,48,22
 shuanglang_youyanbai
-  rotate: false
-  xy: 3410, 1228
-  size: 65, 29
-  orig: 67, 31
-  offset: 1, 1
-  index: -1
+bounds:1095,1515,46,20
+offsets:1,1,48,22
 yansu_youyanbai
-  rotate: false
-  xy: 3410, 1228
-  size: 65, 29
-  orig: 67, 31
-  offset: 1, 1
-  index: -1
+bounds:1095,1515,46,20
+offsets:1,1,48,22
 daiji_youyanqiu
-  rotate: false
-  xy: 3423, 1314
-  size: 40, 26
-  orig: 42, 28
-  offset: 1, 1
-  index: -1
+bounds:1670,1468,28,18
+offsets:1,1,30,20
 daiji_zhangzui
-  rotate: false
-  xy: 3442, 1067
-  size: 151, 92
-  orig: 151, 92
-  offset: 0, 0
-  index: -1
+bounds:1524,950,108,66
 daiji_zuiba
-  rotate: false
-  xy: 3863, 690
-  size: 153, 94
-  orig: 153, 94
-  offset: 0, 0
-  index: -1
+bounds:1529,1022,109,67
 daiji_zuodabi
-  rotate: false
-  xy: 2509, 342
-  size: 384, 587
-  orig: 384, 587
-  offset: 0, 0
-  index: -1
+bounds:882,289,275,419
+rotate:90
 daiji_zuomeimao
-  rotate: false
-  xy: 126, 1428
-  size: 109, 32
-  orig: 109, 32
-  offset: 0, 0
-  index: -1
+bounds:1082,985,78,23
 pingjing_zuomeimao
-  rotate: false
-  xy: 126, 1428
-  size: 109, 32
-  orig: 109, 32
-  offset: 0, 0
-  index: -1
+bounds:1082,985,78,23
 shuanglang_zuomeimao
-  rotate: false
-  xy: 126, 1428
-  size: 109, 32
-  orig: 109, 32
-  offset: 0, 0
-  index: -1
+bounds:1082,985,78,23
 daiji_zuoshangyanpi
-  rotate: false
-  xy: 2153, 782
-  size: 124, 57
-  orig: 124, 57
-  offset: 0, 0
-  index: -1
+bounds:6,975,89,41
 shuanglang_zuoshangyanpi
-  rotate: false
-  xy: 2153, 782
-  size: 124, 57
-  orig: 124, 57
-  offset: 0, 0
-  index: -1
+bounds:6,975,89,41
 daiji_zuoxiaobi
-  rotate: false
-  xy: 3203, 106
-  size: 652, 526
-  orig: 652, 526
-  offset: 0, 0
-  index: -1
+bounds:358,272,466,376
+rotate:180
 daiji_zuoxiayanpi
-  rotate: false
-  xy: 3229, 659
-  size: 121, 37
-  orig: 121, 37
-  offset: 0, 0
-  index: -1
+bounds:583,936,87,27
 daiji_zuoyan
-  rotate: false
-  xy: 241, 1432
-  size: 42, 27
-  orig: 44, 29
-  offset: 1, 1
-  index: -1
+bounds:1670,1516,30,19
+offsets:1,1,32,21
 pingjing_zuoyanqiu
-  rotate: false
-  xy: 241, 1432
-  size: 42, 27
-  orig: 44, 29
-  offset: 1, 1
-  index: -1
+bounds:1670,1516,30,19
+offsets:1,1,32,21
 shuanglang_zuoyanqiu
-  rotate: false
-  xy: 241, 1432
-  size: 42, 27
-  orig: 44, 29
-  offset: 1, 1
-  index: -1
+bounds:1670,1516,30,19
+offsets:1,1,32,21
 yansu_zuoyanqiu
-  rotate: false
-  xy: 241, 1432
-  size: 42, 27
-  orig: 44, 29
-  offset: 1, 1
-  index: -1
+bounds:1670,1516,30,19
+offsets:1,1,32,21
 daiji_zuoyanbai
-  rotate: false
-  xy: 636, 1145
-  size: 74, 31
-  orig: 76, 33
-  offset: 1, 1
-  index: -1
+bounds:704,910,53,22
+offsets:1,1,55,24
 dianzan_youdabi
-  rotate: false
-  xy: 3469, 851
-  size: 463, 608
-  orig: 463, 629
-  offset: 0, 21
-  index: -1
+bounds:1274,392,331,435
+offsets:0,15,331,450
+rotate:90
 dianzan_youxiaobi
-  rotate: 270
-  xy: 1642, 17
-  size: 213, 628
-  orig: 237, 685
-  offset: 24, 13
-  index: -1
+bounds:51,34,153,449
+offsets:17,9,170,489
+rotate:90
 jiaohan_bizi
-  rotate: false
-  xy: 3336, 695
-  size: 104, 174
-  orig: 107, 176
-  offset: 2, 1
-  index: -1
+bounds:1367,964,75,125
+offsets:1,1,77,126
 jiaohan_youmeimao
-  rotate: false
-  xy: 650, 1080
-  size: 93, 51
-  orig: 93, 51
-  offset: 0, 0
-  index: -1
+bounds:6,1138,67,37
 jiaohan_youshangyanpi
-  rotate: false
-  xy: 1990, 1087
-  size: 90, 59
-  orig: 91, 59
-  offset: 1, 0
-  index: -1
+bounds:6,1090,64,42
+offsets:1,0,65,42
 jiaohan_youxiayanpi
-  rotate: false
-  xy: 1995, 1152
-  size: 84, 43
-  orig: 84, 43
-  offset: 0, 0
-  index: -1
+bounds:1982,847,60,31
 jiaohan_youyanqiu
-  rotate: false
-  xy: 3783, 1299
-  size: 40, 26
-  orig: 42, 28
-  offset: 1, 1
-  index: -1
+bounds:1989,1472,28,18
+offsets:1,1,30,20
 jiaohan_zui
-  rotate: false
-  xy: 2265, 717
-  size: 174, 121
-  orig: 174, 121
-  offset: 0, 0
-  index: -1
+bounds:76,1448,124,87
 jiaohan_zuomeimao
-  rotate: false
-  xy: 720, 350
-  size: 107, 54
-  orig: 107, 54
-  offset: 0, 0
-  index: -1
+bounds:1941,1496,77,39
 jiaohan_zuoshangyanpi
-  rotate: false
-  xy: 2371, 628
-  size: 130, 83
-  orig: 130, 83
-  offset: 0, 0
-  index: -1
+bounds:364,1475,93,60
 jiaohan_zuoxiayanpi
-  rotate: false
-  xy: 3465, 1012
-  size: 111, 50
-  orig: 111, 50
-  offset: 0, 0
-  index: -1
+bounds:6,1026,80,36
 jiaohan_zuoyanbai
-  rotate: false
-  xy: 1353, 1428
-  size: 76, 31
-  orig: 101, 34
-  offset: 0, 2
-  index: -1
+bounds:6,1238,54,22
+offsets:0,2,72,25
 jiaohan_zuoyanqiu
-  rotate: false
-  xy: 3807, 1432
-  size: 42, 27
-  orig: 44, 29
-  offset: 1, 1
-  index: -1
+bounds:931,1516,30,19
+offsets:1,1,32,21
 jiaohanbizui
-  rotate: false
-  xy: 1164, 357
-  size: 146, 92
-  orig: 167, 92
-  offset: 21, 0
-  index: -1
+bounds:104,330,104,66
+offsets:15,0,119,66
 jilu_banzi
-  rotate: false
-  xy: 2474, 934
-  size: 445, 526
-  orig: 445, 526
-  offset: 0, 0
-  index: -1
+bounds:201,654,318,376
+rotate:90
 jilu_bi
-  rotate: false
-  xy: 1943, 432
-  size: 226, 176
-  orig: 226, 176
-  offset: 0, 0
-  index: -1
+bounds:871,63,162,126
 jilu_youxiaobi
-  rotate: true
-  xy: 6, 88
-  size: 281, 648
-  orig: 382, 711
-  offset: 0, 40
-  index: -1
+bounds:1635,944,201,463
+offsets:0,28,273,508
 jilu_zuodabi
-  rotate: 180
-  xy: 3080, 859
-  size: 382, 601
-  orig: 382, 655
-  offset: 0, 54
-  index: -1
+bounds:573,494,273,430
+offsets:0,38,273,468
 jilu_zuoxiaobi
-  rotate: false
-  xy: 2569, 145
-  size: 629, 397
-  orig: 629, 442
-  offset: 0, 33
-  index: -1
+bounds:576,112,449,284
+offsets:0,24,449,316
+rotate:180
 kudai1
-  rotate: false
-  xy: 3727, 1331
-  size: 84, 129
-  orig: 84, 129
-  offset: 0, 0
-  index: -1
+bounds:801,1443,60,92
 kudai2
-  rotate: false
-  xy: 1437, 1135
-  size: 42, 324
-  orig: 46, 324
-  offset: 0, 0
-  index: -1
+bounds:6,1303,30,232
+offsets:0,0,33,232
 kudai3
-  rotate: false
-  xy: 665, 1183
-  size: 41, 239
-  orig: 41, 239
-  offset: 0, 0
-  index: -1
+bounds:40,1364,30,171
 kuzi
-  rotate: 270
-  xy: 712, 741
-  size: 720, 738
-  orig: 848, 1121
-  offset: 128, 383
-  index: -1
+bounds:872,1008,514,527
+offsets:92,274,606,801
 miaobiap
-  rotate: false
-  xy: 2925, 571
-  size: 298, 888
-  orig: 298, 888
-  offset: 0, 0
-  index: -1
+bounds:861,561,213,635
+rotate:90
 pingjing_bizi
-  rotate: false
-  xy: 3220, 713
-  size: 104, 140
-  orig: 107, 143
-  offset: 2, 1
-  index: -1
+bounds:283,1435,75,100
+offsets:1,1,77,102
 shuanglang_bizi
-  rotate: false
-  xy: 3220, 713
-  size: 104, 140
-  orig: 107, 143
-  offset: 2, 1
-  index: -1
+bounds:283,1435,75,100
+offsets:1,1,77,102
 pingjing_yanqiu
-  rotate: false
-  xy: 3403, 1282
-  size: 40, 26
-  orig: 42, 28
-  offset: 1, 1
-  index: -1
+bounds:1670,1492,28,18
+offsets:1,1,30,20
 pingjing_youshangyanpi
-  rotate: false
-  xy: 3415, 1163
-  size: 92, 52
-  orig: 92, 52
-  offset: 0, 0
-  index: -1
+bounds:1670,1399,66,37
 pingjing_youxiayanpi
-  rotate: false
-  xy: 2445, 740
-  size: 92, 42
-  orig: 92, 43
-  offset: 0, 0
-  index: -1
+bounds:1768,928,66,30
+offsets:0,0,66,31
 pingjing_zuiba
-  rotate: false
-  xy: 3856, 398
-  size: 153, 90
-  orig: 153, 90
-  offset: 0, 0
-  index: -1
+bounds:767,449,109,64
 pingjing_zuoshangyanpi
-  rotate: false
-  xy: 3923, 341
-  size: 124, 57
-  orig: 124, 57
-  offset: 0, 0
-  index: -1
+bounds:1166,975,89,41
 pingjing_zuoxiayanpi
-  rotate: false
-  xy: 3164, 865
-  size: 121, 37
-  orig: 121, 37
-  offset: 0, 0
-  index: -1
+bounds:1439,942,87,27
 shuanglang_zuoxiayanpi
-  rotate: false
-  xy: 3164, 865
-  size: 121, 37
-  orig: 121, 37
-  offset: 0, 0
-  index: -1
+bounds:1439,942,87,27
 pingjing_zuoyanbai
-  rotate: false
-  xy: 6, 955
-  size: 74, 31
-  orig: 76, 33
-  offset: 1, 1
-  index: -1
+bounds:1548,922,53,22
+offsets:1,1,55,24
 shuanglang_zuoyanbai
-  rotate: false
-  xy: 6, 955
-  size: 74, 31
-  orig: 76, 33
-  offset: 1, 1
-  index: -1
+bounds:1548,922,53,22
+offsets:1,1,55,24
 yansu_zuoyanbai
-  rotate: false
-  xy: 6, 955
-  size: 74, 31
-  orig: 76, 33
-  offset: 1, 1
-  index: -1
+bounds:1548,922,53,22
+offsets:1,1,55,24
 shangshen
-  rotate: false
-  xy: 6, 325
-  size: 809, 1135
-  orig: 809, 1369
-  offset: 0, 234
-  index: -1
+bounds:56,957,578,811
+offsets:0,167,578,978
+rotate:270
 shuanglang_youshangyanpi
-  rotate: false
-  xy: 3634, 1407
-  size: 92, 52
-  orig: 92, 52
-  offset: 0, 0
-  index: -1
+bounds:859,1498,66,37
 shuanglang_youxiayanpi
-  rotate: false
-  xy: 3139, 935
-  size: 92, 43
-  orig: 92, 43
-  offset: 0, 0
-  index: -1
+bounds:1620,925,66,31
 shuanglang_youyanqiu
-  rotate: false
-  xy: 2039, 1279
-  size: 40, 26
-  orig: 42, 28
-  offset: 1, 1
-  index: -1
+bounds:1900,1517,28,18
+offsets:1,1,30,20
 yansu_youyanqiu
-  rotate: false
-  xy: 2039, 1279
-  size: 40, 26
-  orig: 42, 28
-  offset: 1, 1
-  index: -1
+bounds:1900,1517,28,18
+offsets:1,1,30,20
 shuanglang_zuiba
-  rotate: false
-  xy: 3351, 600
-  size: 153, 90
-  orig: 153, 90
-  offset: 0, 0
-  index: -1
+bounds:1252,952,109,64
 shuanglangbizui
-  rotate: false
-  xy: 3863, 591
-  size: 151, 92
-  orig: 151, 92
-  offset: 0, 0
-  index: -1
+bounds:1137,560,108,66
 tou
-  rotate: false
-  xy: 818, 287
-  size: 351, 457
-  orig: 438, 457
-  offset: 53, 0
-  index: -1
+bounds:1376,162,252,327
+offsets:37,0,313,327
+rotate:90
 woquan_youdabi
-  rotate: false
-  xy: 1957, 339
-  size: 559, 501
-  orig: 559, 501
-  offset: 0, 0
-  index: -1
+bounds:6,352,399,358
 woquan_youxiaobi
-  rotate: true
-  xy: 2951, 91
-  size: 279, 613
-  orig: 316, 613
-  offset: 37, 0
-  index: -1
+bounds:139,163,200,438
+offsets:26,0,226,438
+rotate:90
 yansu_bizi
-  rotate: false
-  xy: 1979, 868
-  size: 100, 158
-  orig: 107, 160
-  offset: 6, 1
-  index: -1
+bounds:206,1422,71,113
+offsets:5,1,77,115
 yansu_youmeimao
-  rotate: false
-  xy: 6, 993
-  size: 82, 31
-  orig: 82, 31
-  offset: 0, 0
-  index: -1
+bounds:6,1206,59,22
 yansu_youshangyanpi
-  rotate: false
-  xy: 2584, 850
-  size: 85, 34
-  orig: 85, 34
-  offset: 0, 0
-  index: -1
+bounds:595,908,61,25
 yansu_youxiayanpi
-  rotate: false
-  xy: 661, 1429
-  size: 78, 30
-  orig: 78, 30
-  offset: 0, 0
-  index: -1
+bounds:289,978,56,22
 yansu_zuiba
-  rotate: false
-  xy: 2779, 517
-  size: 153, 90
-  orig: 153, 90
-  offset: 0, 0
-  index: -1
+bounds:670,938,109,64
 yansu_zuomeimao
-  rotate: false
-  xy: 6, 1422
-  size: 115, 38
-  orig: 115, 38
-  offset: 0, 0
-  index: -1
+bounds:351,983,82,27
 yansu_zuoshangyanpi
-  rotate: false
-  xy: 2584, 888
-  size: 109, 41
-  orig: 109, 41
-  offset: 0, 0
-  index: -1
+bounds:990,975,78,29
 yansu_zuoxiayanpi
-  rotate: false
-  xy: 3150, 912
-  size: 93, 29
-  orig: 93, 29
-  offset: 0, 0
-  index: -1
+bounds:439,982,67,21
 yansubizui
-  rotate: false
-  xy: 3863, 493
-  size: 151, 92
-  orig: 151, 92
-  offset: 0, 0
-  index: -1
+bounds:1251,593,108,66
 youjiao
-  rotate: 180
-  xy: 1714, 260
-  size: 431, 1200
-  orig: 732, 1200
-  offset: 0, 0
-  index: -1
+bounds:1724,678,308,857
+offsets:0,0,523,857
 zuojiao
-  rotate: false
-  xy: 1333, 58
-  size: 428, 1401
-  orig: 428, 1401
-  offset: 0, 0
-  index: -1
+bounds:776,724,306,1001
+rotate:90

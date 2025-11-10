@@ -1,237 +1,85 @@
-
 300904_sfb_s.png
-size: 204,1048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 lchibang
-  rotate: false
-  xy: 6, 251
-  size: 118, 56
-  orig: 118, 56
-  offset: 0, 0
-  index: -1
+bounds:204,79,118,56
+rotate:180
 lshou
-  rotate: true
-  xy: 6, 156
-  size: 41, 74
-  orig: 41, 74
-  offset: 0, 0
-  index: -1
+bounds:412,80,41,74
+rotate:90
 ltui
-  rotate: false
-  xy: 127, 177
-  size: 68, 51
-  orig: 69, 60
-  offset: 0, 0
-  index: -1
+bounds:448,257,68,51
+offsets:0,0,69,60
+rotate:90
 lyan
-  rotate: false
-  xy: 168, 141
-  size: 26, 23
-  orig: 26, 23
-  offset: 0, 0
-  index: -1
+bounds:265,52,26,23
 lyangjiao
-  rotate: false
-  xy: 112, 474
-  size: 75, 85
-  orig: 78, 85
-  offset: 1, 0
-  index: -1
+bounds:303,136,75,85
+offsets:1,0,78,85
+rotate:90
 pf_hudiejie1
-  rotate: false
-  xy: 126, 280
-  size: 30, 14
-  orig: 30, 32
-  offset: 0, 18
-  index: -1
+bounds:77,145,30,14
+offsets:0,18,30,32
 pf_hudiejie2
-  rotate: false
-  xy: 184, 435
-  size: 10, 34
-  orig: 10, 34
-  offset: 0, 0
-  index: -1
+bounds:15,325,10,34
 pf_hudiejie3
-  rotate: false
-  xy: 162, 281
-  size: 11, 24
-  orig: 11, 24
-  offset: 0, 0
-  index: -1
+bounds:6,296,11,24
 pf_jinyezi1
-  rotate: 180
-  xy: 77, 312
-  size: 113, 48
-  orig: 113, 48
-  offset: 0, 0
-  index: -1
+bounds:92,86,113,48
 pf_jinyezi2
-  rotate: false
-  xy: 54, 8
-  size: 17, 10
-  orig: 17, 10
-  offset: 0, 0
-  index: -1
+bounds:448,393,17,10
 pf_jinyezi3
-  rotate: false
-  xy: 183, 11
-  size: 11, 15
-  orig: 11, 15
-  offset: 0, 0
-  index: -1
+bounds:6,275,11,15
 pf_toushi1
-  rotate: false
-  xy: 30, 114
-  size: 55, 36
-  orig: 55, 36
-  offset: 0, 0
-  index: -1
+bounds:130,44,55,36
 pf_toushi2
-  rotate: false
-  xy: 81, 16
-  size: 9, 38
-  orig: 9, 38
-  offset: 0, 0
-  index: -1
+bounds:18,365,9,38
 rchibang
-  rotate: 180
-  xy: 48, 194
-  size: 74, 57
-  orig: 74, 57
-  offset: 0, 0
-  index: -1
+bounds:448,329,74,57
+rotate:90
 rshou
-  rotate: true
-  xy: 85, 141
-  size: 38, 78
-  orig: 39, 78
-  offset: 1, 0
-  index: -1
+bounds:468,174,38,78
+offsets:1,0,39,78
 rtui
-  rotate: 180
-  xy: 6, 70
-  size: 55, 41
-  orig: 55, 41
-  offset: 0, 0
-  index: -1
+bounds:465,113,55,41
+rotate:270
 ryangjiao
-  rotate: true
-  xy: 77, 404
-  size: 64, 84
-  orig: 64, 84
-  offset: 0, 0
-  index: -1
+bounds:394,127,64,84
 shenti
-  rotate: false
-  xy: 6, 465
-  size: 101, 95
-  orig: 101, 95
-  offset: 0, 0
-  index: -1
+bounds:197,129,101,95
 tou
-  rotate: false
-  xy: 6, 338
-  size: 81, 74
-  orig: 81, 74
-  offset: 0, 0
-  index: -1
+bounds:6,85,81,74
 weiba
-  rotate: false
-  xy: 104, 90
-  size: 85, 52
-  orig: 85, 52
-  offset: 0, 0
-  index: -1
+bounds:39,46,85,52
 x_ls_deng
-  rotate: true
-  xy: 110, 233
-  size: 41, 78
-  orig: 41, 78
-  offset: 0, 0
-  index: -1
+bounds:328,80,41,78
+rotate:90
 x_ls_he_di
-  rotate: false
-  xy: 6, 565
-  size: 186, 76
-  orig: 186, 76
-  offset: 0, 0
-  index: -1
+bounds:6,165,186,76
 x_ls_he_gai1
-  rotate: false
-  xy: 6, 759
-  size: 173, 118
-  orig: 173, 118
-  offset: 0, 0
-  index: -1
+bounds:212,230,173,118
+rotate:90
 x_ls_he_gai2
-  rotate: false
-  xy: 6, 883
-  size: 173, 156
-  orig: 173, 156
-  offset: 0, 0
-  index: -1
+bounds:33,247,173,156
 x_ls_he_shang
-  rotate: false
-  xy: 6, 647
-  size: 186, 106
-  orig: 186, 106
-  offset: 0, 0
-  index: -1
+bounds:336,217,186,106
+rotate:90
 x_ls_jinxian1
-  rotate: 180
-  xy: 101, 7
-  size: 90, 81
-  orig: 90, 81
-  offset: 0, 0
-  index: -1
+bounds:6,6,90,81
+rotate:270
 x_ls_jinxian2
-  rotate: false
-  xy: 6, 18
-  size: 68, 35
-  orig: 68, 35
-  offset: 0, 0
-  index: -1
+bounds:191,40,68,35
 x_ls_jinxian3
-  rotate: true
-  xy: 8, 8
-  size: 25, 26
-  orig: 25, 26
-  offset: 0, 0
-  index: -1
+bounds:362,48,25,26
 x_ls_jinxian4
-  rotate: false
-  xy: 186, 342
-  size: 6, 46
-  orig: 6, 46
-  offset: 0, 0
-  index: -1
+bounds:6,357,6,46
 x_ls_jinxian6
-  rotate: true
-  xy: 110, 366
-  size: 74, 70
-  orig: 74, 70
-  offset: 0, 0
-  index: -1
+bounds:434,34,74,70
+rotate:90
 x_ls_jinxian7
-  rotate: true
-  xy: 39, 10
-  size: 29, 35
-  orig: 29, 35
-  offset: 0, 0
-  index: -1
+bounds:306,49,29,35
 x_ls_jinxian8
-  rotate: 180
-  xy: 54, 60
-  size: 85, 40
-  orig: 85, 40
-  offset: 0, 0
-  index: -1
+bounds:394,35,85,40
 x_ls_jinxian9
-  rotate: true
-  xy: 140, 10
-  size: 56, 48
-  orig: 56, 48
-  offset: 0, 0
-  index: -1
+bounds:324,26,56,48

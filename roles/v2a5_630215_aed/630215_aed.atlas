@@ -1,342 +1,137 @@
-
 630215_aed.png
-size: 1548,152
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 aed_bizi
-  rotate: true
-  xy: 515, 8
-  size: 22, 35
-  orig: 22, 35
-  offset: 0, 0
-  index: -1
+bounds:50,250,22,35
 aed_bozi
-  rotate: false
-  xy: 1489, 105
-  size: 43, 38
-  orig: 43, 38
-  offset: 0, 0
-  index: -1
+bounds:347,299,43,38
+rotate:180
 aed_er
-  rotate: false
-  xy: 688, 13
-  size: 25, 33
-  orig: 25, 33
-  offset: 0, 0
-  index: -1
+bounds:478,375,25,33
 aed_fa1
-  rotate: false
-  xy: 427, 13
-  size: 47, 28
-  orig: 47, 28
-  offset: 0, 0
-  index: -1
+bounds:6,22,47,28
 aed_fa2
-  rotate: 180
-  xy: 783, 10
-  size: 62, 34
-  orig: 62, 35
-  offset: 0, 1
-  index: -1
+bounds:61,36,62,34
+offsets:0,1,62,35
+rotate:180
 aed_fa3
-  rotate: false
-  xy: 993, 13
-  size: 39, 20
-  orig: 39, 20
-  offset: 0, 0
-  index: -1
+bounds:275,8,39,20
 aed_fa4
-  rotate: false
-  xy: 399, 10
-  size: 32, 14
-  orig: 32, 15
-  offset: 0, 0
-  index: -1
+bounds:171,262,32,14
+offsets:0,0,32,15
 aed_guancha_1
-  rotate: true
-  xy: 1164, 18
-  size: 95, 39
-  orig: 95, 39
-  offset: 0, 0
-  index: -1
+bounds:262,91,95,39
 aed_guancha_2
-  rotate: 180
-  xy: 599, 18
-  size: 96, 83
-  orig: 96, 83
-  offset: 0, 0
-  index: -1
+bounds:152,172,96,83
+rotate:180
 aed_guancha_3
-  rotate: 180
-  xy: 1029, 65
-  size: 70, 78
-  orig: 70, 78
-  offset: 0, 0
-  index: -1
+bounds:71,126,70,78
+rotate:270
 aed_guancha_4
-  rotate: 270
-  xy: 719, 9
-  size: 46, 48
-  orig: 46, 48
-  offset: 0, 0
-  index: -1
+bounds:12,51,46,48
 aed_licheng
-  rotate: 180
-  xy: 181, 14
-  size: 62, 131
-  orig: 63, 131
-  offset: 0, 0
-  index: -1
+bounds:181,277,62,131
+offsets:0,0,63,131
+rotate:180
 aed_qiang3
-  rotate: true
-  xy: 249, 25
-  size: 114, 94
-  orig: 114, 94
-  offset: 0, 0
-  index: -1
+bounds:248,294,114,94
+rotate:90
 aed_qiangzhi1
-  rotate: 180
-  xy: 1446, 26
-  size: 50, 97
-  orig: 50, 97
-  offset: 0, 0
-  index: -1
+bounds:113,40,50,97
+rotate:90
 aed_qiangzhi2
-  rotate: false
-  xy: 1394, 46
-  size: 57, 97
-  orig: 57, 97
-  offset: 0, 0
-  index: -1
+bounds:280,37,57,97
+rotate:270
 aed_shenzhi_1
-  rotate: 180
-  xy: 1099, 53
-  size: 66, 81
-  orig: 68, 81
-  offset: 0, 0
-  index: -1
+bounds:13,103,66,81
+offsets:0,0,68,81
 aed_shenzhi_2
-  rotate: 270
-  xy: 412, 38
-  size: 107, 67
-  orig: 112, 67
-  offset: 5, 0
-  index: -1
+bounds:413,301,107,67
+offsets:5,0,112,67
+rotate:270
 aed_shenzhi_3
-  rotate: 270
-  xy: 1306, 13
-  size: 64, 57
-  orig: 64, 57
-  offset: 0, 0
-  index: -1
+bounds:47,69,64,57
+rotate:180
 aed_shenzhi_4
-  rotate: false
-  xy: 1275, 11
-  size: 23, 42
-  orig: 25, 45
-  offset: 2, 1
-  index: -1
+bounds:318,19,23,42
+offsets:2,1,25,45
+rotate:90
 aed_shenzhi_5
-  rotate: 270
-  xy: 753, 41
-  size: 104, 59
-  orig: 104, 59
-  offset: 0, 0
-  index: -1
+bounds:334,178,104,59
 aed_tou
-  rotate: false
-  xy: 6, 23
-  size: 95, 121
-  orig: 103, 121
-  offset: 8, 0
-  index: -1
+bounds:6,287,95,121
+offsets:8,0,103,121
 aed_tun
-  rotate: 270
-  xy: 979, 36
-  size: 108, 45
-  orig: 108, 45
-  offset: 0, 0
-  index: -1
+bounds:278,136,108,45
 aed_wt_z_
-  rotate: 180
-  xy: 99, 18
-  size: 81, 125
-  orig: 81, 125
-  offset: 0, 0
-  index: -1
+bounds:99,283,81,125
+rotate:180
 aed_wt_z_huizhang
-  rotate: false
-  xy: 1499, 52
-  size: 29, 34
-  orig: 29, 34
-  offset: 0, 0
-  index: -1
+bounds:129,17,29,34
+rotate:90
 aed_wt_z_koudia
-  rotate: false
-  xy: 1473, 9
-  size: 34, 37
-  orig: 34, 37
-  offset: 0, 0
-  index: -1
+bounds:463,38,34,37
 aed_wt_z_lalian
-  rotate: false
-  xy: 6, 128
-  size: 8, 16
-  orig: 8, 16
-  offset: 0, 0
-  index: -1
+bounds:6,392,8,16
 aed_wt_z_ling
-  rotate: false
-  xy: 1364, 23
-  size: 41, 64
-  orig: 41, 64
-  offset: 0, 0
-  index: -1
+bounds:206,18,41,64
+rotate:270
 aed_wwt_y_1
-  rotate: true
-  xy: 282, 10
-  size: 22, 34
-  orig: 22, 34
-  offset: 0, 0
-  index: -1
+bounds:400,11,22,34
+rotate:90
 aed_wwt_y_2
-  rotate: true
-  xy: 73, 8
-  size: 33, 53
-  orig: 34, 53
-  offset: 0, 0
-  index: -1
+bounds:64,6,33,53
+offsets:0,0,34,53
+rotate:90
 aed_wwt_y_3
-  rotate: false
-  xy: 863, 19
-  size: 41, 115
-  orig: 41, 115
-  offset: 0, 0
-  index: -1
+bounds:465,185,41,115
 aed_yaobao
-  rotate: true
-  xy: 1403, 10
-  size: 30, 39
-  orig: 30, 40
-  offset: 0, 0
-  index: -1
+bounds:365,20,30,39
+offsets:0,0,30,40
 aed_yaodai
-  rotate: true
-  xy: 814, 47
-  size: 97, 48
-  orig: 97, 51
-  offset: 0, 0
-  index: -1
+bounds:6,186,97,48
+offsets:0,0,97,51
 aed_youdabi
-  rotate: true
-  xy: 903, 20
-  size: 46, 94
-  orig: 46, 94
-  offset: 0, 0
-  index: -1
+bounds:399,142,46,94
+rotate:90
 aed_youdatui
-  rotate: 180
-  xy: 677, 51
-  size: 74, 94
-  orig: 74, 94
-  offset: 0, 0
-  index: -1
+bounds:242,222,74,94
+rotate:90
 aed_youjiao
-  rotate: false
-  xy: 1316, 100
-  size: 72, 44
-  orig: 72, 44
-  offset: 0, 0
-  index: -1
+bounds:197,63,72,44
+rotate:180
 aed_youshou_1_1
-  rotate: true
-  xy: 1116, 11
-  size: 40, 46
-  orig: 40, 46
-  offset: 0, 0
-  index: -1
+bounds:6,244,40,46
 aed_youshou_1_2
-  rotate: false
-  xy: 6, 9
-  size: 25, 22
-  orig: 25, 22
-  offset: 0, 0
-  index: -1
+bounds:107,203,25,22
 aed_youshou_1_3
-  rotate: false
-  xy: 479, 15
-  size: 35, 24
-  orig: 35, 24
-  offset: 0, 0
-  index: -1
+bounds:445,10,35,24
 aed_youshou_1_4
-  rotate: true
-  xy: 1198, 77
-  size: 67, 61
-  orig: 67, 61
-  offset: 0, 0
-  index: -1
+bounds:439,81,67,61
+rotate:180
 aed_youxaiotui
-  rotate: false
-  xy: 476, 39
-  size: 66, 106
-  orig: 66, 106
-  offset: 0, 0
-  index: -1
+bounds:357,239,66,106
+rotate:90
 aed_youxiaobi
-  rotate: false
-  xy: 1207, 16
-  size: 69, 54
-  orig: 69, 54
-  offset: 0, 0
-  index: -1
+bounds:140,92,69,54
+rotate:270
 aed_zuodabi
-  rotate: 270
-  xy: 1030, 20
-  size: 63, 79
-  orig: 64, 79
-  offset: 1, 0
-  index: -1
+bounds:179,115,63,79
+offsets:1,0,64,79
+rotate:90
 aed_zuodatui
-  rotate: 270
-  xy: 305, 61
-  size: 83, 106
-  orig: 83, 106
-  offset: 0, 0
-  index: -1
+bounds:306,325,83,106
+rotate:270
 aed_zuojiao
-  rotate: false
-  xy: 346, 15
-  size: 56, 45
-  orig: 56, 45
-  offset: 0, 0
-  index: -1
+bounds:401,39,56,45
 aed_zuoshou1
-  rotate: true
-  xy: 1262, 58
-  size: 65, 60
-  orig: 65, 60
-  offset: 0, 0
-  index: -1
+bounds:364,82,65,60
 aed_zuoshoubiao
-  rotate: true
-  xy: 1512, 13
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
+bounds:169,9,32,28
 aed_zuoxiaobi
-  rotate: 180
-  xy: 907, 65
-  size: 67, 79
-  orig: 67, 79
-  offset: 0, 0
-  index: -1
+bounds:252,160,67,79
+rotate:90
 aed_zuoxiaotui
-  rotate: false
-  xy: 543, 23
-  size: 75, 102
-  orig: 75, 102
-  offset: 0, 0
-  index: -1
+bounds:70,220,75,102
+rotate:270

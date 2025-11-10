@@ -1,90 +1,36 @@
-
 501601_baobiao_p.png
-size: 2048,2048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.6
 Lhand2
-  rotate: true
-  xy: 1256, 209
-  size: 351, 444
-  orig: 351, 444
-  offset: 0, 0
-  index: -1
+bounds:1691,429,351,444
 Lhand3
-  rotate: true
-  xy: 2, 229
-  size: 306, 464
-  orig: 307, 464
-  offset: 0, 0
-  index: -1
+bounds:1569,1621,307,464
+rotate:270
 Lhand3_2
-  rotate: false
-  xy: 714, 1810
-  size: 151, 238
-  orig: 151, 238
-  offset: 0, 0
-  index: -1
+bounds:735,1690,151,238
 Rhand
-  rotate: 270
-  xy: 890, 552
-  size: 733, 806
-  orig: 733, 806
-  offset: 0, 0
-  index: -1
+bounds:784,250,733,806
+rotate:270
 Rhand2
-  rotate: 180
-  xy: 706, 832
-  size: 741, 1214
-  orig: 741, 1214
-  offset: 0, 0
-  index: -1
+bounds:730,714,741,1214
+rotate:180
 Rhand3
-  rotate: 270
-  xy: 359, 280
-  size: 403, 1074
-  orig: 403, 1075
-  offset: 0, 0
-  index: -1
+bounds:967,6,403,1075
+rotate:90
 body
-  rotate: false
-  xy: 2, 594
-  size: 739, 1453
-  orig: 739, 1453
-  offset: 0, 0
-  index: -1
+bounds:6,475,739,1453
 head
-  rotate: false
-  xy: 1419, 1221
-  size: 609, 825
-  orig: 628, 825
-  offset: 0, 0
-  index: -1
+bounds:1427,842,615,825
+offsets:0,0,628,825
 leg
-  rotate: false
-  xy: 1548, 433
-  size: 497, 536
-  orig: 497, 536
-  offset: 0, 0
-  index: -1
+bounds:291,10,497,536
 mouth
-  rotate: false
-  xy: 1800, 1947
-  size: 152, 100
-  orig: 225, 157
-  offset: 36, 43
-  index: -1
+bounds:1890,1525,152,100
+offsets:36,43,225,157
 mouth2
-  rotate: false
-  xy: 856, 1953
-  size: 156, 93
-  orig: 157, 93
-  offset: 0, 0
-  index: -1
+bounds:1477,1707,156,93
+offsets:0,0,157,93
 yanjingpian
-  rotate: false
-  xy: 471, 687
-  size: 470, 155
-  orig: 470, 155
-  offset: 0, 0
-  index: -1
+bounds:1570,378,470,155
+rotate:90

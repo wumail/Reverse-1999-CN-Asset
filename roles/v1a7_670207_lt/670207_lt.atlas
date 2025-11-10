@@ -1,69 +1,33 @@
-
 670207_lt.png
-size: 528,332
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 a001
-  rotate: false
-  xy: 6, 34
-  size: 33, 32
-  orig: 34, 38
-  offset: 1, 6
-  index: -1
+bounds:201,317,33,32
+offsets:1,6,34,38
 a002
-  rotate: true
-  xy: 355, 207
-  size: 121, 166
-  orig: 151, 186
-  offset: 30, 0
-  index: -1
+bounds:319,25,121,166
+offsets:30,0,151,186
+rotate:270
 a003
-  rotate: false
-  xy: 6, 7
-  size: 206, 320
-  orig: 214, 320
-  offset: 0, 0
-  index: -1
+bounds:6,29,206,320
+offsets:0,0,214,320
 a004
-  rotate: true
-  xy: 6, 11
-  size: 102, 76
-  orig: 102, 76
-  offset: 0, 0
-  index: -1
+bounds:414,75,102,76
+rotate:90
 a005
-  rotate: true
-  xy: 394, 109
-  size: 132, 127
-  orig: 132, 127
-  offset: 0, 0
-  index: -1
+bounds:163,6,132,127
+rotate:270
 a006
-  rotate: false
-  xy: 362, 12
-  size: 100, 181
-  orig: 100, 181
-  offset: 0, 0
-  index: -1
+bounds:397,168,100,181
+rotate:180
 a007
-  rotate: false
-  xy: 192, 18
-  size: 120, 281
-  orig: 156, 328
-  offset: 36, 0
-  index: -1
+bounds:212,68,120,281
+offsets:36,0,156,328
 a008
-  rotate: false
-  xy: 212, 258
-  size: 60, 69
-  orig: 63, 69
-  offset: 0, 0
-  index: -1
+bounds:6,26,60,69
+offsets:0,0,63,69
 a009
-  rotate: 180
-  xy: 299, 96
-  size: 94, 231
-  orig: 99, 234
-  offset: 5, 0
-  index: -1
+bounds:326,118,94,231
+offsets:5,0,99,234
+rotate:180

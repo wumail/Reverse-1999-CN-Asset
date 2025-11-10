@@ -1,209 +1,95 @@
-
 422902_tianeren.png
-size: 2020,732
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,512
+filter:Linear,Linear
+scale:0.6
 fire1
-  rotate: false
-  xy: 1693, 366
-  size: 315, 363
-  orig: 316, 366
-  offset: 0, 2
-  index: -1
+bounds:524,223,269,311
+offsets:1,2,271,314
+rotate:90
 fire2
-  rotate: false
-  xy: 1860, 171
-  size: 141, 135
-  orig: 301, 447
-  offset: 64, 18
-  index: -1
+bounds:1639,77,258,368
+offsets:0,15,258,383
+rotate:180
 gaiming10
-  rotate: true
-  xy: 1614, 103
-  size: 179, 48
-  orig: 179, 48
-  offset: 0, 0
-  index: -1
+bounds:76,257,153,41
 gaiming11
-  rotate: false
-  xy: 737, 154
-  size: 62, 84
-  orig: 63, 84
-  offset: 0, 0
-  index: -1
+bounds:151,8,53,72
+offsets:0,0,54,72
 gaiming12
-  rotate: false
-  xy: 1693, 13
-  size: 165, 351
-  orig: 260, 351
-  offset: 39, 0
-  index: -1
+bounds:1559,35,141,301
+offsets:34,0,223,301
 gaiming13
-  rotate: false
-  xy: 1008, 244
-  size: 169, 485
-  orig: 295, 675
-  offset: 0, 41
-  index: -1
+bounds:1237,76,145,416
+offsets:0,35,253,578
+rotate:180
 gaiming14
-  rotate: true
-  xy: 1940, 122
-  size: 47, 52
-  orig: 53, 55
-  offset: 6, 0
-  index: -1
+bounds:68,209,41,44
+offsets:5,0,46,47
 gaiming15
-  rotate: true
-  xy: 1146, 5
-  size: 22, 17
-  orig: 22, 17
-  offset: 0, 0
-  index: -1
+bounds:60,457,19,14
 gaiming16
-  rotate: true
-  xy: 801, 142
-  size: 43, 48
-  orig: 55, 99
-  offset: 9, 0
-  index: -1
+bounds:6,451,36,41
+offsets:8,0,47,85
 gaiming17
-  rotate: true
-  xy: 2, 4
-  size: 109, 258
-  orig: 125, 375
-  offset: 0, 0
-  index: -1
+bounds:1868,270,94,222
+offsets:0,0,107,321
 gaiming18
-  rotate: true
-  xy: 1860, 308
-  size: 56, 158
-  orig: 85, 158
-  offset: 0, 0
-  index: -1
+bounds:841,356,48,136
+offsets:0,0,73,136
 gaiming19
-  rotate: false
-  xy: 1146, 29
-  size: 149, 213
-  orig: 181, 228
-  offset: 32, 0
-  index: -1
+bounds:957,23,155,183
+offsets:0,0,155,195
 gaiming19-1
-  rotate: true
-  xy: 1415, 143
-  size: 139, 197
-  orig: 168, 211
-  offset: 29, 0
-  index: -1
+bounds:1089,8,119,169
+offsets:25,0,144,181
+rotate:270
 gaiming20
-  rotate: true
-  xy: 471, 12
-  size: 119, 206
-  orig: 119, 206
-  offset: 0, 0
-  index: -1
+bounds:6,26,102,176
+rotate:90
 gaiming20-1
-  rotate: true
-  xy: 262, 9
-  size: 120, 207
-  orig: 120, 207
-  offset: 0, 0
-  index: -1
+bounds:608,17,103,178
+rotate:90
 gaiming21
-  rotate: true
-  xy: 1375, 284
-  size: 445, 316
-  orig: 445, 316
-  offset: 0, 0
-  index: -1
+bounds:989,110,382,271
+rotate:90
 gaiming21-1
-  rotate: false
-  xy: 737, 240
-  size: 269, 489
-  orig: 272, 496
-  offset: 3, 0
-  index: -1
+bounds:785,20,232,420
+offsets:1,0,233,425
+rotate:180
 gaiming22
-  rotate: true
-  xy: 857, 12
-  size: 226, 287
-  orig: 273, 287
-  offset: 0, 0
-  index: -1
+bounds:1400,246,194,246
+offsets:0,0,234,246
 gaiming22-1
-  rotate: false
-  xy: 1179, 282
-  size: 194, 447
-  orig: 242, 482
-  offset: 0, 0
-  index: -1
+bounds:1375,36,168,384
+offsets:0,0,207,413
 gaiming3
-  rotate: false
-  xy: 510, 140
-  size: 225, 589
-  orig: 225, 589
-  offset: 0, 0
-  index: -1
+bounds:13,119,193,505
+rotate:90
 gaiming3-1
-  rotate: false
-  xy: 2, 115
-  size: 230, 614
-  orig: 270, 615
-  offset: 36, 1
-  index: -1
+bounds:259,19,200,527
+offsets:29,0,231,527
+rotate:270
 gaiming4
-  rotate: false
-  xy: 371, 133
-  size: 137, 596
-  orig: 174, 648
-  offset: 37, 0
-  index: -1
+bounds:6,284,117,511
+offsets:32,0,149,556
+rotate:270
 gaiming4-1
-  rotate: false
-  xy: 234, 131
-  size: 135, 598
-  orig: 172, 650
-  offset: 37, 0
-  index: -1
+bounds:6,376,116,512
+offsets:32,0,148,557
+rotate:90
 gaiming5
-  rotate: false
-  xy: 1297, 25
-  size: 116, 255
-  orig: 116, 258
-  offset: 0, 3
-  index: -1
+bounds:1622,6,99,220
+offsets:0,1,99,221
+rotate:270
 gaiming6
-  rotate: false
-  xy: 1860, 7
-  size: 78, 162
-  orig: 78, 162
-  offset: 0, 0
-  index: -1
+bounds:6,201,67,139
 gaiming7
-  rotate: false
-  xy: 801, 187
-  size: 53, 51
-  orig: 53, 51
-  offset: 0, 0
-  index: -1
+bounds:398,448,45,44
 gaiming8
-  rotate: true
-  xy: 1165, 6
-  size: 21, 38
-  orig: 21, 38
-  offset: 0, 0
-  index: -1
+bounds:47,460,18,32
 gaiming9
-  rotate: true
-  xy: 679, 2
-  size: 136, 176
-  orig: 136, 176
-  offset: 0, 0
-  index: -1
+bounds:1341,10,116,151
+rotate:180
 gaiming9-1
-  rotate: true
-  xy: 1415, 5
-  size: 136, 176
-  orig: 136, 176
-  offset: 0, 0
-  index: -1
+bounds:1721,341,116,151
+rotate:180

@@ -1,237 +1,82 @@
-
 620125_bulu.png
-size: 1072,272
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.6
 beiji
-  rotate: false
-  xy: 104, 69
-  size: 289, 197
-  orig: 289, 197
-  offset: 0, 0
-  index: -1
+bounds:6,166,248,169
 qugan1
-  rotate: false
-  xy: 634, 125
-  size: 296, 141
-  orig: 298, 141
-  offset: 2, 0
-  index: -1
+bounds:242,214,254,121
+offsets:2,0,256,121
 qugan2
-  rotate: true
-  xy: 6, 64
-  size: 202, 92
-  orig: 202, 92
-  offset: 0, 0
-  index: -1
+bounds:333,133,173,79
 qugan3
-  rotate: true
-  xy: 511, 99
-  size: 167, 117
-  orig: 167, 117
-  offset: 0, 0
-  index: -1
+bounds:210,51,143,100
+rotate:180
 qugan4
-  rotate: false
-  xy: 714, 6
-  size: 44, 93
-  orig: 44, 93
-  offset: 0, 0
-  index: -1
+bounds:455,47,38,80
+rotate:180
 qugan5
-  rotate: true
-  xy: 929, 52
-  size: 67, 48
-  orig: 67, 48
-  offset: 0, 0
-  index: -1
+bounds:272,12,57,41
+rotate:270
 qugan6
-  rotate: false
-  xy: 581, 19
-  size: 127, 74
-  orig: 127, 74
-  offset: 0, 0
-  index: -1
+bounds:185,16,109,64
 tou_1_1
-  rotate: false
-  xy: 936, 147
-  size: 130, 119
-  orig: 130, 119
-  offset: 0, 0
-  index: -1
+bounds:6,87,111,102
+rotate:270
 tou_1_10
-  rotate: true
-  xy: 581, 7
-  size: 6, 11
-  orig: 6, 11
-  offset: 0, 0
-  index: -1
+bounds:84,325,5,10
 tou_1_11
-  rotate: true
-  xy: 764, 25
-  size: 94, 116
-  orig: 94, 116
-  offset: 0, 0
-  index: -1
+bounds:369,78,80,99
+rotate:270
 tou_1_2
-  rotate: true
-  xy: 1035, 80
-  size: 28, 29
-  orig: 28, 29
-  offset: 0, 0
-  index: -1
+bounds:153,8,24,25
+rotate:90
 tou_1_3
-  rotate: true
-  xy: 399, 70
-  size: 19, 21
-  orig: 19, 21
-  offset: 0, 0
-  index: -1
+bounds:101,317,16,18
 tou_1_4
-  rotate: false
-  xy: 1035, 114
-  size: 31, 27
-  orig: 31, 27
-  offset: 0, 0
-  index: -1
+bounds:236,236,26,23
 tou_1_5
-  rotate: true
-  xy: 1029, 47
-  size: 27, 28
-  orig: 27, 28
-  offset: 0, 0
-  index: -1
+bounds:307,6,23,24
+rotate:90
 tou_1_6
-  rotate: true
-  xy: 695, 105
-  size: 14, 27
-  orig: 14, 27
-  offset: 0, 0
-  index: -1
+bounds:494,243,12,23
 tou_1_7
-  rotate: true
-  xy: 650, 104
-  size: 15, 25
-  orig: 15, 25
-  offset: 0, 0
-  index: -1
+bounds:429,314,13,21
 tou_1_8
-  rotate: false
-  xy: 634, 101
-  size: 10, 18
-  orig: 10, 18
-  offset: 0, 0
-  index: -1
+bounds:123,319,8,16
 tou_1_9
-  rotate: false
-  xy: 681, 104
-  size: 8, 15
-  orig: 8, 15
-  offset: 0, 0
-  index: -1
+bounds:137,322,7,13
 tou_2
-  rotate: true
-  xy: 399, 95
-  size: 171, 106
-  orig: 171, 106
-  offset: 0, 0
-  index: -1
+bounds:179,139,146,91
+rotate:180
 youhoutui1
-  rotate: true
-  xy: 983, 81
-  size: 60, 46
-  orig: 60, 46
-  offset: 0, 0
-  index: -1
+bounds:369,33,52,40
 youhoutui2
-  rotate: true
-  xy: 250, 7
-  size: 56, 41
-  orig: 56, 41
-  offset: 0, 0
-  index: -1
+bounds:458,207,48,35
 youhoutui3
-  rotate: true
-  xy: 426, 71
-  size: 18, 29
-  orig: 18, 29
-  offset: 0, 0
-  index: -1
+bounds:486,310,16,25
 youhoutui4
-  rotate: false
-  xy: 929, 14
-  size: 61, 32
-  orig: 61, 32
-  offset: 0, 0
-  index: -1
+bounds:427,20,52,27
 youqiantui1
-  rotate: true
-  xy: 343, 13
-  size: 50, 36
-  orig: 50, 36
-  offset: 0, 0
-  index: -1
+bounds:323,35,43,31
 youqiantui2
-  rotate: true
-  xy: 385, 15
-  size: 48, 68
-  orig: 48, 68
-  offset: 0, 0
-  index: -1
+bounds:6,23,41,58
 youqiantui3
-  rotate: true
-  xy: 996, 15
-  size: 60, 27
-  orig: 60, 27
-  offset: 0, 0
-  index: -1
+bounds:153,38,52,23
 zuohoutui_1
-  rotate: false
-  xy: 6, 7
-  size: 46, 51
-  orig: 46, 51
-  offset: 0, 0
-  index: -1
+bounds:107,29,40,44
 zuohoutui_2
-  rotate: false
-  xy: 510, 13
-  size: 65, 76
-  orig: 65, 76
-  offset: 0, 0
-  index: -1
+bounds:112,102,56,65
 zuohoutui_3
-  rotate: false
-  xy: 297, 10
-  size: 40, 53
-  orig: 40, 53
-  offset: 0, 0
-  index: -1
+bounds:52,26,34,46
+rotate:90
 zuohoutui_4
-  rotate: true
-  xy: 886, 30
-  size: 89, 37
-  orig: 89, 40
-  offset: 0, 0
-  index: -1
+bounds:293,71,76,32
+offsets:0,0,76,34
 zuoqiantui_1
-  rotate: false
-  xy: 58, 8
-  size: 83, 50
-  orig: 83, 50
-  offset: 0, 0
-  index: -1
+bounds:30,65,71,43
 zuoqiantui_2
-  rotate: true
-  xy: 461, 11
-  size: 78, 43
-  orig: 78, 43
-  offset: 0, 0
-  index: -1
+bounds:356,298,67,37
 zuoqiantui_3
-  rotate: true
-  xy: 147, 7
-  size: 56, 97
-  orig: 56, 97
-  offset: 0, 0
-  index: -1
+bounds:135,67,48,83
+rotate:90

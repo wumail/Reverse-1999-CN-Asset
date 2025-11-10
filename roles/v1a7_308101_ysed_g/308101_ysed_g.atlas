@@ -1,20 +1,9 @@
-
 308101_ysed_g.png
-size: 308,288
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.5
 A_gq
-  rotate: false
-  xy: 6, 7
-  size: 294, 275
-  orig: 371, 275
-  offset: 77, 0
-  index: -1
+bounds:6,6,210,197
+offsets:55,0,265,197
 A_gqyz
-  rotate: true
-  xy: 138, 204
-  size: 78, 91
-  orig: 78, 91
-  offset: 0, 0
-  index: -1
+bounds:208,138,56,65

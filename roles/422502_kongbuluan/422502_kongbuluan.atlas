@@ -1,90 +1,41 @@
-
 422502_kongbuluan.png
-size: 1044,352
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,1024
+filter:Linear,Linear
+scale:0.7
 kbl_c1
-  rotate: true
-  xy: 881, 104
-  size: 37, 99
-  orig: 38, 99
-  offset: 1, 0
-  index: -1
+bounds:456,665,37,99
+offsets:1,0,38,99
 kbl_c2
-  rotate: false
-  xy: 987, 184
-  size: 55, 166
-  orig: 55, 169
-  offset: 0, 1
-  index: -1
+bounds:6,122,54,166
+offsets:0,1,55,169
+rotate:90
 kbl_c3
-  rotate: false
-  xy: 881, 22
-  size: 80, 80
-  orig: 80, 80
-  offset: 0, 0
-  index: -1
+bounds:6,36,80,80
 kbl_c4
-  rotate: false
-  xy: 372, 2
-  size: 163, 94
-  orig: 163, 94
-  offset: 0, 0
-  index: -1
+bounds:356,601,163,94
+rotate:90
 kbl_c5
-  rotate: false
-  xy: 987, 76
-  size: 54, 106
-  orig: 55, 107
-  offset: 1, 1
-  index: -1
+bounds:196,285,54,105
+offsets:1,1,55,107
 kbl_c6
-  rotate: false
-  xy: 802, 35
-  size: 77, 106
-  orig: 78, 106
-  offset: 1, 0
-  index: -1
+bounds:429,55,77,106
+offsets:1,0,78,106
 kbl_hua
-  rotate: false
-  xy: 801, 143
-  size: 184, 207
-  orig: 184, 218
-  offset: 0, 11
-  index: -1
+bounds:6,181,184,209
+offsets:0,9,184,218
 kbl_shenti
-  rotate: false
-  xy: 372, 98
-  size: 239, 252
-  orig: 239, 258
-  offset: 0, 0
-  index: -1
+bounds:254,157,239,252
+offsets:0,0,239,258
+rotate:270
 kbl_te1
-  rotate: true
-  xy: 537, 3
-  size: 93, 150
-  orig: 93, 153
-  offset: 0, 2
-  index: -1
+bounds:92,6,93,150
+offsets:0,2,93,153
+rotate:270
 kbl_te2
-  rotate: false
-  xy: 613, 136
-  size: 186, 214
-  orig: 186, 266
-  offset: 0, 0
-  index: -1
+bounds:190,50,186,215
+offsets:0,0,186,266
+rotate:270
 kbl_xin1
-  rotate: false
-  xy: 689, 2
-  size: 111, 132
-  orig: 111, 132
-  offset: 0, 0
-  index: -1
+bounds:356,463,111,132
 kongbuluan
-  rotate: true
-  xy: 2, 6
-  size: 344, 368
-  orig: 344, 368
-  offset: 0, 0
-  index: -1
+bounds:6,396,344,368

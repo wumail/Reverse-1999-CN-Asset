@@ -1,160 +1,54 @@
-
 610209_nirenhua.png
-size: 1396,292
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,1024
+filter:Linear,Linear
+scale:0.7
 arm_l
-  rotate: true
-  xy: 1228, 144
-  size: 53, 159
-  orig: 53, 159
-  offset: 0, 0
-  index: -1
+bounds:207,260,53,159
+rotate:90
 arm_r
-  rotate: true
-  xy: 1228, 203
-  size: 44, 162
-  orig: 44, 162
-  offset: 0, 0
-  index: -1
+bounds:75,575,44,162
 body
-  rotate: true
-  xy: 664, 9
-  size: 90, 138
-  orig: 90, 138
-  offset: 0, 0
-  index: -1
+bounds:390,599,90,138
 flower01
-  rotate: true
-  xy: 989, 127
-  size: 120, 162
-  orig: 120, 162
-  offset: 0, 0
-  index: -1
+bounds:307,298,120,162
 flower02
-  rotate: false
-  xy: 525, 91
-  size: 118, 194
-  orig: 118, 194
-  offset: 0, 0
-  index: -1
+bounds:298,374,118,194
+rotate:270
 flower03
-  rotate: true
-  xy: 811, 120
-  size: 127, 85
-  orig: 127, 85
-  offset: 0, 0
-  index: -1
+bounds:174,345,127,85
 flower04
-  rotate: true
-  xy: 949, 9
-  size: 106, 124
-  orig: 106, 124
-  offset: 0, 0
-  index: -1
+bounds:44,307,106,124
 flower05
-  rotate: false
-  xy: 582, 9
-  size: 76, 76
-  orig: 76, 76
-  offset: 0, 0
-  index: -1
+bounds:398,518,76,76
 forearm_l
-  rotate: false
-  xy: 701, 110
-  size: 104, 137
-  orig: 104, 137
-  offset: 0, 0
-  index: -1
+bounds:347,341,104,137
+rotate:90
 forearm_r
-  rotate: false
-  xy: 1157, 136
-  size: 65, 111
-  orig: 65, 111
-  offset: 0, 0
-  index: -1
+bounds:97,190,65,111
 hand_l
-  rotate: true
-  xy: 1169, 35
-  size: 95, 56
-  orig: 95, 56
-  offset: 0, 0
-  index: -1
+bounds:199,215,95,56
 hand_r
-  rotate: false
-  xy: 1231, 52
-  size: 84, 86
-  orig: 84, 86
-  offset: 0, 0
-  index: -1
+bounds:416,259,84,86
+rotate:90
 head
-  rotate: true
-  xy: 808, 9
-  size: 95, 135
-  orig: 95, 135
-  offset: 0, 0
-  index: -1
+bounds:224,602,95,135
 leg01
-  rotate: true
-  xy: 342, 41
-  size: 244, 177
-  orig: 244, 177
-  offset: 0, 0
-  index: -1
+bounds:215,493,244,177
+rotate:90
 leg02
-  rotate: false
-  xy: 649, 105
-  size: 46, 142
-  orig: 46, 142
-  offset: 0, 0
-  index: -1
+bounds:155,227,46,142
 liquid01
-  rotate: false
-  xy: 6, 15
-  size: 13, 270
-  orig: 13, 270
-  offset: 0, 0
-  index: -1
+bounds:44,467,13,270
 liquid02
-  rotate: true
-  xy: 25, 8
-  size: 6, 39
-  orig: 6, 39
-  offset: 0, 0
-  index: -1
+bounds:63,698,6,39
 pistil01
-  rotate: false
-  xy: 1079, 6
-  size: 84, 115
-  orig: 84, 115
-  offset: 0, 0
-  index: -1
+bounds:333,190,84,115
 pistil02
-  rotate: false
-  xy: 902, 121
-  size: 81, 126
-  orig: 81, 126
-  offset: 0, 0
-  index: -1
+bounds:44,186,81,126
 pistil03
-  rotate: true
-  xy: 525, 7
-  size: 78, 51
-  orig: 78, 51
-  offset: 0, 0
-  index: -1
+bounds:238,497,78,51
 skirt
-  rotate: true
-  xy: 25, 20
-  size: 265, 311
-  orig: 265, 311
-  offset: 0, 0
-  index: -1
+bounds:44,426,265,311
+rotate:180
 tenwan
-  rotate: true
-  xy: 649, 253
-  size: 32, 731
-  orig: 32, 731
-  offset: 0, 0
-  index: -1
+bounds:6,6,32,731

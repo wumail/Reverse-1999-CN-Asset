@@ -1,286 +1,108 @@
-
 670206_dmtrps.png
-size: 604,524
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.6
 dmtr0
-  rotate: false
-  xy: 6, 6
-  size: 55, 56
-  orig: 55, 56
-  offset: 0, 0
-  index: -1
+bounds:459,11,47,48
 dmtr1
-  rotate: false
-  xy: 575, 457
-  size: 19, 18
-  orig: 19, 18
-  offset: 0, 0
-  index: -1
+bounds:6,354,16,15
 dmtr10
-  rotate: true
-  xy: 261, 10
-  size: 58, 45
-  orig: 58, 45
-  offset: 0, 0
-  index: -1
+bounds:6,24,50,38
 dmtr11
-  rotate: true
-  xy: 450, 285
-  size: 53, 99
-  orig: 53, 99
-  offset: 0, 0
-  index: -1
+bounds:88,90,45,85
+rotate:90
 dmtr12
-  rotate: false
-  xy: 555, 286
-  size: 43, 46
-  orig: 43, 46
-  offset: 0, 0
-  index: -1
+bounds:331,72,37,39
+rotate:90
 dmtr13
-  rotate: true
-  xy: 575, 481
-  size: 37, 21
-  orig: 37, 21
-  offset: 0, 0
-  index: -1
+bounds:6,220,32,18
 dmtr14
-  rotate: true
-  xy: 167, 262
-  size: 106, 105
-  orig: 106, 105
-  offset: 0, 0
-  index: -1
+bounds:386,175,91,90
+rotate:270
 dmtr15
-  rotate: false
-  xy: 363, 301
-  size: 81, 86
-  orig: 81, 86
-  offset: 0, 0
-  index: -1
+bounds:420,46,70,74
+rotate:90
 dmtr16
-  rotate: false
-  xy: 312, 228
-  size: 44, 25
-  orig: 44, 25
-  offset: 0, 0
-  index: -1
+bounds:62,21,38,22
 dmtr17
-  rotate: false
-  xy: 351, 393
-  size: 94, 125
-  orig: 104, 125
-  offset: 0, 0
-  index: -1
+bounds:390,262,81,107
+offsets:0,0,89,107
 dmtr18
-  rotate: true
-  xy: 290, 133
-  size: 89, 64
-  orig: 89, 64
-  offset: 0, 0
-  index: -1
+bounds:167,137,76,55
 dmtr19
-  rotate: true
-  xy: 278, 259
-  size: 119, 79
-  orig: 120, 79
-  offset: 0, 0
-  index: -1
+bounds:316,267,102,68
+offsets:0,0,103,68
+rotate:90
 dmtr2
-  rotate: false
-  xy: 575, 437
-  size: 16, 14
-  orig: 20, 20
-  offset: 0, 6
-  index: -1
+bounds:214,357,14,12
+offsets:0,5,17,17
 dmtr20
-  rotate: false
-  xy: 67, 7
-  size: 81, 55
-  orig: 81, 55
-  offset: 0, 0
-  index: -1
+bounds:430,122,70,47
 dmtr21
-  rotate: false
-  xy: 384, 124
-  size: 52, 26
-  orig: 52, 26
-  offset: 0, 0
-  index: -1
+bounds:116,139,44,22
 dmtr22
-  rotate: true
-  xy: 555, 249
-  size: 31, 43
-  orig: 31, 43
-  offset: 0, 0
-  index: -1
+bounds:426,9,26,37
+rotate:270
 dmtr23
-  rotate: true
-  xy: 552, 147
-  size: 36, 46
-  orig: 36, 46
-  offset: 0, 0
-  index: -1
+bounds:234,6,31,39
+rotate:180
 dmtr24
-  rotate: true
-  xy: 256, 384
-  size: 134, 89
-  orig: 134, 89
-  offset: 0, 0
-  index: -1
+bounds:234,254,115,76
+rotate:90
 dmtr25
-  rotate: true
-  xy: 6, 257
-  size: 261, 155
-  orig: 269, 155
-  offset: 8, 0
-  index: -1
+bounds:6,236,223,133
+offsets:7,0,230,133
 dmtr26
-  rotate: true
-  xy: 290, 74
-  size: 53, 88
-  orig: 53, 88
-  offset: 0, 0
-  index: -1
+bounds:231,54,45,75
 dmtr27
-  rotate: true
-  xy: 154, 7
-  size: 55, 54
-  orig: 57, 59
-  offset: 2, 5
-  index: -1
+bounds:451,324,47,45
+offsets:2,5,49,50
 dmtr28
-  rotate: false
-  xy: 512, 55
-  size: 34, 26
-  orig: 34, 26
-  offset: 0, 0
-  index: -1
+bounds:484,194,29,22
+rotate:90
 dmtr29
-  rotate: true
-  xy: 552, 189
-  size: 54, 46
-  orig: 54, 46
-  offset: 0, 0
-  index: -1
+bounds:388,12,46,39
+offsets:0,0,46,40
 dmtr3
-  rotate: true
-  xy: 552, 72
-  size: 69, 42
-  orig: 69, 45
-  offset: 0, 0
-  index: -1
+bounds:81,49,59,35
+offsets:0,0,59,38
 dmtr30
-  rotate: true
-  xy: 478, 31
-  size: 35, 28
-  orig: 35, 28
-  offset: 0, 0
-  index: -1
+bounds:329,12,30,24
 dmtr31
-  rotate: true
-  xy: 384, 8
-  size: 73, 88
-  orig: 73, 88
-  offset: 0, 0
-  index: -1
+bounds:349,134,62,75
+rotate:90
 dmtr32
-  rotate: true
-  xy: 450, 184
-  size: 95, 96
-  orig: 95, 96
-  offset: 0, 0
-  index: -1
+bounds:6,131,82,82
 dmtr33
-  rotate: true
-  xy: 451, 344
-  size: 85, 100
-  orig: 85, 100
-  offset: 0, 0
-  index: -1
+bounds:146,11,73,86
+rotate:270
 dmtr34
-  rotate: false
-  xy: 6, 68
-  size: 149, 183
-  orig: 149, 183
-  offset: 0, 0
-  index: -1
+bounds:249,42,128,157
+rotate:90
 dmtr35
-  rotate: true
-  xy: 575, 418
-  size: 13, 14
-  orig: 13, 14
-  offset: 0, 0
-  index: -1
+bounds:390,357,11,12
 dmtr36
-  rotate: false
-  xy: 384, 87
-  size: 34, 31
-  orig: 34, 31
-  offset: 0, 0
-  index: -1
+bounds:106,17,29,26
 dmtr37
-  rotate: true
-  xy: 161, 74
-  size: 177, 123
-  orig: 177, 123
-  offset: 0, 0
-  index: -1
+bounds:268,88,152,105
 dmtr38
-  rotate: true
-  xy: 451, 435
-  size: 83, 118
-  orig: 83, 118
-  offset: 0, 0
-  index: -1
+bounds:60,166,71,101
+rotate:270
 dmtr39
-  rotate: false
-  xy: 214, 8
-  size: 41, 60
-  orig: 41, 60
-  offset: 0, 0
-  index: -1
+bounds:271,21,35,52
+rotate:90
 dmtr4
-  rotate: true
-  xy: 360, 156
-  size: 57, 84
-  orig: 62, 84
-  offset: 0, 0
-  index: -1
+bounds:179,59,49,72
+offsets:0,0,53,72
 dmtr5
-  rotate: false
-  xy: 167, 374
-  size: 83, 144
-  orig: 83, 144
-  offset: 0, 0
-  index: -1
+bounds:157,198,71,124
+rotate:90
 dmtr6
-  rotate: true
-  xy: 512, 17
-  size: 32, 29
-  orig: 32, 29
-  offset: 0, 0
-  index: -1
+bounds:50,205,27,25
 dmtr7
-  rotate: false
-  xy: 450, 87
-  size: 96, 91
-  orig: 96, 97
-  offset: 0, 6
-  index: -1
+bounds:278,183,82,78
+offsets:0,5,82,83
 dmtr8
-  rotate: false
-  xy: 557, 338
-  size: 41, 74
-  orig: 41, 74
-  offset: 0, 0
-  index: -1
+bounds:471,229,35,63
 dmtr9
-  rotate: false
-  xy: 363, 219
-  size: 81, 76
-  orig: 81, 76
-  offset: 0, 0
-  index: -1
+bounds:6,69,69,65

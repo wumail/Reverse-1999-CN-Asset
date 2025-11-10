@@ -1,69 +1,26 @@
-
 620140_mm.png
-size: 568,216
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 mumu_jijiao
-  rotate: false
-  xy: 527, 65
-  size: 31, 52
-  orig: 31, 52
-  offset: 0, 0
-  index: -1
+bounds:475,20,31,52
 mumu_qugan
-  rotate: false
-  xy: 6, 9
-  size: 230, 199
-  orig: 230, 199
-  offset: 0, 0
-  index: -1
+bounds:6,31,230,199
 mumu_shou1
-  rotate: 270
-  xy: 120, 9
-  size: 142, 167
-  orig: 142, 167
-  offset: 0, 0
-  index: -1
+bounds:168,88,142,167
+rotate:270
 mumu_shou2
-  rotate: 270
-  xy: 261, 22
-  size: 179, 123
-  orig: 179, 123
-  offset: 0, 0
-  index: -1
+bounds:286,51,179,123
+rotate:270
 mumu_shou3
-  rotate: 180
-  xy: 291, 8
-  size: 158, 109
-  orig: 158, 109
-  offset: 0, 0
-  index: -1
+bounds:348,59,158,109
+rotate:180
 mumu_shou4
-  rotate: true
-  xy: 390, 64
-  size: 123, 90
-  orig: 123, 90
-  offset: 0, 0
-  index: -1
+bounds:67,6,123,90
+rotate:180
 mumu_wei1
-  rotate: false
-  xy: 526, 13
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
+bounds:248,61,32,32
 mumu_wei2
-  rotate: 270
-  xy: 469, 11
-  size: 117, 52
-  orig: 117, 52
-  offset: 0, 0
-  index: -1
+bounds:222,14,117,52
 mumu_wei3
-  rotate: true
-  xy: 474, 122
-  size: 84, 59
-  orig: 84, 59
-  offset: 0, 0
-  index: -1
+bounds:415,171,84,59

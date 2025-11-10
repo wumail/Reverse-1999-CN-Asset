@@ -1,90 +1,35 @@
-
 410901_youlingmojing.png
-size: 528,752
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,1024
+filter:Linear,Linear
+scale:0.7
 bend1
-  rotate: true
-  xy: 414, 438
-  size: 130, 93
-  orig: 130, 93
-  offset: 0, 0
-  index: -1
+bounds:186,527,130,93
+rotate:90
 bend2
-  rotate: false
-  xy: 2, 2
-  size: 183, 158
-  orig: 183, 158
-  offset: 0, 0
-  index: -1
+bounds:216,104,183,158
+rotate:180
 bend3
-  rotate: true
-  xy: 2, 162
-  size: 28, 208
-  orig: 28, 208
-  offset: 0, 0
-  index: -1
+bounds:6,449,28,208
 chib
-  rotate: false
-  xy: 296, 274
-  size: 230, 162
-  orig: 230, 162
-  offset: 0, 0
-  index: -1
+bounds:6,148,230,162
 naok
-  rotate: false
-  xy: 296, 20
-  size: 222, 252
-  orig: 222, 252
-  offset: 0, 0
-  index: -1
+bounds:254,206,222,252
+rotate:270
 shangs
-  rotate: false
-  xy: 2, 480
-  size: 410, 269
-  orig: 410, 269
-  offset: 0, 0
-  index: -1
+bounds:6,247,410,269
+rotate:270
 shangs2
-  rotate: true
-  xy: 2, 262
-  size: 216, 292
-  orig: 216, 292
-  offset: 0, 0
-  index: -1
+bounds:280,365,216,292
 yanj
-  rotate: true
-  xy: 225, 180
-  size: 80, 52
-  orig: 80, 52
-  offset: 0, 0
-  index: -1
+bounds:406,148,80,52
 yous1
-  rotate: true
-  xy: 2, 192
-  size: 68, 221
-  orig: 78, 221
-  offset: 10, 0
-  index: -1
+bounds:239,56,68,221
+offsets:10,0,78,221
+rotate:270
 yous2
-  rotate: false
-  xy: 187, 49
-  size: 88, 85
-  orig: 88, 85
-  offset: 0, 0
-  index: -1
+bounds:145,6,88,85
 zuos1
-  rotate: false
-  xy: 414, 570
-  size: 93, 179
-  orig: 93, 179
-  offset: 0, 0
-  index: -1
+bounds:52,85,93,179
+rotate:270
 zuos2
-  rotate: true
-  xy: 212, 136
-  size: 42, 74
-  orig: 42, 74
-  offset: 0, 0
-  index: -1
+bounds:37,474,42,74

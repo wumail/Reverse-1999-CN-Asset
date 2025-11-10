@@ -1,209 +1,79 @@
-
 300601_xiaochunqueer_s.png
-size: 472,524
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.6
 gaiming0
-  rotate: true
-  xy: 444, 2
-  size: 49, 24
-  orig: 49, 29
-  offset: 0, 4
-  index: -1
+bounds:102,178,42,21
+offsets:0,3,42,25
 gaiming1
-  rotate: true
-  xy: 100, 36
-  size: 74, 73
-  orig: 74, 76
-  offset: 0, 3
-  index: -1
+bounds:222,19,63,62
+offsets:0,3,63,65
 gaiming10
-  rotate: false
-  xy: 137, 7
-  size: 34, 27
-  orig: 34, 27
-  offset: 0, 0
-  index: -1
+bounds:143,155,29,23
 gaiming11
-  rotate: false
-  xy: 335, 421
-  size: 127, 101
-  orig: 127, 101
-  offset: 0, 0
-  index: -1
+bounds:139,30,109,86
 gaiming12
-  rotate: true
-  xy: 160, 351
-  size: 51, 143
-  orig: 52, 146
-  offset: 1, 2
-  index: -1
+bounds:380,76,43,122
+offsets:1,2,44,125
+rotate:90
 gaiming13
-  rotate: false
-  xy: 2, 35
-  size: 96, 167
-  orig: 114, 167
-  offset: 9, 0
-  index: -1
+bounds:398,210,82,143
+offsets:8,0,98,143
 gaiming14
-  rotate: false
-  xy: 2, 204
-  size: 195, 143
-  orig: 196, 143
-  offset: 1, 0
-  index: -1
+bounds:6,81,167,122
+offsets:1,0,168,122
 gaiming15
-  rotate: false
-  xy: 305, 235
-  size: 37, 167
-  orig: 37, 167
-  offset: 0, 0
-  index: -1
+bounds:6,210,32,143
 gaiming2
-  rotate: false
-  xy: 199, 240
-  size: 102, 109
-  orig: 114, 109
-  offset: 0, 0
-  index: -1
+bounds:6,31,87,93
+offsets:0,0,98,93
+rotate:90
 gaiming3
-  rotate: true
-  xy: 417, 413
-  size: 6, 7
-  orig: 6, 7
-  offset: 0, 0
-  index: -1
+bounds:501,293,5,6
 gaiming4
-  rotate: true
-  xy: 335, 405
-  size: 14, 17
-  orig: 14, 17
-  offset: 0, 0
-  index: -1
+bounds:486,298,12,14
 gaiming5
-  rotate: true
-  xy: 354, 408
-  size: 11, 13
-  orig: 11, 13
-  offset: 0, 0
-  index: -1
+bounds:486,318,9,11
 gaiming6
-  rotate: true
-  xy: 30, 13
-  size: 20, 21
-  orig: 25, 21
-  offset: 0, 0
-  index: -1
+bounds:486,335,18,18
+offsets:0,0,21,18
 gaiming7
-  rotate: false
-  xy: 183, 50
-  size: 87, 75
-  orig: 87, 93
-  offset: 0, 18
-  index: -1
+bounds:251,51,74,65
+offsets:0,15,74,80
 gaiming8
-  rotate: true
-  xy: 344, 241
-  size: 162, 113
-  orig: 162, 113
-  offset: 0, 0
-  index: -1
+bounds:339,107,139,97
+rotate:180
 gaiming9
-  rotate: false
-  xy: 255, 7
-  size: 47, 31
-  orig: 50, 34
-  offset: 3, 2
-  index: -1
+bounds:343,161,40,26
+offsets:3,2,43,29
 x_ls_deng
-  rotate: true
-  xy: 175, 7
-  size: 41, 78
-  orig: 41, 78
-  offset: 0, 0
-  index: -1
+bounds:332,35,35,67
 x_ls_he_di
-  rotate: true
-  xy: 387, 53
-  size: 186, 76
-  orig: 186, 76
-  offset: 0, 0
-  index: -1
+bounds:178,122,159,65
 x_ls_he_gai1
-  rotate: false
-  xy: 160, 404
-  size: 173, 118
-  orig: 173, 118
-  offset: 0, 0
-  index: -1
+bounds:194,205,148,101
+rotate:90
 x_ls_he_gai2
-  rotate: true
-  xy: 2, 349
-  size: 173, 156
-  orig: 173, 156
-  offset: 0, 0
-  index: -1
+bounds:54,205,148,134
+rotate:90
 x_ls_he_shang
-  rotate: false
-  xy: 199, 127
-  size: 186, 106
-  orig: 186, 106
-  offset: 0, 0
-  index: -1
+bounds:301,193,160,91
+rotate:90
 x_ls_jinxian1
-  rotate: true
-  xy: 100, 112
-  size: 90, 81
-  orig: 90, 81
-  offset: 0, 0
-  index: -1
+bounds:68,6,77,70
+rotate:180
 x_ls_jinxian2
-  rotate: false
-  xy: 314, 14
-  size: 68, 35
-  orig: 68, 35
-  offset: 0, 0
-  index: -1
+bounds:437,40,58,30
 x_ls_jinxian3
-  rotate: true
-  xy: 2, 8
-  size: 25, 26
-  orig: 25, 26
-  offset: 0, 0
-  index: -1
+bounds:482,182,22,22
 x_ls_jinxian4
-  rotate: true
-  xy: 369, 413
-  size: 6, 46
-  orig: 6, 46
-  offset: 0, 0
-  index: -1
+bounds:43,314,5,39
 x_ls_jinxian6
-  rotate: true
-  xy: 314, 51
-  size: 74, 70
-  orig: 74, 70
-  offset: 0, 0
-  index: -1
+bounds:6,16,63,60
+rotate:180
 x_ls_jinxian7
-  rotate: true
-  xy: 100, 5
-  size: 29, 35
-  orig: 29, 35
-  offset: 0, 0
-  index: -1
+bounds:481,150,25,30
 x_ls_jinxian8
-  rotate: true
-  xy: 272, 40
-  size: 85, 40
-  orig: 85, 40
-  offset: 0, 0
-  index: -1
+bounds:373,36,73,34
 x_ls_jinxian9
-  rotate: false
-  xy: 386, 3
-  size: 56, 48
-  orig: 56, 48
-  offset: 0, 0
-  index: -1
+bounds:395,9,48,41

@@ -1,167 +1,62 @@
-
 670106_xltcy.png
-size: 408,208
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.6
 jqr2_tou2
-  rotate: false
-  xy: 308, 71
-  size: 47, 42
-  orig: 49, 44
-  offset: 1, 2
-  index: -1
+bounds:449,58,40,36
+offsets:1,2,42,38
 shandian1
-  rotate: false
-  xy: 308, 50
-  size: 73, 19
-  orig: 73, 20
-  offset: 0, 1
-  index: -1
+bounds:6,35,62,17
 shandian2
-  rotate: false
-  xy: 190, 2
-  size: 67, 22
-  orig: 67, 22
-  offset: 0, 0
-  index: -1
+bounds:112,41,57,19
 shandian3
-  rotate: true
-  xy: 296, 65
-  size: 90, 10
-  orig: 92, 10
-  offset: 1, 0
-  index: -1
+bounds:216,149,77,8
+offsets:1,0,79,8
 shandian4
-  rotate: false
-  xy: 318, 173
-  size: 86, 32
-  orig: 88, 32
-  offset: 1, 0
-  index: -1
+bounds:197,104,73,28
+offsets:1,0,75,28
 shandian5
-  rotate: true
-  xy: 272, 56
-  size: 99, 22
-  orig: 99, 22
-  offset: 0, 0
-  index: -1
+bounds:125,138,85,19
 shandian6
-  rotate: false
-  xy: 318, 150
-  size: 80, 21
-  orig: 82, 22
-  offset: 1, 0
-  index: -1
+bounds:197,46,69,18
+offsets:0,0,70,19
 shandian7
-  rotate: false
-  xy: 192, 26
-  size: 67, 50
-  orig: 67, 50
-  offset: 0, 0
-  index: -1
+bounds:447,100,57,43
+rotate:90
 shandian8
-  rotate: true
-  xy: 372, 93
-  size: 55, 28
-  orig: 55, 28
-  offset: 0, 0
-  index: -1
+bounds:59,62,47,24
 shandian9
-  rotate: false
-  xy: 306, 15
-  size: 55, 33
-  orig: 55, 33
-  offset: 0, 0
-  index: -1
+bounds:6,58,47,28
 xltcy_ lvdeng
-  rotate: false
-  xy: 281, 4
-  size: 18, 18
-  orig: 18, 18
-  offset: 0, 0
-  index: -1
+bounds:225,24,15,16
 xltcy_guangbiao
-  rotate: true
-  xy: 296, 56
-  size: 7, 8
-  orig: 9, 11
-  offset: 1, 1
-  index: -1
+bounds:433,151,6,6
+offsets:1,1,8,9
 xltcy_guangxian
-  rotate: false
-  xy: 308, 115
-  size: 62, 33
-  orig: 62, 33
-  offset: 0, 0
-  index: -1
+bounds:197,70,53,28
 xltcy_hongdeng
-  rotate: true
-  xy: 357, 71
-  size: 20, 18
-  orig: 20, 18
-  offset: 0, 0
-  index: -1
+bounds:256,82,17,16
 xltcy_jingbao1
-  rotate: true
-  xy: 377, 71
-  size: 20, 18
-  orig: 20, 18
-  offset: 0, 0
-  index: -1
+bounds:202,25,17,15
 xltcy_jingbao2
-  rotate: false
-  xy: 259, 6
-  size: 20, 16
-  orig: 20, 16
-  offset: 0, 0
-  index: -1
+bounds:246,26,17,14
 xltcy_jingbaoguang
-  rotate: false
-  xy: 192, 78
-  size: 78, 77
-  orig: 82, 81
-  offset: 2, 2
-  index: -1
+bounds:124,66,67,66
+offsets:2,1,70,69
 xltcy_shenti
-  rotate: false
-  xy: 2, 29
-  size: 188, 176
-  orig: 190, 177
-  offset: 0, 1
-  index: -1
+bounds:283,6,161,151
+offsets:0,1,163,152
+rotate:180
 xltcy_shoubi
-  rotate: false
-  xy: 2, 4
-  size: 134, 23
-  orig: 139, 41
-  offset: 5, 18
-  index: -1
+bounds:6,138,114,19
+offsets:5,16,119,35
 xltcy_tianxian
-  rotate: true
-  xy: 138, 2
-  size: 25, 50
-  orig: 25, 50
-  offset: 0, 0
-  index: -1
+bounds:175,17,21,43
 xltcy_tou
-  rotate: false
-  xy: 192, 157
-  size: 124, 48
-  orig: 125, 74
-  offset: 1, 0
-  index: -1
+bounds:11,91,107,41
+offsets:0,0,107,64
 xltcy_toudeng
-  rotate: false
-  xy: 261, 24
-  size: 43, 30
-  orig: 125, 74
-  offset: 30, 44
-  index: -1
+bounds:450,26,36,26
+offsets:26,38,107,64
 xltcy_youshou
-  rotate: false
-  xy: 363, 14
-  size: 31, 34
-  orig: 31, 34
-  offset: 0, 0
-  index: -1
+bounds:74,27,26,29

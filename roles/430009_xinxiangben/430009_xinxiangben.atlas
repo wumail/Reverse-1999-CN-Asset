@@ -1,97 +1,39 @@
-
 430009_xinxiangben.png
-size: 944,512
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,1024
+filter:Linear,Linear
+scale:0.6
 xxb0301
-  rotate: false
-  xy: 168, 11
-  size: 11, 62
-  orig: 11, 62
-  offset: 0, 0
-  index: -1
+bounds:432,581,9,53
 xxb0302
-  rotate: true
-  xy: 323, 157
-  size: 17, 32
-  orig: 17, 32
-  offset: 0, 0
-  index: -1
+bounds:483,606,14,28
 xxb0601
-  rotate: true
-  xy: 825, 176
-  size: 37, 48
-  orig: 41, 48
-  offset: 4, 0
-  index: -1
+bounds:447,593,31,41
+offsets:4,0,35,41
 xxb1
-  rotate: true
-  xy: 810, 2
-  size: 172, 109
-  orig: 172, 122
-  offset: 0, 13
-  index: -1
+bounds:350,6,147,93
+offsets:0,11,147,104
 xxb10
-  rotate: false
-  xy: 358, 408
-  size: 490, 101
-  orig: 490, 101
-  offset: 0, 0
-  index: -1
+bounds:6,548,420,86
 xxb2
-  rotate: false
-  xy: 620, 11
-  size: 188, 163
-  orig: 197, 273
-  offset: 9, 110
-  index: -1
+bounds:345,163,161,140
+offsets:8,94,169,234
 xxb3
-  rotate: true
-  xy: 825, 215
-  size: 191, 116
-  orig: 191, 129
-  offset: 0, 13
-  index: -1
+bounds:324,445,164,99
+offsets:0,11,164,110
 xxb4
-  rotate: true
-  xy: 620, 176
-  size: 230, 203
-  orig: 230, 310
-  offset: 0, 107
-  index: -1
+bounds:125,107,197,174
+offsets:0,92,197,266
 xxb5
-  rotate: false
-  xy: 358, 156
-  size: 260, 250
-  orig: 260, 250
-  offset: 0, 0
-  index: -1
+bounds:283,258,223,214
 xxb6
-  rotate: false
-  xy: 2, 176
-  size: 354, 333
-  orig: 354, 333
-  offset: 0, 0
-  index: -1
+bounds:6,256,304,286
+rotate:180
 xxb7
-  rotate: true
-  xy: 2, 75
-  size: 99, 319
-  orig: 99, 319
-  offset: 0, 0
-  index: -1
+bounds:232,70,85,274
+rotate:90
 xxb8
-  rotate: true
-  xy: 2, 3
-  size: 70, 164
-  orig: 70, 167
-  offset: 0, 0
-  index: -1
+bounds:43,110,60,141
+offsets:0,0,60,143
 xxb9
-  rotate: true
-  xy: 323, 34
-  size: 120, 284
-  orig: 120, 284
-  offset: 0, 0
-  index: -1
+bounds:6,36,103,243
+rotate:270

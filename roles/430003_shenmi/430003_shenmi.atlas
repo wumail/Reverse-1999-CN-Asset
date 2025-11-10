@@ -1,104 +1,41 @@
-
 430003_shenmi.png
-size: 1480,592
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,512
+filter:Linear,Linear
+scale:0.7
 smxj1
-  rotate: true
-  xy: 313, 232
-  size: 358, 253
-  orig: 358, 253
-  offset: 0, 0
-  index: -1
+bounds:6,6,358,253
 smxj10
-  rotate: false
-  xy: 443, 7
-  size: 206, 223
-  orig: 216, 223
-  offset: 0, 0
-  index: -1
+bounds:1181,8,206,223
+offsets:0,0,216,223
 smxj11
-  rotate: true
-  xy: 2, 2
-  size: 189, 224
-  orig: 189, 224
-  offset: 0, 0
-  index: -1
+bounds:369,35,189,224
 smxj12
-  rotate: false
-  xy: 824, 242
-  size: 311, 230
-  orig: 311, 230
-  offset: 0, 0
-  index: -1
+bounds:1731,10,311,230
 smxj13
-  rotate: true
-  xy: 228, 23
-  size: 168, 213
-  orig: 168, 213
-  offset: 0, 0
-  index: -1
+bounds:1668,168,168,213
 smxj14
-  rotate: false
-  xy: 2, 193
-  size: 309, 397
-  orig: 309, 397
-  offset: 0, 0
-  index: -1
+bounds:664,72,309,397
+rotate:90
 smxj15touying
-  rotate: false
-  xy: 824, 474
-  size: 652, 116
-  orig: 652, 116
-  offset: 0, 0
-  index: -1
+bounds:6,265,652,116
 smxj2
-  rotate: false
-  xy: 850, 22
-  size: 240, 218
-  orig: 260, 218
-  offset: 0, 0
-  index: -1
+bounds:1330,141,240,218
+offsets:0,0,260,218
+rotate:90
 smxj3
-  rotate: false
-  xy: 651, 7
-  size: 197, 232
-  orig: 197, 232
-  offset: 0, 0
-  index: -1
+bounds:1845,87,197,232
 smxj4
-  rotate: false
-  xy: 568, 241
-  size: 254, 349
-  orig: 299, 349
-  offset: 45, 0
-  index: -1
+bounds:1415,32,254,349
+offsets:45,0,299,349
+rotate:180
 smxj5
-  rotate: true
-  xy: 1231, 61
-  size: 130, 105
-  orig: 130, 105
-  offset: 0, 0
-  index: -1
+bounds:329,154,130,105
 smxj6
-  rotate: true
-  xy: 1092, 50
-  size: 141, 137
-  orig: 141, 137
-  offset: 0, 0
-  index: -1
+bounds:1842,240,141,137
+rotate:90
 smxj8
-  rotate: true
-  xy: 1338, 80
-  size: 111, 112
-  orig: 111, 112
-  offset: 0, 0
-  index: -1
+bounds:546,134,111,112
 smxj9
-  rotate: false
-  xy: 1137, 193
-  size: 293, 279
-  orig: 419, 669
-  offset: 68, 282
-  index: -1
+bounds:1067,88,293,279
+offsets:68,282,419,669
+rotate:90

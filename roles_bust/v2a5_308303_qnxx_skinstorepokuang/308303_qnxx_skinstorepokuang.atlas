@@ -1,125 +1,49 @@
-
 308303_qnxx_skinstorepokuang.png
-size: 320,952
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:1024,512
+filter:Linear,Linear
+scale:0.4
 skill12
-  rotate: false
-  xy: 6, 675
-  size: 53, 40
-  orig: 54, 40
-  offset: 0, 0
-  index: -1
+bounds:187,309,53,40
+offsets:0,0,54,40
 skill13
-  rotate: false
-  xy: 6, 791
-  size: 62, 51
-  orig: 64, 52
-  offset: 1, 1
-  index: -1
+bounds:119,298,62,51
+offsets:1,1,64,52
 skill14
-  rotate: false
-  xy: 65, 652
-  size: 52, 37
-  orig: 53, 40
-  offset: 0, 2
-  index: -1
+bounds:6,312,52,37
+offsets:0,2,53,40
 skill31
-  rotate: false
-  xy: 6, 190
-  size: 307, 343
-  orig: 307, 343
-  offset: 0, 0
-  index: -1
+bounds:6,6,307,343
 unique101
-  rotate: false
-  xy: 6, 848
-  size: 107, 97
-  orig: 107, 99
-  offset: 0, 1
-  index: -1
+bounds:868,242,107,97
+offsets:0,1,107,99
+rotate:90
 unique141
-  rotate: false
-  xy: 256, 21
-  size: 23, 54
-  orig: 23, 54
-  offset: 0, 0
-  index: -1
+bounds:497,295,23,54
 unique150
-  rotate: false
-  xy: 6, 651
-  size: 267, 295
-  orig: 267, 390
-  offset: 0, 0
-  index: -1
+bounds:256,54,267,295
+offsets:0,0,267,390
 unique151
-  rotate: true
-  xy: 6, 8
-  size: 200, 201
-  orig: 200, 201
-  offset: 0, 0
-  index: -1
+bounds:677,31,200,201
+rotate:90
 unique152
-  rotate: false
-  xy: 105, 12
-  size: 43, 44
-  orig: 43, 44
-  offset: 0, 0
-  index: -1
+bounds:971,305,43,44
 unique153
-  rotate: false
-  xy: 119, 933
-  size: 22, 12
-  orig: 22, 12
-  offset: 0, 0
-  index: -1
+bounds:246,337,22,12
 unique154
-  rotate: false
-  xy: 206, 16
-  size: 44, 55
-  orig: 44, 55
-  offset: 0, 0
-  index: -1
+bounds:175,259,44,55
+rotate:90
 unique155
-  rotate: false
-  xy: 240, 858
-  size: 71, 86
-  orig: 71, 86
-  offset: 0, 0
-  index: -1
+bounds:6,94,71,86
 unique156
-  rotate: 270
-  xy: 6, 175
-  size: 199, 191
-  orig: 199, 191
-  offset: 0, 0
-  index: -1
+bounds:677,150,199,191
+rotate:90
 unique57_1
-  rotate: false
-  xy: 6, 503
-  size: 265, 142
-  orig: 265, 142
-  offset: 0, 0
-  index: -1
+bounds:529,84,265,142
+rotate:90
 unique67
-  rotate: false
-  xy: 172, 75
-  size: 137, 108
-  orig: 137, 108
-  offset: 0, 0
-  index: -1
+bounds:874,99,137,108
+rotate:90
 unique68
-  rotate: false
-  xy: 267, 202
-  size: 42, 38
-  orig: 42, 38
-  offset: 0, 0
-  index: -1
+bounds:64,311,42,38
 unique69
-  rotate: false
-  xy: 6, 22
-  size: 94, 53
-  orig: 94, 53
-  offset: 0, 0
-  index: -1
+bounds:319,296,94,53

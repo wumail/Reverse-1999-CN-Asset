@@ -1,202 +1,69 @@
-
 306001_jinmier_s.png
-size: 540,272
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 cb1
-  rotate: false
-  xy: 388, 130
-  size: 27, 24
-  orig: 27, 24
-  offset: 0, 0
-  index: -1
+bounds:340,33,27,24
 cb2
-  rotate: false
-  xy: 505, 197
-  size: 33, 25
-  orig: 33, 25
-  offset: 0, 0
-  index: -1
+bounds:447,76,33,25
 dz
-  rotate: false
-  xy: 458, 4
-  size: 43, 51
-  orig: 43, 51
-  offset: 0, 0
-  index: -1
+bounds:433,180,43,51
 hu1
-  rotate: false
-  xy: 496, 115
-  size: 38, 53
-  orig: 38, 53
-  offset: 0, 0
-  index: -1
+bounds:286,83,38,53
+rotate:180
 hu2
-  rotate: false
-  xy: 420, 2
-  size: 36, 53
-  orig: 36, 53
-  offset: 0, 0
-  index: -1
+bounds:433,138,36,53
+rotate:90
 tf
-  rotate: true
-  xy: 358, 9
-  size: 84, 60
-  orig: 84, 60
-  offset: 0, 0
-  index: -1
+bounds:364,66,84,60
 tou
-  rotate: false
-  xy: 420, 199
-  size: 83, 69
-  orig: 83, 69
-  offset: 0, 0
-  index: -1
+bounds:198,67,83,69
 x_ls_deng
-  rotate: false
-  xy: 2, 2
-  size: 41, 78
-  orig: 41, 78
-  offset: 0, 0
-  index: -1
+bounds:433,237,41,78
 x_ls_he_di
-  rotate: false
-  xy: 45, 4
-  size: 186, 76
-  orig: 186, 76
-  offset: 0, 0
-  index: -1
+bounds:6,60,186,76
 x_ls_he_gai1
-  rotate: true
-  xy: 268, 95
-  size: 173, 118
-  orig: 173, 118
-  offset: 0, 0
-  index: -1
+bounds:197,142,173,118
+rotate:90
 x_ls_he_gai2
-  rotate: true
-  xy: 110, 95
-  size: 173, 156
-  orig: 173, 156
-  offset: 0, 0
-  index: -1
+bounds:18,159,173,156
 x_ls_he_shang
-  rotate: true
-  xy: 2, 82
-  size: 186, 106
-  orig: 186, 106
-  offset: 0, 0
-  index: -1
+bounds:321,129,186,106
+rotate:90
 x_ls_jinxian1
-  rotate: true
-  xy: 233, 3
-  size: 90, 81
-  orig: 90, 81
-  offset: 0, 0
-  index: -1
+bounds:416,7,90,81
+rotate:180
 x_ls_jinxian2
-  rotate: false
-  xy: 420, 90
-  size: 68, 35
-  orig: 68, 35
-  offset: 0, 0
-  index: -1
+bounds:174,26,68,35
 x_ls_jinxian3
-  rotate: true
-  xy: 388, 103
-  size: 25, 26
-  orig: 25, 26
-  offset: 0, 0
-  index: -1
+bounds:419,30,25,26
 x_ls_jinxian4
-  rotate: true
-  xy: 178, 87
-  size: 6, 46
-  orig: 6, 46
-  offset: 0, 0
-  index: -1
+bounds:6,269,6,46
 x_ls_jinxian6
-  rotate: false
-  xy: 420, 127
-  size: 74, 70
-  orig: 74, 70
-  offset: 0, 0
-  index: -1
+bounds:340,51,74,70
+rotate:180
 x_ls_jinxian7
-  rotate: false
-  xy: 388, 233
-  size: 29, 35
-  orig: 29, 35
-  offset: 0, 0
-  index: -1
+bounds:247,28,29,35
 x_ls_jinxian8
-  rotate: true
-  xy: 316, 8
-  size: 85, 40
-  orig: 85, 40
-  offset: 0, 0
-  index: -1
+bounds:264,45,85,40
+rotate:180
 x_ls_jinxian9
-  rotate: true
-  xy: 490, 57
-  size: 56, 48
-  orig: 56, 48
-  offset: 0, 0
-  index: -1
+bounds:6,6,56,48
 xy
-  rotate: false
-  xy: 152, 83
-  size: 24, 10
-  orig: 24, 10
-  offset: 0, 0
-  index: -1
+bounds:6,143,24,10
 y1
-  rotate: false
-  xy: 505, 224
-  size: 33, 44
-  orig: 33, 44
-  offset: 0, 0
-  index: -1
+bounds:473,97,33,44
 y2
-  rotate: true
-  xy: 420, 68
-  size: 20, 36
-  orig: 20, 36
-  offset: 0, 0
-  index: -1
+bounds:480,233,20,36
 ys
-  rotate: true
-  xy: 503, 35
-  size: 20, 35
-  orig: 20, 35
-  offset: 0, 0
-  index: -1
+bounds:277,59,20,35
+rotate:90
 yt
-  rotate: false
-  xy: 388, 194
-  size: 27, 37
-  orig: 27, 37
-  offset: 0, 0
-  index: -1
+bounds:479,183,27,37
 z
-  rotate: true
-  xy: 110, 83
-  size: 10, 40
-  orig: 10, 40
-  offset: 0, 0
-  index: -1
+bounds:496,26,10,40
 zs
-  rotate: false
-  xy: 388, 156
-  size: 27, 36
-  orig: 27, 36
-  offset: 0, 0
-  index: -1
+bounds:421,51,27,36
+rotate:90
 zt
-  rotate: true
-  xy: 496, 170
-  size: 25, 41
-  orig: 25, 41
-  offset: 0, 0
-  index: -1
+bounds:480,274,25,41

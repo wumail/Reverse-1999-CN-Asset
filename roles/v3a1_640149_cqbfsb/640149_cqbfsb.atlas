@@ -1,146 +1,60 @@
-
 640149_cqbfsb.png
-size: 696,260
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 panjun_01
-  rotate: false
-  xy: 6, 162
-  size: 58, 41
-  orig: 58, 42
-  offset: 0, 1
-  index: -1
+bounds:465,103,58,41
+offsets:0,1,58,42
+rotate:90
 panjun_02
-  rotate: false
-  xy: 633, 16
-  size: 55, 55
-  orig: 55, 55
-  offset: 0, 0
-  index: -1
+bounds:6,236,55,55
 panjun_03
-  rotate: false
-  xy: 6, 63
-  size: 299, 191
-  orig: 299, 191
-  offset: 0, 0
-  index: -1
+bounds:6,154,299,191
 panjun_04
-  rotate: 270
-  xy: 500, 22
-  size: 84, 60
-  orig: 84, 60
-  offset: 0, 0
-  index: -1
+bounds:89,44,84,60
 panjun_05
-  rotate: 180
-  xy: 432, 25
-  size: 68, 98
-  orig: 68, 102
-  offset: 0, 0
-  index: -1
+bounds:362,82,68,98
+offsets:0,0,68,102
+rotate:90
 panjun_06
-  rotate: 270
-  xy: 179, 203
-  size: 51, 62
-  orig: 51, 62
-  offset: 0, 0
-  index: -1
+bounds:182,294,51,62
+rotate:90
 panjun_07
-  rotate: true
-  xy: 608, 190
-  size: 64, 81
-  orig: 64, 81
-  offset: 0, 0
-  index: -1
+bounds:6,7,64,81
+rotate:270
 panjun_08
-  rotate: false
-  xy: 54, 230
-  size: 32, 24
-  orig: 32, 24
-  offset: 0, 0
-  index: -1
+bounds:55,321,32,24
 panjun_09
-  rotate: false
-  xy: 545, 81
-  size: 71, 74
-  orig: 71, 74
-  offset: 0, 0
-  index: -1
+bounds:432,23,71,74
+rotate:90
 panjun_10
-  rotate: false
-  xy: 597, 101
-  size: 59, 98
-  orig: 59, 98
-  offset: 0, 0
-  index: -1
+bounds:242,6,59,98
+rotate:270
 zn_bozi
-  rotate: false
-  xy: 520, 184
-  size: 83, 70
-  orig: 83, 70
-  offset: 0, 0
-  index: -1
+bounds:321,33,83,70
 zn_tou
-  rotate: 180
-  xy: 243, 132
-  size: 102, 123
-  orig: 102, 123
-  offset: 0, 0
-  index: -1
+bounds:381,222,102,123
+rotate:180
 zn_xiabai
-  rotate: false
-  xy: 139, 7
-  size: 128, 70
-  orig: 130, 71
-  offset: 1, 1
-  index: -1
+bounds:6,157,128,70
+offsets:1,1,130,71
 zn_xiongqiang
-  rotate: 180
-  xy: 6, 28
-  size: 128, 128
-  orig: 130, 128
-  offset: 0, 0
-  index: -1
+bounds:253,217,128,128
+offsets:0,0,130,128
 zn_youjiao
-  rotate: false
-  xy: 403, 177
-  size: 78, 77
-  orig: 78, 77
-  offset: 0, 0
-  index: -1
+bounds:6,75,78,77
 zn_youtui1
-  rotate: 180
-  xy: 350, 124
-  size: 65, 95
-  orig: 65, 95
-  offset: 0, 0
-  index: -1
+bounds:125,107,65,95
+rotate:270
 zn_youtui2
-  rotate: 270
-  xy: 565, 7
-  size: 68, 62
-  orig: 68, 62
-  offset: 0, 0
-  index: -1
+bounds:178,17,68,62
+rotate:270
 zn_zuojiao
-  rotate: 180
-  xy: 369, 9
-  size: 67, 94
-  orig: 67, 94
-  offset: 0, 0
-  index: -1
+bounds:297,107,67,94
+rotate:180
 zn_zuotui1
-  rotate: false
-  xy: 298, 25
-  size: 80, 101
-  orig: 80, 101
-  offset: 0, 0
-  index: -1
+bounds:370,148,80,101
+rotate:90
 zn_zuotui2
-  rotate: 180
-  xy: 472, 121
-  size: 74, 78
-  orig: 74, 78
-  offset: 0, 0
-  index: -1
+bounds:215,77,74,78
+rotate:180

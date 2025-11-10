@@ -1,111 +1,47 @@
-
 500301_shoubiao_p.png
-size: 2048,1932
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.7
 0050
-  rotate: true
-  xy: 6, 158
-  size: 469, 243
-  orig: 470, 244
-  offset: 0, 1
-  index: -1
+bounds:6,157,469,243
+offsets:0,1,470,244
+rotate:90
 0054
-  rotate: false
-  xy: 255, 161
-  size: 466, 231
-  orig: 467, 231
-  offset: 0, 0
-  index: -1
+bounds:255,160,466,231
+offsets:0,0,467,231
 1500
-  rotate: false
-  xy: 727, 7
-  size: 304, 225
-  orig: 304, 226
-  offset: 0, 1
-  index: -1
+bounds:727,6,304,225
+offsets:0,1,304,226
 1600
-  rotate: false
-  xy: 785, 238
-  size: 310, 226
-  orig: 310, 227
-  offset: 0, 1
-  index: -1
+bounds:785,237,310,226
+offsets:0,1,310,227
 2200
-  rotate: false
-  xy: 304, 398
-  size: 475, 240
-  orig: 477, 242
-  offset: 1, 1
-  index: -1
+bounds:1125,236,475,240
+offsets:1,1,477,242
 2359
-  rotate: false
-  xy: 1037, 29
-  size: 333, 202
-  orig: 335, 204
-  offset: 0, 1
-  index: -1
+bounds:1037,28,333,202
+offsets:0,1,335,204
 2400
-  rotate: false
-  xy: 1125, 237
-  size: 475, 240
-  orig: 476, 243
-  offset: 0, 1
-  index: -1
+bounds:304,397,475,240
+offsets:0,1,476,243
 damuzhi
-  rotate: false
-  xy: 1460, 94
-  size: 582, 151
-  orig: 582, 151
-  offset: 0, 0
-  index: -1
+bounds:1460,92,582,151
 huabian
-  rotate: 270
-  xy: 1097, 756
-  size: 804, 944
-  orig: 804, 944
-  offset: 0, 0
-  index: -1
+bounds:1098,754,804,944
+rotate:270
 huabianli
-  rotate: true
-  xy: 890, 1240
-  size: 685, 939
-  orig: 685, 939
-  offset: 0, 0
-  index: -1
+bounds:890,1239,685,939
+rotate:90
 shoubi
-  rotate: false
-  xy: 6, 1081
-  size: 1065, 844
-  orig: 1065, 844
-  offset: 0, 0
-  index: -1
+bounds:6,1080,1065,844
 shoubiao
-  rotate: true
-  xy: 1606, 267
-  size: 482, 387
-  orig: 482, 387
-  offset: 0, 0
-  index: -1
+bounds:1606,267,482,387
+rotate:90
 shouzhang
-  rotate: 180
-  xy: 785, 470
-  size: 815, 462
-  orig: 815, 462
-  offset: 0, 0
-  index: -1
+bounds:785,469,815,462
+rotate:180
 xiaobi
-  rotate: false
-  xy: 128, 630
-  size: 984, 769
-  orig: 984, 847
-  offset: 0, 0
-  index: -1
+bounds:128,629,984,769
+offsets:0,0,984,847
 xiaozhi
-  rotate: false
-  xy: 6, 1755
-  size: 275, 170
-  orig: 275, 170
-  offset: 0, 0
-  index: -1
+bounds:6,1754,275,170

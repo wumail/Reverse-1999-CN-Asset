@@ -1,258 +1,107 @@
-
 650102_xuesheng2.png
-size: 160,948
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.6
 benchi
-  rotate: false
-  xy: 133, 923
-  size: 25, 22
-  orig: 25, 22
-  offset: 0, 0
-  index: -1
+bounds:484,123,22,19
 bozi
-  rotate: false
-  xy: 133, 885
-  size: 23, 36
-  orig: 23, 36
-  offset: 0, 0
-  index: -1
+bounds:386,23,20,31
 fa1
-  rotate: true
-  xy: 2, 442
-  size: 88, 97
-  orig: 89, 97
-  offset: 1, 0
-  index: -1
+bounds:379,127,76,83
+rotate:180
 fa2
-  rotate: false
-  xy: 2, 841
-  size: 129, 104
-  orig: 133, 104
-  offset: 4, 0
-  index: -1
+bounds:95,99,111,89
+offsets:3,0,114,89
+rotate:90
 fa3
-  rotate: true
-  xy: 108, 471
-  size: 66, 50
-  orig: 66, 54
-  offset: 0, 0
-  index: -1
+bounds:272,65,56,43
+offsets:0,0,56,46
+rotate:180
 fa4
-  rotate: true
-  xy: 2, 238
-  size: 52, 85
-  orig: 53, 85
-  offset: 0, 0
-  index: -1
+bounds:80,74,45,73
+rotate:270
 houbai
-  rotate: true
-  xy: 101, 413
-  size: 56, 57
-  orig: 56, 57
-  offset: 0, 0
-  index: -1
+bounds:392,57,48,49
 hudiejie
-  rotate: true
-  xy: 131, 790
-  size: 38, 19
-  orig: 38, 19
-  offset: 0, 0
-  index: -1
+bounds:451,13,32,16
 mozhang
-  rotate: true
-  xy: 2, 189
-  size: 47, 77
-  orig: 47, 77
-  offset: 0, 0
-  index: -1
+bounds:6,6,40,66
+rotate:90
 qunzi
-  rotate: true
-  xy: 2, 739
-  size: 100, 127
-  orig: 100, 128
-  offset: 0, 1
-  index: -1
+bounds:6,101,86,109
+offsets:0,1,86,110
 shangshen
-  rotate: true
-  xy: 2, 292
-  size: 58, 88
-  orig: 64, 88
-  offset: 0, 0
-  index: -1
+bounds:331,135,50,75
+offsets:0,0,55,75
 ssyy
-  rotate: false
-  xy: 2, 34
-  size: 46, 30
-  orig: 46, 31
-  offset: 0, 1
-  index: -1
+bounds:154,11,39,25
+offsets:0,1,39,26
 tou
-  rotate: true
-  xy: 2, 352
-  size: 88, 97
-  orig: 88, 97
-  offset: 0, 0
-  index: -1
+bounds:188,127,75,83
+rotate:180
 weijin
-  rotate: true
-  xy: 2, 663
-  size: 74, 118
-  orig: 74, 125
-  offset: 0, 0
-  index: -1
+bounds:263,109,63,101
+offsets:0,0,63,107
+rotate:180
 weijinyy
-  rotate: false
-  xy: 89, 200
-  size: 69, 53
-  orig: 69, 53
-  offset: 0, 0
-  index: -1
+bounds:310,15,59,46
+rotate:180
 youdabi
-  rotate: true
-  xy: 60, 40
-  size: 41, 52
-  orig: 41, 52
-  offset: 0, 0
-  index: -1
+bounds:460,175,35,44
+rotate:90
 youdatui
-  rotate: true
-  xy: 81, 162
-  size: 36, 71
-  orig: 41, 73
-  offset: 3, 0
-  index: -1
+bounds:192,48,30,61
+offsets:3,0,35,62
+rotate:90
 youjiao
-  rotate: false
-  xy: 92, 255
-  size: 66, 84
-  orig: 66, 84
-  offset: 0, 0
-  index: -1
+bounds:434,71,56,72
+rotate:90
 youshou
-  rotate: false
-  xy: 50, 7
-  size: 45, 31
-  orig: 52, 32
-  offset: 1, 1
-  index: -1
+bounds:190,22,39,26
+offsets:1,1,44,28
 youxiaobi
-  rotate: true
-  xy: 112, 539
-  size: 57, 46
-  orig: 57, 46
-  offset: 0, 0
-  index: -1
+bounds:81,36,49,39
 youxiaotui
-  rotate: true
-  xy: 2, 572
-  size: 89, 108
-  orig: 89, 111
-  offset: 0, 3
-  index: -1
+bounds:414,104,76,92
+offsets:0,3,76,95
+rotate:90
 zui1
-  rotate: true
-  xy: 150, 759
-  size: 15, 8
-  orig: 15, 8
-  offset: 0, 0
-  index: -1
+bounds:380,203,13,7
 zui2
-  rotate: false
-  xy: 131, 776
-  size: 19, 12
-  orig: 19, 12
-  offset: 0, 0
-  index: -1
+bounds:257,200,16,10
 zuodabi
-  rotate: true
-  xy: 74, 83
-  size: 43, 58
-  orig: 43, 58
-  offset: 0, 0
-  index: -1
+bounds:258,38,37,50
+rotate:270
 zuodabi2
-  rotate: false
-  xy: 101, 341
-  size: 57, 32
-  orig: 57, 32
-  offset: 0, 0
-  index: -1
+bounds:29,36,49,28
+rotate:180
 zuodatui
-  rotate: true
-  xy: 74, 128
-  size: 32, 64
-  orig: 37, 67
-  offset: 2, 0
-  index: -1
+bounds:134,182,28,55
+offsets:1,0,32,58
+rotate:90
 zuojiao
-  rotate: true
-  xy: 2, 121
-  size: 66, 70
-  orig: 66, 71
-  offset: 0, 1
-  index: -1
+bounds:330,75,56,60
+offsets:0,1,56,61
+rotate:90
 zuoshou1
-  rotate: true
-  xy: 2, 2
-  size: 30, 31
-  orig: 30, 31
-  offset: 0, 0
-  index: -1
+bounds:124,15,26,26
 zuoshou2
-  rotate: true
-  xy: 114, 40
-  size: 41, 44
-  orig: 41, 44
-  offset: 0, 0
-  index: -1
+bounds:468,35,35,38
+rotate:90
 zuoshou2_1
-  rotate: true
-  xy: 133, 830
-  size: 53, 22
-  orig: 54, 22
-  offset: 1, 0
-  index: -1
+bounds:233,23,45,19
+offsets:1,0,46,19
 zuoshou2_2
-  rotate: true
-  xy: 131, 736
-  size: 38, 17
-  orig: 38, 17
-  offset: 0, 0
-  index: -1
+bounds:86,18,32,14
 zuoxiaobi
-  rotate: false
-  xy: 2, 66
-  size: 56, 53
-  orig: 56, 53
-  offset: 0, 0
-  index: -1
+bounds:334,40,48,45
 zuoxiaobi2
-  rotate: true
-  xy: 122, 660
-  size: 74, 36
-  orig: 74, 36
-  offset: 0, 0
-  index: -1
+bounds:6,68,64,31
 zuoxiaotui
-  rotate: true
-  xy: 2, 532
-  size: 38, 104
-  orig: 38, 104
-  offset: 0, 0
-  index: -1
+bounds:181,85,32,89
+rotate:270
 zuoxiuzi
-  rotate: true
-  xy: 112, 598
-  size: 60, 46
-  orig: 60, 46
-  offset: 0, 0
-  index: -1
+bounds:136,43,51,40
 zuoyixiu
-  rotate: true
-  xy: 101, 375
-  size: 36, 57
-  orig: 36, 57
-  offset: 0, 0
-  index: -1
+bounds:413,30,31,49
+rotate:90

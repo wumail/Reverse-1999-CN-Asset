@@ -1,237 +1,98 @@
-
 620114_byp1.png
-size: 1120,272
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,1024
+filter:Linear,Linear
+scale:0.7
 body
-  rotate: false
-  xy: 132, 69
-  size: 311, 201
-  orig: 311, 221
-  offset: 0, 20
-  index: -1
+bounds:39,233,311,203
+offsets:0,18,311,221
+rotate:270
 fins
-  rotate: false
-  xy: 445, 73
-  size: 160, 197
-  orig: 169, 197
-  offset: 9, 0
-  index: -1
+bounds:247,202,162,197
+offsets:7,0,169,197
 foreleg01_1_r
-  rotate: false
-  xy: 242, 13
-  size: 102, 54
-  orig: 102, 54
-  offset: 0, 0
-  index: -1
+bounds:344,85,102,54
 foreleg01_2_r
-  rotate: false
-  xy: 1036, 95
-  size: 74, 82
-  orig: 74, 82
-  offset: 0, 0
-  index: -1
+bounds:94,128,74,82
 foreleg01_l
-  rotate: false
-  xy: 346, 13
-  size: 88, 54
-  orig: 88, 54
-  offset: 0, 0
-  index: -1
+bounds:452,53,88,54
+rotate:90
 foreleg02_l
-  rotate: true
-  xy: 140, 7
-  size: 60, 53
-  orig: 60, 53
-  offset: 0, 0
-  index: -1
+bounds:312,48,60,53
+rotate:180
 foreleg02_r
-  rotate: true
-  xy: 956, 41
-  size: 92, 78
-  orig: 92, 78
-  offset: 0, 0
-  index: -1
+bounds:215,68,92,78
+rotate:180
 foreleg03_l
-  rotate: true
-  xy: 653, 5
-  size: 67, 86
-  orig: 67, 86
-  offset: 0, 0
-  index: -1
+bounds:6,161,67,86
+rotate:90
 foreleg03_r
-  rotate: true
-  xy: 2, 2
-  size: 59, 60
-  orig: 59, 60
-  offset: 0, 0
-  index: -1
+bounds:312,339,59,60
+rotate:180
 foreleg04_r
-  rotate: false
-  xy: 750, 131
-  size: 112, 139
-  orig: 112, 139
-  offset: 0, 0
-  index: -1
+bounds:247,405,112,139
 hindleg01_l
-  rotate: false
-  xy: 904, 24
-  size: 50, 108
-  orig: 51, 108
-  offset: 0, 0
-  index: -1
+bounds:367,145,50,108
+offsets:0,0,51,108
+rotate:90
 hindleg01_r
-  rotate: false
-  xy: 864, 162
-  size: 88, 108
-  orig: 88, 109
-  offset: 0, 1
-  index: -1
+bounds:383,286,88,108
+offsets:0,1,88,109
 hindleg02_l
-  rotate: false
-  xy: 741, 11
-  size: 40, 43
-  orig: 40, 43
-  offset: 0, 0
-  index: -1
+bounds:454,7,40,43
+rotate:90
 hindleg02_r
-  rotate: false
-  xy: 658, 74
-  size: 45, 49
-  orig: 45, 49
-  offset: 0, 0
-  index: -1
+bounds:87,20,45,49
 hindleg03_l
-  rotate: false
-  xy: 803, 4
-  size: 99, 125
-  orig: 106, 125
-  offset: 0, 0
-  index: -1
+bounds:135,196,99,125
+offsets:0,0,106,125
+rotate:90
 hindleg03_r
-  rotate: false
-  xy: 645, 125
-  size: 103, 145
-  orig: 103, 145
-  offset: 0, 0
-  index: -1
+bounds:365,399,103,145
 liquid01
-  rotate: false
-  xy: 741, 56
-  size: 50, 18
-  orig: 50, 18
-  offset: 0, 0
-  index: -1
+bounds:289,111,50,18
 liquid02
-  rotate: false
-  xy: 864, 134
-  size: 82, 26
-  orig: 82, 26
-  offset: 0, 0
-  index: -1
+bounds:6,129,82,26
 liquid03
-  rotate: true
-  xy: 1036, 179
-  size: 91, 80
-  orig: 91, 80
-  offset: 0, 0
-  index: -1
+bounds:411,200,91,80
+rotate:180
 liquid03a
-  rotate: true
-  xy: 1036, 18
-  size: 75, 50
-  orig: 75, 50
-  offset: 0, 0
-  index: -1
+bounds:6,43,75,50
 liquid04
-  rotate: true
-  xy: 607, 105
-  size: 165, 36
-  orig: 165, 36
-  offset: 0, 0
-  index: -1
+bounds:6,508,165,36
 liquid05
-  rotate: false
-  xy: 195, 12
-  size: 45, 55
-  orig: 45, 55
-  offset: 0, 0
-  index: -1
+bounds:262,17,45,55
+rotate:90
 liquid05a
-  rotate: true
-  xy: 705, 76
-  size: 47, 96
-  orig: 47, 130
-  offset: 0, 0
-  index: -1
+bounds:138,43,47,96
+offsets:0,0,47,130
+rotate:90
 liquid06
-  rotate: false
-  xy: 954, 178
-  size: 80, 92
-  orig: 91, 139
-  offset: 11, 47
-  index: -1
+bounds:270,132,80,92
+offsets:11,47,91,139
+rotate:270
 liquid06a
-  rotate: true
-  xy: 64, 6
-  size: 55, 74
-  orig: 55, 74
-  offset: 0, 0
-  index: -1
+bounds:374,25,55,74
+rotate:90
 mouth01
-  rotate: false
-  xy: 993, 136
-  size: 36, 40
-  orig: 36, 40
-  offset: 0, 0
-  index: -1
+bounds:78,465,36,39
+offsets:0,1,36,40
 mouth02
-  rotate: false
-  xy: 954, 135
-  size: 37, 41
-  orig: 37, 41
-  offset: 0, 0
-  index: -1
+bounds:179,6,37,40
+offsets:0,1,37,41
+rotate:90
 mouth03
-  rotate: true
-  xy: 436, 14
-  size: 53, 50
-  orig: 53, 50
-  offset: 0, 0
-  index: -1
+bounds:6,294,53,50
 tail01
-  rotate: false
-  xy: 488, 3
-  size: 163, 68
-  orig: 163, 68
-  offset: 0, 0
-  index: -1
+bounds:6,351,163,68
+rotate:90
 tail02
-  rotate: true
-  xy: 2, 63
-  size: 207, 128
-  orig: 207, 128
-  offset: 0, 0
-  index: -1
+bounds:30,70,207,128
 tongue
-  rotate: true
-  xy: 956, 6
-  size: 33, 76
-  orig: 33, 83
-  offset: 0, 7
-  index: -1
+bounds:473,462,33,76
+offsets:0,7,33,83
 ytq
-  rotate: true
-  xy: 629, 74
-  size: 29, 27
-  orig: 36, 27
-  offset: 3, 0
-  index: -1
+bounds:365,461,29,27
+offsets:3,0,36,27
 ytq2
-  rotate: true
-  xy: 607, 73
-  size: 30, 20
-  orig: 36, 20
-  offset: 3, 0
-  index: -1
+bounds:211,449,30,20
+offsets:3,0,36,20

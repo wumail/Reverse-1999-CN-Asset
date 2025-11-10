@@ -1,195 +1,75 @@
-
 623801_hzd_p.png
-size: 1724,1640
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
 b1
-  rotate: false
-  xy: 851, 455
-  size: 43, 29
-  orig: 43, 29
-  offset: 0, 0
-  index: -1
+bounds:1989,1455,43,29
 biyan1
-  rotate: false
-  xy: 853, 841
-  size: 44, 15
-  orig: 44, 15
-  offset: 0, 0
-  index: -1
+bounds:1990,1435,44,15
 biyan2
-  rotate: false
-  xy: 739, 295
-  size: 30, 28
-  orig: 30, 28
-  offset: 0, 0
-  index: -1
+bounds:2007,1556,30,28
+rotate:90
 bozi
-  rotate: false
-  xy: 211, 50
-  size: 180, 116
-  orig: 180, 116
-  offset: 0, 0
-  index: -1
+bounds:1698,1470,180,116
 bx1
-  rotate: false
-  xy: 804, 829
-  size: 43, 27
-  orig: 43, 27
-  offset: 0, 0
-  index: -1
+bounds:1913,1445,43,27
 bz1
-  rotate: false
-  xy: 902, 833
-  size: 34, 22
-  orig: 34, 22
-  offset: 0, 0
-  index: -1
+bounds:1723,1425,34,22
 bz2
-  rotate: false
-  xy: 291, 206
-  size: 37, 39
-  orig: 37, 39
-  offset: 0, 0
-  index: -1
+bounds:1883,1467,37,39
 ding
-  rotate: false
-  xy: 6, 861
-  size: 1085, 773
-  orig: 1085, 773
-  offset: 0, 0
-  index: -1
+bounds:6,552,1085,773
 dinghou
-  rotate: false
-  xy: 804, 489
-  size: 722, 152
-  orig: 722, 153
-  offset: 0, 0
-  index: -1
+bounds:804,1331,722,152
+offsets:0,0,722,153
 gaiding
-  rotate: true
-  xy: 1097, 828
-  size: 806, 499
-  orig: 833, 506
-  offset: 0, 6
-  index: -1
+bounds:1097,826,806,499
+offsets:0,6,833,506
 ggding
-  rotate: false
-  xy: 6, 250
-  size: 728, 97
-  orig: 728, 97
-  offset: 0, 0
-  index: -1
+bounds:804,1489,728,97
 haihou
-  rotate: false
-  xy: 804, 647
-  size: 792, 175
-  orig: 793, 176
-  offset: 0, 1
-  index: -1
+bounds:6,1411,792,175
+offsets:0,1,793,176
 huan1
-  rotate: false
-  xy: 639, 51
-  size: 40, 115
-  orig: 40, 116
-  offset: 0, 1
-  index: -1
+bounds:6,1365,40,115
+offsets:0,1,40,116
+rotate:90
 huan2
-  rotate: false
-  xy: 685, 130
-  size: 39, 114
-  orig: 41, 114
-  offset: 1, 0
-  index: -1
+bounds:127,1366,39,114
+offsets:1,0,41,114
+rotate:90
 huan3
-  rotate: false
-  xy: 685, 10
-  size: 36, 114
-  orig: 36, 115
-  offset: 0, 1
-  index: -1
+bounds:247,1369,36,114
+offsets:0,1,36,115
+rotate:90
 huan4
-  rotate: false
-  xy: 727, 13
-  size: 28, 111
-  orig: 29, 112
-  offset: 0, 1
-  index: -1
+bounds:468,1377,28,111
+offsets:0,1,29,112
+rotate:90
 kaigai
-  rotate: false
-  xy: 6, 353
-  size: 793, 503
-  orig: 793, 503
-  offset: 0, 0
-  index: -1
+bounds:1097,317,793,503
 shou1
-  rotate: false
-  xy: 194, 197
-  size: 91, 47
-  orig: 91, 47
-  offset: 0, 0
-  index: -1
+bounds:1696,1363,91,47
 shou2
-  rotate: false
-  xy: 424, 207
-  size: 95, 38
-  orig: 95, 38
-  offset: 0, 0
-  index: -1
+bounds:367,1367,95,38
 tou
-  rotate: false
-  xy: 6, 59
-  size: 199, 186
-  orig: 199, 186
-  offset: 0, 0
-  index: -1
+bounds:1538,1400,199,186
 wb
-  rotate: 270
-  xy: 795, 8
-  size: 399, 614
-  orig: 418, 614
-  offset: 0, 0
-  index: -1
+bounds:840,6,399,614
+offsets:0,0,418,614
+rotate:90
 y3
-  rotate: false
-  xy: 337, 18
-  size: 116, 227
-  orig: 142, 227
-  offset: 0, 0
-  index: -1
+bounds:1869,1359,116,227
+offsets:0,0,142,227
 yanwu
-  rotate: 270
-  xy: 881, 189
-  size: 428, 833
-  orig: 477, 833
-  offset: 0, 0
-  index: -1
+bounds:6,117,429,833
+offsets:0,0,477,833
+rotate:90
 yun1
-  rotate: false
-  xy: 458, 10
-  size: 175, 99
-  orig: 175, 99
-  offset: 0, 0
-  index: -1
+bounds:1743,1389,175,99
 yy1
-  rotate: false
-  xy: 804, 440
-  size: 41, 43
-  orig: 41, 43
-  offset: 0, 0
-  index: -1
+bounds:1983,1490,41,43
 zkou
-  rotate: false
-  xy: 739, 317
-  size: 106, 30
-  orig: 106, 30
-  offset: 0, 0
-  index: -1
+bounds:1532,1377,106,30
 zy1
-  rotate: false
-  xy: 730, 197
-  size: 43, 47
-  orig: 43, 47
-  offset: 0, 0
-  index: -1
+bounds:1958,1539,43,47

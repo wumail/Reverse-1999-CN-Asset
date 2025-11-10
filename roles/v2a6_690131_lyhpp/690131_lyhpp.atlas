@@ -1,83 +1,35 @@
-
 690131_lyhpp.png
-size: 288,364
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 paopao1
-  rotate: true
-  xy: 235, 39
-  size: 56, 45
-  orig: 59, 48
-  offset: 0, 0
-  index: -1
+bounds:435,169,56,45
+offsets:0,0,59,48
+rotate:90
 paopao2
-  rotate: true
-  xy: 6, 74
-  size: 114, 115
-  orig: 116, 118
-  offset: 1, 1
-  index: -1
+bounds:250,110,114,115
+offsets:1,1,116,118
 paopao3
-  rotate: false
-  xy: 6, 118
-  size: 218, 239
-  orig: 308, 279
-  offset: 5, 40
-  index: -1
+bounds:7,6,219,240
+offsets:5,39,308,279
+rotate:90
 paopao4
-  rotate: 270
-  xy: 166, 40
-  size: 77, 67
-  orig: 81, 69
-  offset: 1, 1
-  index: -1
+bounds:236,47,77,67
+offsets:1,1,81,69
 pp_1
-  rotate: true
-  xy: 166, 13
-  size: 20, 90
-  orig: 20, 90
-  offset: 0, 0
-  index: -1
+bounds:34,135,20,90
 pp_2
-  rotate: false
-  xy: 264, 101
-  size: 13, 46
-  orig: 13, 46
-  offset: 0, 0
-  index: -1
+bounds:79,212,13,46
+rotate:90
 pp_3
-  rotate: false
-  xy: 228, 114
-  size: 22, 108
-  orig: 22, 108
-  offset: 0, 0
-  index: -1
+bounds:6,117,22,108
 pp_4
-  rotate: true
-  xy: 207, 227
-  size: 34, 49
-  orig: 34, 49
-  offset: 0, 0
-  index: -1
+bounds:435,130,34,49
+rotate:90
 pp_6
-  rotate: true
-  xy: 6, 7
-  size: 61, 155
-  orig: 61, 155
-  offset: 0, 0
-  index: -1
+bounds:368,70,61,155
 pp_7
-  rotate: false
-  xy: 204, 276
-  size: 41, 79
-  orig: 41, 79
-  offset: 0, 0
-  index: -1
+bounds:317,23,41,79
+rotate:90
 pp_8
-  rotate: false
-  xy: 6, 205
-  size: 13, 69
-  orig: 13, 69
-  offset: 0, 0
-  index: -1
+bounds:60,156,13,69

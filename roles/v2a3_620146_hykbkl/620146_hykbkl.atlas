@@ -1,160 +1,61 @@
-
 620146_hykbkl.png
-size: 288,408
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.6
 400601_2_qugan
-  rotate: false
-  xy: 6, 125
-  size: 134, 136
-  orig: 144, 136
-  offset: 0, 0
-  index: -1
+bounds:126,56,115,116
+offsets:0,0,123,116
+rotate:90
 400601_2_wei1
-  rotate: 180
-  xy: 144, 311
-  size: 103, 88
-  orig: 103, 88
-  offset: 0, 0
-  index: -1
+bounds:244,19,88,76
 400601_2_wei2
-  rotate: false
-  xy: 48, 8
-  size: 49, 30
-  orig: 49, 31
-  offset: 0, 1
-  index: -1
+bounds:294,59,42,25
+offsets:0,1,42,26
 400601_2_yan
-  rotate: false
-  xy: 6, 260
-  size: 22, 15
-  orig: 22, 15
-  offset: 0, 0
-  index: -1
+bounds:373,158,19,13
 400601_2_zuili
-  rotate: true
-  xy: 113, 67
-  size: 86, 104
-  orig: 86, 104
-  offset: 0, 0
-  index: -1
+bounds:427,82,74,89
 400601_er1
-  rotate: true
-  xy: 230, 252
-  size: 48, 42
-  orig: 48, 42
-  offset: 0, 0
-  index: -1
+bounds:6,18,41,36
 400601_tou
-  rotate: false
-  xy: 6, 266
-  size: 134, 134
-  orig: 134, 134
-  offset: 0, 0
-  index: -1
+bounds:6,56,115,115
 400601_yan1
-  rotate: false
-  xy: 144, 159
-  size: 32, 35
-  orig: 32, 35
-  offset: 0, 0
-  index: -1
+bounds:168,141,27,30
 400601_yan2
-  rotate: true
-  xy: 248, 217
-  size: 30, 32
-  orig: 30, 32
-  offset: 0, 0
-  index: -1
+bounds:215,6,26,27
+rotate:90
 maozi
-  rotate: true
-  xy: 129, 159
-  size: 202, 97
-  orig: 216, 172
-  offset: 14, 23
-  index: -1
+bounds:248,88,173,83
+offsets:12,20,185,148
+rotate:180
 maozi2
-  rotate: true
-  xy: 213, 128
-  size: 83, 60
-  orig: 83, 60
-  offset: 0, 0
-  index: -1
+bounds:427,25,71,51
+rotate:180
 maozi3
-  rotate: false
-  xy: 224, 7
-  size: 45, 37
-  orig: 45, 49
-  offset: 0, 12
-  index: -1
+bounds:245,133,38,32
+offsets:0,10,38,42
+rotate:90
 mogu1
-  rotate: false
-  xy: 253, 306
-  size: 25, 29
-  orig: 25, 29
-  offset: 0, 0
-  index: -1
+bounds:97,6,21,25
 mogu2
-  rotate: false
-  xy: 202, 377
-  size: 17, 22
-  orig: 17, 22
-  offset: 0, 0
-  index: -1
+bounds:402,152,14,19
 mogu3
-  rotate: false
-  xy: 110, 17
-  size: 45, 43
-  orig: 45, 43
-  offset: 0, 0
-  index: -1
+bounds:53,14,38,37
 mogu5
-  rotate: false
-  xy: 15, 43
-  size: 92, 80
-  orig: 92, 80
-  offset: 0, 0
-  index: -1
+bounds:342,40,79,68
 mogu6
-  rotate: true
-  xy: 6, 181
-  size: 27, 38
-  orig: 27, 38
-  offset: 0, 0
-  index: -1
+bounds:375,10,23,32
+rotate:90
 mogu7
-  rotate: true
-  xy: 6, 8
-  size: 28, 36
-  orig: 28, 36
-  offset: 0, 0
-  index: -1
+bounds:338,9,24,31
+rotate:90
 yezi1
-  rotate: true
-  xy: 253, 342
-  size: 30, 24
-  orig: 30, 24
-  offset: 0, 0
-  index: -1
+bounds:124,11,26,20
 yezi2
-  rotate: 270
-  xy: 252, 98
-  size: 39, 28
-  orig: 102, 89
-  offset: 63, 3
-  index: -1
+bounds:252,13,33,24
+offsets:54,3,87,76
 yezi3
-  rotate: true
-  xy: 221, 49
-  size: 65, 48
-  orig: 68, 48
-  offset: 0, 0
-  index: -1
+bounds:99,37,56,41
+offsets:0,0,58,41
 zui
-  rotate: false
-  xy: 161, 24
-  size: 57, 33
-  orig: 57, 33
-  offset: 0, 0
-  index: -1
+bounds:160,23,49,28

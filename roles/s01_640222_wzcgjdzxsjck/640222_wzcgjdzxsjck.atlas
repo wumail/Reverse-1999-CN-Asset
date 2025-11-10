@@ -1,181 +1,87 @@
-
 640222_wzcgjdzxsjck.png
-size: 800,208
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 dayidi
-  rotate: false
-  xy: 6, 66
-  size: 125, 137
-  orig: 126, 144
-  offset: 1, 2
-  index: -1
+bounds:6,163,125,137
+offsets:1,2,126,144
 liuhai
-  rotate: 270
-  xy: 649, 10
-  size: 37, 78
-  orig: 37, 81
-  offset: 0, 3
-  index: -1
+bounds:421,39,37,78
+offsets:0,3,37,81
+rotate:270
 toufahou
-  rotate: 180
-  xy: 549, 56
-  size: 57, 78
-  orig: 57, 78
-  offset: 0, 0
-  index: -1
+bounds:204,67,57,78
+rotate:270
 yiling2
-  rotate: 270
-  xy: 733, 11
-  size: 46, 59
-  orig: 46, 95
-  offset: 0, 36
-  index: -1
+bounds:44,6,46,59
+offsets:0,36,46,95
+rotate:270
 zuihan_bozi
-  rotate: false
-  xy: 278, 14
-  size: 27, 34
-  orig: 27, 34
-  offset: 0, 0
-  index: -1
+bounds:386,22,27,34
 zuihan_er
-  rotate: false
-  xy: 123, 12
-  size: 23, 25
-  orig: 23, 29
-  offset: 0, 2
-  index: -1
+bounds:279,19,23,25
+offsets:0,2,23,29
 zuihan_jiuping
-  rotate: true
-  xy: 105, 41
-  size: 160, 130
-  orig: 160, 130
-  offset: 0, 0
-  index: -1
+bounds:105,140,160,130
+rotate:90
 zuihan_mao
-  rotate: true
-  xy: 413, 98
-  size: 104, 88
-  orig: 104, 88
-  offset: 0, 0
-  index: -1
+bounds:418,143,104,88
+rotate:90
 zuihan_pengqiang
-  rotate: 180
-  xy: 400, 25
-  size: 90, 73
-  orig: 125, 134
-  offset: 21, 61
-  index: -1
+bounds:175,125,90,73
+offsets:21,61,125,134
+rotate:180
 zuihan_tou
-  rotate: false
-  xy: 238, 56
-  size: 100, 116
-  orig: 109, 127
-  offset: 8, 5
-  index: -1
+bounds:240,184,100,116
+offsets:8,5,109,127
 zuihan_xiongqang
-  rotate: 180
-  xy: 320, 78
-  size: 96, 124
-  orig: 101, 142
-  offset: 2, 15
-  index: -1
+bounds:328,176,96,124
+offsets:2,15,101,142
 zuihan_youdabi
-  rotate: false
-  xy: 662, 131
-  size: 42, 71
-  orig: 51, 84
-  offset: 6, 6
-  index: -1
+bounds:84,45,42,71
+offsets:6,6,51,84
+rotate:270
 zuihan_youdatui
-  rotate: 270
-  xy: 518, 144
-  size: 57, 75
-  orig: 57, 77
-  offset: 0, 0
-  index: -1
+bounds:423,80,57,75
+offsets:0,0,57,77
+rotate:270
 zuihan_youioao
-  rotate: false
-  xy: 638, 76
-  size: 68, 53
-  orig: 69, 57
-  offset: 1, 0
-  index: -1
+bounds:292,47,68,53
+offsets:1,0,69,57
+rotate:90
 zuihan_youshou1
-  rotate: 270
-  xy: 711, 49
-  size: 44, 48
-  orig: 44, 48
-  offset: 0, 0
-  index: -1
+bounds:332,12,44,48
+rotate:90
 zuihan_youxiaobi
-  rotate: true
-  xy: 530, 8
-  size: 46, 73
-  orig: 46, 73
-  offset: 0, 0
-  index: -1
+bounds:6,52,46,73
+rotate:90
 zuihan_youxiaotui
-  rotate: false
-  xy: 492, 37
-  size: 53, 104
-  orig: 53, 104
-  offset: 0, 0
-  index: -1
+bounds:325,120,53,104
+rotate:90
 zuihan_zuodabi
-  rotate: false
-  xy: 611, 25
-  size: 42, 76
-  orig: 42, 76
-  offset: 0, 0
-  index: -1
+bounds:415,258,42,76
+rotate:90
 zuihan_zuodatui
-  rotate: true
-  xy: 6, 16
-  size: 49, 84
-  orig: 53, 84
-  offset: 1, 0
-  index: -1
+bounds:108,84,49,84
+offsets:1,0,53,84
+rotate:90
 zuihan_zuojiao
-  rotate: false
-  xy: 704, 95
-  size: 47, 55
-  orig: 53, 55
-  offset: 2, 0
-  index: -1
+bounds:152,34,47,55
+offsets:2,0,53,55
+rotate:90
 zuihan_zuoxiabi
-  rotate: true
-  xy: 309, 21
-  size: 53, 78
-  orig: 53, 78
-  offset: 0, 0
-  index: -1
+bounds:269,101,53,78
+rotate:180
 zuihan_zuoxiaotui
-  rotate: true
-  xy: 175, 14
-  size: 58, 97
-  orig: 71, 97
-  offset: 0, 0
-  index: -1
+bounds:6,101,58,97
+offsets:0,0,71,97
+rotate:90
 zuihan_zusohou1
-  rotate: false
-  xy: 709, 155
-  size: 41, 41
-  orig: 44, 43
-  offset: 1, 1
-  index: -1
+bounds:232,20,41,41
+offsets:1,1,44,43
 zuihan_zusohou2
-  rotate: false
-  xy: 599, 136
-  size: 53, 55
-  orig: 53, 55
-  offset: 0, 0
-  index: -1
+bounds:362,62,53,55
+rotate:90
 zuodamuzhi
-  rotate: false
-  xy: 96, 8
-  size: 21, 27
-  orig: 23, 30
-  offset: 1, 1
-  index: -1
+bounds:6,20,21,27
+offsets:1,1,23,30

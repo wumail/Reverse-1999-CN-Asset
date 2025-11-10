@@ -1,202 +1,86 @@
-
 611501_anbaojiqiren_p.png
-size: 1479,1479
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,512
+filter:Linear,Linear
+scale:0.5
 a1
-  rotate: false
-  xy: 920, 990
-  size: 211, 255
-  orig: 211, 255
-  offset: 0, 0
-  index: -1
+bounds:1032,226,176,213
 a10
-  rotate: false
-  xy: 1148, 963
-  size: 99, 112
-  orig: 103, 116
-  offset: 2, 2
-  index: -1
+bounds:1590,346,82,93
+offsets:2,2,86,97
 a11
-  rotate: false
-  xy: 977, 917
-  size: 73, 82
-  orig: 74, 84
-  offset: 1, 1
-  index: -1
+bounds:1032,370,61,69
+offsets:1,0,62,70
 a12
-  rotate: true
-  xy: 815, 1141
-  size: 320, 171
-  orig: 320, 171
-  offset: 0, 0
-  index: -1
+bounds:884,172,267,143
+rotate:90
 a13
-  rotate: false
-  xy: 130, 927
-  size: 50, 28
-  orig: 50, 28
-  offset: 0, 0
-  index: -1
+bounds:1975,306,42,23
 a14
-  rotate: false
-  xy: 2, 957
-  size: 547, 520
-  orig: 549, 520
-  offset: 1, 0
-  index: -1
+bounds:6,6,456,433
+offsets:1,0,458,433
 a15
-  rotate: true
-  xy: 1101, 912
-  size: 49, 117
-  orig: 50, 121
-  offset: 0, 1
-  index: -1
+bounds:1668,240,41,97
+offsets:0,1,42,101
+rotate:90
 a16
-  rotate: true
-  xy: 2, 910
-  size: 45, 84
-  orig: 45, 86
-  offset: 0, 1
-  index: -1
+bounds:1379,238,38,70
+offsets:0,1,38,72
+rotate:90
 a17
-  rotate: true
-  xy: 988, 1220
-  size: 157, 277
-  orig: 157, 277
-  offset: 0, 0
-  index: -1
+bounds:1162,208,131,231
 a18
-  rotate: false
-  xy: 1052, 941
-  size: 145, 282
-  orig: 145, 282
-  offset: 0, 0
-  index: -1
+bounds:1236,204,121,235
+rotate:180
 a19
-  rotate: true
-  xy: 551, 1151
-  size: 326, 263
-  orig: 326, 263
-  offset: 0, 0
-  index: -1
+bounds:468,167,272,219
+rotate:90
 a2
-  rotate: true
-  xy: 1249, 940
-  size: 136, 129
-  orig: 136, 137
-  offset: 0, 0
-  index: -1
+bounds:1789,326,113,108
+offsets:0,0,113,114
+rotate:270
 a3
-  rotate: 180
-  xy: 1199, 1341
-  size: 138, 137
-  orig: 138, 137
-  offset: 0, 0
-  index: -1
+bounds:1678,324,115,114
+rotate:90
 a4
-  rotate: 270
-  xy: 1079, 1242
-  size: 236, 261
-  orig: 236, 261
-  offset: 0, 0
-  index: -1
+bounds:1295,221,197,218
 a5
-  rotate: false
-  xy: 88, 917
-  size: 40, 38
-  orig: 42, 39
-  offset: 1, 0
-  index: -1
+bounds:1099,407,33,32
+offsets:1,0,35,33
 a6
-  rotate: false
-  xy: 1198, 1077
-  size: 105, 119
-  orig: 218, 215
-  offset: 62, 35
-  index: -1
+bounds:1497,340,87,99
+offsets:52,29,182,179
 a7
-  rotate: true
-  xy: 551, 927
-  size: 222, 367
-  orig: 224, 368
-  offset: 1, 1
-  index: -1
+bounds:693,133,185,306
+offsets:1,1,187,307
 a8
-  rotate: true
-  xy: 1380, 930
-  size: 175, 79
-  orig: 175, 79
-  offset: 0, 0
-  index: -1
+bounds:1745,275,146,66
 a9
-  rotate: true
-  xy: 1339, 1385
-  size: 62, 118
-  orig: 64, 120
-  offset: 1, 0
-  index: -1
+bounds:1431,282,52,99
+offsets:1,0,54,100
+rotate:90
 hong1
-  rotate: false
-  xy: 1305, 1077
-  size: 86, 99
-  orig: 86, 100
-  offset: 0, 1
-  index: -1
+bounds:1590,257,72,83
+offsets:0,1,72,84
 hong2
-  rotate: false
-  xy: 1331, 1284
-  size: 86, 99
-  orig: 86, 100
-  offset: 0, 1
-  index: -1
+bounds:1897,267,72,83
+offsets:0,1,72,84
 hong3
-  rotate: false
-  xy: 1342, 1178
-  size: 86, 99
-  orig: 86, 100
-  offset: 0, 1
-  index: -1
+bounds:1902,356,72,83
+offsets:0,1,72,84
 landeng1
-  rotate: false
-  xy: 1393, 1107
-  size: 57, 59
-  orig: 65, 67
-  offset: 4, 4
-  index: -1
+bounds:1980,389,47,50
+offsets:4,3,54,56
 landeng1a
-  rotate: false
-  xy: 920, 931
-  size: 46, 57
-  orig: 54, 65
-  offset: 4, 4
-  index: -1
+bounds:1536,286,39,48
+offsets:3,3,45,54
 landeng1ab
-  rotate: false
-  xy: 1419, 1279
-  size: 57, 59
-  orig: 65, 67
-  offset: 4, 4
-  index: -1
+bounds:1362,389,47,50
+offsets:4,3,54,56
 landeng2
-  rotate: false
-  xy: 182, 918
-  size: 35, 37
-  orig: 35, 38
-  offset: 0, 0
-  index: -1
+bounds:1668,301,30,31
+offsets:0,0,30,32
 landeng2a
-  rotate: false
-  xy: 219, 918
-  size: 25, 37
-  orig: 25, 37
-  offset: 0, 0
-  index: -1
+bounds:884,408,21,31
 landeng2ab
-  rotate: false
-  xy: 1334, 918
-  size: 46, 57
-  orig: 54, 65
-  offset: 4, 4
-  index: -1
+bounds:1980,335,39,48
+offsets:3,3,45,54

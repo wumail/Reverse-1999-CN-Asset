@@ -1,237 +1,93 @@
-
 305003_dadadali.png
-size: 1528,108
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.6
 a_xiannvbang
-  rotate: false
-  xy: 1019, 14
-  size: 43, 87
-  orig: 43, 87
-  offset: 0, 0
-  index: -1
+bounds:156,67,37,74
+rotate:90
 attk
-  rotate: false
-  xy: 525, 8
-  size: 16, 18
-  orig: 17, 18
-  offset: 0, 0
-  index: -1
+bounds:469,112,13,15
+offsets:0,0,14,15
 daiji
-  rotate: false
-  xy: 386, 17
-  size: 16, 20
-  orig: 16, 20
-  offset: 0, 0
-  index: -1
+bounds:307,122,14,17
 dddl14
-  rotate: false
-  xy: 6, 8
-  size: 92, 92
-  orig: 92, 92
-  offset: 0, 0
-  index: -1
+bounds:6,155,79,79
 dddl15
-  rotate: false
-  xy: 305, 23
-  size: 75, 77
-  orig: 76, 78
-  offset: 0, 0
-  index: -1
+bounds:266,168,64,66
+offsets:0,0,65,67
 dddl18
-  rotate: false
-  xy: 1126, 43
-  size: 55, 57
-  orig: 55, 57
-  offset: 0, 0
-  index: -1
+bounds:302,52,47,49
+rotate:90
 dddl2
-  rotate: false
-  xy: 812, 31
-  size: 68, 69
-  orig: 69, 69
-  offset: 0, 0
-  index: -1
+bounds:91,93,58,59
+offsets:0,0,59,59
+rotate:90
 dddl20
-  rotate: false
-  xy: 670, 30
-  size: 69, 70
-  orig: 69, 70
-  offset: 0, 0
-  index: -1
+bounds:336,105,59,60
+rotate:90
 dddl21
-  rotate: false
-  xy: 1243, 44
-  size: 53, 56
-  orig: 53, 57
-  offset: 0, 1
-  index: -1
+bounds:64,41,46,48
+offsets:0,1,46,49
+rotate:90
 dddl_01
-  rotate: false
-  xy: 601, 21
-  size: 63, 79
-  orig: 63, 79
-  offset: 0, 0
-  index: -1
+bounds:159,115,54,68
+rotate:90
 dddl_02
-  rotate: false
-  xy: 104, 10
-  size: 72, 90
-  orig: 72, 90
-  offset: 0, 0
-  index: -1
+bounds:91,157,62,77
 dddl_03
-  rotate: false
-  xy: 745, 21
-  size: 61, 79
-  orig: 61, 79
-  offset: 0, 0
-  index: -1
+bounds:233,110,52,68
+rotate:90
 dddl_04
-  rotate: false
-  xy: 182, 31
-  size: 118, 69
-  orig: 119, 69
-  offset: 0, 0
-  index: -1
+bounds:159,175,102,59
 dddl_05
-  rotate: true
-  xy: 386, 25
-  size: 76, 106
-  orig: 76, 106
-  offset: 0, 0
-  index: -1
+bounds:336,169,65,91
+rotate:90
 dddl_06
-  rotate: false
-  xy: 1294, 11
-  size: 12, 21
-  orig: 12, 21
-  offset: 0, 0
-  index: -1
+bounds:75,109,10,18
 dddl_07
-  rotate: false
-  xy: 1068, 30
-  size: 52, 70
-  orig: 52, 70
-  offset: 0, 0
-  index: -1
+bounds:236,60,44,60
+rotate:90
 dddl_09
-  rotate: false
-  xy: 1187, 39
-  size: 50, 61
-  orig: 50, 61
-  offset: 0, 0
-  index: -1
+bounds:6,47,43,52
+rotate:90
 dddl_11
-  rotate: false
-  xy: 1346, 18
-  size: 48, 72
-  orig: 48, 72
-  offset: 0, 0
-  index: -1
+bounds:418,43,41,62
+rotate:90
 die
-  rotate: false
-  xy: 205, 11
-  size: 12, 14
-  orig: 14, 15
-  offset: 1, 0
-  index: -1
+bounds:402,159,10,12
+offsets:1,0,12,13
 hit
-  rotate: false
-  xy: 182, 10
-  size: 17, 20
-  orig: 18, 20
-  offset: 0, 0
-  index: -1
+bounds:307,145,14,17
+offsets:0,0,15,17
 luobo
-  rotate: false
-  xy: 1243, 10
-  size: 45, 28
-  orig: 47, 28
-  offset: 0, 0
-  index: -1
+bounds:461,23,38,24
+offsets:0,0,40,24
 pifu/huahua
-  rotate: true
-  xy: 1390, 10
-  size: 73, 55
-  orig: 73, 55
-  offset: 0, 0
-  index: -1
+bounds:118,33,62,47
+rotate:180
 pifu/maan1
-  rotate: false
-  xy: 886, 29
-  size: 62, 71
-  orig: 62, 71
-  offset: 0, 0
-  index: -1
+bounds:6,96,53,61
+rotate:90
 pifu/maan2
-  rotate: true
-  xy: 954, 29
-  size: 71, 59
-  orig: 71, 59
-  offset: 0, 0
-  index: -1
+bounds:402,90,61,50
 pifu/maan3
-  rotate: false
-  xy: 1126, 11
-  size: 75, 27
-  orig: 75, 27
-  offset: 0, 0
-  index: -1
+bounds:186,34,64,23
 pifu/maan4
-  rotate: false
-  xy: 1229, 14
-  size: 8, 20
-  orig: 8, 20
-  offset: 0, 0
-  index: -1
+bounds:73,132,7,17
 pifu/maan5
-  rotate: true
-  xy: 248, 9
-  size: 28, 46
-  orig: 28, 46
-  offset: 0, 0
-  index: -1
+bounds:477,195,24,39
 pifu/mabozi
-  rotate: 270
-  xy: 493, 15
-  size: 74, 103
-  orig: 80, 103
-  offset: 6, 0
-  index: -1
+bounds:418,146,63,88
+offsets:5,0,68,88
 pifu/madai
-  rotate: true
-  xy: 1435, 7
-  size: 93, 48
-  orig: 93, 48
-  offset: 0, 0
-  index: -1
+bounds:239,6,80,41
 pifu/shengzi
-  rotate: false
-  xy: 1206, 10
-  size: 17, 23
-  orig: 17, 23
-  offset: 0, 0
-  index: -1
+bounds:488,107,14,20
 pinzi
-  rotate: false
-  xy: 1302, 36
-  size: 38, 64
-  orig: 38, 64
-  offset: 0, 0
-  index: -1
+bounds:357,52,32,55
+rotate:90
 shuazi
-  rotate: true
-  xy: 1488, 21
-  size: 38, 30
-  orig: 38, 34
-  offset: 0, 0
-  index: -1
+bounds:474,133,32,25
+offsets:0,0,32,29
 yun
-  rotate: false
-  xy: 472, 15
-  size: 16, 20
-  orig: 16, 20
-  offset: 0, 0
-  index: -1
+bounds:486,172,14,17

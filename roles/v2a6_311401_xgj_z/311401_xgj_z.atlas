@@ -1,27 +1,12 @@
-
 311401_xgj_z.png
-size: 528,348
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,1024
+filter:Linear,Linear
+scale:0.7
 dz_shou1
-  rotate: false
-  xy: 6, 7
-  size: 515, 335
-  orig: 515, 335
-  offset: 0, 0
-  index: -1
+bounds:6,6,515,335
+rotate:90
 dz_shou2
-  rotate: false
-  xy: 416, 87
-  size: 99, 175
-  orig: 99, 175
-  offset: 0, 0
-  index: -1
+bounds:347,346,99,175
 dz_shou3
-  rotate: false
-  xy: 106, 264
-  size: 75, 79
-  orig: 75, 90
-  offset: 0, 0
-  index: -1
+bounds:6,442,75,79
+offsets:0,0,75,90

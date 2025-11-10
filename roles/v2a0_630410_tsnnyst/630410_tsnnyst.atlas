@@ -1,405 +1,148 @@
-
 630410_tsnnyst.png
-size: 2048,1604
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.7
 gegeliya_bj_youdabi
-  rotate: 180
-  xy: 6, 337
-  size: 363, 263
-  orig: 363, 263
-  offset: 0, 0
-  index: -1
+bounds:1779,280,363,263
+rotate:90
 gegeliya_bj_youshou
-  rotate: 270
-  xy: 1212, 62
-  size: 178, 188
-  orig: 178, 188
-  offset: 0, 0
-  index: -1
+bounds:207,6,178,188
+rotate:90
 gegeliya_bj_youxiaobi
-  rotate: 180
-  xy: 365, 619
-  size: 326, 286
-  orig: 326, 286
-  offset: 0, 0
-  index: -1
+bounds:412,462,326,286
+rotate:180
 gegeliya_bj_zuobi1
-  rotate: true
-  xy: 1414, 898
-  size: 297, 484
-  orig: 297, 484
-  offset: 0, 0
-  index: -1
+bounds:1745,803,297,484
 gegeliya_bj_zuobi2
-  rotate: 270
-  xy: 982, 448
-  size: 223, 428
-  orig: 223, 428
-  offset: 0, 0
-  index: -1
+bounds:1429,376,223,428
+rotate:90
 gegeliya_bj_zuoshou
-  rotate: false
-  xy: 642, 93
-  size: 174, 145
-  orig: 174, 145
-  offset: 0, 0
-  index: -1
+bounds:1868,19,174,145
 gegeliya_qugan1
-  rotate: 270
-  xy: 1277, 1234
-  size: 363, 511
-  orig: 363, 512
-  offset: 0, 1
-  index: -1
+bounds:1497,1092,363,511
+offsets:0,1,363,512
 gegeliya_qugan2
-  rotate: 180
-  xy: 1038, 993
-  size: 438, 307
-  orig: 445, 314
-  offset: 7, 0
-  index: -1
+bounds:1344,847,438,307
+offsets:7,0,445,314
+rotate:180
 gegeliya_tou
-  rotate: false
-  xy: 1358, 160
-  size: 221, 206
-  orig: 221, 206
-  offset: 0, 0
-  index: -1
+bounds:910,129,221,206
 gegeliya_tou_er
-  rotate: false
-  xy: 399, 1554
-  size: 54, 42
-  orig: 54, 42
-  offset: 0, 0
-  index: -1
+bounds:757,1561,54,42
 gegeliya_tou_jijiao1
-  rotate: false
-  xy: 6, 616
-  size: 122, 128
-  orig: 122, 128
-  offset: 0, 0
-  index: -1
+bounds:291,576,122,128
 gegeliya_tou_jijiao2
-  rotate: false
-  xy: 1820, 993
-  size: 207, 123
-  orig: 207, 123
-  offset: 0, 0
-  index: -1
+bounds:734,51,207,123
 gegeliya_tou_jijiao3
-  rotate: false
-  xy: 1541, 409
-  size: 321, 253
-  orig: 321, 253
-  offset: 0, 0
-  index: -1
+bounds:981,277,321,253
 gegeliya_tou_jijiao4
-  rotate: false
-  xy: 1390, 290
-  size: 431, 269
-  orig: 431, 269
-  offset: 0, 0
-  index: -1
+bounds:6,185,431,269
 gegeliya_tou_jijiao5
-  rotate: true
-  xy: 369, 197
-  size: 159, 268
-  orig: 159, 268
-  offset: 0, 0
-  index: -1
+bounds:1261,147,159,268
+rotate:90
 gegeliya_tou_jijiao6
-  rotate: false
-  xy: 206, 106
-  size: 157, 193
-  orig: 157, 193
-  offset: 0, 0
-  index: -1
+bounds:1127,538,157,193
 gegeliya_tou_jijiao7
-  rotate: false
-  xy: 580, 785
-  size: 155, 151
-  orig: 155, 151
-  offset: 0, 0
-  index: -1
+bounds:1882,690,155,151
 gegeliya_tou_jijiao8
-  rotate: false
-  xy: 1240, 1525
-  size: 56, 71
-  orig: 56, 71
-  offset: 0, 0
-  index: -1
+bounds:456,1532,56,71
 gegeliya_tx_bei
-  rotate: false
-  xy: 1188, 682
-  size: 184, 142
-  orig: 184, 142
-  offset: 0, 0
-  index: -1
+bounds:162,1098,184,142
 gegeliya_tx_wei_1
-  rotate: true
-  xy: 162, 557
-  size: 188, 398
-  orig: 188, 398
-  offset: 0, 0
-  index: -1
+bounds:6,469,188,398
+rotate:90
 gegeliya_tx_wei_2
-  rotate: true
-  xy: 840, 369
-  size: 120, 526
-  orig: 120, 526
-  offset: 0, 0
-  index: -1
+bounds:6,1077,120,526
 gegeliya_tx_wei_3
-  rotate: false
-  xy: 6, 1005
-  size: 83, 357
-  orig: 83, 357
-  offset: 0, 0
-  index: -1
+bounds:225,1246,83,357
 gegeliya_tx_wei_4
-  rotate: true
-  xy: 1408, 95
-  size: 55, 332
-  orig: 55, 332
-  offset: 0, 0
-  index: -1
+bounds:314,1271,55,332
 gegeliya_tx_wei_5
-  rotate: 270
-  xy: 130, 44
-  size: 98, 397
-  orig: 98, 397
-  offset: 0, 0
-  index: -1
+bounds:121,1206,98,397
 gegeliya_tx_wei_6
-  rotate: true
-  xy: 1795, 1445
-  size: 152, 216
-  orig: 152, 216
-  offset: 0, 0
-  index: -1
+bounds:443,143,152,216
+rotate:90
 gegeliya_tx_youtui
-  rotate: false
-  xy: 6, 213
-  size: 218, 270
-  orig: 218, 270
-  offset: 0, 0
-  index: -1
+bounds:1772,140,218,270
+rotate:270
 gegeliya_tx_zuobi_1
-  rotate: true
-  xy: 1034, 245
-  size: 127, 288
-  orig: 127, 288
-  offset: 0, 0
-  index: -1
+bounds:1854,1315,127,288
 gegeliya_tx_zuobi_2
-  rotate: 270
-  xy: 442, 324
-  size: 115, 391
-  orig: 115, 391
-  offset: 0, 0
-  index: -1
+bounds:1381,257,115,391
+rotate:270
 gegeliya_tx_zuobi_3
-  rotate: false
-  xy: 1916, 341
-  size: 126, 316
-  orig: 126, 316
-  offset: 0, 0
-  index: -1
+bounds:588,301,126,316
+rotate:90
 gegeliya_tx_zuobi_4
-  rotate: true
-  xy: 798, 217
-  size: 133, 230
-  orig: 133, 230
-  offset: 0, 0
-  index: -1
+bounds:665,162,133,230
+rotate:90
 gegeliya_tx_zuobi_5
-  rotate: true
-  xy: 6, 962
-  size: 29, 176
-  orig: 29, 176
-  offset: 0, 0
-  index: -1
+bounds:421,1427,29,176
 gegeliya_tx_zuobi_6
-  rotate: false
-  xy: 1867, 412
-  size: 40, 222
-  orig: 40, 222
-  offset: 0, 0
-  index: -1
+bounds:375,1381,40,222
 gegeliya_tx_zuobi_7
-  rotate: true
-  xy: 1819, 113
-  size: 103, 223
-  orig: 103, 223
-  offset: 0, 0
-  index: -1
+bounds:1136,48,103,223
 gegeliya_tx_zuotui
-  rotate: false
-  xy: 495, 1258
-  size: 413, 339
-  orig: 413, 339
-  offset: 0, 0
-  index: -1
+bounds:757,1190,413,339
+rotate:90
 gegeliya_wei_1
-  rotate: false
-  xy: 6, 78
-  size: 135, 133
-  orig: 135, 133
-  offset: 0, 0
-  index: -1
+bounds:1735,8,135,133
+rotate:90
 gegeliya_wei_2
-  rotate: false
-  xy: 893, 1368
-  size: 88, 163
-  orig: 88, 163
-  offset: 0, 0
-  index: -1
+bounds:1828,1149,88,163
 gegeliya_wei_3
-  rotate: false
-  xy: 798, 76
-  size: 212, 136
-  orig: 212, 136
-  offset: 0, 0
-  index: -1
+bounds:136,891,212,136
+rotate:270
 gegeliya_wei_4
-  rotate: 180
-  xy: 726, 716
-  size: 384, 344
-  orig: 384, 344
-  offset: 0, 0
-  index: -1
+bounds:6,663,384,344
+rotate:270
 gegeliya_wei_5
-  rotate: true
-  xy: 826, 550
-  size: 312, 355
-  orig: 337, 355
-  offset: 4, 0
-  index: -1
+bounds:767,432,312,355
+offsets:4,0,337,355
+rotate:90
 gegeliya_wei_6
-  rotate: false
-  xy: 16, 750
-  size: 412, 288
-  orig: 412, 293
-  offset: 0, 5
-  index: -1
+bounds:617,608,412,288
+offsets:0,5,412,293
 gegeliya_youdabi
-  rotate: true
-  xy: 1655, 156
-  size: 178, 322
-  orig: 178, 322
-  offset: 0, 0
-  index: -1
+bounds:1444,44,178,322
+rotate:90
 gegeliya_youshou
-  rotate: false
-  xy: 646, 1095
-  size: 200, 74
-  orig: 200, 74
-  offset: 0, 0
-  index: -1
+bounds:1405,1529,200,74
 gegeliya_youtui_1
-  rotate: 180
-  xy: 1123, 811
-  size: 481, 200
-  orig: 481, 200
-  offset: 0, 0
-  index: -1
+bounds:1036,717,481,200
+rotate:180
 gegeliya_youtui_2
-  rotate: false
-  xy: 108, 997
-  size: 580, 256
-  orig: 580, 256
-  offset: 0, 0
-  index: -1
+bounds:279,899,580,256
 gegeliya_youtui_3
-  rotate: false
-  xy: 6, 1230
-  size: 484, 367
-  orig: 484, 367
-  offset: 0, 0
-  index: -1
+bounds:385,1119,484,367
+rotate:90
 gegeliya_youxiaobi
-  rotate: true
-  xy: 1416, 591
-  size: 278, 329
-  orig: 278, 329
-  offset: 0, 0
-  index: -1
+bounds:1277,463,278,329
+rotate:90
 gegeliya_zuodabi
-  rotate: 270
-  xy: 461, 434
-  size: 165, 403
-  orig: 165, 403
-  offset: 0, 0
-  index: -1
+bounds:179,312,165,403
+rotate:90
 gegeliya_zuoshou_1
-  rotate: false
-  xy: 94, 1200
-  size: 136, 103
-  orig: 136, 103
-  offset: 0, 0
-  index: -1
+bounds:1939,891,136,103
+rotate:90
 gegeliya_zuoshou_2
-  rotate: false
-  xy: 234, 442
-  size: 196, 109
-  orig: 196, 109
-  offset: 0, 0
-  index: -1
+bounds:1231,34,196,109
 gegeliya_zuoshou_3
-  rotate: false
-  xy: 1739, 7
-  size: 209, 125
-  orig: 209, 125
-  offset: 0, 0
-  index: -1
+bounds:948,23,209,125
 gegeliya_zuoshou_4
-  rotate: 180
-  xy: 377, 102
-  size: 234, 88
-  orig: 234, 92
-  offset: 0, 4
-  index: -1
+bounds:401,50,234,88
+offsets:0,4,234,92
 gegeliya_zuoshou_5
-  rotate: false
-  xy: 914, 1534
-  size: 155, 62
-  orig: 155, 62
-  offset: 0, 0
-  index: -1
+bounds:550,912,155,62
 gegeliya_zuoshou_6
-  rotate: false
-  xy: 1006, 62
-  size: 200, 177
-  orig: 200, 177
-  offset: 0, 0
-  index: -1
+bounds:6,54,200,177
 gegeliya_zuotui_1
-  rotate: 270
-  xy: 1744, 639
-  size: 326, 298
-  orig: 326, 298
-  offset: 0, 0
-  index: -1
+bounds:1612,580,326,298
 gegeliya_zuotui_2
-  rotate: 270
-  xy: 1544, 1103
-  size: 331, 497
-  orig: 331, 497
-  offset: 0, 0
-  index: -1
+bounds:852,908,331,497
+rotate:270
 gegeliya_zuotui_3
-  rotate: 180
-  xy: 405, 911
-  size: 627, 246
-  orig: 627, 246
-  offset: 0, 0
-  index: -1
+bounds:291,747,627,246
+rotate:180
 gegeliya_zuoxaiobi
-  rotate: true
-  xy: 822, 1129
-  size: 467, 475
-  orig: 467, 475
-  offset: 0, 0
-  index: -1
+bounds:1102,1128,467,475

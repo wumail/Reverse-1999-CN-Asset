@@ -1,237 +1,91 @@
-
 630116_nktar.png
-size: 680,296
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.6
 gjs_gongxian
-  rotate: false
-  xy: 6, 28
-  size: 326, 8
-  orig: 326, 8
-  offset: 0, 0
-  index: -1
+bounds:6,259,280,7
 gjs_jian
-  rotate: true
-  xy: 349, 61
-  size: 212, 39
-  orig: 215, 41
-  offset: 2, 1
-  index: -1
+bounds:291,233,181,33
+offsets:2,1,184,35
 gjs_yshou
-  rotate: true
-  xy: 617, 149
-  size: 38, 37
-  orig: 39, 37
-  offset: 1, 0
-  index: -1
+bounds:217,108,33,32
+offsets:1,0,34,32
 gjs_yshouzhi1
-  rotate: false
-  xy: 120, 160
-  size: 18, 20
-  orig: 20, 21
-  offset: 0, 0
-  index: -1
+bounds:401,91,15,17
+offsets:0,0,17,18
 gjs_yshouzhi2
-  rotate: false
-  xy: 6, 264
-  size: 25, 24
-  orig: 28, 25
-  offset: 2, 1
-  index: -1
+bounds:304,127,21,20
+offsets:2,1,24,21
 gjs_yshouzhi3
-  rotate: false
-  xy: 6, 165
-  size: 17, 14
-  orig: 19, 16
-  offset: 1, 1
-  index: -1
+bounds:164,179,14,12
+offsets:1,1,16,14
 gjs_zshou1
-  rotate: true
-  xy: 591, 78
-  size: 69, 52
-  orig: 69, 52
-  offset: 0, 0
-  index: -1
+bounds:434,33,59,44
 gjs_zshouzhi1
-  rotate: false
-  xy: 6, 68
-  size: 18, 13
-  orig: 20, 15
-  offset: 1, 1
-  index: -1
+bounds:390,216,15,11
+offsets:1,1,17,13
 tar_beike1
-  rotate: false
-  xy: 642, 7
-  size: 29, 32
-  orig: 29, 32
-  offset: 0, 0
-  index: -1
+bounds:478,239,25,27
 tar_beike2
-  rotate: false
-  xy: 647, 190
-  size: 25, 30
-  orig: 25, 30
-  offset: 0, 0
-  index: -1
+bounds:445,6,22,26
+rotate:90
 tar_beike3
-  rotate: false
-  xy: 154, 103
-  size: 26, 22
-  orig: 26, 22
-  offset: 0, 0
-  index: -1
+bounds:230,8,22,19
 tar_gong1
-  rotate: 180
-  xy: 6, 47
-  size: 337, 241
-  orig: 337, 241
-  offset: 0, 0
-  index: -1
+bounds:29,21,289,206
+rotate:180
 tar_huahuan1
-  rotate: false
-  xy: 6, 87
-  size: 143, 67
-  orig: 143, 67
-  offset: 0, 0
-  index: -1
+bounds:64,197,122,58
 tar_kua1
-  rotate: 270
-  xy: 521, 43
-  size: 93, 67
-  orig: 93, 67
-  offset: 0, 0
-  index: -1
+bounds:134,87,80,58
 tar_kuzishipin1
-  rotate: false
-  xy: 145, 263
-  size: 69, 25
-  orig: 69, 25
-  offset: 0, 0
-  index: -1
+bounds:285,44,59,21
 tar_kuzishipin2
-  rotate: false
-  xy: 235, 179
-  size: 37, 25
-  orig: 41, 27
-  offset: 0, 2
-  index: -1
+bounds:350,21,32,21
+offsets:0,2,35,23
 tar_kuzishipin3
-  rotate: true
-  xy: 602, 191
-  size: 52, 39
-  orig: 102, 60
-  offset: 50, 21
-  index: -1
+bounds:235,33,44,33
+offsets:43,19,87,52
 tar_toushi1
-  rotate: true
-  xy: 649, 46
-  size: 50, 18
-  orig: 50, 18
-  offset: 0, 0
-  index: -1
+bounds:285,23,43,15
 tar_yaodai1
-  rotate: false
-  xy: 386, 9
-  size: 81, 35
-  orig: 88, 40
-  offset: 0, 5
-  index: -1
+bounds:160,25,70,29
+offsets:0,5,76,34
 tar_youdabi1
-  rotate: true
-  xy: 486, 7
-  size: 41, 64
-  orig: 48, 64
-  offset: 7, 0
-  index: -1
+bounds:114,49,35,55
+offsets:6,0,41,55
+rotate:270
 tar_youkuzi1
-  rotate: false
-  xy: 393, 182
-  size: 70, 106
-  orig: 70, 134
-  offset: 0, 28
-  index: -1
+bounds:324,136,60,91
+offsets:0,24,60,115
 tar_zuodabi1
-  rotate: true
-  xy: 580, 17
-  size: 59, 62
-  orig: 59, 62
-  offset: 0, 0
-  index: -1
+bounds:392,16,50,53
+rotate:180
 tar_zuokuzi1
-  rotate: true
-  xy: 394, 82
-  size: 94, 86
-  orig: 133, 90
-  offset: 39, 4
-  index: -1
+bounds:82,117,81,74
+offsets:33,3,114,77
 tar_zuoxiaobi1
-  rotate: 270
-  xy: 549, 123
-  size: 77, 51
-  orig: 77, 51
-  offset: 0, 0
-  index: -1
+bounds:64,75,66,44
 xdh_shangshen1
-  rotate: false
-  xy: 141, 132
-  size: 89, 119
-  orig: 89, 169
-  offset: 0, 50
-  index: -1
+bounds:404,154,76,102
+offsets:0,43,76,145
+rotate:90
 xdh_tou1
-  rotate: false
-  xy: 227, 210
-  size: 62, 78
-  orig: 62, 78
-  offset: 0, 0
-  index: -1
+bounds:453,83,53,67
 xdh_toufa1
-  rotate: 270
-  xy: 209, 40
-  size: 87, 133
-  orig: 87, 133
-  offset: 0, 0
-  index: -1
+bounds:6,136,74,114
 xdh_toufa2
-  rotate: false
-  xy: 6, 160
-  size: 133, 129
-  orig: 133, 150
-  offset: 0, 21
-  index: -1
+bounds:185,145,114,110
+offsets:0,18,114,128
+rotate:180
 xdh_toufa3
-  rotate: true
-  xy: 338, 24
-  size: 41, 96
-  orig: 41, 96
-  offset: 0, 0
-  index: -1
+bounds:410,70,35,82
 xdh_toufa4
-  rotate: true
-  xy: 541, 208
-  size: 73, 55
-  orig: 73, 55
-  offset: 0, 0
-  index: -1
+bounds:285,71,62,47
 xdh_youshou1
-  rotate: false
-  xy: 602, 250
-  size: 41, 31
-  orig: 41, 37
-  offset: 0, 6
-  index: -1
+bounds:57,48,35,27
+offsets:0,5,35,32
 xdh_youtui1
-  rotate: 180
-  xy: 477, 179
-  size: 71, 109
-  orig: 71, 109
-  offset: 0, 0
-  index: -1
+bounds:6,44,61,94
 xdh_zuotui1
-  rotate: 180
-  xy: 467, 40
-  size: 62, 134
-  orig: 62, 134
-  offset: 0, 0
-  index: -1
+bounds:351,48,53,115

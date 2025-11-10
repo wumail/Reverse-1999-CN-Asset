@@ -1,202 +1,69 @@
-
 302802_apple.png
-size: 136,744
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.6
 a_xiannvbang
-  rotate: true
-  xy: 6, 275
-  size: 43, 86
-  orig: 43, 86
-  offset: 0, 0
-  index: -1
+bounds:334,99,37,74
 ap_jiubei1
-  rotate: false
-  xy: 42, 599
-  size: 57, 139
-  orig: 57, 139
-  offset: 0, 0
-  index: -1
+bounds:47,54,49,119
 ap_jiubei2
-  rotate: true
-  xy: 81, 460
-  size: 56, 38
-  orig: 56, 38
-  offset: 0, 0
-  index: -1
+bounds:177,76,48,32
 ap_jiubei3
-  rotate: true
-  xy: 110, 515
-  size: 48, 18
-  orig: 48, 18
-  offset: 0, 0
-  index: -1
+bounds:398,43,41,15
 b_pg01
-  rotate: false
-  xy: 6, 225
-  size: 92, 44
-  orig: 92, 44
-  offset: 0, 0
-  index: -1
+bounds:410,94,79,38
+rotate:270
 b_pg02
-  rotate: true
-  xy: 6, 10
-  size: 25, 29
-  orig: 25, 30
-  offset: 0, 1
-  index: -1
+bounds:100,44,22,25
+offsets:0,1,22,26
 b_pg03
-  rotate: true
-  xy: 111, 570
-  size: 31, 17
-  orig: 32, 18
-  offset: 0, 0
-  index: -1
+bounds:480,37,26,14
+offsets:0,0,27,15
 b_pg06
-  rotate: 180
-  xy: 36, 143
-  size: 77, 39
-  orig: 77, 39
-  offset: 0, 0
-  index: -1
+bounds:451,53,66,33
+rotate:90
 b_pg07
-  rotate: true
-  xy: 6, 457
-  size: 61, 69
-  orig: 61, 69
-  offset: 0, 0
-  index: -1
+bounds:276,114,52,59
 c_pg01
-  rotate: false
-  xy: 93, 673
-  size: 30, 47
-  orig: 30, 47
-  offset: 0, 0
-  index: -1
+bounds:231,68,26,40
 c_pg02
-  rotate: 180
-  xy: 34, 98
-  size: 62, 54
-  orig: 62, 55
-  offset: 0, 0
-  index: -1
+bounds:450,120,53,46
+offsets:0,0,53,47
+rotate:90
 c_pg03
-  rotate: true
-  xy: 42, 690
-  size: 28, 13
-  orig: 28, 13
-  offset: 0, 0
-  index: -1
+bounds:311,39,24,11
 c_pg04
-  rotate: true
-  xy: 6, 390
-  size: 61, 69
-  orig: 61, 69
-  offset: 0, 0
-  index: -1
+bounds:218,114,52,59
 c_pg05
-  rotate: 180
-  xy: 41, 8
-  size: 41, 34
-  orig: 41, 34
-  offset: 0, 0
-  index: -1
+bounds:214,34,35,29
 c_pg06
-  rotate: false
-  xy: 105, 194
-  size: 24, 39
-  orig: 24, 39
-  offset: 0, 0
-  index: -1
+bounds:188,36,20,34
 feng
-  rotate: false
-  xy: 6, 543
-  size: 31, 195
-  orig: 31, 195
-  offset: 0, 0
-  index: -1
+bounds:6,6,26,167
 pg_xz_1
-  rotate: false
-  xy: 84, 23
-  size: 37, 28
-  orig: 37, 28
-  offset: 0, 0
-  index: -1
+bounds:413,64,32,24
 pg_xz_2
-  rotate: true
-  xy: 94, 240
-  size: 61, 34
-  orig: 61, 34
-  offset: 0, 0
-  index: -1
+bounds:129,43,52,29
 pg_xz_3
-  rotate: 180
-  xy: 14, 41
-  size: 62, 33
-  orig: 62, 33
-  offset: 0, 0
-  index: -1
+bounds:261,41,53,28
 pg_xz_4
-  rotate: false
-  xy: 81, 324
-  size: 35, 131
-  orig: 35, 131
-  offset: 0, 0
-  index: -1
+bounds:377,61,30,112
+rotate:180
 uio
-  rotate: true
-  xy: 6, 323
-  size: 61, 69
-  orig: 61, 69
-  offset: 0, 0
-  index: -1
+bounds:160,114,52,59
 xt2h_pg_z_7
-  rotate: true
-  xy: 116, 308
-  size: 49, 11
-  orig: 49, 11
-  offset: 0, 0
-  index: -1
+bounds:38,131,42,9
+rotate:90
 xt2h_pg_z_8
-  rotate: true
-  xy: 103, 607
-  size: 56, 13
-  orig: 56, 13
-  offset: 0, 0
-  index: -1
+bounds:38,38,48,11
 xyw
-  rotate: false
-  xy: 103, 109
-  size: 25, 25
-  orig: 25, 25
-  offset: 0, 0
-  index: -1
+bounds:358,42,22,22
 z_pg01
-  rotate: false
-  xy: 18, 186
-  size: 81, 40
-  orig: 81, 40
-  offset: 0, 0
-  index: -1
+bounds:102,74,69,34
 z_pg03
-  rotate: false
-  xy: 6, 70
-  size: 57, 44
-  orig: 63, 44
-  offset: 6, 0
-  index: -1
+bounds:263,70,49,38
+offsets:5,0,54,38
 z_pg04
-  rotate: false
-  xy: 70, 57
-  size: 50, 45
-  orig: 50, 45
-  offset: 0, 0
-  index: -1
+bounds:318,55,43,38
 z_pg05
-  rotate: false
-  xy: 42, 524
-  size: 62, 69
-  orig: 62, 69
-  offset: 0, 0
-  index: -1
+bounds:101,114,53,59

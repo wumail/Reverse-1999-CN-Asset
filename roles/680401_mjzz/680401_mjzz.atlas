@@ -1,83 +1,38 @@
-
 680401_mjzz.png
-size: 700,192
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.6
 mjzz_dayoushou2
-  rotate: true
-  xy: 328, 116
-  size: 74, 196
-  orig: 74, 196
-  offset: 0, 0
-  index: -1
+bounds:156,116,63,168
+rotate:180
 mjzz_dayoushou3
-  rotate: true
-  xy: 2, 2
-  size: 188, 324
-  orig: 193, 324
-  offset: 5, 0
-  index: -1
+bounds:6,6,162,278
+offsets:4,0,166,278
 mjzz_shouzh25
-  rotate: true
-  xy: 523, 9
-  size: 58, 88
-  orig: 58, 88
-  offset: 0, 0
-  index: -1
+bounds:400,159,50,75
+rotate:90
 mjzz_shouzh26
-  rotate: true
-  xy: 650, 133
-  size: 57, 47
-  orig: 57, 47
-  offset: 0, 0
-  index: -1
+bounds:452,235,49,40
+rotate:90
 mjzz_shouzh27
-  rotate: true
-  xy: 479, 57
-  size: 57, 42
-  orig: 57, 42
-  offset: 0, 0
-  index: -1
+bounds:103,196,49,36
+rotate:90
 mjzz_shouzh28
-  rotate: false
-  xy: 650, 94
-  size: 46, 37
-  orig: 46, 37
-  offset: 0, 0
-  index: -1
+bounds:448,205,39,32
+rotate:90
 mjzz_shouzh29
-  rotate: true
-  xy: 479, 24
-  size: 31, 38
-  orig: 34, 39
-  offset: 0, 0
-  index: -1
+bounds:102,251,27,33
+offsets:0,0,29,34
 mjzz_shouzh30
-  rotate: true
-  xy: 613, 3
-  size: 64, 81
-  orig: 68, 81
-  offset: 4, 0
-  index: -1
+bounds:391,214,55,70
+offsets:3,0,58,70
+rotate:180
 mjzz_shouzh37
-  rotate: false
-  xy: 328, 22
-  size: 149, 92
-  orig: 149, 92
-  offset: 0, 0
-  index: -1
+bounds:315,156,128,79
+rotate:90
 mjzz_texiao1a
-  rotate: false
-  xy: 526, 69
-  size: 122, 121
-  orig: 122, 121
-  offset: 0, 0
-  index: -1
+bounds:223,180,104,104
+rotate:270
 mjzz_tx5
-  rotate: true
-  xy: 328, 15
-  size: 5, 57
-  orig: 6, 60
-  offset: 1, 1
-  index: -1
+bounds:6,236,4,48
+offsets:1,1,5,51

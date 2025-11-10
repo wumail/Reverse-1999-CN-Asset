@@ -1,55 +1,23 @@
-
 670112_ht.png
-size: 580,300
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.6
 body
-  rotate: false
-  xy: 2, 128
-  size: 454, 167
-  orig: 454, 167
-  offset: 0, 0
-  index: -1
+bounds:6,116,389,143
 fin01
-  rotate: false
-  xy: 458, 49
-  size: 118, 85
-  orig: 118, 85
-  offset: 0, 0
-  index: -1
+bounds:433,6,101,73
+rotate:90
 fin_l
-  rotate: true
-  xy: 375, 4
-  size: 43, 157
-  orig: 43, 157
-  offset: 0, 0
-  index: -1
+bounds:17,21,37,134
+rotate:90
 fin_r
-  rotate: false
-  xy: 226, 73
-  size: 208, 53
-  orig: 208, 53
-  offset: 0, 0
-  index: -1
+bounds:157,36,178,46
 head
-  rotate: true
-  xy: 2, 2
-  size: 124, 222
-  orig: 124, 222
-  offset: 0, 0
-  index: -1
+bounds:6,60,106,190
+rotate:270
 mouth
-  rotate: true
-  xy: 226, 3
-  size: 68, 147
-  orig: 68, 147
-  offset: 0, 0
-  index: -1
+bounds:323,71,58,126
+rotate:270
 tail
-  rotate: true
-  xy: 458, 136
-  size: 159, 105
-  orig: 159, 105
-  offset: 0, 0
-  index: -1
+bounds:399,123,136,90
+rotate:270

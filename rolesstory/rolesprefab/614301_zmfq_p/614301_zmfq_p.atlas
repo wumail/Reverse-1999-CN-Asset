@@ -1,195 +1,86 @@
-
 614301_zmfq_p.png
-size: 1936,2048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.6
 a1
-  rotate: 270
-  xy: 1230, 515
-  size: 734, 519
-  orig: 798, 912
-  offset: 13, 393
-  index: -1
+bounds:860,595,629,446
+offsets:11,336,684,782
 a2
-  rotate: 180
-  xy: 1638, 151
-  size: 294, 223
-  orig: 294, 382
-  offset: 0, 123
-  index: -1
+bounds:1621,370,252,191
+offsets:0,106,252,327
+rotate:180
 a3
-  rotate: 180
-  xy: 1562, 1625
-  size: 309, 422
-  orig: 309, 468
-  offset: 0, 0
-  index: -1
+bounds:805,1367,265,362
+offsets:0,0,265,401
 a7
-  rotate: false
-  xy: 2, 1977
-  size: 65, 69
-  orig: 67, 76
-  offset: 0, 0
-  index: -1
+bounds:6,1671,55,58
+offsets:0,0,57,65
 a8
-  rotate: false
-  xy: 2, 36
-  size: 928, 2010
-  orig: 1011, 2010
-  offset: 0, 0
-  index: -1
+bounds:6,6,796,1723
+offsets:0,0,866,1723
 er
-  rotate: false
-  xy: 894, 1071
-  size: 153, 249
-  orig: 165, 249
-  offset: 12, 0
-  index: -1
+bounds:746,711,131,214
+offsets:11,0,142,214
 huzi2
-  rotate: true
-  xy: 1526, 3
-  size: 497, 153
-  orig: 511, 167
-  offset: 14, 0
-  index: -1
+bounds:963,567,426,131
+offsets:12,0,438,143
 idle1
-  rotate: true
-  xy: 931, 1582
-  size: 196, 76
-  orig: 204, 78
-  offset: 1, 0
-  index: -1
+bounds:1958,1383,168,65
+offsets:1,0,175,67
+rotate:90
 idle2
-  rotate: false
-  xy: 1134, 1934
-  size: 310, 112
-  orig: 312, 120
-  offset: 1, 8
-  index: -1
+bounds:807,1106,265,96
+offsets:1,7,267,103
+rotate:90
 idle3
-  rotate: true
-  xy: 1229, 3
-  size: 493, 152
-  orig: 493, 152
-  offset: 0, 0
-  index: -1
+bounds:1494,649,422,130
+rotate:90
 idle4
-  rotate: false
-  xy: 1566, 1249
-  size: 254, 83
-  orig: 254, 83
-  offset: 0, 0
-  index: -1
+bounds:801,519,218,71
 lian
-  rotate: false
-  xy: 1230, 1472
-  size: 352, 455
-  orig: 365, 463
-  offset: 0, 8
-  index: -1
+bounds:1487,1339,302,390
+offsets:0,7,313,397
+rotate:180
 maozi1
-  rotate: false
-  xy: 906, 717
-  size: 119, 125
-  orig: 119, 125
-  offset: 0, 0
-  index: -1
+bounds:909,1257,102,107
 maozi2
-  rotate: true
-  xy: 1325, 698
-  size: 360, 280
-  orig: 362, 280
-  offset: 0, 0
-  index: -1
+bounds:1016,670,309,240
+offsets:0,0,310,240
 pj1
-  rotate: false
-  xy: 2, 52
-  size: 241, 76
-  orig: 241, 76
-  offset: 0, 0
-  index: -1
+bounds:1410,452,206,65
 pj2
-  rotate: false
-  xy: 1598, 1334
-  size: 263, 73
-  orig: 265, 74
-  offset: 1, 1
-  index: -1
+bounds:1025,500,225,62
+offsets:1,1,227,63
 pj3
-  rotate: true
-  xy: 2, 864
-  size: 306, 122
-  orig: 307, 122
-  offset: 0, 0
-  index: -1
+bounds:1579,547,263,104
 pj4
-  rotate: true
-  xy: 931, 1322
-  size: 199, 76
-  orig: 200, 77
-  offset: 0, 0
-  index: -1
+bounds:1941,1557,172,65
+offsets:0,0,172,66
+rotate:90
 pj5
-  rotate: false
-  xy: 878, 844
-  size: 145, 139
-  orig: 176, 139
-  offset: 0, 0
-  index: -1
+bounds:1646,1215,125,119
+offsets:0,0,151,119
 shenshou
-  rotate: false
-  xy: 942, 962
-  size: 655, 525
-  orig: 722, 532
-  offset: 0, 7
-  index: -1
+bounds:1480,789,562,450
+offsets:0,6,619,456
+rotate:90
 shenshou1
-  rotate: false
-  xy: 1656, 584
-  size: 204, 554
-  orig: 204, 554
-  offset: 0, 0
-  index: -1
+bounds:1781,1254,175,475
+rotate:180
 sq1
-  rotate: true
-  xy: 1378, 212
-  size: 334, 149
-  orig: 335, 150
-  offset: 0, 1
-  index: -1
+bounds:1630,657,286,127
+offsets:0,1,287,128
 sq2
-  rotate: false
-  xy: 1580, 1444
-  size: 206, 148
-  orig: 209, 150
-  offset: 1, 1
-  index: -1
+bounds:1829,1072,176,127
+offsets:1,0,179,128
+rotate:90
 sq3
-  rotate: true
-  xy: 2, 1229
-  size: 257, 78
-  orig: 257, 78
-  offset: 0, 0
-  index: -1
+bounds:1053,878,220,67
 sq4
-  rotate: false
-  xy: 2, 126
-  size: 247, 107
-  orig: 247, 107
-  offset: 0, 0
-  index: -1
+bounds:1284,507,212,92
 you
-  rotate: false
-  xy: 925, 1180
-  size: 311, 866
-  orig: 364, 866
-  offset: 0, 0
-  index: -1
+bounds:1228,987,266,742
+offsets:0,0,312,742
 zuo
-  rotate: 180
-  xy: 678, 3
-  size: 581, 956
-  orig: 581, 956
-  offset: 0, 0
-  index: -1
+bounds:761,909,498,820
+rotate:180

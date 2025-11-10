@@ -1,83 +1,36 @@
-
 670408_msh500m.png
-size: 452,740
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
 pt_naoti_01
-  rotate: 180
-  xy: 6, 347
-  size: 272, 385
-  orig: 272, 385
-  offset: 0, 0
-  index: -1
+bounds:6,6,272,385
 pt_naoti_02
-  rotate: true
-  xy: 224, 79
-  size: 198, 214
-  orig: 198, 214
-  offset: 0, 0
-  index: -1
+bounds:752,177,198,214
 pt_naoti_03
-  rotate: 180
-  xy: 134, 157
-  size: 309, 374
-  orig: 309, 374
-  offset: 0, 0
-  index: -1
+bounds:439,17,309,374
+rotate:180
 pt_naoti_04
-  rotate: 270
-  xy: 6, 135
-  size: 253, 265
-  orig: 253, 274
-  offset: 0, 9
-  index: -1
+bounds:420,126,253,265
+offsets:0,9,253,274
+rotate:180
 pt_naoti_05
-  rotate: 270
-  xy: 82, 493
-  size: 211, 201
-  orig: 257, 201
-  offset: 46, 0
-  index: -1
+bounds:218,190,211,201
+offsets:46,0,257,201
+rotate:180
 pt_naoti_06
-  rotate: false
-  xy: 6, 401
-  size: 84, 82
-  orig: 84, 82
-  offset: 0, 0
-  index: -1
+bounds:566,253,84,82
+rotate:90
 pt_naoti_07
-  rotate: 270
-  xy: 312, 7
-  size: 129, 131
-  orig: 129, 131
-  offset: 0, 0
-  index: -1
+bounds:284,54,129,131
 pt_naoti_08
-  rotate: 180
-  xy: 11, 56
-  size: 174, 118
-  orig: 174, 118
-  offset: 0, 0
-  index: -1
+bounds:730,53,174,118
+rotate:180
 pt_naoti_09
-  rotate: true
-  xy: 228, 296
-  size: 174, 143
-  orig: 174, 143
-  offset: 0, 0
-  index: -1
+bounds:6,113,174,143
 pt_naoti_10
-  rotate: 180
-  xy: 190, 18
-  size: 111, 84
-  orig: 111, 96
-  offset: 0, 12
-  index: -1
+bounds:903,87,111,84
+offsets:0,12,111,96
+rotate:180
 pt_naoti_15
-  rotate: false
-  xy: 289, 536
-  size: 94, 178
-  orig: 94, 178
-  offset: 0, 0
-  index: -1
+bounds:754,155,94,178

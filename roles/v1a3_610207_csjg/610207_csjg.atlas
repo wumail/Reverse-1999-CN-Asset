@@ -1,251 +1,88 @@
-
 610207_csjg.png
-size: 1080,272
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,1024
+filter:Linear,Linear
+scale:0.7
 csss_01
-  rotate: false
-  xy: 880, 92
-  size: 51, 38
-  orig: 51, 38
-  offset: 0, 0
-  index: -1
+bounds:356,104,51,38
 csss_01_l
-  rotate: false
-  xy: 534, 84
-  size: 73, 186
-  orig: 73, 186
-  offset: 0, 0
-  index: -1
+bounds:343,323,73,186
+rotate:180
 csss_02
-  rotate: false
-  xy: 722, 107
-  size: 83, 163
-  orig: 83, 163
-  offset: 0, 0
-  index: -1
+bounds:215,67,83,163
+rotate:90
 csss_02_l
-  rotate: false
-  xy: 629, 105
-  size: 91, 165
-  orig: 91, 165
-  offset: 0, 0
-  index: -1
+bounds:326,227,91,165
+rotate:90
 csss_03
-  rotate: true
-  xy: 807, 132
-  size: 138, 269
-  orig: 141, 269
-  offset: 3, 0
-  index: -1
+bounds:209,240,138,269
+offsets:3,0,141,269
 csss_04
-  rotate: false
-  xy: 879, 33
-  size: 49, 56
-  orig: 49, 56
-  offset: 0, 0
-  index: -1
+bounds:55,369,49,56
 csss_body
-  rotate: true
-  xy: 933, 41
-  size: 89, 144
-  orig: 89, 144
-  offset: 0, 0
-  index: -1
+bounds:286,112,89,144
 csss_houling
-  rotate: false
-  xy: 125, 6
-  size: 38, 22
-  orig: 38, 22
-  offset: 0, 0
-  index: -1
+bounds:217,171,38,22
 csss_hounaozhui_1
-  rotate: true
-  xy: 534, 69
-  size: 13, 43
-  orig: 13, 43
-  offset: 0, 0
-  index: -1
+bounds:156,73,13,43
+rotate:90
 csss_hounaozhui_3
-  rotate: true
-  xy: 629, 84
-  size: 19, 109
-  orig: 19, 109
-  offset: 0, 0
-  index: -1
+bounds:30,400,19,109
 csss_hounaozhui_5
-  rotate: false
-  xy: 609, 84
-  size: 18, 186
-  orig: 18, 186
-  offset: 0, 0
-  index: -1
+bounds:6,323,18,186
 csss_naoye
-  rotate: true
-  xy: 152, 38
-  size: 232, 190
-  orig: 232, 190
-  offset: 0, 0
-  index: -1
+bounds:19,92,232,190
+rotate:270
 csss_tongkong
-  rotate: false
-  xy: 95, 5
-  size: 28, 23
-  orig: 131, 47
-  offset: 68, 20
-  index: -1
+bounds:267,18,131,47
 csss_touqiane
-  rotate: true
-  xy: 344, 68
-  size: 202, 188
-  orig: 202, 188
-  offset: 0, 0
-  index: -1
+bounds:6,6,202,188
+rotate:270
 csss_xiabai
-  rotate: false
-  xy: 2, 30
-  size: 148, 240
-  orig: 148, 240
-  offset: 0, 0
-  index: -1
+bounds:94,269,148,240
+rotate:180
 csss_xiangquan1
-  rotate: true
-  xy: 599, 4
-  size: 78, 17
-  orig: 78, 17
-  offset: 0, 0
-  index: -1
+bounds:79,431,78,17
+rotate:90
 csss_xiangquan2
-  rotate: true
-  xy: 579, 4
-  size: 78, 18
-  orig: 78, 18
-  offset: 0, 0
-  index: -1
+bounds:55,431,78,18
+rotate:90
 csss_youzhua_1
-  rotate: false
-  xy: 446, 6
-  size: 110, 60
-  orig: 110, 60
-  offset: 0, 0
-  index: -1
+bounds:374,82,110,60
 csss_youzhua_2
-  rotate: false
-  xy: 807, 91
-  size: 71, 39
-  orig: 71, 39
-  offset: 0, 0
-  index: -1
+bounds:197,193,71,39
 csss_youzhua_3
-  rotate: false
-  xy: 407, 3
-  size: 37, 63
-  orig: 37, 63
-  offset: 0, 0
-  index: -1
+bounds:6,61,37,63
 csss_youzhua_4
-  rotate: true
-  xy: 165, 2
-  size: 34, 55
-  orig: 34, 55
-  offset: 0, 0
-  index: -1
+bounds:154,208,34,55
 csss_youzhua_5
-  rotate: true
-  xy: 2, 2
-  size: 26, 43
-  orig: 26, 43
-  offset: 0, 0
-  index: -1
+bounds:332,335,26,43
 csss_zuoshou_1
-  rotate: false
-  xy: 558, 19
-  size: 18, 48
-  orig: 18, 48
-  offset: 0, 0
-  index: -1
+bounds:49,66,18,48
+rotate:90
 csss_zuoshou_2
-  rotate: false
-  xy: 850, 32
-  size: 27, 57
-  orig: 27, 57
-  offset: 0, 0
-  index: -1
+bounds:62,306,27,57
 csss_zuoshou_3
-  rotate: true
-  xy: 850, 3
-  size: 27, 55
-  orig: 29, 55
-  offset: 2, 0
-  index: -1
+bounds:460,56,27,55
+offsets:2,0,29,55
 csss_zuoshou_4
-  rotate: false
-  xy: 275, 6
-  size: 16, 30
-  orig: 16, 30
-  offset: 0, 0
-  index: -1
+bounds:381,227,16,30
+rotate:90
 csss_zuoshou_5
-  rotate: true
-  xy: 359, 2
-  size: 64, 46
-  orig: 64, 46
-  offset: 0, 0
-  index: -1
+bounds:202,223,64,46
 csss_zzzzzzz1
-  rotate: true
-  xy: 907, 2
-  size: 29, 54
-  orig: 29, 54
-  offset: 0, 0
-  index: -1
+bounds:30,325,29,54
 csss_zzzzzzz2
-  rotate: true
-  xy: 293, 7
-  size: 29, 64
-  orig: 29, 64
-  offset: 0, 0
-  index: -1
+bounds:462,325,29,64
 csss_zzzzzzz3
-  rotate: true
-  xy: 47, 4
-  size: 24, 46
-  orig: 24, 46
-  offset: 0, 0
-  index: -1
+bounds:6,258,24,46
 eyeball_01
-  rotate: true
-  xy: 222, 2
-  size: 34, 51
-  orig: 34, 51
-  offset: 0, 0
-  index: -1
+bounds:422,338,34,51
 eyeball_02
-  rotate: false
-  xy: 740, 90
-  size: 29, 15
-  orig: 29, 15
-  offset: 0, 0
-  index: -1
+bounds:205,67,29,15
 eyeball_03
-  rotate: true
-  xy: 963, 28
-  size: 11, 48
-  orig: 11, 48
-  offset: 0, 0
-  index: -1
+bounds:102,461,11,48
 eyeball_04
-  rotate: true
-  xy: 618, 9
-  size: 73, 114
-  orig: 73, 114
-  offset: 0, 0
-  index: -1
+bounds:422,395,73,114
 eyeball_05
-  rotate: true
-  xy: 734, 9
-  size: 73, 114
-  orig: 73, 114
-  offset: 0, 0
-  index: -1
+bounds:377,148,73,114
+rotate:90

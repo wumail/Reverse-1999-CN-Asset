@@ -1,139 +1,52 @@
-
 500015_zxkbk.png
-size: 684,168
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.6
 a_mianbao
-  rotate: true
-  xy: 527, 104
-  size: 59, 50
-  orig: 59, 50
-  offset: 0, 0
-  index: -1
+bounds:430,115,50,43
+rotate:90
 bq_kaixin1
-  rotate: true
-  xy: 6, 10
-  size: 57, 23
-  orig: 57, 23
-  offset: 0, 0
-  index: -1
+bounds:479,116,49,20
+rotate:90
 kbkl_1_er1
-  rotate: false
-  xy: 6, 127
-  size: 30, 35
-  orig: 30, 35
-  offset: 0, 0
-  index: -1
+bounds:108,135,26,30
 kbkl_1_er2
-  rotate: false
-  xy: 630, 34
-  size: 39, 29
-  orig: 39, 29
-  offset: 0, 0
-  index: -1
+bounds:447,21,34,25
+rotate:90
 kbkl_1_mmyan
-  rotate: false
-  xy: 92, 9
-  size: 59, 10
-  orig: 59, 10
-  offset: 0, 0
-  index: -1
+bounds:6,157,50,8
 kbkl_1_qiu
-  rotate: true
-  xy: 176, 33
-  size: 130, 127
-  orig: 130, 127
-  offset: 0, 0
-  index: -1
+bounds:127,54,111,109
+rotate:90
 kbkl_1_tongkong
-  rotate: false
-  xy: 219, 10
-  size: 41, 18
-  orig: 41, 18
-  offset: 0, 0
-  index: -1
+bounds:378,24,35,15
 kbkl_1_yanbai
-  rotate: false
-  xy: 156, 7
-  size: 57, 23
-  orig: 57, 23
-  offset: 0, 0
-  index: -1
+bounds:134,28,49,20
 kbkl_2_chi1
-  rotate: true
-  xy: 608, 91
-  size: 71, 38
-  orig: 71, 38
-  offset: 0, 0
-  index: -1
+bounds:264,27,61,32
 kbkl_2_chi2
-  rotate: 180
-  xy: 306, 14
-  size: 77, 34
-  orig: 77, 34
-  offset: 0, 0
-  index: -1
+bounds:477,31,66,29
+rotate:270
 kbkl_2_qiu1
-  rotate: false
-  xy: 406, 19
-  size: 116, 143
-  orig: 116, 143
-  offset: 0, 0
-  index: -1
+bounds:326,43,99,122
 kbkl_2_qiu2
-  rotate: false
-  xy: 308, 48
-  size: 104, 115
-  orig: 104, 115
-  offset: 0, 0
-  index: -1
+bounds:241,67,89,98
 kbkl_2_wei1
-  rotate: false
-  xy: 608, 8
-  size: 49, 25
-  orig: 49, 25
-  offset: 0, 0
-  index: -1
+bounds:92,6,42,22
+rotate:180
 kbkl_2_wei2
-  rotate: 270
-  xy: 512, 23
-  size: 102, 81
-  orig: 102, 81
-  offset: 0, 0
-  index: -1
+bounds:420,22,87,69
+rotate:90
 kbkl_2_yan
-  rotate: false
-  xy: 42, 154
-  size: 15, 8
-  orig: 15, 8
-  offset: 0, 0
-  index: -1
+bounds:319,158,13,7
 kbkl_cao
-  rotate: false
-  xy: 652, 68
-  size: 25, 25
-  orig: 25, 25
-  offset: 0, 0
-  index: -1
+bounds:331,19,21,21
 kbkl_zhixiang1
-  rotate: false
-  xy: 6, 22
-  size: 167, 140
-  orig: 167, 140
-  offset: 0, 0
-  index: -1
+bounds:8,22,143,120
+rotate:90
 kbkl_zhixiang2
-  rotate: true
-  xy: 566, 24
-  size: 64, 73
-  orig: 66, 74
-  offset: 0, 1
-  index: -1
+bounds:195,20,55,63
+offsets:0,1,56,64
+rotate:270
 kbkl_zzz
-  rotate: false
-  xy: 644, 118
-  size: 30, 35
-  orig: 30, 35
-  offset: 0, 0
-  index: -1
+bounds:337,98,26,30

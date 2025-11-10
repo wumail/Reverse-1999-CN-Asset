@@ -1,188 +1,75 @@
-
 620208_hgcs2.png
-size: 2020,1612
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,1024
+filter:Linear,Linear
+scale:0.6
 benti1
-  rotate: false
-  xy: 1631, 945
-  size: 384, 663
-  orig: 384, 663
-  offset: 0, 0
-  index: -1
+bounds:1297,340,329,568
+rotate:180
 benti3
-  rotate: true
-  xy: 1019, 943
-  size: 665, 610
-  orig: 685, 610
-  offset: 20, 0
-  index: -1
+bounds:818,385,570,523
+offsets:17,0,587,523
 benti4
-  rotate: true
-  xy: 2, 1045
-  size: 563, 1015
-  orig: 563, 1044
-  offset: 0, 29
-  index: -1
+bounds:6,37,482,871
+offsets:0,24,482,895
 benti5
-  rotate: true
-  xy: 2, 345
-  size: 698, 605
-  orig: 741, 605
-  offset: 43, 0
-  index: -1
+bounds:420,306,602,518
+offsets:33,0,635,518
+rotate:270
 bi1
-  rotate: false
-  xy: 1401, 29
-  size: 227, 289
-  orig: 228, 291
-  offset: 1, 1
-  index: -1
+bounds:1096,271,195,248
+offsets:1,1,196,250
 bi2
-  rotate: false
-  xy: 1670, 588
-  size: 343, 355
-  orig: 344, 356
-  offset: 1, 0
-  index: -1
+bounds:1559,241,294,305
+offsets:1,0,295,305
 bi3
-  rotate: true
-  xy: 2, 40
-  size: 303, 415
-  orig: 304, 417
-  offset: 1, 1
-  index: -1
+bounds:1632,552,259,356
+offsets:1,1,260,357
 cexu1
-  rotate: true
-  xy: 419, 51
-  size: 292, 186
-  orig: 292, 186
-  offset: 0, 0
-  index: -1
+bounds:230,36,250,159
+rotate:180
 cexu3
-  rotate: true
-  xy: 1630, 113
-  size: 204, 221
-  orig: 204, 221
-  offset: 0, 0
-  index: -1
+bounds:979,723,175,189
+rotate:270
 cexu4
-  rotate: false
-  xy: 607, 2
-  size: 207, 92
-  orig: 207, 92
-  offset: 0, 0
-  index: -1
+bounds:1897,646,178,79
+rotate:90
 cexu5
-  rotate: false
-  xy: 609, 487
-  size: 388, 556
-  orig: 388, 556
-  offset: 0, 0
-  index: -1
+bounds:972,95,332,476
+rotate:90
 cexu6
-  rotate: false
-  xy: 999, 452
-  size: 451, 187
-  orig: 453, 187
-  offset: 0, 0
-  index: -1
+bounds:1297,132,387,160
+offsets:0,0,388,160
 cexu7
-  rotate: true
-  xy: 1107, 21
-  size: 109, 138
-  orig: 109, 138
-  offset: 0, 0
-  index: -1
+bounds:12,718,94,118
 jiao1
-  rotate: true
-  xy: 1630, 35
-  size: 76, 85
-  orig: 76, 85
-  offset: 0, 0
-  index: -1
+bounds:552,835,65,73
 jiao2
-  rotate: true
-  xy: 1853, 77
-  size: 73, 109
-  orig: 73, 109
-  offset: 0, 0
-  index: -1
+bounds:1344,814,62,94
 jiao3
-  rotate: true
-  xy: 1717, 37
-  size: 74, 81
-  orig: 76, 83
-  offset: 0, 2
-  index: -1
+bounds:642,733,63,70
+offsets:0,1,65,71
 jiao4
-  rotate: true
-  xy: 1853, 152
-  size: 165, 109
-  orig: 179, 109
-  offset: 14, 0
-  index: -1
+bounds:940,815,141,93
+offsets:12,0,153,93
 jiao5
-  rotate: true
-  xy: 939, 7
-  size: 123, 166
-  orig: 123, 166
-  offset: 0, 0
-  index: -1
+bounds:1897,766,105,142
 jiao6
-  rotate: false
-  xy: 816, 13
-  size: 113, 81
-  orig: 113, 81
-  offset: 0, 0
-  index: -1
+bounds:449,839,97,69
 jiao7
-  rotate: false
-  xy: 1247, 28
-  size: 138, 99
-  orig: 138, 99
-  offset: 0, 0
-  index: -1
+bounds:6,790,118,85
+rotate:90
 tou1
-  rotate: true
-  xy: 1272, 129
-  size: 321, 127
-  orig: 321, 127
-  offset: 0, 0
-  index: -1
+bounds:1717,138,275,109
 tou2
-  rotate: true
-  xy: 1630, 319
-  size: 267, 255
-  orig: 267, 255
-  offset: 0, 0
-  index: -1
+bounds:494,690,229,218
 tou3
-  rotate: false
-  xy: 939, 132
-  size: 331, 318
-  orig: 354, 318
-  offset: 0, 0
-  index: -1
+bounds:621,172,284,272
+offsets:0,0,303,272
 tou4
-  rotate: true
-  xy: 1452, 320
-  size: 319, 176
-  orig: 385, 176
-  offset: 0, 0
-  index: -1
+bounds:343,122,273,151
+offsets:0,0,330,151
 xu1
-  rotate: true
-  xy: 609, 96
-  size: 389, 328
-  orig: 389, 328
-  offset: 0, 0
-  index: -1
+bounds:866,42,333,281
 xu2
-  rotate: true
-  xy: 999, 641
-  size: 300, 669
-  orig: 300, 669
-  offset: 0, 0
-  index: -1
+bounds:798,6,257,574
+rotate:90

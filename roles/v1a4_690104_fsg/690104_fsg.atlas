@@ -1,118 +1,51 @@
-
 690104_fsg.png
-size: 1100,340
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,1024
+filter:Linear,Linear
+scale:0.6
 fsg_0
-  rotate: 180
-  xy: 528, 50
-  size: 428, 85
-  orig: 428, 85
-  offset: 0, 0
-  index: -1
+bounds:57,205,367,73
+rotate:90
 fsg_1
-  rotate: 180
-  xy: 300, 148
-  size: 398, 174
-  orig: 407, 241
-  offset: 0, 3
-  index: -1
+bounds:264,231,341,149
+offsets:0,3,349,206
+rotate:270
 fsg_12
-  rotate: 270
-  xy: 132, 12
-  size: 104, 332
-  orig: 104, 332
-  offset: 0, 0
-  index: -1
+bounds:222,105,89,284
+rotate:270
 fsg_13
-  rotate: false
-  xy: 1018, 161
-  size: 70, 174
-  orig: 70, 174
-  offset: 0, 0
-  index: -1
+bounds:357,9,60,149
+rotate:90
 fsg_14
-  rotate: 180
-  xy: 930, 11
-  size: 125, 168
-  orig: 125, 168
-  offset: 0, 0
-  index: -1
+bounds:50,16,107,144
+rotate:270
 fsg_15
-  rotate: false
-  xy: 625, 13
-  size: 210, 82
-  orig: 210, 83
-  offset: 0, 1
-  index: -1
+bounds:127,70,180,70
+offsets:0,1,180,71
 fsg_16
-  rotate: false
-  xy: 621, 199
-  size: 191, 137
-  orig: 197, 151
-  offset: 3, 0
-  index: -1
+bounds:343,181,163,118
+offsets:3,0,169,129
 fsg_17
-  rotate: false
-  xy: 2, 147
-  size: 387, 189
-  orig: 387, 190
-  offset: 0, 1
-  index: -1
+bounds:110,240,332,162
+offsets:0,1,332,163
+rotate:90
 fsg_2
-  rotate: true
-  xy: 793, 121
-  size: 158, 117
-  orig: 158, 137
-  offset: 0, 0
-  index: -1
+bounds:370,472,135,100
+offsets:0,0,135,117
 fsg_3
-  rotate: false
-  xy: 890, 232
-  size: 111, 104
-  orig: 111, 104
-  offset: 0, 0
-  index: -1
+bounds:411,311,95,89
 fsg_4
-  rotate: true
-  xy: 911, 118
-  size: 109, 101
-  orig: 109, 101
-  offset: 0, 0
-  index: -1
+bounds:333,41,94,86
+rotate:180
 fsg_5
-  rotate: true
-  xy: 978, 3
-  size: 113, 119
-  orig: 113, 119
-  offset: 0, 0
-  index: -1
+bounds:6,6,97,102
+rotate:180
 fsg_6
-  rotate: 180
-  xy: 2, 10
-  size: 112, 93
-  orig: 112, 93
-  offset: 0, 0
-  index: -1
+bounds:407,398,96,80
 fsg_7
-  rotate: 270
-  xy: 2, 40
-  size: 209, 129
-  orig: 213, 129
-  offset: 0, 0
-  index: -1
+bounds:79,127,180,110
+offsets:0,0,182,110
 fsg_8
-  rotate: true
-  xy: 466, 14
-  size: 58, 121
-  orig: 58, 121
-  offset: 0, 0
-  index: -1
+bounds:259,174,50,104
+rotate:90
 fsg_9
-  rotate: 270
-  xy: 79, 107
-  size: 68, 527
-  orig: 68, 527
-  offset: 0, 0
-  index: -1
+bounds:6,120,58,452

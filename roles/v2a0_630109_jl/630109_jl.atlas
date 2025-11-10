@@ -1,237 +1,91 @@
-
 630109_jl.png
-size: 1504,124
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 jl/bozi
-  rotate: true
-  xy: 6, 10
-  size: 29, 67
-  orig: 29, 67
-  offset: 0, 0
-  index: -1
+bounds:281,171,29,67
 jl/dao
-  rotate: false
-  xy: 6, 44
-  size: 133, 74
-  orig: 135, 75
-  offset: 2, 1
-  index: -1
+bounds:37,190,133,74
+offsets:2,1,135,75
+rotate:90
 jl/dayidi
-  rotate: 270
-  xy: 518, 22
-  size: 69, 117
-  orig: 69, 117
-  offset: 0, 0
-  index: -1
+bounds:377,206,69,117
+rotate:180
 jl/heichao
-  rotate: false
-  xy: 294, 7
-  size: 13, 34
-  orig: 13, 34
-  offset: 0, 0
-  index: -1
+bounds:192,238,13,34
 jl/hongshan1
-  rotate: 180
-  xy: 1429, 16
-  size: 43, 69
-  orig: 43, 69
-  offset: 0, 0
-  index: -1
+bounds:437,11,43,69
+rotate:90
 jl/hongshan2
-  rotate: 270
-  xy: 1444, 73
-  size: 43, 53
-  orig: 43, 53
-  offset: 0, 0
-  index: -1
+bounds:46,6,43,53
+rotate:90
 jl/jiangzhang
-  rotate: false
-  xy: 79, 7
-  size: 27, 31
-  orig: 27, 31
-  offset: 0, 0
-  index: -1
+bounds:205,65,27,31
 jl/kudaizi
-  rotate: false
-  xy: 112, 18
-  size: 21, 20
-  orig: 21, 20
-  offset: 0, 0
-  index: -1
+bounds:413,190,21,20
 jl/qianfa
-  rotate: true
-  xy: 1180, 57
-  size: 62, 50
-  orig: 62, 50
-  offset: 0, 0
-  index: -1
+bounds:442,87,62,50
 jl/yanjing
-  rotate: false
-  xy: 1323, 22
-  size: 45, 45
-  orig: 45, 45
-  offset: 0, 0
-  index: -1
+bounds:154,51,45,45
 jl/yaodai
-  rotate: false
-  xy: 145, 25
-  size: 72, 34
-  orig: 72, 34
-  offset: 0, 0
-  index: -1
+bounds:239,73,72,34
 jl/yiling2
-  rotate: 270
-  xy: 1039, 12
-  size: 35, 109
-  orig: 35, 109
-  offset: 0, 0
-  index: -1
+bounds:196,35,35,109
+rotate:270
 jl/youyi
-  rotate: 270
-  xy: 824, 8
-  size: 26, 140
-  orig: 26, 140
-  offset: 0, 0
-  index: -1
+bounds:6,183,26,140
 jl/zuihan_mao
-  rotate: false
-  xy: 323, 19
-  size: 111, 99
-  orig: 111, 99
-  offset: 0, 0
-  index: -1
+bounds:187,212,111,99
+rotate:270
 jl/zuihan_pengqiang
-  rotate: true
-  xy: 965, 30
-  size: 88, 46
-  orig: 88, 46
-  offset: 0, 0
-  index: -1
+bounds:238,113,88,46
 jl/zuihan_tou
-  rotate: 180
-  xy: 627, 27
-  size: 82, 91
-  orig: 82, 91
-  offset: 0, 0
-  index: -1
+bounds:316,144,82,91
+rotate:90
 jl/zuihan_xiongqang
-  rotate: false
-  xy: 440, 22
-  size: 83, 97
-  orig: 83, 97
-  offset: 0, 0
-  index: -1
+bounds:293,226,83,97
 jl/zuihan_youdabi
-  rotate: true
-  xy: 1330, 72
-  size: 37, 61
-  orig: 37, 61
-  offset: 0, 0
-  index: -1
+bounds:84,48,37,61
+rotate:90
 jl/zuihan_youdatui
-  rotate: false
-  xy: 901, 40
-  size: 58, 78
-  orig: 58, 78
-  offset: 0, 0
-  index: -1
+bounds:443,245,58,78
 jl/zuihan_youioao
-  rotate: true
-  xy: 1225, 25
-  size: 71, 43
-  orig: 71, 43
-  offset: 0, 0
-  index: -1
+bounds:325,69,71,43
+rotate:270
 jl/zuihan_youshou1
-  rotate: false
-  xy: 1397, 74
-  size: 34, 41
-  orig: 34, 41
-  offset: 0, 0
-  index: -1
+bounds:140,11,34,41
+rotate:90
 jl/zuihan_youshouzhi
-  rotate: true
-  xy: 1275, 72
-  size: 41, 49
-  orig: 41, 49
-  offset: 0, 0
-  index: -1
+bounds:362,44,41,49
+rotate:90
 jl/zuihan_youxiaobi
-  rotate: false
-  xy: 1123, 40
-  size: 53, 78
-  orig: 53, 78
-  offset: 0, 0
-  index: -1
+bounds:71,85,53,78
+rotate:90
 jl/zuihan_youxiaotui
-  rotate: false
-  xy: 847, 28
-  size: 48, 90
-  orig: 48, 90
-  offset: 0, 0
-  index: -1
+bounds:6,129,48,90
+rotate:90
 jl/zuihan_zuodabi
-  rotate: 270
-  xy: 223, 11
-  size: 38, 65
-  orig: 38, 65
-  offset: 0, 0
-  index: -1
+bounds:417,46,38,65
+rotate:90
 jl/zuihan_zuodatui
-  rotate: 180
-  xy: 710, 32
-  size: 57, 86
-  orig: 57, 86
-  offset: 0, 0
-  index: -1
+bounds:184,154,57,86
+rotate:90
 jl/zuihan_zuojiao
-  rotate: false
-  xy: 1374, 8
-  size: 37, 60
-  orig: 37, 60
-  offset: 0, 0
-  index: -1
+bounds:6,36,37,60
+rotate:90
 jl/zuihan_zuoxiabi
-  rotate: 180
-  xy: 1013, 25
-  size: 46, 79
-  orig: 46, 79
-  offset: 0, 0
-  index: -1
+bounds:154,102,46,79
+rotate:90
 jl/zuihan_zuoxiaotui
-  rotate: false
-  xy: 768, 32
-  size: 73, 86
-  orig: 73, 86
-  offset: 0, 0
-  index: -1
+bounds:433,143,73,86
+rotate:180
 jl/zuoyi
-  rotate: true
-  xy: 145, 47
-  size: 71, 180
-  orig: 71, 180
-  offset: 0, 0
-  index: -1
+bounds:114,143,71,180
+rotate:180
 zuihan_youshou1
-  rotate: true
-  xy: 1171, 9
-  size: 44, 48
-  orig: 44, 48
-  offset: 0, 0
-  index: -1
+bounds:310,15,44,48
 zuihan_zusohou1
-  rotate: true
-  xy: 1273, 19
-  size: 47, 44
-  orig: 47, 44
-  offset: 0, 0
-  index: -1
+bounds:6,79,47,44
 zuihan_zusohou2
-  rotate: false
-  xy: 1064, 63
-  size: 53, 55
-  orig: 53, 55
-  offset: 0, 0
-  index: -1
+bounds:381,91,53,55
+rotate:90

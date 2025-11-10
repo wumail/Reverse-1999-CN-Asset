@@ -1,545 +1,203 @@
-
 620303_daqw.png
-size: 1668,1288
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,1024
+filter:Linear,Linear
+scale:0.6
 daqw_chi1_1
-  rotate: false
-  xy: 2, 968
-  size: 856, 318
-  orig: 857, 318
-  offset: 0, 0
-  index: -1
+bounds:456,6,734,272
+rotate:270
 daqw_chi1_2
-  rotate: false
-  xy: 2, 747
-  size: 790, 219
-  orig: 790, 219
-  offset: 0, 0
-  index: -1
+bounds:1198,63,677,188
+rotate:90
 daqw_chi2_1_1
-  rotate: true
-  xy: 2, 334
-  size: 144, 764
-  orig: 144, 764
-  offset: 0, 0
-  index: -1
+bounds:6,85,124,655
 daqw_chi2_1_2
-  rotate: true
-  xy: 860, 971
-  size: 315, 679
-  orig: 315, 679
-  offset: 0, 0
-  index: -1
+bounds:699,158,270,582
 daqw_chi2_2_1
-  rotate: false
-  xy: 2, 242
-  size: 719, 90
-  orig: 719, 90
-  offset: 0, 0
-  index: -1
+bounds:131,124,616,77
+rotate:270
 daqw_chi2_2_2
-  rotate: false
-  xy: 2, 480
-  size: 653, 265
-  orig: 653, 265
-  offset: 0, 0
-  index: -1
+bounds:973,180,560,227
+rotate:270
 daqw_chi3_1
-  rotate: false
-  xy: 2, 85
-  size: 553, 155
-  orig: 553, 155
-  offset: 0, 0
-  index: -1
+bounds:1369,266,474,133
+rotate:90
 daqw_chi3_2
-  rotate: false
-  xy: 860, 886
-  size: 542, 83
-  orig: 542, 83
-  offset: 0, 0
-  index: -1
+bounds:184,276,464,71
+rotate:270
 daqw_jibo
-  rotate: true
-  xy: 1067, 491
-  size: 197, 112
-  orig: 197, 114
-  offset: 0, 2
-  index: -1
+bounds:1398,182,169,97
+offsets:0,1,169,98
 daqw_jiguan1
-  rotate: true
-  xy: 1428, 38
-  size: 74, 44
-  orig: 74, 44
-  offset: 0, 0
-  index: -1
+bounds:1494,270,64,38
 daqw_jiguan2
-  rotate: false
-  xy: 1322, 231
-  size: 165, 76
-  orig: 165, 76
-  offset: 0, 0
-  index: -1
+bounds:1779,102,142,65
 daqw_jiguan3
-  rotate: true
-  xy: 1578, 487
-  size: 188, 57
-  orig: 188, 57
-  offset: 0, 0
-  index: -1
+bounds:155,105,161,49
 daqw_jiguan4
-  rotate: true
-  xy: 1605, 202
-  size: 134, 37
-  orig: 134, 39
-  offset: 0, 0
-  index: -1
+bounds:1077,708,115,32
+offsets:0,0,115,33
 daqw_jiguan5
-  rotate: true
-  xy: 1600, 88
-  size: 112, 43
-  orig: 112, 45
-  offset: 0, 0
-  index: -1
+bounds:344,269,96,37
+offsets:0,0,96,38
 daqw_jisai1
-  rotate: false
-  xy: 756, 691
-  size: 30, 54
-  orig: 30, 54
-  offset: 0, 0
-  index: -1
+bounds:166,694,26,46
 daqw_jisai2
-  rotate: false
-  xy: 1637, 487
-  size: 27, 49
-  orig: 27, 49
-  offset: 0, 0
-  index: -1
+bounds:1385,655,23,42
 daqw_jishange1
-  rotate: true
-  xy: 1491, 144
-  size: 106, 53
-  orig: 106, 53
-  offset: 0, 0
-  index: -1
+bounds:1717,445,91,45
 daqw_jishange2
-  rotate: false
-  xy: 1038, 2
-  size: 57, 25
-  orig: 57, 25
-  offset: 0, 0
-  index: -1
+bounds:798,639,49,21
 daqw_jiyan1
-  rotate: true
-  xy: 1181, 674
-  size: 14, 13
-  orig: 14, 13
-  offset: 0, 0
-  index: -1
+bounds:331,729,12,11
 daqw_jiyan2
-  rotate: false
-  xy: 1172, 775
-  size: 12, 10
-  orig: 12, 10
-  offset: 0, 0
-  index: -1
+bounds:612,732,10,8
 daqw_she1_bozi1
-  rotate: true
-  xy: 1474, 20
-  size: 32, 74
-  orig: 32, 74
-  offset: 0, 0
-  index: -1
+bounds:540,639,28,64
 daqw_she1_quan1
-  rotate: true
-  xy: 1631, 347
-  size: 138, 35
-  orig: 138, 36
-  offset: 0, 0
-  index: -1
+bounds:485,622,118,30
+offsets:0,0,118,31
+rotate:270
 daqw_she1_quan2
-  rotate: true
-  xy: 1637, 538
-  size: 137, 29
-  orig: 138, 30
-  offset: 0, 0
-  index: -1
+bounds:514,623,117,25
+offsets:0,0,118,26
+rotate:90
 daqw_she1_qugan1
-  rotate: true
-  xy: 1541, 918
-  size: 368, 119
-  orig: 370, 120
-  offset: 0, 1
-  index: -1
+bounds:1817,424,316,103
+offsets:0,0,317,103
+rotate:270
 daqw_she1_qugan2
-  rotate: false
-  xy: 1196, 668
-  size: 276, 117
-  orig: 276, 125
-  offset: 0, 0
-  index: -1
+bounds:1905,263,236,100
+offsets:0,0,236,107
+rotate:90
 daqw_she1_qugan3
-  rotate: false
-  xy: 1383, 415
-  size: 94, 251
-  orig: 94, 251
-  offset: 0, 0
-  index: -1
+bounds:189,138,80,215
+rotate:90
 daqw_she1_qugan4
-  rotate: true
-  xy: 1047, 117
-  size: 90, 218
-  orig: 90, 218
-  offset: 0, 0
-  index: -1
+bounds:1616,121,77,187
+rotate:90
 daqw_she1_qugan5
-  rotate: true
-  xy: 756, 488
-  size: 89, 306
-  orig: 89, 306
-  offset: 0, 0
-  index: -1
+bounds:239,302,76,262
+rotate:90
 daqw_she1_she
-  rotate: true
-  xy: 1644, 258
-  size: 87, 22
-  orig: 87, 22
-  offset: 0, 0
-  index: -1
+bounds:271,379,74,19
 daqw_she1_t1
-  rotate: true
-  xy: 794, 888
-  size: 78, 43
-  orig: 78, 43
-  offset: 0, 0
-  index: -1
+bounds:541,703,67,37
 daqw_she1_t2
-  rotate: false
-  xy: 1462, 383
-  size: 15, 30
-  orig: 15, 30
-  offset: 0, 0
-  index: -1
+bounds:312,714,13,26
 daqw_she1_t3
-  rotate: true
-  xy: 1546, 138
-  size: 100, 52
-  orig: 100, 52
-  offset: 0, 0
-  index: -1
+bounds:1901,204,86,44
 daqw_she1_t4
-  rotate: true
-  xy: 1415, 4
-  size: 32, 57
-  orig: 32, 57
-  offset: 0, 0
-  index: -1
+bounds:1196,691,28,49
 daqw_she1_t5
-  rotate: true
-  xy: 1478, 99
-  size: 43, 63
-  orig: 43, 63
-  offset: 0, 0
-  index: -1
+bounds:2005,546,37,54
 daqw_she1_yan
-  rotate: false
-  xy: 1268, 114
-  size: 14, 9
-  orig: 14, 9
-  offset: 0, 0
-  index: -1
+bounds:291,732,12,8
 daqw_she2_quan1
-  rotate: true
-  xy: 605, 19
-  size: 34, 145
-  orig: 36, 145
-  offset: 0, 0
-  index: -1
+bounds:455,616,29,124
+offsets:0,0,31,124
+rotate:180
 daqw_she2_quan2
-  rotate: true
-  xy: 1268, 19
-  size: 32, 145
-  orig: 32, 145
-  offset: 0, 0
-  index: -1
+bounds:429,616,27,124
 daqw_she2_qugan1
-  rotate: true
-  xy: 1042, 216
-  size: 62, 46
-  orig: 62, 46
-  offset: 0, 0
-  index: -1
+bounds:432,574,53,39
+offsets:0,0,53,40
 daqw_she2_qugan2
-  rotate: false
-  xy: 1409, 788
-  size: 174, 101
-  orig: 174, 101
-  offset: 0, 0
-  index: -1
+bounds:1893,113,149,86
 daqw_she2_qugan3
-  rotate: true
-  xy: 1268, 53
-  size: 59, 158
-  orig: 64, 160
-  offset: 5, 0
-  index: -1
+bounds:1988,604,51,136
+offsets:4,0,55,137
 daqw_she2_qugan4
-  rotate: true
-  xy: 756, 579
-  size: 109, 309
-  orig: 113, 309
-  offset: 2, 0
-  index: -1
+bounds:267,204,94,265
+offsets:1,0,97,265
+rotate:270
 daqw_she2_qugan5
-  rotate: true
-  xy: 794, 775
-  size: 109, 376
-  orig: 109, 376
-  offset: 0, 0
-  index: -1
+bounds:1638,418,93,322
 daqw_she2_t1
-  rotate: false
-  xy: 1474, 54
-  size: 77, 43
-  orig: 77, 43
-  offset: 0, 0
-  index: -1
+bounds:1380,703,66,37
 daqw_she2_t2
-  rotate: false
-  xy: 1306, 418
-  size: 69, 67
-  orig: 69, 67
-  offset: 0, 0
-  index: -1
+bounds:1983,445,59,58
 daqw_she2_t3
-  rotate: false
-  xy: 1267, 125
-  size: 43, 82
-  orig: 43, 82
-  offset: 0, 0
-  index: -1
+bounds:1266,649,37,70
 daqw_she2_yan
-  rotate: false
-  xy: 1559, 487
-  size: 15, 8
-  orig: 15, 8
-  offset: 0, 0
-  index: -1
+bounds:390,733,13,7
 daqw_she3_qugan1
-  rotate: true
-  xy: 752, 17
-  size: 92, 284
-  orig: 94, 284
-  offset: 2, 0
-  index: -1
+bounds:1918,497,79,243
+offsets:1,0,80,243
+rotate:180
 daqw_she3_qugan2
-  rotate: true
-  xy: 1091, 209
-  size: 85, 229
-  orig: 85, 232
-  offset: 0, 2
-  index: -1
+bounds:1305,543,73,197
+offsets:0,1,73,199
 daqw_she3_qugan3
-  rotate: false
-  xy: 657, 480
-  size: 97, 265
-  orig: 98, 267
-  offset: 0, 1
-  index: -1
+bounds:1555,269,83,227
+offsets:0,1,84,229
+rotate:90
 daqw_she3_qugan4
-  rotate: false
-  xy: 1172, 787
-  size: 235, 97
-  orig: 235, 97
-  offset: 0, 0
-  index: -1
+bounds:1568,194,202,83
 daqw_she3_qugan5
-  rotate: true
-  xy: 557, 110
-  size: 130, 193
-  orig: 130, 197
-  offset: 0, 4
-  index: -1
+bounds:1796,166,112,166
+offsets:0,3,112,169
 daqw_she3_qugan6
-  rotate: true
-  xy: 752, 168
-  size: 110, 288
-  orig: 118, 288
-  offset: 8, 0
-  index: -1
+bounds:1729,493,95,247
+offsets:6,0,101,247
+rotate:180
 daqw_she3_t1
-  rotate: true
-  xy: 1047, 29
-  size: 86, 219
-  orig: 86, 219
-  offset: 0, 0
-  index: -1
+bounds:1120,59,74,188
 daqw_she3_t2
-  rotate: false
-  xy: 1404, 891
-  size: 133, 78
-  orig: 133, 78
-  offset: 0, 0
-  index: -1
+bounds:855,93,114,67
 daqw_she3_t3
-  rotate: false
-  xy: 1553, 73
-  size: 30, 63
-  orig: 30, 63
-  offset: 0, 0
-  index: -1
+bounds:959,686,26,54
 daqw_she3_t4
-  rotate: true
-  xy: 1489, 252
-  size: 125, 55
-  orig: 125, 55
-  offset: 0, 0
-  index: -1
+bounds:429,94,107,47
 daqw_she3_t5
-  rotate: false
-  xy: 1546, 240
-  size: 57, 96
-  orig: 57, 96
-  offset: 0, 0
-  index: -1
+bounds:1993,212,49,82
 daqw_she3_t6
-  rotate: false
-  xy: 1312, 114
-  size: 164, 42
-  orig: 164, 42
-  offset: 0, 0
-  index: -1
+bounds:1603,84,140,36
 daqw_she3_t7
-  rotate: false
-  xy: 1585, 796
-  size: 79, 120
-  orig: 79, 120
-  offset: 0, 0
-  index: -1
+bounds:1384,101,68,103
 daqw_she3_t8
-  rotate: true
-  xy: 605, 55
-  size: 53, 145
-  orig: 53, 145
-  offset: 0, 0
-  index: -1
+bounds:98,273,45,124
 daqw_she3_yan
-  rotate: true
-  xy: 1068, 368
-  size: 25, 14
-  orig: 25, 14
-  offset: 0, 0
-  index: -1
+bounds:222,728,22,12
 daqw_she4_qugan1
-  rotate: true
-  xy: 2, 2
-  size: 81, 202
-  orig: 83, 204
-  offset: 2, 1
-  index: -1
+bounds:410,130,69,173
+offsets:2,1,71,175
+rotate:270
 daqw_she4_qugan2
-  rotate: true
-  xy: 1068, 395
-  size: 90, 236
-  orig: 90, 236
-  offset: 0, 0
-  index: -1
+bounds:1041,91,77,202
 daqw_she4_qugan3
-  rotate: true
-  xy: 1479, 497
-  size: 178, 97
-  orig: 179, 98
-  offset: 1, 0
-  index: -1
+bounds:731,656,153,84
 daqw_she4_qugan4
-  rotate: false
-  xy: 1559, 338
-  size: 70, 147
-  orig: 71, 147
-  offset: 1, 0
-  index: -1
+bounds:733,531,60,126
+offsets:1,0,61,126
 daqw_she4_qugan5
-  rotate: false
-  xy: 1479, 379
-  size: 78, 116
-  orig: 80, 116
-  offset: 1, 0
-  index: -1
+bounds:58,99,67,99
+offsets:1,0,68,99
 daqw_she4_qugan6
-  rotate: false
-  xy: 1091, 296
-  size: 223, 97
-  orig: 223, 97
-  offset: 0, 0
-  index: -1
+bounds:1506,373,191,83
+rotate:90
 daqw_she4_t1
-  rotate: false
-  xy: 1322, 158
-  size: 167, 71
-  orig: 167, 71
-  offset: 0, 0
-  index: -1
+bounds:707,106,143,61
 daqw_she4_t2
-  rotate: true
-  xy: 1474, 677
-  size: 109, 162
-  orig: 109, 162
-  offset: 0, 0
-  index: -1
+bounds:1499,57,93,139
 daqw_she4_t3
-  rotate: true
-  xy: 1316, 309
-  size: 104, 144
-  orig: 104, 144
-  offset: 0, 0
-  index: -1
+bounds:349,393,89,124
+rotate:90
 daqw_she4_yan
-  rotate: true
-  xy: 1585, 107
-  size: 29, 13
-  orig: 29, 13
-  offset: 0, 0
-  index: -1
+bounds:866,729,25,11
 daqw_shenti1
-  rotate: false
-  xy: 1181, 487
-  size: 200, 179
-  orig: 200, 179
-  offset: 0, 0
-  index: -1
+bounds:1491,569,171,154
+rotate:90
 daqw_shenti2
-  rotate: true
-  xy: 768, 368
-  size: 118, 298
-  orig: 118, 298
-  offset: 0, 0
-  index: -1
+bounds:1637,329,101,256
+rotate:270
 daqw_shenti3
-  rotate: false
-  xy: 752, 111
-  size: 293, 55
-  orig: 293, 55
-  offset: 0, 0
-  index: -1
+bounds:391,489,251,47
+rotate:90
 daqw_weimao1
-  rotate: true
-  xy: 768, 280
-  size: 86, 321
-  orig: 86, 321
-  offset: 0, 0
-  index: -1
+bounds:973,120,74,275
 daqw_weimao2
-  rotate: true
-  xy: 794, 690
-  size: 83, 400
-  orig: 83, 400
-  offset: 0, 0
-  index: -1
+bounds:252,397,71,343
+rotate:180
 daqw_weimao3
-  rotate: false
-  xy: 206, 5
-  size: 397, 78
-  orig: 397, 78
-  offset: 0, 0
-  index: -1
+bounds:320,400,340,67
+rotate:270

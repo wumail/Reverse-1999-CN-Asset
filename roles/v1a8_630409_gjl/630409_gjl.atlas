@@ -1,391 +1,160 @@
-
 630409_gjl.png
-size: 2048,948
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,1024
+filter:Linear,Linear
+scale:0.6
 gjl_23
-  rotate: true
-  xy: 712, 921
-  size: 19, 366
-  orig: 26, 392
-  offset: 5, 1
-  index: -1
+bounds:219,403,16,314
+offsets:4,1,22,336
 gjl_24
-  rotate: false
-  xy: 2007, 150
-  size: 35, 329
-  orig: 132, 342
-  offset: 9, 11
-  index: -1
+bounds:241,435,31,282
+offsets:8,9,113,293
 gjl_25
-  rotate: false
-  xy: 1174, 285
-  size: 153, 655
-  orig: 166, 660
-  offset: 4, 3
-  index: -1
+bounds:82,155,131,562
+offsets:3,2,142,566
 gjl_26
-  rotate: true
-  xy: 1283, 31
-  size: 16, 277
-  orig: 43, 281
-  offset: 26, 2
-  index: -1
+bounds:321,479,13,238
+offsets:23,2,37,241
 gjl_27
-  rotate: false
-  xy: 1737, 167
-  size: 82, 773
-  orig: 115, 777
-  offset: 1, 2
-  index: -1
+bounds:6,53,70,664
+offsets:1,1,98,666
 gjl_28
-  rotate: false
-  xy: 1982, 672
-  size: 50, 268
-  orig: 51, 270
-  offset: 0, 1
-  index: -1
+bounds:340,487,43,230
+offsets:0,1,44,232
 gjl_29
-  rotate: true
-  xy: 672, 58
-  size: 24, 225
-  orig: 38, 228
-  offset: 11, 2
-  index: -1
+bounds:389,524,20,193
+offsets:9,2,32,196
 gjl_30
-  rotate: false
-  xy: 1825, 316
-  size: 43, 300
-  orig: 57, 340
-  offset: 3, 39
-  index: -1
+bounds:278,449,37,268
+offsets:3,22,49,291
 gjl_31
-  rotate: false
-  xy: 1333, 780
-  size: 27, 160
-  orig: 62, 191
-  offset: 0, 0
-  index: -1
+bounds:457,579,23,138
+offsets:0,0,53,164
+rotate:180
 gjl_32
-  rotate: false
-  xy: 737, 332
-  size: 97, 143
-  orig: 116, 158
-  offset: 9, 4
-  index: -1
+bounds:1812,594,84,123
+offsets:7,3,99,136
 gjl_33
-  rotate: false
-  xy: 1894, 478
-  size: 148, 131
-  orig: 179, 172
-  offset: 0, 17
-  index: -1
+bounds:248,335,127,112
+offsets:0,15,154,147
 gjl_34
-  rotate: false
-  xy: 1825, 781
-  size: 152, 161
-  orig: 204, 193
-  offset: 16, 22
-  index: -1
+bounds:1679,579,130,138
+offsets:14,19,175,165
 gjl_35
-  rotate: false
-  xy: 820, 409
-  size: 149, 121
-  orig: 169, 165
-  offset: 5, 25
-  index: -1
+bounds:622,613,128,104
+offsets:4,21,145,141
 gjl_36
-  rotate: false
-  xy: 1567, 97
-  size: 183, 92
-  orig: 183, 107
-  offset: 0, 0
-  index: -1
+bounds:199,46,157,79
+offsets:0,0,157,92
 gjl_37
-  rotate: false
-  xy: 1825, 98
-  size: 190, 182
-  orig: 190, 184
-  offset: 0, 2
-  index: -1
+bounds:1754,38,163,156
+offsets:0,2,163,158
 gjl_38
-  rotate: true
-  xy: 1845, 21
-  size: 86, 153
-  orig: 100, 160
-  offset: 13, 0
-  index: -1
+bounds:1353,406,74,131
+offsets:11,0,86,137
+rotate:180
 gjl_39
-  rotate: false
-  xy: 214, 924
-  size: 33, 16
-  orig: 33, 16
-  offset: 0, 0
-  index: -1
+bounds:609,703,28,14
 gjl_40
-  rotate: false
-  xy: 1360, 900
-  size: 46, 41
-  orig: 46, 41
-  offset: 0, 0
-  index: -1
+bounds:746,682,39,35
 gjl_41
-  rotate: false
-  xy: 347, 39
-  size: 61, 81
-  orig: 61, 81
-  offset: 0, 0
-  index: -1
+bounds:1573,445,52,70
 gjl_42
-  rotate: true
-  xy: 155, 18
-  size: 97, 137
-  orig: 97, 137
-  offset: 0, 0
-  index: -1
+bounds:1426,6,83,117
+rotate:270
 gjl_43
-  rotate: false
-  xy: 840, 344
-  size: 46, 59
-  orig: 48, 62
-  offset: 1, 3
-  index: -1
+bounds:1001,666,39,51
+offsets:1,2,41,53
 gjl_44
-  rotate: false
-  xy: 1825, 580
-  size: 125, 209
-  orig: 145, 209
-  offset: 0, 0
-  index: -1
+bounds:1732,401,107,179
+offsets:0,0,124,179
 gjl_45
-  rotate: false
-  xy: 110, 281
-  size: 102, 142
-  orig: 118, 162
-  offset: 16, 13
-  index: -1
+bounds:1955,34,87,122
+offsets:14,11,101,139
 gjl_46
-  rotate: false
-  xy: 584, 180
-  size: 583, 294
-  orig: 718, 294
-  offset: 135, 0
-  index: -1
+bounds:1046,217,500,252
+offsets:116,0,616,252
+rotate:270
 gjl_47
-  rotate: false
-  xy: 586, 88
-  size: 333, 118
-  orig: 333, 118
-  offset: 0, 0
-  index: -1
+bounds:1276,431,286,101
+rotate:90
 gjl_48
-  rotate: 270
-  xy: 1333, 330
-  size: 610, 155
-  orig: 610, 158
-  offset: 0, 0
-  index: -1
+bounds:1842,194,523,133
+offsets:0,0,523,136
+rotate:90
 gjl_49
-  rotate: false
-  xy: 1618, 372
-  size: 113, 140
-  orig: 113, 140
-  offset: 0, 0
-  index: -1
+bounds:1913,156,97,120
 gjl_50
-  rotate: false
-  xy: 1793, 84
-  size: 139, 89
-  orig: 139, 89
-  offset: 0, 0
-  index: -1
+bounds:1275,356,119,76
 gjl_51
-  rotate: 180
-  xy: 1281, 233
-  size: 450, 707
-  orig: 450, 730
-  offset: 0, 0
-  index: -1
+bounds:1204,102,386,615
+offsets:0,0,386,626
+rotate:180
 gjl_52
-  rotate: true
-  xy: 1099, 46
-  size: 305, 633
-  orig: 320, 638
-  offset: 0, 1
-  index: -1
+bounds:1595,171,263,546
+offsets:0,0,274,547
+rotate:180
 gjl_53
-  rotate: true
-  xy: 6, 108
-  size: 168, 228
-  orig: 173, 228
-  offset: 0, 0
-  index: -1
+bounds:485,521,144,196
+offsets:0,0,148,196
 gjl_54
-  rotate: false
-  xy: 6, 423
-  size: 147, 154
-  orig: 182, 154
-  offset: 0, 0
-  index: -1
+bounds:1537,294,126,132
+offsets:0,0,156,132
 gjl_55
-  rotate: false
-  xy: 6, 148
-  size: 1162, 793
-  orig: 1281, 802
-  offset: 38, 5
-  index: -1
+bounds:219,33,1000,684
+offsets:31,2,1098,688
+rotate:180
 gjl_56
-  rotate: false
-  xy: 933, 523
-  size: 235, 119
-  orig: 235, 119
-  offset: 0, 0
-  index: -1
+bounds:372,415,201,102
 gjl_57
-  rotate: false
-  xy: 910, 32
-  size: 423, 209
-  orig: 423, 209
-  offset: 0, 0
-  index: -1
+bounds:1386,53,362,179
+rotate:180
 gjl_58
-  rotate: false
-  xy: 1106, 808
-  size: 51, 132
-  orig: 51, 132
-  offset: 0, 0
-  index: -1
+bounds:1981,604,44,113
 gjl_59
-  rotate: false
-  xy: 240, 47
-  size: 105, 172
-  orig: 105, 172
-  offset: 0, 0
-  index: -1
+bounds:1071,383,90,148
 gjl_dao
-  rotate: true
-  xy: 6, 894
-  size: 46, 202
-  orig: 46, 202
-  offset: 0, 0
-  index: -1
+bounds:415,544,40,173
 gjl_die_1
-  rotate: false
-  xy: 1169, 203
-  size: 102, 76
-  orig: 102, 76
-  offset: 0, 0
-  index: -1
+bounds:1195,652,88,65
 gjl_die_2
-  rotate: false
-  xy: 1664, 19
-  size: 152, 99
-  orig: 152, 99
-  offset: 0, 0
-  index: -1
+bounds:1240,18,130,85
+rotate:180
 gjl_die_3
-  rotate: false
-  xy: 1874, 319
-  size: 103, 172
-  orig: 103, 172
-  offset: 0, 0
-  index: -1
+bounds:1480,200,88,147
+rotate:90
 gjl_skill1_1
-  rotate: true
-  xy: 6, 550
-  size: 102, 64
-  orig: 102, 64
-  offset: 0, 0
-  index: -1
+bounds:1770,556,88,55
 gjl_skill1_2a
-  rotate: false
-  xy: 414, 86
-  size: 166, 114
-  orig: 166, 114
-  offset: 0, 0
-  index: -1
+bounds:116,58,142,98
 gjl_skill1_4
-  rotate: false
-  xy: 423, 42
-  size: 114, 56
-  orig: 114, 56
-  offset: 0, 0
-  index: -1
+bounds:1473,145,98,48
 gjl_skill1_5
-  rotate: true
-  xy: 6, 7
-  size: 123, 153
-  orig: 123, 153
-  offset: 0, 0
-  index: -1
+bounds:1733,25,106,131
+rotate:90
 gjl_skill2_1
-  rotate: false
-  xy: 1464, 585
-  size: 80, 121
-  orig: 80, 130
-  offset: 0, 9
-  index: -1
+bounds:1104,33,68,104
+offsets:0,8,68,112
+rotate:90
 gjl_skill2_2
-  rotate: false
-  xy: 1878, 220
-  size: 116, 116
-  orig: 116, 116
-  offset: 0, 0
-  index: -1
+bounds:219,236,100,99
+rotate:90
 gjl_skill2_3
-  rotate: false
-  xy: 1470, 712
-  size: 129, 209
-  orig: 131, 209
-  offset: 0, 0
-  index: -1
+bounds:1369,497,110,179
+offsets:0,0,112,179
 gjl_skill2_4
-  rotate: true
-  xy: 1332, 168
-  size: 69, 104
-  orig: 69, 104
-  offset: 0, 0
-  index: -1
+bounds:1218,158,59,89
+rotate:90
 gjl_skill2_5
-  rotate: false
-  xy: 531, 22
-  size: 141, 99
-  orig: 141, 99
-  offset: 0, 0
-  index: -1
+bounds:362,19,121,85
 gjl_skill2_6
-  rotate: false
-  xy: 6, 260
-  size: 100, 164
-  orig: 100, 164
-  offset: 0, 0
-  index: -1
+bounds:1956,259,86,140
 gjl_unique1
-  rotate: false
-  xy: 970, 427
-  size: 98, 90
-  orig: 104, 101
-  offset: 0, 0
-  index: -1
+bounds:1675,11,84,77
+offsets:0,0,89,86
 gjl_unique2
-  rotate: true
-  xy: 1511, 16
-  size: 111, 138
-  orig: 111, 138
-  offset: 0, 0
-  index: -1
+bounds:1786,346,95,118
 gjl_unique4
-  rotate: false
-  xy: 1072, 485
-  size: 95, 77
-  orig: 95, 81
-  offset: 0, 4
-  index: -1
+bounds:1037,579,82,67
+offsets:0,3,82,70
 gjl_unique5
-  rotate: true
-  xy: 933, 834
-  size: 81, 179
-  orig: 81, 179
-  offset: 0, 0
-  index: -1
+bounds:1973,417,69,153

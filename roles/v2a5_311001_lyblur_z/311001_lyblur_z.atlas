@@ -1,111 +1,54 @@
-
 311001_lyblur_z.png
-size: 916,1884
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,1024
+filter:Linear,Linear
+scale:0.6
 mh
-  rotate: false
-  xy: 353, 280
-  size: 513, 675
-  orig: 524, 687
-  offset: 5, 6
-  index: -1
+bounds:1454,6,449,588
+offsets:0,0,449,589
+rotate:90
 mh1
-  rotate: 180
-  xy: 6, 640
-  size: 561, 401
-  orig: 573, 413
-  offset: 6, 6
-  index: -1
+bounds:1110,206,481,344
+offsets:5,5,491,354
+rotate:90
 mh10
-  rotate: true
-  xy: 44, 960
-  size: 356, 565
-  orig: 368, 585
-  offset: 6, 5
-  index: -1
+bounds:545,202,305,485
+offsets:5,4,316,501
+rotate:180
 mh11
-  rotate: 180
-  xy: 554, 8
-  size: 320, 274
-  orig: 330, 288
-  offset: 5, 7
-  index: -1
+bounds:588,28,277,238
+offsets:3,4,283,247
 mh12
-  rotate: false
-  xy: 159, 135
-  size: 513, 398
-  orig: 562, 421
-  offset: 5, 4
-  index: -1
+bounds:1459,234,453,354
+offsets:0,0,482,361
+rotate:90
 mh2
-  rotate: 180
-  xy: 614, 911
-  size: 294, 249
-  orig: 305, 260
-  offset: 5, 6
-  index: -1
+bounds:1823,7,259,219
+offsets:1,2,261,223
+rotate:270
 mh3
-  rotate: false
-  xy: 771, 346
-  size: 118, 350
-  orig: 130, 359
-  offset: 6, 7
-  index: -1
+bounds:176,46,105,304
+offsets:2,4,112,308
+rotate:90
 mh4
-  rotate: false
-  xy: 6, 1327
-  size: 209, 286
-  orig: 219, 294
-  offset: 5, 4
-  index: -1
+bounds:804,178,180,246
+offsets:4,3,188,252
 mh5
-  rotate: 270
-  xy: 6, 338
-  size: 339, 419
-  orig: 349, 429
-  offset: 4, 5
-  index: -1
+bounds:854,319,299,368
 mh6
-  rotate: false
-  xy: 749, 1479
-  size: 152, 171
-  orig: 162, 177
-  offset: 5, 3
-  index: -1
+bounds:427,540,130,147
+offsets:5,2,139,152
 mh7
-  rotate: true
-  xy: 531, 1665
-  size: 214, 308
-  orig: 223, 320
-  offset: 9, 6
-  index: -1
+bounds:6,55,184,264
+offsets:7,5,191,274
 mh8
-  rotate: false
-  xy: 575, 714
-  size: 290, 309
-  orig: 304, 314
-  offset: 7, 3
-  index: -1
+bounds:1706,422,249,265
+offsets:6,2,260,269
 mh9
-  rotate: false
-  xy: 603, 1107
-  size: 252, 618
-  orig: 263, 630
-  offset: 5, 6
-  index: -1
+bounds:873,29,225,539
+offsets:0,0,225,540
+rotate:90
 zmql13
-  rotate: false
-  xy: 715, 1604
-  size: 130, 69
-  orig: 130, 69
-  offset: 0, 0
-  index: -1
+bounds:347,628,111,59
 zmql14
-  rotate: false
-  xy: 6, 1253
-  size: 663, 626
-  orig: 669, 646
-  offset: 0, 20
-  index: -1
+bounds:6,150,569,537
+offsets:0,17,573,554

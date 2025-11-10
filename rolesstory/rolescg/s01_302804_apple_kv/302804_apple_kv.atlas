@@ -1,216 +1,82 @@
-
 302804_apple_kv.png
-size: 244,804
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:1024,256
+filter:Linear,Linear
+scale:0.4
 1
-  rotate: false
-  xy: 56, 13
-  size: 16, 45
-  orig: 17, 49
-  offset: 0, 0
-  index: -1
+bounds:512,127,16,45
+offsets:0,0,17,49
+rotate:270
 10
-  rotate: false
-  xy: 213, 30
-  size: 19, 38
-  orig: 19, 38
-  offset: 0, 0
-  index: -1
+bounds:6,139,19,38
+rotate:90
 11
-  rotate: false
-  xy: 148, 7
-  size: 34, 19
-  orig: 34, 19
-  offset: 0, 0
-  index: -1
+bounds:743,196,34,19
 12
-  rotate: 270
-  xy: 186, 219
-  size: 56, 49
-  orig: 56, 49
-  offset: 0, 0
-  index: -1
+bounds:68,68,56,49
 13
-  rotate: 180
-  xy: 71, 51
-  size: 160, 70
-  orig: 160, 70
-  offset: 0, 0
-  index: -1
+bounds:418,53,160,70
 14
-  rotate: 270
-  xy: 6, 143
-  size: 104, 138
-  orig: 110, 138
-  offset: 6, 0
-  index: -1
+bounds:900,11,104,138
+offsets:6,0,110,138
 15
-  rotate: 180
-  xy: 10, 236
-  size: 140, 76
-  orig: 140, 76
-  offset: 0, 0
-  index: -1
+bounds:635,75,140,76
+rotate:270
 16
-  rotate: false
-  xy: 95, 211
-  size: 118, 67
-  orig: 118, 67
-  offset: 0, 0
-  index: -1
+bounds:716,97,118,67
+rotate:90
 17
-  rotate: 180
-  xy: 88, 359
-  size: 122, 108
-  orig: 122, 108
-  offset: 0, 0
-  index: -1
+bounds:434,107,122,108
 18
-  rotate: false
-  xy: 83, 172
-  size: 125, 42
-  orig: 125, 42
-  offset: 0, 0
-  index: -1
+bounds:783,90,125,42
+rotate:270
 19
-  rotate: false
-  xy: 149, 111
-  size: 76, 64
-  orig: 76, 64
-  offset: 0, 0
-  index: -1
+bounds:825,139,76,64
+rotate:270
 2
-  rotate: false
-  xy: 6, 84
-  size: 60, 56
-  orig: 60, 56
-  offset: 0, 0
-  index: -1
+bounds:952,155,60,56
+rotate:90
 20
-  rotate: false
-  xy: 72, 82
-  size: 56, 55
-  orig: 56, 55
-  offset: 0, 0
-  index: -1
+bounds:6,77,56,55
 21
-  rotate: false
-  xy: 6, 654
-  size: 158, 143
-  orig: 158, 143
-  offset: 0, 0
-  index: -1
+bounds:215,57,158,143
+rotate:270
 22
-  rotate: 180
-  xy: 169, 472
-  size: 64, 62
-  orig: 66, 64
-  offset: 2, 0
-  index: -1
+bounds:827,71,64,62
+offsets:2,0,66,64
 23
-  rotate: true
-  xy: 167, 711
-  size: 86, 60
-  orig: 86, 60
-  offset: 0, 0
-  index: -1
+bounds:886,129,86,60
+rotate:270
 24
-  rotate: false
-  xy: 6, 623
-  size: 39, 35
-  orig: 39, 35
-  offset: 0, 0
-  index: -1
+bounds:140,180,39,35
 25
-  rotate: false
-  xy: 174, 12
-  size: 46, 23
-  orig: 46, 23
-  offset: 0, 0
-  index: -1
+bounds:594,192,46,23
 26
-  rotate: false
-  xy: 209, 281
-  size: 21, 46
-  orig: 21, 46
-  offset: 0, 0
-  index: -1
+bounds:695,142,21,46
 27
-  rotate: false
-  xy: 6, 38
-  size: 38, 41
-  orig: 38, 41
-  offset: 0, 0
-  index: -1
+bounds:185,174,38,41
 28
-  rotate: false
-  xy: 6, 592
-  size: 48, 28
-  orig: 48, 28
-  offset: 0, 0
-  index: -1
+bounds:350,187,48,28
 29
-  rotate: false
-  xy: 6, 9
-  size: 47, 24
-  orig: 47, 24
-  offset: 0, 0
-  index: -1
+bounds:355,157,47,24
 3
-  rotate: false
-  xy: 6, 781
-  size: 4, 16
-  orig: 6, 16
-  offset: 1, 0
-  index: -1
+bounds:6,199,4,16
+offsets:1,0,6,16
 30
-  rotate: true
-  xy: 77, 7
-  size: 86, 152
-  orig: 86, 152
-  offset: 0, 0
-  index: -1
+bounds:586,24,86,152
+rotate:90
 4
-  rotate: false
-  xy: 191, 593
-  size: 37, 40
-  orig: 37, 40
-  offset: 0, 0
-  index: -1
+bounds:679,97,37,40
 5
-  rotate: true
-  xy: 6, 377
-  size: 209, 203
-  orig: 216, 203
-  offset: 7, 0
-  index: -1
+bounds:268,6,209,203
+offsets:7,0,216,203
+rotate:90
 6
-  rotate: 270
-  xy: 185, 284
-  size: 147, 40
-  orig: 147, 40
-  offset: 0, 0
-  index: -1
+bounds:743,55,147,40
 7
-  rotate: true
-  xy: 78, 284
-  size: 89, 128
-  orig: 93, 128
-  offset: 3, 0
-  index: -1
+bounds:557,87,89,128
+offsets:3,0,93,128
+rotate:180
 8
-  rotate: 270
-  xy: 6, 448
-  size: 253, 197
-  orig: 253, 197
-  offset: 0, 0
-  index: -1
+bounds:6,18,253,197
 9
-  rotate: false
-  xy: 50, 626
-  size: 28, 22
-  orig: 28, 22
-  offset: 0, 0
-  index: -1
+bounds:388,183,28,22

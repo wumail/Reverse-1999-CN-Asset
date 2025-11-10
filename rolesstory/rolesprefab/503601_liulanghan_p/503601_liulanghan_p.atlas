@@ -1,202 +1,80 @@
-
 503601_liulanghan_p.png
-size: 2048,2048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
 11a
-  rotate: false
-  xy: 1160, 1007
-  size: 394, 1040
-  orig: 394, 1040
-  offset: 0, 0
-  index: -1
+bounds:980,309,329,867
 a1
-  rotate: 180
-  xy: 1816, 383
-  size: 230, 146
-  orig: 230, 146
-  offset: 0, 0
-  index: -1
+bounds:326,77,192,122
 a10
-  rotate: true
-  xy: 521, 890
-  size: 244, 470
-  orig: 244, 470
-  offset: 0, 0
-  index: -1
+bounds:1726,784,204,392
 a12
-  rotate: false
-  xy: 779, 600
-  size: 184, 288
-  orig: 185, 289
-  offset: 0, 1
-  index: -1
+bounds:1319,101,153,241
+offsets:0,0,154,241
+rotate:90
 a13
-  rotate: 270
-  xy: 968, 540
-  size: 287, 740
-  orig: 287, 740
-  offset: 0, 0
-  index: -1
+bounds:372,197,240,617
+rotate:90
 a14
-  rotate: false
-  xy: 2, 770
-  size: 537, 1276
-  orig: 835, 1378
-  offset: 109, 0
-  index: -1
+bounds:6,112,449,1064
+offsets:90,0,696,1148
 a15
-  rotate: true
-  xy: 2, 456
-  size: 130, 340
-  orig: 130, 340
-  offset: 0, 0
-  index: -1
+bounds:1911,43,109,284
 a16
-  rotate: true
-  xy: 1070, 456
-  size: 120, 277
-  orig: 120, 277
-  offset: 0, 0
-  index: -1
+bounds:6,59,100,231
 a17
-  rotate: true
-  xy: 592, 472
-  size: 123, 373
-  orig: 123, 373
-  offset: 0, 0
-  index: -1
+bounds:1936,865,103,311
 a2
-  rotate: true
-  xy: 344, 415
-  size: 147, 216
-  orig: 148, 217
-  offset: 1, 1
-  index: -1
+bounds:787,451,123,180
+offsets:1,1,124,181
 a3
-  rotate: false
-  xy: 1992, 1582
-  size: 54, 181
-  orig: 55, 181
-  offset: 1, 0
-  index: -1
+bounds:408,649,45,151
+offsets:1,0,46,151
 a4
-  rotate: false
-  xy: 1505, 465
-  size: 336, 121
-  orig: 336, 121
-  offset: 0, 0
-  index: -1
+bounds:869,39,280,101
 a5
-  rotate: false
-  xy: 993, 742
-  size: 405, 263
-  orig: 407, 264
-  offset: 2, 0
-  index: -1
+bounds:443,412,338,219
+offsets:2,0,340,220
 a6
-  rotate: false
-  xy: 540, 1400
-  size: 618, 646
-  orig: 626, 646
-  offset: 0, 0
-  index: -1
+bounds:459,637,515,539
+offsets:0,0,522,539
 a7
-  rotate: true
-  xy: 1556, 1299
-  size: 747, 217
-  orig: 748, 217
-  offset: 0, 0
-  index: -1
+bounds:1314,554,622,181
+offsets:0,0,623,181
+rotate:90
 a8
-  rotate: true
-  xy: 516, 1136
-  size: 262, 584
-  orig: 262, 584
-  offset: 0, 0
-  index: -1
+bounds:1501,689,219,487
 a9
-  rotate: 180
-  xy: 1556, 753
-  size: 344, 545
-  orig: 344, 545
-  offset: 0, 0
-  index: -1
+bounds:1557,485,287,454
+rotate:90
 beiai
-  rotate: true
-  xy: 1905, 965
-  size: 346, 141
-  orig: 346, 151
-  offset: 0, 9
-  index: -1
+bounds:1566,44,288,118
+offsets:0,7,288,126
 beiai4
-  rotate: true
-  xy: 1775, 1639
-  size: 407, 266
-  orig: 407, 311
-  offset: 0, 0
-  index: -1
+bounds:1702,309,340,222
+offsets:0,0,340,260
 fennu
-  rotate: false
-  xy: 1677, 588
-  size: 333, 163
-  orig: 333, 164
-  offset: 0, 0
-  index: -1
+bounds:1583,168,278,136
+offsets:0,0,278,137
 fennu1
-  rotate: false
-  xy: 327, 565
-  size: 451, 346
-  orig: 466, 346
-  offset: 15, 0
-  index: -1
+bounds:1254,260,375,288
+offsets:13,0,388,288
 s1
-  rotate: 270
-  xy: 1775, 1290
-  size: 347, 245
-  orig: 347, 245
-  offset: 0, 0
-  index: -1
+bounds:760,142,290,204
 s2
-  rotate: true
-  xy: 993, 1009
-  size: 125, 214
-  orig: 125, 214
-  offset: 0, 0
-  index: -1
+bounds:112,52,105,178
+rotate:270
 s3
-  rotate: false
-  xy: 1102, 1195
-  size: 71, 150
-  orig: 71, 150
-  offset: 0, 0
-  index: -1
+bounds:916,506,59,125
 s4
-  rotate: false
-  xy: 2, 588
-  size: 271, 300
-  orig: 271, 300
-  offset: 0, 0
-  index: -1
+bounds:504,46,226,250
+rotate:270
 s5
-  rotate: true
-  xy: 1358, 826
-  size: 336, 273
-  orig: 358, 273
-  offset: 0, 0
-  index: -1
+bounds:1086,108,280,228
+offsets:0,0,298,228
+rotate:90
 s6
-  rotate: false
-  xy: 1850, 771
-  size: 150, 193
-  orig: 150, 193
-  offset: 0, 0
-  index: -1
+bounds:661,6,125,161
+rotate:180
 s7
-  rotate: false
-  xy: 2, 910
-  size: 123, 145
-  orig: 123, 145
-  offset: 0, 0
-  index: -1
+bounds:1936,738,103,121

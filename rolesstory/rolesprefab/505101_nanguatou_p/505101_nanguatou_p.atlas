@@ -1,174 +1,74 @@
-
 505101_nanguatou_p.png
-size: 2018,2018
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:1024,1024
+filter:Linear,Linear
+scale:0.6
 Lhand
-  rotate: false
-  xy: 490, 1446
-  size: 111, 184
-  orig: 112, 198
-  offset: 0, 14
-  index: -1
+bounds:907,823,95,158
+offsets:0,12,96,170
 Lhand_cx
-  rotate: 180
-  xy: 421, 1205
-  size: 191, 245
-  orig: 191, 245
-  offset: 0, 0
-  index: -1
+bounds:6,82,164,210
+rotate:90
 Lhand_cx2
-  rotate: 270
-  xy: 440, 836
-  size: 236, 237
-  orig: 236, 237
-  offset: 0, 0
-  index: -1
+bounds:659,6,202,203
 Lxb
-  rotate: true
-  xy: 46, 49
-  size: 153, 315
-  orig: 174, 315
-  offset: 1, 0
-  index: -1
+bounds:6,238,132,270
+offsets:0,0,149,270
+rotate:90
 Rhand
-  rotate: true
-  xy: 31, 485
-  size: 161, 398
-  orig: 161, 412
-  offset: 0, 0
-  index: -1
+bounds:415,393,138,342
+offsets:0,0,138,353
+rotate:90
 Rsb
-  rotate: 270
-  xy: 202, 296
-  size: 222, 332
-  orig: 222, 332
-  offset: 0, 0
-  index: -1
+bounds:744,697,190,284
 Rstone
-  rotate: false
-  xy: 509, 1631
-  size: 109, 113
-  orig: 110, 113
-  offset: 0, 0
-  index: -1
+bounds:173,884,94,97
 body
-  rotate: 270
-  xy: 2, 915
-  size: 393, 547
-  orig: 403, 547
-  offset: 0, 0
-  index: -1
+bounds:439,512,339,469
+offsets:0,0,345,469
 hair
-  rotate: 270
-  xy: 230, 158
-  size: 264, 310
-  orig: 266, 311
-  offset: 2, 0
-  index: -1
+bounds:752,191,226,266
+offsets:2,0,228,266
+rotate:270
 hair2
-  rotate: false
-  xy: 2, 191
-  size: 193, 315
-  orig: 202, 326
-  offset: 1, 1
-  index: -1
+bounds:373,249,166,271
+offsets:0,0,173,280
+rotate:90
 hair3
-  rotate: 270
-  xy: 345, 3
-  size: 185, 249
-  orig: 200, 251
-  offset: 0, 2
-  index: -1
+bounds:277,141,159,214
+offsets:0,1,171,215
+rotate:180
 hair4
-  rotate: false
-  xy: 2, 1821
-  size: 44, 176
-  orig: 64, 184
-  offset: 20, 8
-  index: -1
+bounds:922,676,38,151
+offsets:17,7,55,158
 hair5
-  rotate: false
-  xy: 2, 1295
-  size: 99, 186
-  orig: 99, 186
-  offset: 0, 0
-  index: -1
+bounds:132,18,85,160
+rotate:90
 head
-  rotate: true
-  xy: 106, 618
-  size: 331, 347
-  orig: 338, 361
-  offset: 7, 7
-  index: -1
+bounds:731,376,287,304
+offsets:3,3,290,310
 leg
-  rotate: false
-  xy: 2, 1308
-  size: 519, 709
-  orig: 533, 709
-  offset: 0, 0
-  index: -1
+bounds:6,373,448,608
+offsets:0,0,457,608
 mouth01
-  rotate: false
-  xy: 196, 1860
-  size: 130, 45
-  orig: 130, 46
-  offset: 0, 0
-  index: -1
+bounds:422,537,111,39
 mouth01_2
-  rotate: false
-  xy: 583, 55
-  size: 83, 39
-  orig: 83, 39
-  offset: 0, 0
-  index: -1
+bounds:847,948,71,33
 mouth01_3
-  rotate: false
-  xy: 566, 16
-  size: 99, 38
-  orig: 99, 55
-  offset: 0, 0
-  index: -1
+bounds:788,338,85,33
+offsets:0,0,85,47
 mouth_cx
-  rotate: false
-  xy: 495, 1843
-  size: 156, 83
-  orig: 156, 83
-  offset: 0, 0
-  index: -1
+bounds:648,324,134,71
 mouth_exin
-  rotate: false
-  xy: 535, 171
-  size: 139, 64
-  orig: 139, 64
-  offset: 0, 0
-  index: -1
+bounds:627,253,119,55
 mouth_jy
-  rotate: false
-  xy: 186, 1906
-  size: 148, 110
-  orig: 149, 112
-  offset: 0, 1
-  index: -1
+bounds:891,101,127,94
+offsets:0,1,128,96
 sb
-  rotate: false
-  xy: 441, 514
-  size: 148, 326
-  orig: 162, 354
-  offset: 0, 1
-  index: -1
+bounds:439,130,127,279
+offsets:0,1,139,303
+rotate:270
 yiling
-  rotate: false
-  xy: 519, 240
-  size: 142, 189
-  orig: 142, 189
-  offset: 0, 0
-  index: -1
+bounds:238,30,122,162
 yling
-  rotate: false
-  xy: 525, 395
-  size: 120, 181
-  orig: 120, 181
-  offset: 0, 0
-  index: -1
+bounds:348,46,103,155
+rotate:90

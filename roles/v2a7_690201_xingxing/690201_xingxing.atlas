@@ -1,174 +1,72 @@
-
 690201_xingxing.png
-size: 312,912
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,512
+filter:Linear,Linear
+scale:0.7
 zm
-  rotate: true
-  xy: 6, 149
-  size: 76, 110
-  orig: 76, 112
-  offset: 0, 2
-  index: -1
+bounds:399,308,76,109
+offsets:0,3,76,112
 zm1
-  rotate: true
-  xy: 200, 164
-  size: 61, 84
-  orig: 61, 85
-  offset: 0, 1
-  index: -1
+bounds:399,241,61,84
+offsets:0,1,61,85
+rotate:90
 zm10
-  rotate: true
-  xy: 6, 70
-  size: 37, 80
-  orig: 39, 80
-  offset: 0, 0
-  index: -1
+bounds:407,459,39,80
+rotate:90
 zm11
-  rotate: true
-  xy: 6, 8
-  size: 24, 60
-  orig: 24, 60
-  offset: 0, 0
-  index: -1
+bounds:373,6,24,60
+rotate:270
 zm12
-  rotate: true
-  xy: 238, 11
-  size: 25, 64
-  orig: 25, 64
-  offset: 0, 0
-  index: -1
+bounds:36,11,25,64
+rotate:270
 zm13
-  rotate: false
-  xy: 285, 75
-  size: 20, 83
-  orig: 20, 83
-  offset: 0, 0
-  index: -1
+bounds:318,478,20,83
+rotate:90
 zm14
-  rotate: false
-  xy: 6, 592
-  size: 214, 312
-  orig: 215, 314
-  offset: 0, 0
-  index: -1
+bounds:6,184,214,312
+offsets:0,0,215,314
+rotate:90
 zm15
-  rotate: false
-  xy: 6, 231
-  size: 244, 44
-  orig: 244, 44
-  offset: 0, 0
-  index: -1
+bounds:6,404,244,44
 zm16
-  rotate: 270
-  xy: 170, 279
-  size: 307, 123
-  orig: 307, 168
-  offset: 0, 45
-  index: -1
+bounds:6,16,307,123
+offsets:0,45,307,168
 zm17
-  rotate: false
-  xy: 122, 153
-  size: 72, 72
-  orig: 72, 72
-  offset: 0, 0
-  index: -1
+bounds:6,106,72,72
 zm18
-  rotate: true
-  xy: 6, 391
-  size: 197, 196
-  orig: 214, 196
-  offset: 1, 0
-  index: -1
+bounds:309,46,197,196
+offsets:1,0,214,196
+rotate:180
 zm19
-  rotate: true
-  xy: 226, 592
-  size: 307, 44
-  orig: 307, 44
-  offset: 0, 0
-  index: -1
+bounds:6,454,306,44
+offsets:0,0,307,44
 zm2
-  rotate: false
-  xy: 131, 8
-  size: 8, 19
-  orig: 8, 19
-  offset: 0, 0
-  index: -1
+bounds:493,479,8,19
 zm20
-  rotate: true
-  xy: 276, 592
-  size: 237, 25
-  orig: 237, 26
-  offset: 0, 0
-  index: -1
+bounds:256,423,237,25
+offsets:0,0,237,26
 zm21
-  rotate: false
-  xy: 276, 835
-  size: 28, 67
-  orig: 28, 67
-  offset: 0, 0
-  index: -1
+bounds:192,111,28,67
 zm22
-  rotate: true
-  xy: 238, 42
-  size: 27, 63
-  orig: 27, 63
-  offset: 0, 0
-  index: -1
+bounds:443,19,27,63
+rotate:90
 zm23
-  rotate: true
-  xy: 168, 18
-  size: 24, 64
-  orig: 24, 64
-  offset: 0, 0
-  index: -1
+bounds:481,353,24,64
 zm24
-  rotate: false
-  xy: 252, 343
-  size: 50, 170
-  orig: 50, 170
-  offset: 0, 0
-  index: -1
+bounds:343,247,50,170
 zm3
-  rotate: false
-  xy: 71, 8
-  size: 6, 10
-  orig: 6, 10
-  offset: 0, 0
-  index: -1
+bounds:493,463,6,10
 zm4
-  rotate: 270
-  xy: 56, 91
-  size: 56, 97
-  orig: 56, 97
-  offset: 0, 0
-  index: -1
+bounds:84,122,56,97
+rotate:90
 zm5
-  rotate: true
-  xy: 195, 100
-  size: 59, 85
-  orig: 59, 85
-  offset: 0, 0
-  index: -1
+bounds:238,93,59,85
 zm7
-  rotate: true
-  xy: 92, 43
-  size: 44, 73
-  orig: 45, 73
-  offset: 0, 0
-  index: -1
+bounds:177,22,45,73
+rotate:90
 zm8
-  rotate: 270
-  xy: 157, 59
-  size: 44, 78
-  orig: 45, 84
-  offset: 1, 0
-  index: -1
+bounds:93,26,44,78
+offsets:1,0,45,84
+rotate:90
 zm9
-  rotate: true
-  xy: 36, 28
-  size: 36, 89
-  orig: 36, 89
-  offset: 0, 0
-  index: -1
+bounds:327,29,36,89
+rotate:90
