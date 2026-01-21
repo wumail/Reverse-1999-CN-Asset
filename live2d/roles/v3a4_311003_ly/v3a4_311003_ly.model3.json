@@ -1,0 +1,264 @@
+{
+  "Version": 3,
+  "Name": "v3a4_311003_ly",
+  "FileReferences": {
+    "Moc": "v3a4_311003_ly.moc3",
+    "Textures": [
+      "textures/311003_ly_00.png",
+      "textures/311003_ly_01.png",
+      "textures/311003_ly_bloom_00.png",
+      "textures/311003_ly_bloom_01.png",
+      "textures/trail_032_hy_c.png"
+    ],
+    "DisplayInfo": null,
+    "Physics": null,
+    "Motions": {
+      "b_chuqiao": [
+        {
+          "File": "motions/b_chuqiao.motion3.json"
+        }
+      ],
+      "b_diantou": [
+        {
+          "File": "motions/b_diantou.motion3.json"
+        }
+      ],
+      "b_fuxiong": [
+        {
+          "File": "motions/b_fuxiong.motion3.json"
+        }
+      ],
+      "b_idle": [
+        {
+          "File": "motions/b_idle.motion3.json"
+        }
+      ],
+      "b_jianzhi": [
+        {
+          "File": "motions/b_jianzhi.motion3.json"
+        }
+      ],
+      "b_jiaohu_01": [
+        {
+          "File": "motions/b_jiaohu_01.motion3.json"
+        }
+      ],
+      "b_jiaohu_02": [
+        {
+          "File": "motions/b_jiaohu_02.motion3.json"
+        }
+      ],
+      "b_jiaohu_03": [
+        {
+          "File": "motions/b_jiaohu_03.motion3.json"
+        }
+      ],
+      "b_jiaohu_03_1": [
+        {
+          "File": "motions/b_jiaohu_03_1.motion3.json"
+        }
+      ],
+      "b_jiaohu_03_2": [
+        {
+          "File": "motions/b_jiaohu_03_2.motion3.json"
+        }
+      ],
+      "b_jiaohu_03_3": [
+        {
+          "File": "motions/b_jiaohu_03_3.motion3.json"
+        }
+      ],
+      "b_jiaohu_03_4": [
+        {
+          "File": "motions/b_jiaohu_03_4.motion3.json"
+        }
+      ],
+      "b_jiaohu_04": [
+        {
+          "File": "motions/b_jiaohu_04.motion3.json"
+        }
+      ],
+      "b_jiaohu_05": [
+        {
+          "File": "motions/b_jiaohu_05.motion3.json"
+        }
+      ],
+      "b_jilu": [
+        {
+          "File": "motions/b_jilu.motion3.json"
+        }
+      ],
+      "b_ruchang": [
+        {
+          "File": "motions/b_ruchang.motion3.json"
+        }
+      ],
+      "b_sikao": [
+        {
+          "File": "motions/b_sikao.motion3.json"
+        }
+      ],
+      "b_tanshou": [
+        {
+          "File": "motions/b_tanshou.motion3.json"
+        }
+      ],
+      "b_yaotou": [
+        {
+          "File": "motions/b_yaotou.motion3.json"
+        }
+      ],
+      "e_idle": [
+        {
+          "File": "motions/e_idle.motion3.json"
+        }
+      ],
+      "e_jingya": [
+        {
+          "File": "motions/e_jingya.motion3.json"
+        }
+      ],
+      "e_nanguo": [
+        {
+          "File": "motions/e_nanguo.motion3.json"
+        }
+      ],
+      "e_ningshen": [
+        {
+          "File": "motions/e_ningshen.motion3.json"
+        }
+      ],
+      "e_shengqi": [
+        {
+          "File": "motions/e_shengqi.motion3.json"
+        }
+      ],
+      "e_weixiao": [
+        {
+          "File": "motions/e_weixiao.motion3.json"
+        }
+      ],
+      "e_yansu": [
+        {
+          "File": "motions/e_yansu.motion3.json"
+        }
+      ],
+      "t_bizui": [
+        {
+          "File": "motions/t_bizui.motion3.json"
+        }
+      ],
+      "t_idle": [
+        {
+          "File": "motions/t_idle.motion3.json"
+        }
+      ],
+      "t_jingya": [
+        {
+          "File": "motions/t_jingya.motion3.json"
+        }
+      ],
+      "t_jingya_bizui": [
+        {
+          "File": "motions/t_jingya_bizui.motion3.json"
+        }
+      ],
+      "t_nanguo": [
+        {
+          "File": "motions/t_nanguo.motion3.json"
+        }
+      ],
+      "t_nanguo_bizui": [
+        {
+          "File": "motions/t_nanguo_bizui.motion3.json"
+        }
+      ],
+      "t_ningshen": [
+        {
+          "File": "motions/t_ningshen.motion3.json"
+        }
+      ],
+      "t_ningshen_bizui": [
+        {
+          "File": "motions/t_ningshen_bizui.motion3.json"
+        }
+      ],
+      "t_shengqi": [
+        {
+          "File": "motions/t_shengqi.motion3.json"
+        }
+      ],
+      "t_shengqi_bizui": [
+        {
+          "File": "motions/t_shengqi_bizui.motion3.json"
+        }
+      ],
+      "t_weixiao": [
+        {
+          "File": "motions/t_weixiao.motion3.json"
+        }
+      ],
+      "t_weixiao_bizui": [
+        {
+          "File": "motions/t_weixiao_bizui.motion3.json"
+        }
+      ],
+      "t_yansu": [
+        {
+          "File": "motions/t_yansu.motion3.json"
+        }
+      ],
+      "t_yansu_bizui": [
+        {
+          "File": "motions/t_yansu_bizui.motion3.json"
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "e_yansu",
+        "File": "expressions/e_yansu.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_weixiao",
+        "File": "expressions/e_weixiao.exp3.json"
+      },
+      {
+        "Name": "e_ningshen",
+        "File": "expressions/e_ningshen.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_jingya",
+        "File": "expressions/e_jingya.exp3.json"
+      },
+      {
+        "Name": "e_nanguo",
+        "File": "expressions/e_nanguo.exp3.json"
+      }
+    ]
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "Version": 3,
+  "Name": "v3a4_566201_msssyp",
+  "FileReferences": {
+    "Moc": "v3a4_566201_msssyp.moc3",
+    "Textures": [
+      "textures/566201_msssyp_00.png"
+    ],
+    "DisplayInfo": null,
+    "Physics": null,
+    "Motions": {
+      "b_idle": [
+        {
+          "File": "motions/b_idle.motion3.json"
+        }
+      ],
+      "b_idle1": [
+        {
+          "File": "motions/b_idle1.motion3.json"
+        }
+      ],
+      "b_idle2": [
+        {
+          "File": "motions/b_idle2.motion3.json"
+        }
+      ],
+      "b_qidai": [
+        {
+          "File": "motions/b_qidai.motion3.json"
+        }
+      ],
+      "b_touxiao": [
+        {
+          "File": "motions/b_touxiao.motion3.json"
+        }
+      ],
+      "b_tuixiao": [
+        {
+          "File": "motions/b_tuixiao.motion3.json"
+        }
+      ],
+      "t_bizui": [
+        {
+          "File": "motions/t_bizui.motion3.json"
+        }
+      ],
+      "t_idle1": [
+        {
+          "File": "motions/t_idle1.motion3.json"
+        }
+      ],
+      "t_idle2": [
+        {
+          "File": "motions/t_idle2.motion3.json"
+        }
+      ],
+      "t_tuixiao": [
+        {
+          "File": "motions/t_tuixiao.motion3.json"
+        }
+      ],
+      "t_tuixiao_bizui": [
+        {
+          "File": "motions/t_tuixiao_bizui.motion3.json"
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      }
+    ]
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen2",
+        "ParamEyeLOpen",
+        "ParamEyeROpen2"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY2",
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}
