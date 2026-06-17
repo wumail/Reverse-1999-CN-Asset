@@ -1,0 +1,126 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 13.117,
+    "Fps": 30.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 1.0,
+    "FadeOutTime": 1.0,
+    "CurveCount": 5,
+    "TotalSegmentCount": 20,
+    "TotalPointCount": 20,
+    "UserDataCount": 0,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm2",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        13.117,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm3",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        13.117,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param4",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        -1,
+        0,
+        9,
+        -1,
+        0,
+        13.117,
+        -1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthOpenY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        9,
+        0,
+        0,
+        9.217,
+        1,
+        0,
+        9.367,
+        0,
+        0,
+        10.05,
+        0,
+        0,
+        10.117,
+        1,
+        0,
+        10.25,
+        0.6,
+        0,
+        10.4,
+        1,
+        0,
+        10.517,
+        0,
+        0,
+        10.583,
+        0.7,
+        0,
+        11.15,
+        0,
+        0,
+        13.117,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthA",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        10.6,
+        0,
+        0,
+        10.85,
+        10,
+        0,
+        11.183,
+        0,
+        0,
+        13.117,
+        0
+      ]
+    }
+  ],
+  "UserData": []
+}

@@ -1,0 +1,176 @@
+{
+  "Version": 3,
+  "Name": "v3a5_313901_llzhd",
+  "FileReferences": {
+    "Moc": "v3a5_313901_llzhd.moc3",
+    "Textures": [
+      "textures/313901_llzhd_00.png",
+      "textures/313901_llzhd_01.png",
+      "textures/noise_014_xz.png",
+      "textures/noise_031_xz.png",
+      "textures/noise_12302_dzx.png",
+      "textures/noise_197_xl.png",
+      "textures/object_12301_dzx.png",
+      "textures/trail_0102_xz.png",
+      "textures/trail_014_tps.png",
+      "textures/trail_12301_dzx.png",
+      "textures/trail_176_hl.png"
+    ],
+    "DisplayInfo": null,
+    "Physics": null,
+    "Motions": {
+      "b_diantou": [
+        {
+          "File": "motions/b_diantou.motion3.json"
+        }
+      ],
+      "b_idle": [
+        {
+          "File": "motions/b_idle.motion3.json"
+        }
+      ],
+      "b_shoutao": [
+        {
+          "File": "motions/b_shoutao.motion3.json"
+        }
+      ],
+      "b_sikao": [
+        {
+          "File": "motions/b_sikao.motion3.json"
+        }
+      ],
+      "b_taishou": [
+        {
+          "File": "motions/b_taishou.motion3.json"
+        }
+      ],
+      "b_taishou2": [
+        {
+          "File": "motions/b_taishou2.motion3.json"
+        }
+      ],
+      "b_taishou3": [
+        {
+          "File": "motions/b_taishou3.motion3.json"
+        }
+      ],
+      "b_xia": [
+        {
+          "File": "motions/b_xia.motion3.json"
+        }
+      ],
+      "b_xia2": [
+        {
+          "File": "motions/b_xia2.motion3.json"
+        }
+      ],
+      "b_yaotou": [
+        {
+          "File": "motions/b_yaotou.motion3.json"
+        }
+      ],
+      "t_bizui": [
+        {
+          "File": "motions/t_bizui.motion3.json"
+        }
+      ],
+      "t_buyue": [
+        {
+          "File": "motions/t_buyue.motion3.json"
+        }
+      ],
+      "t_buyue_bizui": [
+        {
+          "File": "motions/t_buyue_bizui.motion3.json"
+        }
+      ],
+      "t_chijing": [
+        {
+          "File": "motions/t_chijing.motion3.json"
+        }
+      ],
+      "t_chijing_bizui": [
+        {
+          "File": "motions/t_chijing_bizui.motion3.json"
+        }
+      ],
+      "t_idle": [
+        {
+          "File": "motions/t_idle.motion3.json"
+        }
+      ],
+      "t_jiaxiao": [
+        {
+          "File": "motions/t_jiaxiao.motion3.json"
+        }
+      ],
+      "t_jiaxiao_bizui": [
+        {
+          "File": "motions/t_jiaxiao_bizui.motion3.json"
+        }
+      ],
+      "t_xuruo": [
+        {
+          "File": "motions/t_xuruo.motion3.json"
+        }
+      ],
+      "t_xuruo_bizui": [
+        {
+          "File": "motions/t_xuruo_bizui.motion3.json"
+        }
+      ],
+      "t_yuyue": [
+        {
+          "File": "motions/t_yuyue.motion3.json"
+        }
+      ],
+      "t_yuyue_bizui": [
+        {
+          "File": "motions/t_yuyue_bizui.motion3.json"
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "e_xuruo",
+        "File": "expressions/e_xuruo.exp3.json"
+      },
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_jiaxiao",
+        "File": "expressions/e_jiaxiao.exp3.json"
+      },
+      {
+        "Name": "e_yuyue",
+        "File": "expressions/e_yuyue.exp3.json"
+      },
+      {
+        "Name": "e_buyue",
+        "File": "expressions/e_buyue.exp3.json"
+      }
+    ]
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}
