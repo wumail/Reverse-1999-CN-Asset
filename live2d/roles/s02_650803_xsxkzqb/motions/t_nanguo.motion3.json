@@ -1,0 +1,138 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 1.633,
+    "Fps": 30.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 1.0,
+    "FadeOutTime": 1.0,
+    "CurveCount": 6,
+    "TotalSegmentCount": 18,
+    "TotalPointCount": 22,
+    "UserDataCount": 0,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "Param74",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        0,
+        1.633,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param75",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        0,
+        1.633,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        1,
+        0,
+        0.2,
+        -1,
+        0,
+        0.4,
+        -1,
+        0,
+        0.6,
+        -1,
+        0,
+        1,
+        -0.6,
+        0,
+        1.3,
+        -0.6,
+        0,
+        1.633,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthOpenY",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0.084,
+        0,
+        0.2,
+        0.3,
+        0,
+        0.4,
+        0,
+        1,
+        0.478,
+        0,
+        0.555,
+        0.081,
+        0.633,
+        0.204,
+        1,
+        0.666,
+        0.256,
+        0.7,
+        0.268,
+        0.733,
+        0.268,
+        0,
+        1,
+        0,
+        0,
+        1.3,
+        0.3,
+        0,
+        1.633,
+        0.084
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param79",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        1.633,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param80",
+      "FadeInTime": -1.0,
+      "FadeOutTime": -1.0,
+      "Segments": [
+        0,
+        0,
+        0,
+        1.633,
+        0
+      ]
+    }
+  ],
+  "UserData": []
+}

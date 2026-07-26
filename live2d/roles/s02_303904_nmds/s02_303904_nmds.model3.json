@@ -1,0 +1,177 @@
+{
+  "Version": 3,
+  "Name": "s02_303904_nmds",
+  "FileReferences": {
+    "Moc": "s02_303904_nmds.moc3",
+    "Textures": [
+      "textures/303904_nmds_00_bloom.png",
+      "textures/303904_nmds_00.png",
+      "textures/303904_nmds_01_bloom.png",
+      "textures/303904_nmds_01.png",
+      "textures/glow_011_tps_yc.png",
+      "textures/noise_021_zn.png",
+      "textures/par_004_tps.png"
+    ],
+    "DisplayInfo": null,
+    "Physics": null,
+    "Motions": {
+      "b_dahaqian": [
+        {
+          "File": "motions/b_dahaqian.motion3.json"
+        }
+      ],
+      "b_daiyanjing": [
+        {
+          "File": "motions/b_daiyanjing.motion3.json"
+        }
+      ],
+      "b_diantou": [
+        {
+          "File": "motions/b_diantou.motion3.json"
+        }
+      ],
+      "b_guzhang": [
+        {
+          "File": "motions/b_guzhang.motion3.json"
+        }
+      ],
+      "b_idle": [
+        {
+          "File": "motions/b_idle.motion3.json"
+        }
+      ],
+      "b_kaiji": [
+        {
+          "File": "motions/b_kaiji.motion3.json"
+        }
+      ],
+      "b_sikao": [
+        {
+          "File": "motions/b_sikao.motion3.json"
+        }
+      ],
+      "b_tushoulei": [
+        {
+          "File": "motions/b_tushoulei.motion3.json"
+        }
+      ],
+      "b_yaotou": [
+        {
+          "File": "motions/b_yaotou.motion3.json"
+        }
+      ],
+      "t_bizui": [
+        {
+          "File": "motions/t_bizui.motion3.json"
+        }
+      ],
+      "t_chijing": [
+        {
+          "File": "motions/t_chijing.motion3.json"
+        }
+      ],
+      "t_chijing_bizui": [
+        {
+          "File": "motions/t_chijing_bizui.motion3.json"
+        }
+      ],
+      "t_dahaqian": [
+        {
+          "File": "motions/t_dahaqian.motion3.json"
+        }
+      ],
+      "t_deyi": [
+        {
+          "File": "motions/t_deyi.motion3.json"
+        }
+      ],
+      "t_deyi_bizui": [
+        {
+          "File": "motions/t_deyi_bizui.motion3.json"
+        }
+      ],
+      "t_idle": [
+        {
+          "File": "motions/t_idle.motion3.json"
+        }
+      ],
+      "t_kunjuan": [
+        {
+          "File": "motions/t_kunjuan.motion3.json"
+        }
+      ],
+      "t_kunjuan_bizui": [
+        {
+          "File": "motions/t_kunjuan_bizui.motion3.json"
+        }
+      ],
+      "t_shengqi": [
+        {
+          "File": "motions/t_shengqi.motion3.json"
+        }
+      ],
+      "t_shengqi_bizui": [
+        {
+          "File": "motions/t_shengqi_bizui.motion3.json"
+        }
+      ],
+      "t_yihuo": [
+        {
+          "File": "motions/t_yihuo.motion3.json"
+        }
+      ],
+      "t_yihuo_bizui": [
+        {
+          "File": "motions/t_yihuo_bizui.motion3.json"
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "e_chijing",
+        "File": "expressions/e_chijing.exp3.json"
+      },
+      {
+        "Name": "e_kunjuan",
+        "File": "expressions/e_kunjuan.exp3.json"
+      },
+      {
+        "Name": "e_shengqi",
+        "File": "expressions/e_shengqi.exp3.json"
+      },
+      {
+        "Name": "e_dahaqian",
+        "File": "expressions/e_dahaqian.exp3.json"
+      },
+      {
+        "Name": "e_deyi",
+        "File": "expressions/e_deyi.exp3.json"
+      },
+      {
+        "Name": "e_idle",
+        "File": "expressions/e_idle.exp3.json"
+      },
+      {
+        "Name": "e_yihuo",
+        "File": "expressions/e_yihuo.exp3.json"
+      }
+    ]
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}
